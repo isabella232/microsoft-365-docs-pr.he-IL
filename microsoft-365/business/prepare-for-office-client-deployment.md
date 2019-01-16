@@ -18,10 +18,10 @@ search.appverid:
 ms.assetid: ed34fff3-2881-4ed4-9906-1ba6bb8dd804
 description: למד כיצד להתקין את יישומי Office של 32 סיביות במחשבים Windows 10 וכיצד במצב עדכני.
 ms.openlocfilehash: 16a8230d60157f1c6731ac639d89533b05aa3afe
-ms.sourcegitcommit: eb1a77e4cc4e8f564a1c78d2ef53d7245fe4517a
+ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/28/2018
+ms.lasthandoff: 01/16/2019
 ms.locfileid: "26982154"
 ---
 # <a name="prepare-for-office-client-deployment-by-microsoft-365-business"></a>הכנה לפריסת לקוח של Office על-ידי Microsoft 365 Business

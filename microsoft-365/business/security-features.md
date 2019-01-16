@@ -16,11 +16,11 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: למד אודות תכונות אבטחה הכלולים ב- Microsoft 365 עסקיים.
-ms.openlocfilehash: bfddb419dbe5db441741a73ecb49e3d52649e382
-ms.sourcegitcommit: eb1a77e4cc4e8f564a1c78d2ef53d7245fe4517a
+ms.openlocfilehash: 17bcc57d57e837f18b05f66cfd54185324f3cad8
+ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/28/2018
+ms.lasthandoff: 01/16/2019
 ms.locfileid: "26983174"
 ---
 # <a name="microsoft-365-business-security-features"></a>תכונות האבטחה של Microsoft 365 עסקית
@@ -130,11 +130,9 @@ Microsoft 365 שעסק מציע תכונות אבטחה פשוטה כדי לסי
 
 כדי לוודא ש- AIP מופעל:
 
-1. להיכנס אל [מרכז הניהוליים תכלת הרקיע Active Directory](https://portal.azure.com/).
+1. להיכנס אל [פורטל תכלת הרקיע](https://portal.azure.com/).
 
-    באפשרותך גם שרים על-ידי איתור **ניהול מרכזי** \> **תכלת הרקיע Active Directory** ב- nav השמאלי במרכז admin.
-
-2. בחר **כל השירותים** ואת tyoe *הגנת מידע תכלת הרקיע* **בתיבת החיפוש**.
+2. בחר **כל השירותים** ואת סוג *הגנת מידע תכלת הרקיע* **בתיבת החיפוש**.
 
 3. לאחר הצגת התוצאות, לחץ על התחל הבא על **הגנת מידע תכלת הרקיע** כדי להפוך אותו פריט מועדף וקל למצוא במועד מאוחר יותר.
 
@@ -144,7 +142,7 @@ Microsoft 365 שעסק מציע תכונות אבטחה פשוטה כדי לסי
 
 כדי להציג ולשנות, הקיימים תוויות:
 
-1. בלוח המחוונים הגנת מידע תכלת הרקיע, בחר **סיווגים** \> * * תוויות. <br/>![תוויות סטנדרטיות להגנת מידע תכלת הרקיע.](media/AIPLabels.png)
+1. בלוח המחוונים הגנת מידע תכלת הרקיע, בחר **סיווגים** \> **תוויות**. <br/>![תוויות סטנדרטיות להגנת מידע תכלת הרקיע.](media/AIPLabels.png)
 
 2. באפשרותך לבחור תווית כלשהי כדי להציג אפשרויות, באפשרותך לשנות את שם התצוגה, צבעים, וכו '.
  
@@ -159,6 +157,16 @@ Microsoft 365 שעסק מציע תכונות אבטחה פשוטה כדי לסי
 2. באפשרותך לוודא ההתקנה פעלה על-ידי הצגת מסמך Word ובדיקה כי האפשרות **הגנה** זמינה בכרטיסיה **בית** . <br/>![הכרטיסיה הגנה הנפתחת במסמך Word.](media/Word_Protect.png)
 
 לקבלת מידע נוסף, ראה [התקנת הלקוח](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3)
+
+## <a name="go-to-intune-admin-center"></a>עבור אל מרכז ניהול Intune
+
+1. להיכנס אל [פורטל תכלת הרקיע](https://portal.azure.com/).
+
+2. בחר **כל השירותים** ואת סוג *Intune* **בתיבת החיפוש**.
+
+3. לאחר הצגת התוצאות, לחץ על התחל הבא כדי **Microsoft Intune** כדי להפוך אותו פריט מועדף וקל למצוא במועד מאוחר יותר.
+ 
+באפשרותך להשתמש Intune הרשמה ולניהול של ההתקנים של הארגון שלך. לקבלת מידע נוסף, ראה [יכולות בשיטה הרשמה עבור התקני Windows](https://docs.microsoft.com/intune/enrollment-method-capabs) ואפשרויות [הרשמה עבור התקנים מנוהל על-ידי Intune](https://docs.microsoft.com/intune/enrollment-options).
     
 ## <a name="faq"></a>שאלות נפוצות
 
@@ -174,15 +182,4 @@ Microsoft 365 שעסק מציע תכונות אבטחה פשוטה כדי לסי
     
     ![נווט שמאלה במרכז הניהול של Microsoft 365, בחר ניהול מרכזי.](media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
-3. בחר **אבטחה &amp; תאימות** כדי לעבור אל אבטחה &amp; מרכז תאימות. 
-    
- ### <a name="how-do-i-find-the-intune-admin-center"></a>כיצד למצוא את מרכז admin Intune?
-  
-  
-1. [להיכנס לעסק 365 Microsoft](https://portal.microsoft.com/) באמצעות אישורי הניהול שלך. 
-    
-2. ב- nav השמאלי, אתר **ניהול מרכזי** והרחב אותו. 
-    
-3. בחר **Intune** כדי לעבור אל מרכז ניהול Intune. 
-    
-
+3. בחר **אבטחה &amp; תאימות** כדי לעבור אל אבטחה &amp; מרכז תאימות.
