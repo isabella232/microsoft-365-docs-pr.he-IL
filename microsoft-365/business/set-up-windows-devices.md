@@ -17,97 +17,97 @@ search.appverid:
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: 'למד כיצד להגדיר התקני Windows פועל Windows 10 Pro עבור משתמשים עסקיים 365 של Microsoft. '
 ms.openlocfilehash: 482199b175c568bfae420619aa02024303894789
-ms.sourcegitcommit: eb1a77e4cc4e8f564a1c78d2ef53d7245fe4517a
+ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/28/2018
+ms.lasthandoff: 01/16/2019
 ms.locfileid: "26982854"
 ---
-# <a name="set-up-windows-devices-for-microsoft-365-business-users"></a><span data-ttu-id="55bbc-103">הגדרת מכשירי Windows עבור משתמשים של Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="55bbc-103">Set up Windows devices for Microsoft 365 Business users</span></span>
+# <a name="set-up-windows-devices-for-microsoft-365-business-users"></a><span data-ttu-id="48cfb-103">הגדרת מכשירי Windows עבור משתמשים של Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="48cfb-103">Set up Windows devices for Microsoft 365 Business users</span></span>
 
-## <a name="prerequisites"></a><span data-ttu-id="55bbc-104">דרישות מוקדמות</span><span class="sxs-lookup"><span data-stu-id="55bbc-104">Prerequisites</span></span>
+## <a name="prerequisites"></a><span data-ttu-id="48cfb-104">דרישות מוקדמות</span><span class="sxs-lookup"><span data-stu-id="48cfb-104">Prerequisites</span></span>
 
-<span data-ttu-id="55bbc-p101">לפני שתוכל להגדיר מכשירי Windows עבור משתמשי Microsoft 365 Business, ודא שבכל מכשירי Windows פועלת מהדורה 1703 של Windows 10 Pro (העדכון ליוצרים). Windows 10 Pro מהווה דרישה מוקדמת לפריסת Windows 10 Business, שהוא קבוצה של שירותי ענן ויכולות ניהול מכשירים שמשלימות את Windows 10 Pro ומאפשרות את ההפעלה של הניהול המרכזי ובקרות האבטחה של Microsoft 365 Business.</span><span class="sxs-lookup"><span data-stu-id="55bbc-p101">Before you can set up Windows devices for Microsoft 365 Business users, make sure all the Windows devices are running Windows 10 Pro, version 1703 (Creators Update). Windows 10 Pro is a prerequisite for deploying Windows 10 Business, which is a set of cloud services and device management capabilities that complement Windows 10 Pro and enable the centralized management and security controls of Microsoft 365 Business.</span></span>
+<span data-ttu-id="48cfb-p101">לפני שתוכל להגדיר מכשירי Windows עבור משתמשי Microsoft 365 Business, ודא שבכל מכשירי Windows פועלת מהדורה 1703 של Windows 10 Pro (העדכון ליוצרים). Windows 10 Pro מהווה דרישה מוקדמת לפריסת Windows 10 Business, שהוא קבוצה של שירותי ענן ויכולות ניהול מכשירים שמשלימות את Windows 10 Pro ומאפשרות את ההפעלה של הניהול המרכזי ובקרות האבטחה של Microsoft 365 Business.</span><span class="sxs-lookup"><span data-stu-id="48cfb-p101">Before you can set up Windows devices for Microsoft 365 Business users, make sure all the Windows devices are running Windows 10 Pro, version 1703 (Creators Update). Windows 10 Pro is a prerequisite for deploying Windows 10 Business, which is a set of cloud services and device management capabilities that complement Windows 10 Pro and enable the centralized management and security controls of Microsoft 365 Business.</span></span>
   
-<span data-ttu-id="55bbc-107">אם יש לך מכשיר Windows עם Windows 7 Pro, ‏Windows 8 Pro או Windows 8.1 Pro, מנוי Microsoft 365 Business שלך מזכה אותך בשדרוג ל- Windows 10.</span><span class="sxs-lookup"><span data-stu-id="55bbc-107">If you have Windows devices running Windows 7 Pro, Windows 8 Pro, or Windows 8.1 Pro, your Microsoft 365 Business subscription entitles you to a Windows 10 upgrade.</span></span>
+<span data-ttu-id="48cfb-107">אם יש לך מכשיר Windows עם Windows 7 Pro, ‏Windows 8 Pro או Windows 8.1 Pro, מנוי Microsoft 365 Business שלך מזכה אותך בשדרוג ל- Windows 10.</span><span class="sxs-lookup"><span data-stu-id="48cfb-107">If you have Windows devices running Windows 7 Pro, Windows 8 Pro, or Windows 8.1 Pro, your Microsoft 365 Business subscription entitles you to a Windows 10 upgrade.</span></span>
   
-<span data-ttu-id="55bbc-108">לקבלת מידע נוסף על שדרוג מכשירי Windows לעדכון Windows 10 ליוצרים, פעל לפי השלבים בנושא זה: [שדרוג מכשירי Windows לעדכון Windows Pro ליוצרים](upgrade-to-windows-pro-creators-update.md).</span><span class="sxs-lookup"><span data-stu-id="55bbc-108">For more information on how to upgrade Windows devices to Windows 10 Pro Creators Update, follow the steps in this topic: [Upgrade Windows devices to Windows Pro Creators Update](upgrade-to-windows-pro-creators-update.md).</span></span>
+<span data-ttu-id="48cfb-108">לקבלת מידע נוסף על שדרוג מכשירי Windows לעדכון Windows 10 ליוצרים, פעל לפי השלבים בנושא זה: [שדרוג מכשירי Windows לעדכון Windows Pro ליוצרים](upgrade-to-windows-pro-creators-update.md).</span><span class="sxs-lookup"><span data-stu-id="48cfb-108">For more information on how to upgrade Windows devices to Windows 10 Pro Creators Update, follow the steps in this topic: [Upgrade Windows devices to Windows Pro Creators Update](upgrade-to-windows-pro-creators-update.md).</span></span>
   
-<span data-ttu-id="55bbc-109">ראה [אימות שהמכשיר משודרג ל- Windows 10 Business](set-up-windows-devices.md#bkmk_verifywin10) כדי לאמת שביצעת את השדרוג, או כדי לוודא שהשדרוג עבד.</span><span class="sxs-lookup"><span data-stu-id="55bbc-109">See [Verify the device is upgraded to Windows 10 Business](set-up-windows-devices.md#bkmk_verifywin10) to verify you have the upgrade, or to make sure the upgrade worked.</span></span> 
+<span data-ttu-id="48cfb-109">ראה [אימות שהמכשיר משודרג ל- Windows 10 Business](set-up-windows-devices.md#bkmk_verifywin10) כדי לאמת שביצעת את השדרוג, או כדי לוודא שהשדרוג עבד.</span><span class="sxs-lookup"><span data-stu-id="48cfb-109">See [Verify the device is upgraded to Windows 10 Business](set-up-windows-devices.md#bkmk_verifywin10) to verify you have the upgrade, or to make sure the upgrade worked.</span></span> 
   
-## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a><span data-ttu-id="55bbc-110">צירוף מכשירי Windows 10 ל- Azure AD של הארגון שלך</span><span class="sxs-lookup"><span data-stu-id="55bbc-110">Join Windows 10 devices to your organization's Azure AD</span></span>
+## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a><span data-ttu-id="48cfb-110">צירוף מכשירי Windows 10 ל- Azure AD של הארגון שלך</span><span class="sxs-lookup"><span data-stu-id="48cfb-110">Join Windows 10 devices to your organization's Azure AD</span></span>
 
-<span data-ttu-id="55bbc-p102">לאחר השדרוג של כל מכשירי Windows בארגון לעדכון Windows 10 Pro ליוצרים, או אם המכשירים כבר פועלים עם עדכון Windows 10 Pro ליוצרים, ניתן לצרף מכשירים אלה ל- Azure Active Directory של הארגון. לאחר צירוף המכשירים, הם ישודרגו באופן אוטומטי ל- Windows 10 Business, המהווה חלק ממנוי Microsoft 365 Business.</span><span class="sxs-lookup"><span data-stu-id="55bbc-p102">Once all Windows devices in your organization have either been upgraded to Windows 10 Pro Creators Update or are already running Windows 10 Pro Creators Update, you can join these devices to your organization's Azure Active Directory. Once the devices are joined, they will automatically be upgraded to Windows 10 Business, which is part of your Microsoft 365 Business subscription.</span></span>
+<span data-ttu-id="48cfb-p102">לאחר השדרוג של כל מכשירי Windows בארגון לעדכון Windows 10 Pro ליוצרים, או אם המכשירים כבר פועלים עם עדכון Windows 10 Pro ליוצרים, ניתן לצרף מכשירים אלה ל- Azure Active Directory של הארגון. לאחר צירוף המכשירים, הם ישודרגו באופן אוטומטי ל- Windows 10 Business, המהווה חלק ממנוי Microsoft 365 Business.</span><span class="sxs-lookup"><span data-stu-id="48cfb-p102">Once all Windows devices in your organization have either been upgraded to Windows 10 Pro Creators Update or are already running Windows 10 Pro Creators Update, you can join these devices to your organization's Azure Active Directory. Once the devices are joined, they will automatically be upgraded to Windows 10 Business, which is part of your Microsoft 365 Business subscription.</span></span>
   
-### <a name="for-a-brand-new-or-newly-upgraded-windows-10-pro-device"></a><span data-ttu-id="55bbc-113">עבור מכשיר Windows 10 Pro חדש לגמרי או ששודרג לאחרונה</span><span class="sxs-lookup"><span data-stu-id="55bbc-113">For a brand new, or newly upgraded, Windows 10 Pro device</span></span>
+### <a name="for-a-brand-new-or-newly-upgraded-windows-10-pro-device"></a><span data-ttu-id="48cfb-113">עבור מכשיר Windows 10 Pro חדש לגמרי או ששודרג לאחרונה</span><span class="sxs-lookup"><span data-stu-id="48cfb-113">For a brand new, or newly upgraded, Windows 10 Pro device</span></span>
 
-<span data-ttu-id="55bbc-114">עבור מכשיר חדש לגמרי שעדכון Windows 10 Pro ליוצרים פועל בו, או עבור מכשיר ששודרג לעדכון Windows 10 Pro ליוצרים אך לא הוגדר ל- Windows 10, בצע את השלבים הבאים.</span><span class="sxs-lookup"><span data-stu-id="55bbc-114">For a brand new device running Windows 10 Pro Creators Update, or for a device that was upgraded to Windows 10 Pro Creators Update but has not gone through Windows 10 device setup, follow these steps.</span></span>
+<span data-ttu-id="48cfb-114">עבור מכשיר חדש לגמרי שעדכון Windows 10 Pro ליוצרים פועל בו, או עבור מכשיר ששודרג לעדכון Windows 10 Pro ליוצרים אך לא הוגדר ל- Windows 10, בצע את השלבים הבאים.</span><span class="sxs-lookup"><span data-stu-id="48cfb-114">For a brand new device running Windows 10 Pro Creators Update, or for a device that was upgraded to Windows 10 Pro Creators Update but has not gone through Windows 10 device setup, follow these steps.</span></span>
   
-1. <span data-ttu-id="55bbc-115">עבור על פרטי ההגדרה של מכשיר Windows 10 עד שתגיע לעמוד **כיצד ברצונך להגדיר?**.</span><span class="sxs-lookup"><span data-stu-id="55bbc-115">Go through Windows 10 device setup until you get to the **How would you like to set up?** page.</span></span> 
+1. <span data-ttu-id="48cfb-115">עבור על פרטי ההגדרה של מכשיר Windows 10 עד שתגיע לעמוד **כיצד ברצונך להגדיר?**.</span><span class="sxs-lookup"><span data-stu-id="48cfb-115">Go through Windows 10 device setup until you get to the **How would you like to set up?** page.</span></span> 
     
     ![On the How would you like to set up page, choose Set up for an organization](media/1b0b2dba-00bb-4a99-a729-441479220cb7.png)
   
-2. <span data-ttu-id="55bbc-117">כאן, בחר **הגדרה עבור ארגון** ולאחר מכן הזן את שם המשתמש והסיסמה שלך עבור Microsoft 365 Business.</span><span class="sxs-lookup"><span data-stu-id="55bbc-117">Here, choose **Set up for an organization** and then enter your username and password for Microsoft 365 Business.</span></span> 
+2. <span data-ttu-id="48cfb-117">כאן, בחר **הגדרה עבור ארגון** ולאחר מכן הזן את שם המשתמש והסיסמה שלך עבור Microsoft 365 Business.</span><span class="sxs-lookup"><span data-stu-id="48cfb-117">Here, choose **Set up for an organization** and then enter your username and password for Microsoft 365 Business.</span></span> 
     
-3. <span data-ttu-id="55bbc-118">סיים את הגדרת מכשיר Windows 10.</span><span class="sxs-lookup"><span data-stu-id="55bbc-118">Finish Windows 10 device setup.</span></span>
+3. <span data-ttu-id="48cfb-118">סיים את הגדרת מכשיר Windows 10.</span><span class="sxs-lookup"><span data-stu-id="48cfb-118">Finish Windows 10 device setup.</span></span>
     
-   <span data-ttu-id="55bbc-p103">כשתסיים, המשתמש יהיה מחובר ל- Azure AD של הארגון שלך. ראה [אימות שהמכשיר מחובר ל- Azure AD](set-up-windows-devices.md#bkmk_verifyaad) כדי לוודא.</span><span class="sxs-lookup"><span data-stu-id="55bbc-p103">Once you're done, the user will be connected to your organization's Azure AD. See [Verify the device is connected to Azure AD](set-up-windows-devices.md#bkmk_verifyaad) to make sure.</span></span> 
+   <span data-ttu-id="48cfb-p103">כשתסיים, המשתמש יהיה מחובר ל- Azure AD של הארגון שלך. ראה [אימות שהמכשיר מחובר ל- Azure AD](set-up-windows-devices.md#bkmk_verifyaad) כדי לוודא.</span><span class="sxs-lookup"><span data-stu-id="48cfb-p103">Once you're done, the user will be connected to your organization's Azure AD. See [Verify the device is connected to Azure AD](set-up-windows-devices.md#bkmk_verifyaad) to make sure.</span></span> 
   
-### <a name="for-a-device-already-set-up-and-running-windows-10-pro"></a><span data-ttu-id="55bbc-121">עבור מכשיר שכבר מוגדר וש- Windows 10 Pro פועל בו</span><span class="sxs-lookup"><span data-stu-id="55bbc-121">For a device already set up and running Windows 10 Pro</span></span>
+### <a name="for-a-device-already-set-up-and-running-windows-10-pro"></a><span data-ttu-id="48cfb-121">עבור מכשיר שכבר מוגדר וש- Windows 10 Pro פועל בו</span><span class="sxs-lookup"><span data-stu-id="48cfb-121">For a device already set up and running Windows 10 Pro</span></span>
 
- <span data-ttu-id="55bbc-122">**חיבור משתמשים ל- Azure AD:**</span><span class="sxs-lookup"><span data-stu-id="55bbc-122">**Connect users to Azure AD:**</span></span>
+ <span data-ttu-id="48cfb-122">**חיבור משתמשים ל- Azure AD:**</span><span class="sxs-lookup"><span data-stu-id="48cfb-122">**Connect users to Azure AD:**</span></span>
   
-1. <span data-ttu-id="55bbc-123">במחשב ה- Windows של המשתמש שלך, שפועל בו Windows 10 Pro, גירסה 1703 (עדכון ליוצרים) (ראה [דרישות מוקדמות](pre-requisites-for-data-protection.md)), לחץ על סמל Windows ולאחר מכן על סמל 'הגדרות'.</span><span class="sxs-lookup"><span data-stu-id="55bbc-123">In your user's Windows PC, that is running Windows 10 Pro, version 1703 (Creators Update) (see [pre-requisites](pre-requisites-for-data-protection.md)), click the Windows logo, and then the Settings icon.</span></span>
+1. <span data-ttu-id="48cfb-123">במחשב ה- Windows של המשתמש שלך, שפועל בו Windows 10 Pro, גירסה 1703 (עדכון ליוצרים) (ראה [דרישות מוקדמות](pre-requisites-for-data-protection.md)), לחץ על סמל Windows ולאחר מכן על סמל 'הגדרות'.</span><span class="sxs-lookup"><span data-stu-id="48cfb-123">In your user's Windows PC, that is running Windows 10 Pro, version 1703 (Creators Update) (see [pre-requisites](pre-requisites-for-data-protection.md)), click the Windows logo, and then the Settings icon.</span></span>
   
    ![In the Start menu, click Windows Settings icon](media/74e1ce9a-1554-4761-beb9-330b176e9b9d.png)
   
-2. <span data-ttu-id="55bbc-125">ב **הגדרות**, עבור אל **חשבונות**.</span><span class="sxs-lookup"><span data-stu-id="55bbc-125">In **Settings**, go to **Accounts**.</span></span>
+2. <span data-ttu-id="48cfb-125">ב **הגדרות**, עבור אל **חשבונות**.</span><span class="sxs-lookup"><span data-stu-id="48cfb-125">In **Settings**, go to **Accounts**.</span></span>
   
    ![In Windows Settings, go to Accounts](media/472fd688-d111-4788-9fbb-56a00fbdc24d.png)
   
-3. <span data-ttu-id="55bbc-127">בדף **המידע שלך**, לחץ על **גישה לחשבון עבודה או בית ספר** \> **התחבר**.</span><span class="sxs-lookup"><span data-stu-id="55bbc-127">On **Your info** page, click **Access work or school** \> **Connect**.</span></span>
+3. <span data-ttu-id="48cfb-127">בדף **המידע שלך**, לחץ על **גישה לחשבון עבודה או בית ספר** \> **התחבר**.</span><span class="sxs-lookup"><span data-stu-id="48cfb-127">On **Your info** page, click **Access work or school** \> **Connect**.</span></span>
   
    ![Choose Connect under Access work or school](media/af3a4e3f-f9b9-4969-b3e2-4ef99308090c.png)
   
-4. <span data-ttu-id="55bbc-129">בתיבת הדו-שיח **הגדר חשבון בעבודה או בבית ספר**, תחת **פעולות חלופיות**, בחר **צרף מכשיר זה ל- Azure Active Directory**.</span><span class="sxs-lookup"><span data-stu-id="55bbc-129">On the **Set up a work or school account** dialog, under **Alternate actions**, choose **Join this device to Azure Active Directory**.</span></span>
+4. <span data-ttu-id="48cfb-129">בתיבת הדו-שיח **הגדר חשבון בעבודה או בבית ספר**, תחת **פעולות חלופיות**, בחר **צרף מכשיר זה ל- Azure Active Directory**.</span><span class="sxs-lookup"><span data-stu-id="48cfb-129">On the **Set up a work or school account** dialog, under **Alternate actions**, choose **Join this device to Azure Active Directory**.</span></span>
   
    ![Click Join this device to Azure Active Directory](media/fb709a1b-05a9-4750-9cb9-e097f4412cba.png)
   
-5. <span data-ttu-id="55bbc-131">בדף **בוא נבצע את תהליך הכניסה**, הזן את החשבון שלך בעבודה או בבית הספר \> **הבא**.</span><span class="sxs-lookup"><span data-stu-id="55bbc-131">On the **Let's get you signed in** page, enter your work or school account \> **Next**.</span></span>
+5. <span data-ttu-id="48cfb-131">בדף **בוא נבצע את תהליך הכניסה**, הזן את החשבון שלך בעבודה או בבית הספר \> **הבא**.</span><span class="sxs-lookup"><span data-stu-id="48cfb-131">On the **Let's get you signed in** page, enter your work or school account \> **Next**.</span></span>
   
-   <span data-ttu-id="55bbc-132">בדף **הזנת סיסמה**, הזן את הסיסמה שלך \> **כניסה**.</span><span class="sxs-lookup"><span data-stu-id="55bbc-132">On the **Enter password** page, enter your password \> **Sign in**.</span></span>
+   <span data-ttu-id="48cfb-132">בדף **הזנת סיסמה**, הזן את הסיסמה שלך \> **כניסה**.</span><span class="sxs-lookup"><span data-stu-id="48cfb-132">On the **Enter password** page, enter your password \> **Sign in**.</span></span>
   
    ![Enter your work or school email on the Let's get you signed in page](media/f70eb148-b1d2-4ba3-be38-7317eaf0321a.png)
   
-6. <span data-ttu-id="55bbc-134">על ה \* \* ודא כי זהו הארגון שלך \* \* עמוד, ודא שהמידע נכון ולאחר מכן לחץ על **הצטרף**.</span><span class="sxs-lookup"><span data-stu-id="55bbc-134">On the \*\* Make sure this is your organization \*\* page, verify that the information is correct, and click **Join**.</span></span>
+6. <span data-ttu-id="48cfb-134">על ה \* \* ודא כי זהו הארגון שלך \* \* עמוד, ודא שהמידע נכון ולאחר מכן לחץ על **הצטרף**.</span><span class="sxs-lookup"><span data-stu-id="48cfb-134">On the \*\* Make sure this is your organization \*\* page, verify that the information is correct, and click **Join**.</span></span>
   
-   <span data-ttu-id="55bbc-p104">בדף **הכל מוכן!**, לחץ על **סיום**.</span><span class="sxs-lookup"><span data-stu-id="55bbc-p104">On the **You're all set!** page, click **Done**.</span></span>
+   <span data-ttu-id="48cfb-p104">בדף **הכל מוכן!**, לחץ על **סיום**.</span><span class="sxs-lookup"><span data-stu-id="48cfb-p104">On the **You're all set!** page, click **Done**.</span></span>
   
    ![On the Make sure this is your organization screen, click Join](media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
   
-<span data-ttu-id="55bbc-p105">אם העלית קבצים אל OneDrive for Business, סנכרן אותם בחזרה. אם השתמשת בכלי של ספק חיצוני להעברת פרופיל וקבצים, סנכרן אותם עם הפרופיל החדש.</span><span class="sxs-lookup"><span data-stu-id="55bbc-p105">If you uploaded files to OneDrive for Business, sync them back down. If you used a third party tool to migrate profile and files, sync those also to the new profile.</span></span>
+<span data-ttu-id="48cfb-p105">אם העלית קבצים אל OneDrive for Business, סנכרן אותם בחזרה. אם השתמשת בכלי של ספק חיצוני להעברת פרופיל וקבצים, סנכרן אותם עם הפרופיל החדש.</span><span class="sxs-lookup"><span data-stu-id="48cfb-p105">If you uploaded files to OneDrive for Business, sync them back down. If you used a third party tool to migrate profile and files, sync those also to the new profile.</span></span>
   
-## <a name="verify-the-device-is-connected-to-azure-ad"></a><span data-ttu-id="55bbc-140">אימות שהמכשיר מחובר ל- Azure AD</span><span class="sxs-lookup"><span data-stu-id="55bbc-140">Verify the device is connected to Azure AD</span></span>
+## <a name="verify-the-device-is-connected-to-azure-ad"></a><span data-ttu-id="48cfb-140">אימות שהמכשיר מחובר ל- Azure AD</span><span class="sxs-lookup"><span data-stu-id="48cfb-140">Verify the device is connected to Azure AD</span></span>
 
-<span data-ttu-id="55bbc-p106">כדי לאמת את מצב הסינכרון שלך, בדף **גישה לחשבון עבודה או בית ספר** ב **הגדרות**, לחץ באזור **מחובר ל** _ \<organization name\> _ כדי לחשוף את הלחצנים **מידע** ו **התנתק**. לחץ על **מידע** כדי לקבל את מצב הסינכרון.</span><span class="sxs-lookup"><span data-stu-id="55bbc-p106">To verify your sync status, on the **Access work or school** page in **Settings**, click in the **Connected to** _ \<organization name\> _ area to expose the buttons **Info** and **Disconnect**. Click on **Info** to get your synchronization status.</span></span> 
+<span data-ttu-id="48cfb-p106">כדי לאמת את מצב הסינכרון שלך, בדף **גישה לחשבון עבודה או בית ספר** ב **הגדרות**, לחץ באזור **מחובר ל** _ \<organization name\> _ כדי לחשוף את הלחצנים **מידע** ו **התנתק**. לחץ על **מידע** כדי לקבל את מצב הסינכרון.</span><span class="sxs-lookup"><span data-stu-id="48cfb-p106">To verify your sync status, on the **Access work or school** page in **Settings**, click in the **Connected to** _ \<organization name\> _ area to expose the buttons **Info** and **Disconnect**. Click on **Info** to get your synchronization status.</span></span> 
   
-<span data-ttu-id="55bbc-143">בדף 'מצב סינכרון', לחץ על 'סינכרון' כדי לקבל את פריטי מדיניות הניהול העדכניים ביותר של המכשיר הנייד במחשב ה- PC.</span><span class="sxs-lookup"><span data-stu-id="55bbc-143">On the Sync status page, click Sync to get the latest mobile device management policies onto the PC.</span></span>
+<span data-ttu-id="48cfb-143">בדף 'מצב סינכרון', לחץ על 'סינכרון' כדי לקבל את פריטי מדיניות הניהול העדכניים ביותר של המכשיר הנייד במחשב ה- PC.</span><span class="sxs-lookup"><span data-stu-id="48cfb-143">On the Sync status page, click Sync to get the latest mobile device management policies onto the PC.</span></span>
   
-<span data-ttu-id="55bbc-p107">כדי להתחיל להשתמש בחשבון Microsoft 365 Business, עבור אל לחצן **התחל** של Windows, לחץ באמצעות לחצן העכבר הימני על תמונת החשבון הנוכחי שלך ולאחר מכן **החלף חשבון**. היכנס באמצעות הדואר האלקטרוני והסיסמה של הארגון שלך.</span><span class="sxs-lookup"><span data-stu-id="55bbc-p107">To start using the Microsoft 365 Business account, go to the Windows **Start** button, right-click your current account picture and then **Switch account**. Sign in by using your organization email and password.</span></span>
+<span data-ttu-id="48cfb-p107">כדי להתחיל להשתמש בחשבון Microsoft 365 Business, עבור אל לחצן **התחל** של Windows, לחץ באמצעות לחצן העכבר הימני על תמונת החשבון הנוכחי שלך ולאחר מכן **החלף חשבון**. היכנס באמצעות הדואר האלקטרוני והסיסמה של הארגון שלך.</span><span class="sxs-lookup"><span data-stu-id="48cfb-p107">To start using the Microsoft 365 Business account, go to the Windows **Start** button, right-click your current account picture and then **Switch account**. Sign in by using your organization email and password.</span></span>
   
 ![Click Info button to view synchronization status](media/818f7043-adbf-402a-844a-59d50034911d.png)
   
-## <a name="verify-the-device-is-upgraded-to-windows-10-business"></a><span data-ttu-id="55bbc-147">אימות שהמכשיר משודרג ל- Windows 10 Business</span><span class="sxs-lookup"><span data-stu-id="55bbc-147">Verify the device is upgraded to Windows 10 Business</span></span>
+## <a name="verify-the-device-is-upgraded-to-windows-10-business"></a><span data-ttu-id="48cfb-147">אימות שהמכשיר משודרג ל- Windows 10 Business</span><span class="sxs-lookup"><span data-stu-id="48cfb-147">Verify the device is upgraded to Windows 10 Business</span></span>
 
-<span data-ttu-id="55bbc-148">ודא שמכשירי Windows 10 שהצטרפו ל- Azure AD שודרגו ל- Windows 10 Business כחלק מהמנוי ל- Microsoft 365 Business.</span><span class="sxs-lookup"><span data-stu-id="55bbc-148">Verify that your Azure AD joined Windows 10 devices were upgraded to Windows 10 Business as part of your Microsoft 365 Business subscription.</span></span>
+<span data-ttu-id="48cfb-148">ודא שמכשירי Windows 10 שהצטרפו ל- Azure AD שודרגו ל- Windows 10 Business כחלק מהמנוי ל- Microsoft 365 Business.</span><span class="sxs-lookup"><span data-stu-id="48cfb-148">Verify that your Azure AD joined Windows 10 devices were upgraded to Windows 10 Business as part of your Microsoft 365 Business subscription.</span></span>
   
-1. <span data-ttu-id="55bbc-149">עבור אל **הגדרות** \> **מערכת** \> **אודות**.</span><span class="sxs-lookup"><span data-stu-id="55bbc-149">Go to **Settings** \> **System** \> **About**.</span></span>
+1. <span data-ttu-id="48cfb-149">עבור אל **הגדרות** \> **מערכת** \> **אודות**.</span><span class="sxs-lookup"><span data-stu-id="48cfb-149">Go to **Settings** \> **System** \> **About**.</span></span>
     
-2. <span data-ttu-id="55bbc-150">ודא שתחת **מהדורה** מופיע **Windows 10 Business**.</span><span class="sxs-lookup"><span data-stu-id="55bbc-150">Confirm that the **Edition** shows **Windows 10 Business**.</span></span>
+2. <span data-ttu-id="48cfb-150">ודא שתחת **מהדורה** מופיע **Windows 10 Business**.</span><span class="sxs-lookup"><span data-stu-id="48cfb-150">Confirm that the **Edition** shows **Windows 10 Business**.</span></span>
     
     ![Verify that Windows edition is Windows 10 Business.](media/ff660fc8-d3ba-431b-89a5-f5abded96c4d.png)
   
-## <a name="next-steps"></a><span data-ttu-id="55bbc-152">השלבים הבאים</span><span class="sxs-lookup"><span data-stu-id="55bbc-152">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="48cfb-152">השלבים הבאים</span><span class="sxs-lookup"><span data-stu-id="48cfb-152">Next steps</span></span>
 
-<span data-ttu-id="55bbc-153">כדי להגדיר את המכשירים הניידים שלך, ראה [הגדרת מכשירים ניידים עבור משתמשי Microsoft 365 Business](set-up-mobile-devices.md). כדי להגדיר כללי מדיניות הגנה למכשירים או ליישומים, ראה [ניהול Microsoft 365 Business](manage.md).</span><span class="sxs-lookup"><span data-stu-id="55bbc-153">To set up your mobile devices, see [Set up mobile devices for Microsoft 365 Business users](set-up-mobile-devices.md), To set device protection or app protection policies, see [Manage Microsoft 365 Business](manage.md).</span></span>
+<span data-ttu-id="48cfb-153">כדי להגדיר את המכשירים הניידים שלך, ראה [הגדרת מכשירים ניידים עבור משתמשי Microsoft 365 Business](set-up-mobile-devices.md). כדי להגדיר כללי מדיניות הגנה למכשירים או ליישומים, ראה [ניהול Microsoft 365 Business](manage.md).</span><span class="sxs-lookup"><span data-stu-id="48cfb-153">To set up your mobile devices, see [Set up mobile devices for Microsoft 365 Business users](set-up-mobile-devices.md), To set device protection or app protection policies, see [Manage Microsoft 365 Business](manage.md).</span></span>
   
