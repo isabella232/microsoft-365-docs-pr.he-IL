@@ -8,7 +8,10 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -19,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: aad21b1a-c775-469a-b89c-c5d1d59d27db
 description: למד כיצד תכונות הגנה ב- Microsoft 365 Business למפות להגדרות Intune. המנוי מספק לך רשיון כדי לשנות הגדרות Intune.
-ms.openlocfilehash: 5ee5a457fe3f265dd37f6806ca8c11fe096718b6
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: ddd520cd059c84e5d64e967fe5631fe2f6bce0d4
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983014"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32278554"
 ---
 # <a name="how-do-protection-features-in-microsoft-365-business-map-to-intune-settings"></a>כיצד תכונות ההגנה של Microsoft 365 Business ממפות להגדרות Intune
 
@@ -85,7 +88,7 @@ ms.locfileid: "26983014"
 
 הטבלה הבאה מפרטת כיצד הגדרות תצורת המכשיר של Windows 10 ממופות להגדרות Intune.
   
-כדי למצוא את Intune הגדרה, בעוד מחובר באמצעות אישורי ניהול עסקי 365 Microsoft שלך, עבור אל [פורטל תכלת הרקיע](https://portal.azure.com), ולאחר מכן בחר **יותר שירותים**, והקלד Intune לתוך **מסנן**, בחר **Intune** \> **התקן תצורת** \> **פרופילים**. לאחר מכן בחר **מדיניות התקן עבור Windows 10** \> **מאפיינים** \> **הגדרות**.
+כדי למצוא את Intune הגדרה, בעוד מחובר באמצעות אישורי ניהול עסקי 365 Microsoft שלך, עבור אל [פורטל תכלת הרקיע](https://portal.azure.com), ולאחר מכן בחר **יותר שירותים**, והקלד Intune לתוך **מסנן**, בחר **Intune** \> **התקן תצורת** \> **פרופילים**. Then select **Device policy for Windows 10** \> **Properties** \> **Settings**.
   
 |**הגדרת מדיניות מכשיר של Windows 10**|**הגדרות Intune**|
 |:-----|:-----|
@@ -95,7 +98,7 @@ ms.locfileid: "26983014"
 |אפשר למשתמשים להוריד אפליקציות מ- Microsoft Store  <br/> |מדיניות URI מותאמת אישית  <br/> |
 |אפשר למשתמשים לגשת ל- Cortana  <br/> |**כללי** \> **Cortana** מוגדר ל **חסום** ב- Intune כאשר מוגדר ל **כבוי** ב- Microsoft 365 Business.  <br/> |
 |אפשר למשתמשים לקבל עצות ופרסומות בנושא Windows מ- Microsoft  <br/> |**זרקור של Windows**, הכל חסום אם שדה זה מוגדר ל **כבוי** ב- Microsoft 365 Business.  <br/> |
-|עדכן מכשירים של Windows 10 באופן אוטומטי  <br/> | הגדרה זו היא ב- **Microsoft Intune** \> **עדכוני Service - Windows 10 עדכון טבעות**, בחרו U **דכן מדיניות עבור התקני Windows 10**ולאחר מכן **מאפיינים** \> **הגדרות**.  <br/>  כאשר ההגדרה Microsoft 365 Business נקבעה למצב **מופעל**, כל ההגדרות הבאות נקבעות כך:  <br/> **ענף שירות** מוגדר ל- **CB** ‏(CBB כאשר היא כבויה ב- Microsoft 365 Business).  <br/> **עדכוני מוצר של Microsoft** מוגדר ל **אפשר**.  <br/> **מנהלי התקן של Windows** מוגדר ל **אפשר**.  <br/> **אופן פעולה של עדכון אוטומטי** מוגדר ל **התקנה אוטומטית במועד התחזוקה** עם:  <br/> **התחלה לאחר שעות הפעילות** מוגדר ל- **06:00**.  <br/> **סיום בשעות הפעילות** מוגדר ל- **22:00**.  <br/> **תקופת דחייה של עדכון איכות (ימים)** מוגדר ל- **0**.  <br/> **תקופת דחייה של עדכון תכונות (ימים)** מוגדר ל- **0**.  <br/> **מצב הורדה של מיטוב מסירה** מוגדר ל- **HTTP משולב עם מחשבים עמיתים מאחורי אותו NAT**.  <br/> |
+|עדכן מכשירים של Windows 10 באופן אוטומטי  <br/> | This setting is in **Microsoft Intune** \> **Service updates - Windows 10 Update Rings**, choose U **pdate policy for Windows 10 devices**, and then **Properties** \> **Settings**.  <br/>  כאשר ההגדרה Microsoft 365 Business נקבעה למצב **מופעל**, כל ההגדרות הבאות נקבעות כך:  <br/> **ענף שירות** מוגדר ל- **CB** ‏(CBB כאשר היא כבויה ב- Microsoft 365 Business).  <br/> **עדכוני מוצר של Microsoft** מוגדר ל **אפשר**.  <br/> **מנהלי התקן של Windows** מוגדר ל **אפשר**.  <br/> **אופן פעולה של עדכון אוטומטי** מוגדר ל **התקנה אוטומטית במועד התחזוקה** עם:  <br/> **התחלה לאחר שעות הפעילות** מוגדר ל- **06:00**.  <br/> **סיום בשעות הפעילות** מוגדר ל- **22:00**.  <br/> **תקופת דחייה של עדכון איכות (ימים)** מוגדר ל- **0**.  <br/> **תקופת דחייה של עדכון תכונות (ימים)** מוגדר ל- **0**.  <br/> **מצב הורדה של מיטוב מסירה** מוגדר ל- **HTTP משולב עם מחשבים עמיתים מאחורי אותו NAT**.  <br/> |
 |||
    
 

@@ -6,6 +6,7 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
+ms.collection: M365-subscription-management
 localization_priority: Normal
 ms.custom:
 - Core_O365Admin_Migration
@@ -16,12 +17,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: למד כיצד לקבל גישה למשאבים המקומית כמו יישומים שורה של העסק, שיתופי קבצים ומדפסות מתכלת הרקיע של Active Directory המצורפים להתקן Windows 10.
-ms.openlocfilehash: 0a5d4b0828888fcb99676223000c446479f84ddc
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 212685bc229f519152e69b09d0a745bfac7a38cd
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982254"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32276880"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Access המקומית משאבים ממכשיר מצורף AD תכלת הרקיע ב- Microsoft 365 Business
 

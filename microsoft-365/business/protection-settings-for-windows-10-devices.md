@@ -11,6 +11,9 @@ f1_keywords:
 - BCS365_Win10AppPolicy
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -21,12 +24,12 @@ search.appverid:
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
 description: למד כיצד ליצור מדיניות ניהול app ולהגן על קבצי עבודה בהתקני Windows 10.
-ms.openlocfilehash: acf19a72d994185a35b2e425f8334a73a121ee10
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 289c6a74f6ccb53f6a833612a7b4a5bcddd3ea56
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982824"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32278173"
 ---
 # <a name="set-application-protection-settings-for-windows-10-devices"></a>קביעת הגדרות הגנה של יישומים עבור מכשירי Windows 10
 
@@ -34,12 +37,10 @@ ms.locfileid: "26982824"
 
 אם למשתמשים שלך יש מכשירים אישיים של Windows 10 שהם מבצעים דרכם משימות עבודה, באפשרותך להגן על הנתונים שלך גם במכשירים אלה.
   
-1. היכנס ל- [Microsoft 365 Business](https://portal.office.com) עם אישורים של מנהל מערכת כללי. בחר את האריח **ניהול** כדי לעבור אל מרכז הניהול. 
+1. היכנס אל [מרכז ניהול](https://go.microsoft.com/fwlink/p/?linkid=837890) עם אישורי מנהל כללי. בחר את האריח **ניהול** כדי לעבור אל מרכז הניהול. 
     
-2. בכרטיס **כללי מדיניות של מכשיר** בפורטל הניהול, בחר **הוסף מדיניות**.
-    
-    ![Device policies card in the admin center.](media/27c12b61-d112-4348-b557-4f3e46204797.png)
-  
+2. נווט השמאלי, בחר **התקנים** \> **מדיניות** \> **הוספה**.
+
 3. בחלונית **הוסף מדיניות**, הזן שם ייחודי עבור מדיניות זו. 
     
 4. תחת **סוג מדיניות**, בחר **ניהול יישומים עבור Windows 10**.
@@ -50,7 +51,7 @@ ms.locfileid: "26982824"
     
 7. קבע את ההגדרה **מנע ממשתמשים להעתיק נתוני חברה לקבצים אישיים וכפה עליהם לשמור קבצי עבודה ב- OneDrive for Business** למצב **מופעל** אם אינך מעוניין שהמשתמשים ישמרו קבצי עבודה במחשב שלהם. 
     
-8. הרחב את **קבע כיצד משתמשים ניגשים לקבצי Office במכשירים ניידים** \> קבע את תצורת ההגדרות כפי שאתה רוצה. האפשרות **קבע כיצד משתמשים ניגשים לקבצי Office במכשירים ניידים** מוגדרת ל **מבוטל** כברירת מחדל, אך מומלץ להגדיר אותה למצב **מופעל** ולקבל את ערכי ברירת המחדל. ראה [הגדרות זמינות](protection-settings-for-windows-10-devices.md#bkmk_settings) לקבלת מידע נוסף. 
+8. הרחב את **קבע כיצד משתמשים ניגשים לקבצי Office במכשירים ניידים** \> קבע את תצורת ההגדרות כפי שאתה רוצה. האפשרות **קבע כיצד משתמשים ניגשים לקבצי Office במכשירים ניידים** מוגדרת ל **מבוטל** כברירת מחדל, אך מומלץ להגדיר אותה למצב **מופעל** ולקבל את ערכי ברירת המחדל. לקבלת מידע נוסף, ראה [הגדרות זמינות](#available-settings). 
     
     ניתן להשתמש תמיד בקישור **איפוס הגדרות ברירת מחדל** כדי לחזור להגדרת ברירת המחדל. 
     

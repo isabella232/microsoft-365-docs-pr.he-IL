@@ -7,6 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -16,16 +19,16 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: 'למד כיצד להגדיר התקני Windows פועל Windows 10 Pro עבור משתמשים עסקיים 365 של Microsoft. '
-ms.openlocfilehash: 482199b175c568bfae420619aa02024303894789
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: f93257bd9a68385fca4f178a2e09c5c11506ee2c
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982854"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32284341"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>הגדרת מכשירי Windows עבור משתמשים של Microsoft 365 Business
 
-## <a name="prerequisites"></a>דרישות מוקדמות
+## <a name="prerequisites"></a>תנאים מוקדמים
 
 לפני שתוכל להגדיר מכשירי Windows עבור משתמשי Microsoft 365 Business, ודא שבכל מכשירי Windows פועלת מהדורה 1703 של Windows 10 Pro (העדכון ליוצרים). Windows 10 Pro מהווה דרישה מוקדמת לפריסת Windows 10 Business, שהוא קבוצה של שירותי ענן ויכולות ניהול מכשירים שמשלימות את Windows 10 Pro ומאפשרות את ההפעלה של הניהול המרכזי ובקרות האבטחה של Microsoft 365 Business.
   
@@ -33,7 +36,7 @@ ms.locfileid: "26982854"
   
 לקבלת מידע נוסף על שדרוג מכשירי Windows לעדכון Windows 10 ליוצרים, פעל לפי השלבים בנושא זה: [שדרוג מכשירי Windows לעדכון Windows Pro ליוצרים](upgrade-to-windows-pro-creators-update.md).
   
-ראה [אימות שהמכשיר משודרג ל- Windows 10 Business](set-up-windows-devices.md#bkmk_verifywin10) כדי לאמת שביצעת את השדרוג, או כדי לוודא שהשדרוג עבד. 
+ראה [ודא שההתקן מחובר AD תכלת הרקיע](#verify-the-device-is-connected-to-azure-ad) כדי לוודא שיש לך את השדרוג, או כדי לוודא השדרוג פעלה. 
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>צירוף מכשירי Windows 10 ל- Azure AD של הארגון שלך
 
@@ -51,7 +54,7 @@ ms.locfileid: "26982854"
     
 3. סיים את הגדרת מכשיר Windows 10.
     
-   כשתסיים, המשתמש יהיה מחובר ל- Azure AD של הארגון שלך. ראה [אימות שהמכשיר מחובר ל- Azure AD](set-up-windows-devices.md#bkmk_verifyaad) כדי לוודא. 
+   כשתסיים, המשתמש יהיה מחובר ל- Azure AD של הארגון שלך. ראה [אימות שהמכשיר מחובר ל- Azure AD](#verify-the-device-is-connected-to-azure-ad) כדי לוודא. 
   
 ### <a name="for-a-device-already-set-up-and-running-windows-10-pro"></a>עבור מכשיר שכבר מוגדר וש- Windows 10 Pro פועל בו
 
@@ -79,7 +82,7 @@ ms.locfileid: "26982854"
   
    ![Enter your work or school email on the Let's get you signed in page](media/f70eb148-b1d2-4ba3-be38-7317eaf0321a.png)
   
-6. על ה * * ודא כי זהו הארגון שלך * * עמוד, ודא שהמידע נכון ולאחר מכן לחץ על **הצטרף**.
+6. בדף ' **ודא כי זהו הארגון שלך** , ודא שהמידע נכון ולאחר לחץ על **הצטרף**.
   
    בדף **הכל מוכן!**, לחץ על **סיום**.
   

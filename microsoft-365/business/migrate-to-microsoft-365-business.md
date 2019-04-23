@@ -7,6 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -16,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: למד כיצד להעביר את העסק שלך לעסק 365 של Microsoft.
-ms.openlocfilehash: fd6f18c02453e6751d6163ab79e726eae9c951a9
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 3e45ba13e4cfe772829f545219bf86a9a3317d59
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983494"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32285664"
 ---
 # <a name="migrate-to-microsoft-365-business-from-office-365-business-premium"></a>מעבר לעסק Microsoft 365 מ- Premium עסקי של Office 365
 
@@ -55,7 +58,7 @@ ms.locfileid: "26983494"
     
 2. בדף ' **התאמה אישית של כניסה ודואר אלקטרוני** , באפשרותך להוסיף קבוצת מחשבים על-ידי בחירת **חיבור מחשבים כבר בבעלותך** אם ברצונך להשתמש הזדמנות זו כדי להוסיף קבוצת מחשבים אחרת למנוי שלך. 
     
-    אם כבר הגדרת תחום, השדה השני יציין כי ולומר **המשך שימוש** \< _את שם התחום שלך_ \> **עבור דואר אלקטרוני וחתימה**. אם לא הגדרת תחום עם אתה מנוי, תוצג האפשרות **באמצעות המשך** \< _name.onmicrosoft.com החברה שלך_ \> **עבור דואר אלקטרוני וחתימה**.    
+    אם כבר הגדרת תחום, השדה השני יציין כי ולומר **המשך שימוש** \< _את שם התחום שלך_ \> **עבור דואר אלקטרוני וחתימה**.   אם לא הגדרת תחום עם אתה מנוי, תוצג האפשרות **באמצעות המשך** \< _name.onmicrosoft.com החברה שלך_ \> **עבור דואר אלקטרוני וחתימה**.  
     
     בחר **הבא**.
     
@@ -95,7 +98,7 @@ ms.locfileid: "26983494"
     
   - [קביעת הגדרות הגנה של יישומים עבור מכשירי Windows 10](protection-settings-for-windows-10-devices.md)
     
-  - [קביעת הגדרות הגנה על מכשירים עבור מחשבי PC של Windows 10](protection-settings-for-windows-10-pcs.md)
+  - [קבע הגדרות הגנה התקן עבור Windows 10 מחשבים](protection-settings-for-windows-10-pcs.md)
     
    ![בחלונית מדיניות ' הוספה ', הזן שם עבור אותו ובחר את סוג מדיניות מתוך התפריט הנפתח.](media/76ef37e4-1d18-4f34-8a0f-391ab1d0ae2b.png)
   

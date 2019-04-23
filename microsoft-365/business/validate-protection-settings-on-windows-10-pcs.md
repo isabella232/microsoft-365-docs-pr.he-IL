@@ -7,6 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -16,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
 description: למד כיצד לאמת את הגדרות ההגנה app עסקיים 365 Microsoft ב- Windows 10 התקנים.
-ms.openlocfilehash: f00dd380103ad9498d77b0e8814bace3de168df4
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 4f1f0993dff0ef8d3f6858a3749e063c7b5579c7
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983294"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32279970"
 ---
 # <a name="validate-app-protection-settings-on-windows-10-pcs"></a>אימות הגדרות הגנה של אפליקציות במחשבי Windows 10
 
@@ -31,7 +34,7 @@ ms.locfileid: "26983294"
   
  **אימות הגדרות חיבור**
   
-1. לאחר להיכנס באמצעות אישורי Microsoft 365 עסקיים להתחבר AD תכלת הרקיע כפי שמתואר [להגדיר התקנים של Windows עבור משתמשים עסקיים 365 של Microsoft](set-up-windows-devices.md), עבור אל **ההגדרות של Windows** \> **חשבונות** \> **Access בעבודה או בבית הספר **. בחר **מחובר \<שם הדייר\> AD תכלת הרקיע**, ולאחר מכן בחר **מידע**.
+1. After you sign in with Microsoft 365 Business credentials and connect to Azure AD as described in [Set up Windows devices for Microsoft 365 Business users](set-up-windows-devices.md), go to **Windows Settings** \> **Accounts** \> **Access work or school**. Choose **Connected to \<tenant name\> Azure AD**, and then choose **Info**.
     
     ![Click or tap Info on the Connected to Azure AD dialog.](media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
   

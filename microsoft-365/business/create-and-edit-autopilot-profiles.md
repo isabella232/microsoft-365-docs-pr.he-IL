@@ -7,7 +7,10 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -19,12 +22,12 @@ search.appverid:
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: 'למד כיצד ליצור, לערוך, למחוק או להסיר פרופילי AutoPilot. '
-ms.openlocfilehash: 4658a27e5f2c64a52f8a7d08b3fc13df5e239dc3
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 85fc897b2f428afae8d55feeb577021adaa30f72
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983134"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32277115"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>יצירה ועריכה של פרופילי AutoPilot
 
@@ -32,11 +35,9 @@ ms.locfileid: "26983134"
 
 פרופיל חל על מכשיר או על קבוצה של מכשירים
   
-1. במרכז הניהול של Microsoft 365 Business, בחר **פרוס את Windows באמצעות AutoPilot** בכרטיס **פעולות מכשיר**. 
-    
-    ![On the Device actions card, choose Deploy Windows with Autopilot.](media/160d5c2a-11a8-48f9-a8aa-70f084b85448.png)
+1. במרכז הניהול העסקי של Microsoft 365, בחר **התקנים** \> **AutoPilot**.
   
-2. בדף **הכנת Windows**, בחר בכרטיסיה **פרופילים** \> **צור פרופיל**.
+2. בדף **AutoPilot** , בחר את הכרטיסייה **פרופילי** \> **צור פרופיל**.
     
 3. בדף **יצירת פרופיל**, הזן שם עבור הפרופיל שיעזור לך לזהות אותו, לדוגמה, שיווק, הפעל את ההגדרה הרצויה (למידע נוסף, ראה [אודות ההגדרות של פרופיל AutoPilot](autopilot-profile-settings.md)), ובחר **שמור**.
     

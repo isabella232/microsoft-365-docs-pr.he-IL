@@ -1,5 +1,5 @@
 ---
-title: פתרון בעיות של שגיאות במכשיר AutoPilot
+title: פתרון בעיות עבור שגיאות במכשיר AutoPilot
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -11,6 +11,9 @@ f1_keywords:
 - BCS365_ZTDTroubleshootDeviceErrors
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -21,14 +24,14 @@ search.appverid:
 - MOE150
 ms.assetid: 1f468690-530c-47ea-918f-fede24607c53
 description: למד כיצד לפתור בעיות של שגיאות קבצים בהתקן AutoPilot.
-ms.openlocfilehash: 9b8d8ab424dd3189ff5c228dab8f5c513ff5dafc
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 9d4a47f78c38d8c076f5b3876a36b6bf46eaaaf3
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982744"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32279837"
 ---
-# <a name="troubleshoot-autopilot-device-errors"></a>פתרון בעיות של שגיאות במכשיר AutoPilot
+# <a name="troubleshoot-autopilot-device-errors"></a>פתרון בעיות עבור שגיאות במכשיר AutoPilot
 
 ## <a name="device-file-error-messages"></a>הודעות שגיאה של קובץ התקן
 
@@ -40,6 +43,6 @@ ms.locfileid: "26982744"
 |ערך ה-hash של החומרה עבור התקן אינו נכון.  <br/> |אם אתה רואה שגיאה זו, משמעות הדבר היא כי הערך שסיפקת בקובץ CSV עבור קוד hash של החומרה של התקן אחד אינו נכון. תחילה, ודא כי הערך הוקלד כראוי. אם אתה סבור כי הערך נכון, אך עדיין קורה שגיאה זו, בקש עזרה ספק החומרה שלך.  <br/> |
 |התקן שהוקצו דייר אחר  <br/> |אם אתה רואה שגיאה זו, משמעות הדבר היא כי הערך שסיפקת בקובץ CSV עבור המספר הסידורי או את מפתח המוצר של התקן אחד או יותר אינו נכון. תחילה, ודא כי הערך הוקלד כראוי. אם אתה סבור כי הערך נכון, אך עדיין קורה שגיאה זו, בקש עזרה ספק החומרה שלך.  <br/> |
 |קובץ ה-CSV מכילה מספר סידורי לא חוקי או מפתח מוצר  <br/> |אם אתה רואה שגיאה זו, פירוש הדבר ההתקן שאתה במהלך ניסיון לרשום כבר רשום על-ידי ארגון אחר. כדי לפתור בעיה זו, בקש ספק החומרה שלך לקבלת עזרה.  <br/> |
-|התקן זה אינו נתמך עבור תוכנית ההתקנה באמצעות AutoPilot  <br/> | שגיאה זו פירושה שההתקן אינו עומד בדרישות הפריסה AutoPilot. התקנים עליך לעמוד בדרישות אלה:  <br/>  Windows ,10 גירסה 1703 ואילך.  <br/>  מכשירים חדשים שאינם נחשבים כמוצר Windows מוכן לשימוש.  <br/> |
+|התקן זה אינו נתמך עבור תוכנית ההתקנה באמצעות AutoPilot  <br/> | שגיאה זו פירושה שההתקן אינו עומד בדרישות הפריסה AutoPilot. המכשירים צריכים לעמוד בדרישות אלה:  <br/>  Windows ,10 גירסה 1703 ואילך.  <br/>  מכשירים חדשים שאינם נחשבים כמוצר Windows מוכן לשימוש.  <br/> |
 |התקן לא נמצא  <br/> |שגיאה זו פירושה כי התקן אחד או יותר בקובץ CSV שלך אינו רשום לארגון שלך. כדי לפתור בעיה זו, בקש ספק החומרה שלך לקבלת עזרה.  <br/> |
    

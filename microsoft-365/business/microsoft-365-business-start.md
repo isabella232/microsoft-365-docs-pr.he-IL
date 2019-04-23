@@ -4,10 +4,12 @@ ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
 ms.audience: Admin
-ms.topic: overview
+ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -18,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: למד כיצד להגדיר עסקיים 365 של Microsoft.
-ms.openlocfilehash: 1c4adc64f62f7d4ae5038603804aa10e48d8a6e1
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 78f7360c80667b8d34fad9d849cfc2cf83a8577b
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983794"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32278108"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>תחילת העבודה עם Microsoft 365 Business
 
@@ -33,7 +35,7 @@ Microsoft 365 Business הוא ערכה מקיפה של כלי שיתוף פעו�
   
 Microsoft 365 Business נועד עבור עד 300 רשיונות. אם אתה זקוק לרשיונות נוספים, עיין בתיעוד של [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) לקבלת מידע נוסף. 
   
-## <a name="get-microsoft-365-business"></a>השגת Microsoft 365 Business
+## <a name="get-microsoft-365-business"></a>השג את Microsoft 365 Business
 
 - אם יש לך שותף, הוא יקבל את Microsoft 365 Business: [השג את Microsoft 365 Business ממרכז השותפים של Microsoft](get-microsoft-365-business.md).
     
@@ -43,7 +45,7 @@ Microsoft 365 Business נועד עבור עד 300 רשיונות. אם אתה ז
 
  **מבט כולל על חבילת עסקית של 365 Microsoft להגדיר**
   
-הדיאגרמה הבאה מתארת כיצד להגדיר מנהלים עסקיים 365 של Microsoft. הוא גם מתאר את השלבים כדי להכין מחשבים אישיים של Windows עבור העסק 365 של Microsoft. באפשרותך גם להוסיף התקנים חדשים כדי במרכז ניהול עסקי 365 Microsoft עם [Windows AutoPilot](add-autopilot-devices-and-profile.md). באפשרותך להשתמש AutoPilot כדי להגדיר ולהגדיר מראש התקנים חדשים, שכנוע מוכן לשימוש יעיל כמו משתמש יוסיף באמצעות אישורי Microsoft 365 העסק שלהם.
+הדיאגרמה הבאה מתארת כיצד להגדיר מנהלים עסקיים 365 של Microsoft. היא גם מתארת את השלבים להכנת מחשבי Windows עבור Microsoft 365 Business. באפשרותך גם להוסיף מכשירים חדשים במרכז הניהול של Microsoft 365 Business עם [Windows AutoPilot](add-autopilot-devices-and-profile.md). באפשרותך להשתמש ב- AutoPilot כדי להגדיר ולקבוע מראש את התצורה של מכשירים חדשים, כדי להכין אותם לשימוש פרודוקטיבי ברגע שהמשתמש מתחבר עם אישורי Microsoft 365 Business שלו.
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
   
@@ -57,13 +59,13 @@ Microsoft 365 Business נועד עבור עד 300 רשיונות. אם אתה ז
     
 2. [התקנה של Microsoft 365 Business באמצעות אשף ההתקנה](set-up.md)
     
-    אם אתה **מעביר לצמיתות מ Active Directory המקומי אל הענן**, באפשרותך להוסיף משתמשים שלך באופן ידני במרכז ניהול עסקי 365 Microsoft באמצעות אשף ההתקנה, או באפשרותך לבצע סינכרון חד-פעמי עם חיבור AD תכלת הרקיע. קיימות שתי דרכים לעשות זאת: 
+    אם אתה **מעביר לצמיתות מ Active Directory המקומי אל הענן**, באפשרותך להוסיף משתמשים שלך באופן ידני במרכז ניהול עסקי 365 Microsoft באמצעות אשף ההתקנה, או באפשרותך לבצע סינכרון חד-פעמי עם חיבור AD תכלת הרקיע. ניתן לעשות זאת בשתי דרכים: 
     
-  - אם יש לך Exchange 2010, Exchange 2013 או שרת Exchange 2016, באפשרותך [שימוש מינימלי היברידית במהירות להעביר תיבות דואר של Exchange Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef). השלבים היברידית מינימלית לכלול סינכרון חד-פעמית של משתמשים AD תכלת הרקיע וכן דואר אלקטרוני בהעברה מ מקומי אל הענן. לאחר השלמת ההעברה דוא ל, סינכרון ספריות מבוטלת באופן אוטומטי בעת שימוש בשיטה זו.
+  - אם יש לך Exchange 2010, Exchange 2013 או שרת Exchange 2016, באפשרותך [שימוש מינימלי היברידית במהירות להעביר תיבות דואר של Exchange Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef). שלבי התצורה ההיברידית המינימלית כוללים סינכרון חד-פעמי של משתמשים עם Azure AD וכן העברת דואר אלקטרוני מסביבה מקומית לענן. לאחר השלמת העברת הדואר האלקטרוני, סינכרון מדריכי הכתובות מבוטל באופן אוטומטי בעת השימוש בשיטה זו.
     
   - השתמש באשף סינכרון מדריכי הכתובות של Office 365 כדי לסנכרן את המשתמשים שלך עם הענן. בצע את השלבים המפורטים תחת [Set up directory synchronization for Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) כדי להשלים את התהליך. לאחר שתסנכרן את המשתמשים שלך עם הענן, תצטרך [Turn off directory synchronization for Office 365](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d).
     
-    כמו כן יהיה עליך להעניק לכל משתמש שנוסף באופן זה רשיון לעסק 365 של Microsoft. באפשרותך לעשות זאת [אשף ההתקנה](set-up.md), או [להקצות רשיונות המשתמשים ב- Office 365 עבור העסק](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC).
+    בנוסף, תצטרך לתת לכל משתמש שנוסף בדרך זו רשיון ל- Microsoft 365 Business. באפשרותך לעשות זאת [אשף ההתקנה](set-up.md), או [להקצות רשיונות המשתמשים ב- Office 365 עבור העסק](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC).
     
 ### <a name="2-prepare-mobile-devices"></a>2: הכנת מכשירים ניידים
 

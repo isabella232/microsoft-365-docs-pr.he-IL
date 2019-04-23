@@ -10,7 +10,9 @@ f1_keywords:
 - BCS365_M365SetupBanner
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -20,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: למד כיצד להגדיר עסקיים 365 של Microsoft על-ידי השלמת ארבעה שלבים.
-ms.openlocfilehash: f57239b884bd2e186c0bc01973130a10fa4cfe84
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: a1c8a41c3e291983276280a063248bdd10a7f85a
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982194"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32283906"
 ---
 # <a name="set-up-microsoft-365-business-by-using-the-setup-wizard"></a>הגדרה של Microsoft 365 Business באמצעות אשף ההגדרה
 
@@ -53,11 +55,11 @@ ms.locfileid: "26982194"
     
 3. הזן את שם התחום שבו ברצונך להשתמש (כגון contoso.com).
     
-    המשך והזן את התחום שלך אפילו אם וידאת אותה תוך שימוש התחבר AD תכלת הרקיע, לדוגמה. שני השלבים הבאים אינם חלים על לך אם השתמשת תכלת הרקיע AD התחבר כדי לאמת את התחום שלך.
+    [!הערה] המשך והזן את התחום שלך גם אם כבר אימתת אותו במהלך השימוש ב- Azure AD Connect, לדוגמה. שני השלבים הבאים אינם חלים על לך אם השתמשת תכלת הרקיע AD התחבר כדי לאמת את התחום שלך.
     
 4. בצע את השלבים באשף [רשומות DNS ליצור אצל כל ספק אירוח DNS עבור Office 365](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166) מוודא שאתה הבעלים של התחום. 
     
-    באפשרותך להציג וידאו דוגמה של [וידאו: תוכנית ההתקנה של Office 365 במרכז Admin חדשה](https://support.office.com/article/a8c2002a-34bc-4ab3-93d8-9b5156c48bf8). שים לב וידאו זה אינו כולל את השלבים הגנת הנתונים של Microsoft 365 העסק.
+    באפשרותך להציג וידאו דוגמה של [וידאו: תוכנית ההתקנה של Office 365 במרכז Admin חדשה](https://support.office.com/article/a8c2002a-34bc-4ab3-93d8-9b5156c48bf8). שים לב כי סרטון זה אינו כולל את השלבים להגנה על נתונים של Microsoft 365 Business.
     
     ![Screenshot of the Business Cloud Suite setup wizard.](media/3c4fd40c-2de1-4a87-8ee0-78d3928c7bb7.png)
   
@@ -84,13 +86,13 @@ ms.locfileid: "26982194"
   
 להגדרת שירותים, עליך לעדכן כמה רשומות אצל מארח ה- DNS שלך או אצל רשם התחומים.
   
-1. אשף ההתקנה בדרך כלל מזהה רשם שלך ומעניק לך קישור הוראות שלב אחר שלב עבור עדכון ברשומות NS שלך באתר רשם. אם לא, [שינוי nameservers כדי להגדיר את Office 365 עם כל רשם התחום](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2).
+1. אשף ההגדרה מזהה בדרך כלל את הרשם שלך, ומספק לך קישור להוראות מפורטות לעדכון רשומות ה- NS באתר האינטרנט של הרשם. אם לא, [שינוי nameservers כדי להגדיר את Office 365 עם כל רשם התחום](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2).
     
 2. דואר אלקטרוני ושירותים אחרים יוגדרו עבורך
     
 ### <a name="step-4-manage-devices-and-work-files"></a>שלב 4: ניהול התקנים ולעבוד קבצים
 
-1. על **קבצי עבודה הגן במכשירים הניידים שלך** עמוד הגדר **הגנה על קבצים עבודה כאשר התקנים שאבדו או נגנבו** והגדרות **לנהל את האופן שבו משתמשים ניגשים קבצי Office במכשירים ניידים** **בסרגל**. באפשרותך גם לגשת לכל משנה הגדרת על-ידי לחיצה על הסוגריים הזוויתיים לצד כל הגדרה.
+1. בדף **הגנה על קבצי עבודה במכשירים ניידים** הגדר את שתי ההגדרות: **הגן על קבצי עבודה כאשר מכשירים אובדים או נגנבים** ו **קבע כיצד משתמשים ניגשים לקבצי Office במכשירים ניידים** למצב **מופעל**. באפשרותך גם לגשת לכל משנה הגדרת על-ידי לחיצה על הסוגריים הזוויתיים לצד כל הגדרה.
   
   כל הקבצים עבודת המשתמשים המורשים שלך כעת מוגנים ב- iOS והתקנים Android, מיד כאשר הם [להתקין יישומי Office](set-up-mobile-devices.md) (ולאמת עם אישורי Microsoft 365 העסק שלהם). 
   
@@ -100,7 +102,7 @@ ms.locfileid: "26982194"
   
    באפשרותך גם לגשת לכל משנה הגדרת על-ידי לחיצה על לחצן הסוגר הזוויתי לצידו.
   
-3. לקבוע את ההגדרה **התקנת Office במכשירים 10 Windows** **כן** אם כל המשתמשים בעלי מחשבים Windows 10, ומתקינה או Office לא קיים, או לחץ על run על התקנת Office. אם זה אינו המקרה, הגדר אפשרות זו כ- **No**. באפשרותך [להתקין את Office באופן אוטומטי](auto-install-or-uninstall-office.md) במועד מאוחר יותר ממרכז admin לאחר שהכנת את מחשבי המשתמשים. לקבלת הוראות, ראה [הכנת עבור התקנת לקוח של Office](prepare-for-office-client-deployment.md).
+3. קבע את ההגדרה **התקנת Office במכשירי Windows 10** ל **כן** אם לכל המשתמשים שלך יש מחשבי Windows 10 ואין להם התקנות קיימות של Office, או התקנות של Office מסוג 'לחץ והפעל'. אם אין זה המצב, הגדר אפשרות זו ל **לא**. באפשרותך [להתקין את Office באופן אוטומטי](auto-install-or-uninstall-office.md) מאוחר יותר ממרכז הניהול לאחר הכנת מחשבי המשתמשים. לקבלת הוראות, ראה [הכנת עבור התקנת לקוח של Office](prepare-for-office-client-deployment.md).
   
     ניתן להקרין מיד כאשר הם קבצי עבודה של המשתמשים המורשים בהתקני Windows 10 [התקן Windows 10 שלהם להצטרף](set-up-windows-devices.md) לקבוצת מחשבים עסקיים Microsoft 365 AD תכלת הרקיע או [להתקין את Windows 10 במחשב חדש](https://support.office.com/article/c654bd23-d256-4ac7-8fba-0c993bf5a771.aspx) בעת הצטרפות בו-זמנית Microsoft 365 תחום של AD תכלת הרקיע עסקיים. 
   

@@ -1,5 +1,5 @@
 ---
-title: השג את Microsoft 365 Business
+title: קבל העסק 365 Microsoft ממרכז שותף
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -7,7 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -18,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
 description: למד כיצד לרכוש עסק 365 Microsoft ממרכז שותף של Microsoft.
-ms.openlocfilehash: 77c8e3af930db540c0fab665aceef850f82e219c
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 1dcd9c21a598020447308970024a896b157bdae4
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982124"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32278367"
 ---
 # <a name="get-microsoft-365-business"></a>השג את Microsoft 365 Business
 

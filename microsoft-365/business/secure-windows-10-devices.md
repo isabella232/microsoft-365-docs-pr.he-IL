@@ -4,11 +4,14 @@ ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
 ms.audience: Admin
-ms.topic: overview
+ms.topic: conceptual
 f1_keywords:
 - O365E_BCSSetup4WindowsConfig
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -19,12 +22,12 @@ search.appverid:
 - MOE150
 ms.assetid: 21e5551f-fa35-4f13-9418-f80d668b6a2b
 description: 'למד אודות ברירת המחדל והגדרות אחרות לאבטחת התקנים Windows 10. '
-ms.openlocfilehash: 0bdf6a56d880cb84f4a4f50550539d97c006ba49
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 6f06936c2075710210ad9e29ee92905b3b49917a
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983654"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32278056"
 ---
 # <a name="secure-windows-10-devices"></a>אבטחת מכשירים של Windows 10
 
@@ -37,8 +40,8 @@ ms.locfileid: "26983654"
 |||
 |:-----|:-----|
 |הגדרה  <br/> |תיאור  <br/> |
-|עזור להגן על מחשבי PC מפני וירוסים ואיומים אחרים באמצעות אנטי-וירוס של Windows Defender  <br/> |דרושה הפעלה של האנטי-וירוס של Windows Defender כדי להגן על מחשבים מהסכנות הכרוכות בחיבור לאינטרנט.  <br/> |
-|עזור להגן על מחשבי PC מפני איומים מבוססי אינטרנט ב- Microsoft Edge  <br/> |הפעלת הגדרות ב- Microsoft Edge שעוזרות בהגנה על המשתמשים מפני אתרים זדוניים והורדות.  <br/> |
+|עזור בהגנה על מחשבים מפני וירוסים ואיומים אחרים באמצעות האנטי-וירוס של Windows Defender  <br/> |דרושה הפעלה של האנטי-וירוס של Windows Defender כדי להגן על מחשבים מהסכנות הכרוכות בחיבור לאינטרנט.  <br/> |
+|עזור בהגנה על מחשבים מפני איומים מבוססי-אינטרנט ב- Microsoft Edge  <br/> |הפעלת הגדרות ב- Microsoft Edge שעוזרות בהגנה על המשתמשים מפני אתרים זדוניים והורדות.  <br/> |
 |כבה את מסך המכשיר כאשר הוא לא פעיל למשך פרק זמן זה  <br/> |הגדרה זו מוודאת שנתוני החברה מוגנים אם המשתמש אינו פעיל. ייתכן מצב שבו משתמש מסוים עובד במקום ציבורי, למשל בית קפה, שבו הוא מתרחק או שדעתו מוסחת לרגע קט ומשאיר את המכשיר שלו חשוף להצצות אקראיות. הגדרה זו מאפשרת לך לקבוע כמה זמן המשתמש יכול להיות לא פעיל לפני כיבוי המסך.  <br/> |
 |אפשר למשתמשים להוריד אפליקציות מ- Microsoft Store  <br/> |הגדרה זו מאפשרת למשתמשים להוריד ולהתקין אפליקציות מ- Microsoft Store. אפליקציות כוללות את כל סוגי התוכן, החל ממשחקים וכלה בכלי פרודוקטיביות, לכן אנו משאירים הגדרה זו במצב **מופעל**, אך ניתן לבטל אותה להשגת אבטחה נוספת.  <br/> |
 |אפשר למשתמשים לגשת ל- Cortana  <br/> |Cortana יכולה להיות שימושית מאוד! היא יכולה להפעיל או לבטל הגדרות עבורך, לתת הנחיות ולוודא שאתה מגיע בזמן לפגישות, לכן אנו משאירים הגדרה זו במצב **מופעל** כברירת מחדל.  <br/> |

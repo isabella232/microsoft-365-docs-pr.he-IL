@@ -7,6 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -16,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: bd66c26c-73a4-45a8-8642-3ea4ee7cd89d
 description: למד אודות ברירת המחדל והגדרות אחרות הזמינות ב- Microsoft Business 365 לאבטחת התקנים Windows 10.
-ms.openlocfilehash: ebfe5f59e544b67e5a4f2ecd990031e9221ff8e5
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: f9e890cde7a8290a9a8e81720d32a6a2889c312f
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982144"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32285918"
 ---
 # <a name="set-device-protection-settings-for-windows-10-pcs"></a>קביעת הגדרות הגנה על מכשירים עבור מחשבי PC של Windows 10
 
@@ -31,17 +34,15 @@ ms.locfileid: "26982144"
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/a5734146-620a-4cec-8618-536b3ca37972?autoplay=false]
   
-1. היכנס ל- [Microsoft 365 Business](https://portal.office.com) עם אישורים של מנהל מערכת כללי. 
+1. היכנס אל [מרכז ניהול](https://go.microsoft.com/fwlink/p/?linkid=837890) עם אישורי מנהל כללי. 
     
-2. במרכז הניהול, בכרטיס **כללי מדיניות של מכשיר**, בחר **הוסף מדיניות**.
-    
-    ![Device policies card in the admin center.](media/27c12b61-d112-4348-b557-4f3e46204797.png)
+2. נווט השמאלי, בחר **התקנים** \> **מדיניות** \> **הוספה**.
   
 3. בחלונית **הוסף מדיניות**, הזן שם ייחודי עבור מדיניות זו. 
     
 4. תחת **סוג מדיניות**, בחר **תצורת מכשיר Windows 10**.
     
-5. הרחב את **אבטחת מכשירי 10 Windows** \> קבע את תצורת ההגדרות כפי שאתה רוצה. ראה [הגדרות זמינות](protection-settings-for-windows-10-pcs.md#bkmk_availablesettings) לקבלת מידע נוסף. 
+5. הרחב את **אבטחת מכשירי 10 Windows** \> קבע את תצורת ההגדרות כפי שאתה רוצה. ראה [הגדרות זמינות](#available-settings) לקבלת מידע נוסף. 
     
     ניתן להשתמש תמיד בקישור **איפוס הגדרות ברירת מחדל** כדי לחזור להגדרת ברירת המחדל. 
     
@@ -60,8 +61,8 @@ ms.locfileid: "26982144"
 |||
 |:-----|:-----|
 |הגדרה  <br/> |תיאור  <br/> |
-|עזור להגן על מחשבי PC מפני וירוסים ואיומים אחרים באמצעות אנטי-וירוס של Windows Defender  <br/> |דרושה הפעלה של האנטי-וירוס של Windows Defender כדי להגן על מחשבים מהסכנות הכרוכות בחיבור לאינטרנט.  <br/> |
-|עזור להגן על מחשבי PC מפני איומים מבוססי אינטרנט ב- Microsoft Edge  <br/> |הפעלת הגדרות ב- Microsoft Edge שעוזרות בהגנה על המשתמשים מפני אתרים זדוניים והורדות.  <br/> |
+|עזור בהגנה על מחשבים מפני וירוסים ואיומים אחרים באמצעות האנטי-וירוס של Windows Defender  <br/> |דרושה הפעלה של האנטי-וירוס של Windows Defender כדי להגן על מחשבים מהסכנות הכרוכות בחיבור לאינטרנט.  <br/> |
+|עזור בהגנה על מחשבים מפני איומים מבוססי-אינטרנט ב- Microsoft Edge  <br/> |הפעלת הגדרות ב- Microsoft Edge שעוזרות בהגנה על המשתמשים מפני אתרים זדוניים והורדות.  <br/> |
 |שימוש בכללים המקטינים את שטח התקיפה של מכשירים  <br/> |כאשר צמצום שטח התקיפה מופעל, הוא עוזר בחסימת פעולות ויישומים המשמשים בדרך כלל תוכניות זדוניות כדי לזהם מכשירים. הגדרה זו זמינה רק אם אנטי-וירוס של Windows Defender מופעל. ראה [צמצום שטחי תקיפה](https://go.microsoft.com/fwlink/?linkid=870417) כדי לקבל מידע נוסף.  <br/> |
 |הגנה על תיקיות מפני איומים כגון תוכנת כופר  <br/> |הגדרה זו משתמשת בגישה מבוקרת לתיקיות כדי להגן על נתוני החברה מפני שינויים על-ידי יישומים חשודים או זדוניים, כגון תוכנות כופר. סוגי יישומים אלה אינם יכולים לבצע שינויים בתיקיות מוגנות. הגדרה זו זמינה רק אם אנטי-וירוס של Windows Defender מופעל. ראה [הגנה על תיקיות עם גישה מבוקרת לתיקיה](https://go.microsoft.com/fwlink/?linkid=870418) כדי לקבל מידע נוסף.  <br/> |
 |מניעת גישה לרשת של תוכן באינטרנט שעשוי להיות זדוני  <br/> |השתמש בהגדרה זו כדי לחסום חיבורי משתמש יוצאים למיקומי אינטרנט בעלי מוניטין נמוך שעשויים לארח הונאות דיוג, ניצול או תוכן זדוני אחר. הגדרה זו זמינה רק אם אנטי-וירוס של Windows Defender מופעל. ראה [הגנה על הרשת](https://go.microsoft.com/fwlink/?linkid=870419) לקבלת מידע נוסף.  <br/> |
