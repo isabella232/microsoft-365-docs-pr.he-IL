@@ -8,14 +8,15 @@ keywords: ביקור 365 של Microsoft, Microsoft 365, עסקים, SMB, קטנ�
 localization_priority: Normal
 audience: microsoft-business
 ms.prod: microsoft-365-business
+ms.collection: M365-subscription-management
 title: משאבים לעסק 365 של Microsoft
 description: למד כיצד לתכנן, לפרוס, ולהשתמש ב- Microsoft Office 365, Windows 10, ניידות ארגון + אבטחה יחד בעסק שלך עבור תשתית משולבת ומאובטחת מאפשרת עבודת צוות אשר מבטל את הנעילה של יצירתיות.
-ms.openlocfilehash: 386c829a6b635b1b23301e838f05b0b84bbfb3b4
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: fc3a702f76426f3b7ffcb0f45996b097d0d17e94
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982504"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32278496"
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -110,8 +111,8 @@ ms.locfileid: "26982504"
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>השתמש במצב</h3>
-                                                <P><a href="set-up-mobile-devices.md" target="_blank">הגדרת מכשירים ניידים</a></p>
+                                                <h3>השתמש</h3>
+                                                <P><a href="set-up-mobile-devices.md" target="_blank">הגדר מכשירים ניידים</a></p>
                                                 <P><a href="https://support.office.com/office-training-center" target="_blank">עזור לכולם להתחיל לעבוד עם Office</a></p>
                                                 <P><a href="https://www.microsoft.com/itpro/windows-10/end-user-readiness" target="_blank">עזור לכולם לעבור 10 חלונות</a></p>
                                                 <P><a href="https://docs.microsoft.com/intune-user-help/use-managed-devices-to-get-work-done" target="_blank">הכשרה Intune</a></p>
