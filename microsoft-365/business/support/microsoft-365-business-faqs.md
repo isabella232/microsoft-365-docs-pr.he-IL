@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: ביקור 365 של Microsoft, Microsoft 365, SMB, שאלות נפוצות, נפוצות שאלות, תשובות, ביקור
 ms.date: 06/08/2018
-ms.openlocfilehash: 1e277aed366d82e524ef99c43ab0401b5d35e5b0
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: bdcfd6a78278aff83b3fc21ae0fbb43bce140a16
+ms.sourcegitcommit: 1034f54472de62897f2e8f12459db8043ac8443b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32286126"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "33497751"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>ביקור Microsoft 365 שאלות נפוצות
 
@@ -116,7 +116,7 @@ Microsoft כולל מגוון הצעות ניהול הפרודקטיביות ו�
 הנתיב פריסה מוצלחת של Microsoft 365 עסקיים הישירה ביותר הוא לערב עם שותף של Microsoft. הם הכשרה מקיפה ו להיתקל עם מגוון רחב של תרחישי לקוחות וכוללות כשהוא מצויד להבין את הסביבה וצרכים בצורה הטובה ביותר. לקוחות אשר נתקל IT על צוות יכול להשתמש <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">Microsoft 365 עסקיים תחילת העבודה</a> כדי לסייע להם בפריסה Microsoft 365 העסק שלהם. 
 
 ### <a name="does-microsoft-365-business-include-the-full-capabilities-of-microsoft-intune"></a>ביקור 365 Microsoft כוללת יכולות מלאות של Microsoft Intune? 
-כן, מנויים עסקיים 365 Microsoft מורשים להשתמש ביכולות Intune מלא עבור iOS, Android, MacOS וניהול התקנים בפלטפורמות אחרות. תכונות שאינן זמינות במסוף ניהול פשוטה בעסק 365 של Microsoft, כגון ניהול יישום צד שלישי ו התצורה של דברים כמו פרופילים WiFi, VPN אישורים וכו ', יכול להיות מנוהל במסוף Intune מלאה.   
+כן, מנויים עסקיים 365 Microsoft מורשים להשתמש ביכולות Intune מלא עבור iOS, Android, MacOS וניהול התקנים בפלטפורמות אחרות. תכונות שאינן זמינות במסוף ניהול פשוטה ב- Microsoft 365 Business, כמו ניהול יישום צד שלישי וקביעת התצורה של פרופילים WiFi, VPN אישורים וכו ', יכול להיות מנוהל במסוף Intune מלאה. יש לך זכויות השימוש מנהל תצורה לניהול לקוחות המכוסה על-ידי הרשיון EMS. עבור SCCM שאילתות קשורות, ראה <a href="https://docs.microsoft.com/en-us/sccm/core/understand/product-and-licensing-faq#bkmk_csp" target="_blank">שאלות נפוצות SCCM</a>
   
 
 ### <a name="does-azure-active-directory-premium-p1-come-with-microsoft-365-business"></a>תכלת הרקיע P1 Premium הספריה הפעילה מגיעות עם העסק 365 של Microsoft? 
