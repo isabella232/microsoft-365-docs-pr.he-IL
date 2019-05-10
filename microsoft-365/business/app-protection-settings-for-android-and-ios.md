@@ -21,20 +21,22 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: למד כיצד ליצור, לערוך, או למחוק מדיניות ניהול app ולהגן על קבצי עבודה במכשירים Android או iOS.
-ms.openlocfilehash: e81ff8a4bd71dbbbf7ccc31249d450e03f4bd241
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 04479360bf13a8ff685a91ed95440c08f8cf80b4
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32277449"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660551"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>קביעת הגדרות הגנה של אפליקציות עבור מכשירי Android או iOS
 
+![כרזה המצביעים על https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+
 ## <a name="create-an-app-management-policy"></a>יצירת מדיניות לניהול יישומים
 
-1. להיכנס אל [מרכז ניהול עסקי 365 Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837890) עם אישורי מנהל כללי. 
+1. עבור אל מרכז admin ב <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
     
-2. במרכז admin, בחר **התקנים** \> **מדיניות** \> **מדיניות הוספה**.
+2. נווט השמאלי, בחר **התקנים** \> **מדיניות** \> **הוספה**.
   
 3. בחלונית **הוסף מדיניות**, הזן שם ייחודי עבור מדיניות זו. 
     
@@ -62,9 +64,9 @@ ms.locfileid: "32277449"
     
 ## <a name="delete-an-app-management-policy"></a>מחיקת מדיניות לניהול יישומים
 
-1. בכרטיס **פריטי מדיניות**, בחר **מחק מדיניות**.
+1. בדף ' **פריטי מדיניות** ', בחר של מדיניות ולאחר מכן **למחוק**.
     
-2. בחלונית **מחק מדיניות**, בחר את פריטי המדיניות שברצונך למחוק \> **בחר**, לאחר מכן **אשר** כדי למחוק את המדיניות או פריטי המדיניות שבחרת. 
+2. בחלונית **למחוק מדיניות** לבחור **אישור** כדי למחוק את מדיניות או מדיניות שבחרת. 
     
 ## <a name="available-settings"></a>הגדרות זמינות
 

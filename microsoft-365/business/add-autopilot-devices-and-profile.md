@@ -20,16 +20,16 @@ search.appverid:
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: למד כיצד להשתמש AutoPilot של Windows כדי להתקין התקנים חדשים של Windows 10 עבור העסק שלך.
-ms.openlocfilehash: e0802ddcc0964d0b8d102f7dbdb9116b33cdcf58
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 8c4a14b4b9dcbf7a30c1e6e0bdd53418a1ab8a03
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32277114"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660670"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>שימוש במדריך שלב אחר שלב להוספת מכשירים ופרופיל של Autopilot
 
-באפשרותך להשתמש ב- Windows Autopilot כדי להגדיר מכשירים חדשים של Windows 10 עבור העסק שלך, כך שהם יהיו מוכנים לשימוש פרודוקטיבי ברגע שתספק אותם לעובדים שלך.
+באפשרותך להשתמש AutoPilot של Windows כדי להגדיר התקנים 10 חלונות **חדשים** עבור העסק שלך, כך הם מוכנים לשימוש יעיל ברגע שתיתן לו את העובדים שלך.
   
 ## <a name="device-requirements"></a>דרישות המכשירים
 
@@ -41,13 +41,17 @@ ms.locfileid: "32277114"
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>שימוש במדריך ההתקנה ליצירת מכשירים ופרופילים
 
+![כרזה המצביעים על https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+
 אם עדיין לא יצרת קבוצות מכשירים או פרופילים, הדרך הטובה ביותר להתחיל היא באמצעות מדריך צעד-אחר-צעד, אך תוכל גם [להוסיף מכשירים](create-and-edit-autopilot-devices.md) ו [להקצות להם פרופילים](create-and-edit-autopilot-profiles.md) מבלי להשתמש במדריך. 
   
-1. במרכז הניהול של Microsoft 365 Business, אתר כרטיס **פעולות מכשיר** ובחר **פרוס את Windows באמצעות AutoPilot**.
-    
-    ![On the Device actions card, choose Deploy Windows with Autopilot.](media/160d5c2a-11a8-48f9-a8aa-70f084b85448.png)
+1. עבור אל מרכז admin ב <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+
+2. בסרגל ניווט השמאלי לבחור **התקנים** \> **AutoPilot**.
+
+    ![במרכז admin לבחור התקנים ולאחר מכן AutoPilot.](media/AutoPilot.png)
   
-2. בכרטיסיה **הכנת Windows**, לחץ או הקש על **מדריך התחלה**.
+2. בדף **AutoPilot** , לחץ או הקש על **מדריך התחלה**.
     
     ![Click Start guide for step-by-step instructions for Autopilot.](media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   

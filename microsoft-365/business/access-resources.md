@@ -17,12 +17,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: למד כיצד לקבל גישה למשאבים המקומית כמו יישומים שורה של העסק, שיתופי קבצים ומדפסות מתכלת הרקיע של Active Directory המצורפים להתקן Windows 10.
-ms.openlocfilehash: 212685bc229f519152e69b09d0a745bfac7a38cd
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 2be8eb16b9d17547d3bc4c3e4fe499b4c14117a4
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32276880"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660268"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Access המקומית משאבים ממכשיר מצורף AD תכלת הרקיע ב- Microsoft 365 Business
 
@@ -47,11 +47,9 @@ ms.locfileid: "32276880"
 אם אתה AD תכלת הרקיע הצטרפות התקן Windows שהיתה בעבר לתחום או לקבוצת עבודה, עליך לקחת בחשבון את המגבלות הבאות:
   
 - כאשר התקן AD תכלת הרקיע מצטרף, הוא יוצר משתמש חדש ללא הפניה פרופיל קיים. כדי לפתור בעיה זו, פרופילי צורך להעביר באופן ידני. פרופיל המשתמש מכיל מידע, כגון מועדפים קבצים מקומיים, הגדרות הדפדפן, הגדרות תפריט התחלה, וכו '. הגישה הטובה ביותר היא למצוא כלי צד שלישי כדי למפות הגדרות וקבצים קיימים לפרופיל החדש
-    
-- אם ההתקן משתמש אובייקטי מדיניות קבוצתית (GPO), אובייקטי Gpo מסוימים ייתכן שאין דומים [התצורה של ספק שירות](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) (CSP) ב- Intune. הפעל את [הכלי MMAT](https://www.microsoft.com/download/details.aspx?id=45520) כדי למצוא Csp דומים עבור אובייקטי Gpo קיים. 
-    
-- למשתמשים לא תהיה אפשרות לאמת ליישומים התלויים אימות של Active Directory. כדי להתמודד עם זה להעריך באמצעות app מדור קודם ושקול עדכון ליישום העושה אימות מודרניים במידת האפשר.
-    
-- גילוי מדפסת הספריה הפעילה לא יפעלו. כדי לפתור בעיה זו, מספקים נתיבי הדפסה ישירה עבור כל המשתמשים או למנף [הדפסה ענן היברידי](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).
-    
 
+- אם ההתקן משתמש אובייקטי מדיניות קבוצתית (GPO), אובייקטי Gpo מסוימים ייתכן שאין דומים [התצורה של ספק שירות](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) (CSP) ב- Intune. הפעל את [הכלי MMAT](https://www.microsoft.com/download/details.aspx?id=45520) כדי למצוא Csp דומים עבור אובייקטי Gpo קיים.
+
+- למשתמשים לא תהיה אפשרות לאמת ליישומים התלויים אימות של Active Directory. כדי להתמודד עם זה להעריך באמצעות app מדור קודם ושקול עדכון ליישום העושה אימות מודרניים במידת האפשר.
+
+- גילוי מדפסת הספריה הפעילה לא יפעלו. כדי לפתור בעיה זו, מספקים נתיבי הדפסה ישירה עבור כל המשתמשים או למנף [הדפסה ענן היברידי](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).

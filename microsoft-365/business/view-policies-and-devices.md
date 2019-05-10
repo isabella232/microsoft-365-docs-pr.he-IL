@@ -19,34 +19,32 @@ search.appverid:
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
 description: פריטי מדיניות של התקן התצוגה והפעולות על-ידי הכניסה לעסק Microsoft 365 עם credintials הניהול הכללי.
-ms.openlocfilehash: 524e5382fb242ea6b77abd72191073ce4df14f0c
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: fa609aad36b945fe9df99392aa1f9f8252baff1c
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32285809"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660195"
 ---
-# <a name="view-policies-and-devices"></a>הצגת פריטי מדיניות ומכשירים
+# <a name="view-and-manage-policies-and-devices"></a>הצגה וניהול של ההתקנים ומדיניות
 
-## <a name="view-device-policies"></a>הצגת כללי מדיניות של מכשיר
+![כרזה המצביעים על https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
 
-1. היכנס ל- [Microsoft 365 Business](https://portal.office.com) עם אישורים של מנהל מערכת כללי. 
-    
-2. נווט השמאלי, בחר **התקנים** \> **מדיניות** \> **הוספה**.
-    
+## <a name="view-and-edit-device-policies"></a>הצגה ועריכה של פריטי מדיניות של התקן
+
+1.  עבור אל מרכז admin ב <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+2. נווט השמאלי, בחר **התקנים** \> **מדיניות**.
+
     בדף זה ניתן ליצור, לערוך, לשנות קבוצת יעד או למחוק מדיניות.
-    
-    ![Screenshot of the Policies page](media/27ebb1d3-d04b-4221-a13f-8583045b5077.png)
-  
-## <a name="view-device-actions"></a>הצגת פעולות מכשיר
 
-1. היכנס ל- [Microsoft 365 Business](https://portal.office.com) עם אישורים של מנהל מערכת כללי. 
-    
-2. במרכז הניהול, בכרטיס **פעולות מכשיר**, בחר **פעולות מכשיר** כדי לפתוח את הדף **פעולות מכשיר**. 
+    ![Screenshot of the Policies page](media/devicepolicies.png)
+  
+## <a name="view-and-manage-devices"></a>הצגה וניהול של ההתקנים
+
+
+1. נווט השמאלי, בחר **התקנים** \> **ניהול**. 
     
     בדף זה ניתן לבחור מכשיר אחד או יותר ולהסיר את נתוני החברה. עבור מכשירי Windows 10 שקבעת עבורם הגדרות של הגנה על מכשיר, באפשרותך גם לאפס את המכשיר להגדרות היצרן.
-    
-    ![Device actions page.](media/6d2ad0c4-9c96-4489-ab93-c4e38e317d45.PNG)
   
-  
+   ![ניהול התקנים דף](media/devicesmanage.png)
 

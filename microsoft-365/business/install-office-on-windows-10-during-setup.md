@@ -21,14 +21,16 @@ search.appverid:
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
 description: למד כעת לפרוס באופן אוטומטי Office להתקנים Windows 10 במהלך ההתקנה.
-ms.openlocfilehash: 3b702f2a57fcd0ebffc51e17ed6af00e8f1c485b
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: b4359a18d93800def558121cdfd7c97ead058180
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32278302"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660660"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>התקנת Office ב- Windows 10 במהלך ההתקנה
+
+![כרזה המצביעים על https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
 
 הגדרה זו כבויה כברירת מחדל. באפשרותך להפעיל אותה כדי להבטיח שהגירסה העדכנית ביותר של Office תפעל בכל מכשירי Windows 10 של המשתמשים, אך תחילה עליך לוודא שכל הדרישות המוקדמות מתקיימות. המשתמשים צריכים להחזיק ברשיון עבור Microsoft 365 Business כדי שהגדרה זו תדחף את התוכנה למכשיר, בנוסף לדרישות האחרות המתוארות במאמר [הכנה לפריסת לקוח של Office על-ידי Microsoft 365 Business](prepare-for-office-client-deployment.md). 
   
