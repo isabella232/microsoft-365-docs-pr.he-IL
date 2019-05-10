@@ -11,12 +11,12 @@ ms.prod: microsoft-365-business
 ms.collection: M365-subscription-management
 title: משאבים לעסק 365 של Microsoft
 description: למד כיצד לתכנן, לפרוס, ולהשתמש ב- Microsoft Office 365, Windows 10, ניידות ארגון + אבטחה יחד בעסק שלך עבור תשתית משולבת ומאובטחת מאפשרת עבודת צוות אשר מבטל את הנעילה של יצירתיות.
-ms.openlocfilehash: fc3a702f76426f3b7ffcb0f45996b097d0d17e94
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 3c5cc341734896cb9a42565c8647f3f5ac37fc5b
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32278496"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660290"
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -41,8 +41,10 @@ ms.locfileid: "32278496"
                                             </div>
                                             <div class="cardText">
                                                 <h3>סייר</h3>
-                                                <P><a href="https://support.office.com/article/what-is-microsoft-365-business-901e2522-c2cf-4b8c-894e-f482cda3347a" target="_blank">מבט כולל</a></p>
-                                                <P><a href="microsoft-365-business-overview.md" target="_blank">תחילת העבודה עם Microsoft 365 Business</a></p> <P><a href="https://docs.microsoft.com/microsoft-365/business/support/microsoft-365-business-faqs" target="_blank">שאלות נפוצות</a></p>
+                                                <P><a href="https://support.office.com/article/what-is-microsoft-365-business-901e2522-c2cf-4b8c-894e-f482cda3347a" target="_blank">מבט כולל על וידאו</a></p>
+                                                <P><a href="microsoft-365-business-overview.md" target="_blank">מהו העסק 365 של Microsoft</a></p>
+                                                <P><a href="https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-business-service-description" target="_blank">תיאור שירות</a></p>
+                                                <P><a href="https://docs.microsoft.com/microsoft-365/business/support/microsoft-365-business-faqs" target="_blank">שאלות נפוצות</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -58,8 +60,12 @@ ms.locfileid: "32278496"
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>התקנת Microsoft 365 Business</h3>
-                                                <P><a href="set-up.md" target="_blank">הגדר</a></p>
+                                                <h3>הגדר</h3>
+                                              <P><a href="get-microsoft-365-business.md" target="_blank">קבל עסקי Microsoft 365</a></p>
+                                               <P><a href="set-up.md" target="_blank">הגדרת Microsoft 365 עסקי</a></p>
+                                                <P><a href="set-up-windows-devices.md" target="_blank">הגדרת התקני Windows 10</a></p>
+                                                <P><a href="set-up-mobile-devices.md" target="_blank">הגדרת iPhone ו- Android התקנים</a></p>
+                                                <P><a href="auto-install-or-uninstall-office.md" target="_blank">התקנת Office ב- Windows 10</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -93,9 +99,10 @@ ms.locfileid: "32278496"
                                             </div>
                                             <div class="cardText">
                                                 <h3>הגן על נתונים עסקיים והתקנים</h3>
-                                                <P><a href="manage.md" target="_blank">ניהול התקנים</a></p> <P><a href="app-protection-settings-for-android-and-ios.md" target="_blank">להגן על iPhone ו- Android התקנים</a></p>
-                                                 <P><a href="https://support.office.com/article/top-10-ways-to-secure-office-365-and-microsoft-365-business-plans-from-cyber-threats-de2da300-dbb6-4725-bb12-b85a9d296e75" target="_blank">10 דרכים לאבטחת העסק 365 Microsoft עליון</a></p>
+                                                 <P><a href="https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data"target="_blank">10 דרכים לאבטחת העסק 365 Microsoft עליון</a></p>
                                                 <P><a href="security-features.md" target="_blank">למד עוד אודות תכונות אבטחה</a></p>
+                                                <P><a href="remove-company-data.md" target="_blank">הסר נתונים ממכשירים</a></p>
+                                                <P><a href="reset-devices-to-factory-settings.md" target="_blank">איפוס התקני</a></p>
                                                 </div>
                                         </div>
                                     </div>
@@ -112,7 +119,6 @@ ms.locfileid: "32278496"
                                             </div>
                                             <div class="cardText">
                                                 <h3>השתמש</h3>
-                                                <P><a href="set-up-mobile-devices.md" target="_blank">הגדר מכשירים ניידים</a></p>
                                                 <P><a href="https://support.office.com/office-training-center" target="_blank">עזור לכולם להתחיל לעבוד עם Office</a></p>
                                                 <P><a href="https://www.microsoft.com/itpro/windows-10/end-user-readiness" target="_blank">עזור לכולם לעבור 10 חלונות</a></p>
                                                 <P><a href="https://docs.microsoft.com/intune-user-help/use-managed-devices-to-get-work-done" target="_blank">הכשרה Intune</a></p>
@@ -127,14 +133,14 @@ ms.locfileid: "32278496"
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/media/logos/logo_Windows.svg" alt="Windows logo" />
+                                                    <img src="https://docs.microsoft.com/en-us/office/media/icons/success-blue.svg" alt="Success logo" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>Windows 10</h3>
-                                                <P><a href="set-up-windows-devices.md" target="_blank">הגדרת התקני Windows 10</a></p>
-                                                <P><a href="remove-company-data.md" target="_blank">הסר נתונים ממכשירים</a></p>
-                                                <P><a href="reset-devices-to-factory-settings.md" target="_blank">איפוס התקני</a></p>
+                                                <h3>משאבים עבור שותפים</h3>
+                                                <P><a href="get-microsoft-365-business.md" target="_blank">קבל העסק 365 Microsoft ממרכז שותף</a></p>
+                                                <P><a href="https://www.microsoft.com/microsoft-365/partners/business" target="_blank">דף שותף Microsoft 365</a></p>
+                                                <P><a href="https://www.microsoft.com/microsoft-365/partners/resources/microsoft-365-business-licensing-deck" target="_blank">חפיסת רישוי עסקי 365 של Microsoft</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -154,9 +160,10 @@ ms.locfileid: "32278496"
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>קבל עזרה משותף של Microsoft</h3>
+                                                    <h3>זקוק לעזרה?</h3>
                                                     <P><a href="https://www.microsoft.com/solution-providers/search" target="_blank">מצא שותף</a></p>
-                                                    <P><a href="https://www.microsoft.com/microsoft-365/partners/business" target="_blank">משאבי שותפים</a></p>
+                                                    <P><a href="https://support.office.com/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b" target="_blank">פנה לתמיכה של Office 365</a></p>
+                                                    <P><a href="https://techcommunity.microsoft.com/t5/Small-and-Medium-Businesses/ct-p/SMB" target="_blank">הקהילה טכני של עסקים קטנים ובינוניים</a></p>
                                                 </div>
                                             </div>
                                         </div>
@@ -172,10 +179,9 @@ ms.locfileid: "32278496"
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>דרושה תמיכה?</h3>
-                                                     <P><a href="https://azure.microsoft.com/support/options/" target="_blank">תכלת הרקיע</a></p>
-                                                     <P><a href="https://support.office.com/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b" target="_blank">Office 365</a></p>
-                                                     <P><a href="http://support.microsoft.com/products/windows" target="_blank">Windows 10</a></p>
+                                                    <h3>תיעוד העזרה</h3>
+                                                     <P><a href="https://docs.microsoft.com/office/admins-itprofessionals" target="_blank">מסמכים של office admin</a></p>
+                                                     <P><a href="https://docs.microsoft.com/intune/index">Microsoft Intune מסמכים</a></p>
                                                 </div>
                                             </div>
                                         </div>
