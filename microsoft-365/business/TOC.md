@@ -1,4 +1,5 @@
-# [התחל בעבודה](microsoft-365-business-overview.md)
+# [ביקור Microsoft 365](index.md)
+## [מבט כולל](microsoft-365-business-overview.md)
 ## [קבל עסקי Microsoft 365](sign-up.md)
 ## [דרישות מוקדמות עבור הגנה על נתונים](pre-requisites-for-data-protection.md)
 ## [הגדר](set-up.md)
