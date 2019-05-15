@@ -2,8 +2,8 @@
 layout: HubPage
 hide_bc: true
 ms.topic: hub-page
-ms.author: robmazz
-author: robmazz
+ms.author: sirkkuw
+author: sirkkuw
 keywords: ביקור 365 של Microsoft, Microsoft 365, עסקים, SMB, קטנים העסק הבינוני, תיעוד עסקיים 365 של Microsoft, מסמכים, תיעוד, מידע טכני
 localization_priority: Normal
 audience: microsoft-business
@@ -11,12 +11,12 @@ ms.prod: microsoft-365-business
 ms.collection: M365-subscription-management
 title: משאבים לעסק 365 של Microsoft
 description: למד כיצד לתכנן, לפרוס, ולהשתמש ב- Microsoft Office 365, Windows 10, ניידות ארגון + אבטחה יחד בעסק שלך עבור תשתית משולבת ומאובטחת מאפשרת עבודת צוות אשר מבטל את הנעילה של יצירתיות.
-ms.openlocfilehash: 3c5cc341734896cb9a42565c8647f3f5ac37fc5b
-ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
+ms.openlocfilehash: 1a2ce52c9132a63ef6535e287dc2e37421984b61
+ms.sourcegitcommit: f420a5cdedf3ec2babc6d8ad7e7c79da0b08e115
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33660290"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33966957"
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -61,7 +61,7 @@ ms.locfileid: "33660290"
                                             </div>
                                             <div class="cardText">
                                                 <h3>הגדר</h3>
-                                              <P><a href="get-microsoft-365-business.md" target="_blank">קבל עסקי Microsoft 365</a></p>
+                                              <P><a href="sign-up.md" target="_blank">קבל עסקי Microsoft 365</a></p>
                                                <P><a href="set-up.md" target="_blank">הגדרת Microsoft 365 עסקי</a></p>
                                                 <P><a href="set-up-windows-devices.md" target="_blank">הגדרת התקני Windows 10</a></p>
                                                 <P><a href="set-up-mobile-devices.md" target="_blank">הגדרת iPhone ו- Android התקנים</a></p>
