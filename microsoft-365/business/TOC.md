@@ -1,7 +1,9 @@
-# [ביקור Microsoft 365](index.md)
-## [מבט כולל](microsoft-365-business-overview.md)
+# ביקור Microsoft 365
+## [Microsoft 365](index.md)
+## [מהו העסק 365 של Microsoft?](microsoft-365-business-overview.md)
 ## [קבל עסקי Microsoft 365](sign-up.md)
 ## [דרישות מוקדמות עבור הגנה על נתונים](pre-requisites-for-data-protection.md)
+## [מבט כולל על הגדר](set-up-overview.md)
 ## [הגדר](set-up.md)
 ### [שדרוג ל- Windows לעדכן יוצרי Pro](upgrade-to-windows-pro-creators-update.md)
 ### [הגדר מכשירים ניידים](set-up-mobile-devices.md)
@@ -14,8 +16,10 @@
 ## [מאובטח](security-features.md)
 ### [לאבטח את העסק שלך](/Office365/Admin/security-and-compliance/secure-your-business-data?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [להגדיר תכונות אבטחה מתקדמות](set-up-advanced-security.md)
-## [ניהול](manage.md)
+## משתמשים
 ### [Add users](add-users-m365b.md)
+### [הסר לעובד](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
+## ניהול התקנים
 ### [הצגה ועריכה של פריטי מדיניות והתקנים](view-policies-and-devices.md)
 ### [הסרת נתוני החברה](remove-company-data.md)
 ### [התקנים איפוס להגדרות היצרן](reset-devices-to-factory-settings.md)
@@ -26,7 +30,12 @@
 #### [אמת את ההגדרות במחשבים 10 חלונות](validate-settings-on-windows-10-pcs.md)
 ### [הגדרות הגנה עבור התקני Windows 10](protection-settings-for-windows-10-devices.md)
 ## [מעבר אל Microsoft 365 Business](migrate-to-microsoft-365-business.md)
-## [הוספת פרופיל והתקנים Autopilot](add-autopilot-devices-and-profile.md)
+## חיובים
+### [שטר שלך](/Office365/Admin/subscriptions-and-billing/view-your-bill-or-invoice?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
+### [שכר](/Office365/Admin/subscriptions-and-billing/pay-for-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
+### [ביטול](/Office365/Admin/subscriptions-and-billing/cancel-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
+## Autopilot
+### [הוספת פרופיל והתקנים Autopilot](add-autopilot-devices-and-profile.md)
 ### [יצירה ועריכה של פרופילי AutoPilot](create-and-edit-autopilot-profiles.md)
 ### [יצירה ועריכה של מכשירי AutoPilot](create-and-edit-autopilot-devices.md)
 ### [הגדרות הפרופיל autoPilot](autopilot-profile-settings.md)
