@@ -3,8 +3,9 @@
 ## [מהו העסק 365 של Microsoft?](microsoft-365-business-overview.md)
 ## [קבל עסקי Microsoft 365](sign-up.md)
 ## [דרישות מוקדמות עבור הגנה על נתונים](pre-requisites-for-data-protection.md)
-## [מבט כולל על הגדר](set-up-overview.md)
-## [הגדר](set-up.md)
+## הגדרה
+### [מבט כולל על כיוונון](set-up-overview.md)
+### [הגדרת Microsoft 365 עסקי](set-up.md)
 ### [שדרוג ל- Windows לעדכן יוצרי Pro](upgrade-to-windows-pro-creators-update.md)
 ### [הגדר מכשירים ניידים](set-up-mobile-devices.md)
 ### [הגדרת התקנים של Windows](set-up-windows-devices.md)
