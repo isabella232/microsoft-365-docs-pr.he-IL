@@ -7,17 +7,18 @@
 ### [מבט כולל על כיוונון](set-up-overview.md)
 ### [הגדרת Microsoft 365 עסקי](set-up.md)
 ### [שדרוג ל- Windows לעדכן יוצרי Pro](upgrade-to-windows-pro-creators-update.md)
-### [הגדר מכשירים ניידים](set-up-mobile-devices.md)
-### [הגדרת התקנים של Windows](set-up-windows-devices.md)
 ### [הכן פריסת לקוח של Office](prepare-for-office-client-deployment.md)
 ### [אוטומטי להתקין או להסיר את ההתקנה של Office](auto-install-or-uninstall-office.md)
 ### [Access המקומית משאבים]()
 #### [לאפשר להתקני Windows 10 לתחום ניהול](manage-windows-devices.md)
 #### [משאבים Access ממכשיר מצורף AD תכלת הרקיע](access-resources.md)
+## הגדרת התקן המשתמש
+### [הגדר מכשירים ניידים](set-up-mobile-devices.md)
+### [הגדרת התקנים של Windows](set-up-windows-devices.md)
 ## [מאובטח](security-features.md)
 ### [לאבטח את העסק שלך](/Office365/Admin/security-and-compliance/secure-your-business-data?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [להגדיר תכונות אבטחה מתקדמות](set-up-advanced-security.md)
-## משתמשים
+## ניהול משתמשים
 ### [Add users](add-users-m365b.md)
 ### [הסר לעובד](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ## ניהול התקנים
