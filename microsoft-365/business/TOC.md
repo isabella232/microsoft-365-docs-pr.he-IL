@@ -15,9 +15,10 @@
 ## הגדרת התקן המשתמש
 ### [הגדר מכשירים ניידים](set-up-mobile-devices.md)
 ### [הגדרת התקנים של Windows](set-up-windows-devices.md)
-## [מאובטח](security-features.md)
-### [לאבטח את העסק שלך](/Office365/Admin/security-and-compliance/secure-your-business-data?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
-### [להגדיר תכונות אבטחה מתקדמות](set-up-advanced-security.md)
+## [לאבטח את העסק שלך](security-features.md)
+### [הגנה מפני איום העלאה](increase-threat-protection.md)
+### [תחילת העבודה עם Access מותנה](set-up-conditional-access-policies.md)
+### [הגדרת תכונות תאימות](set-up-compliance.md)
 ## ניהול משתמשים
 ### [Add users](add-users-m365b.md)
 ### [הסר לעובד](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
