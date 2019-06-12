@@ -11,12 +11,12 @@ ms.prod: microsoft-365-business
 ms.collection: M365-subscription-management
 title: משאבים לעסק 365 של Microsoft
 description: למד כיצד לתכנן, לפרוס, ולהשתמש ב- Microsoft Office 365, Windows 10, ניידות ארגון + אבטחה יחד בעסק שלך עבור תשתית משולבת ומאובטחת מאפשרת עבודת צוות אשר מבטל את הנעילה של יצירתיות.
-ms.openlocfilehash: 1a2ce52c9132a63ef6535e287dc2e37421984b61
-ms.sourcegitcommit: f420a5cdedf3ec2babc6d8ad7e7c79da0b08e115
+ms.openlocfilehash: a7b6ef6b3c86868ffd9dd2ab912c427911075911
+ms.sourcegitcommit: 7ac06563c6ff034358e8fd3f9298fc426187ade2
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33966957"
+ms.lasthandoff: 05/31/2019
+ms.locfileid: "34653045"
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -99,7 +99,6 @@ ms.locfileid: "33966957"
                                             </div>
                                             <div class="cardText">
                                                 <h3>הגן על נתונים עסקיים והתקנים</h3>
-                                                 <P><a href="https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data"target="_blank">10 דרכים לאבטחת העסק 365 Microsoft עליון</a></p>
                                                 <P><a href="security-features.md" target="_blank">למד עוד אודות תכונות אבטחה</a></p>
                                                 <P><a href="remove-company-data.md" target="_blank">הסר נתונים ממכשירים</a></p>
                                                 <P><a href="reset-devices-to-factory-settings.md" target="_blank">איפוס התקני</a></p>
