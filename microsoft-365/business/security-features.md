@@ -19,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: למד אודות תכונות אבטחה הכלולים ב- Microsoft 365 עסקיים.
-ms.openlocfilehash: 54bac38ca3a60f88f848ec3ab8bdd8a7c0fabd54
-ms.sourcegitcommit: ab04fea2765a63489d70b506f0e14303a5be16a0
+ms.openlocfilehash: bd61ad3bf1b34635a7b80f1c9ccf63fa98d31915
+ms.sourcegitcommit: 274af83139ad7da3aa33366c3323d533d95c7db4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780778"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "35017521"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>תכונות האבטחה והתאימות של Microsoft 365 עסקי
 
@@ -75,6 +75,19 @@ Microsoft 365 שעסק מציע תכונות אבטחה פשוטה כדי לסי
 - **[Access מותנה](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview) זהה כתוכנית AD P1 תכלת הרקיע**
 
     Access מותנה באפשרותך לעזור להגן על הארגון שלך מפני סיכון הכניסה, גישה ניסיונות רשת לא צפויה או אזור, ניסיונות גישה סוגי התקנים מסוכנת טופס, וכן הלאה. אכיפת מדיניות לאחר השלמת האימות הראשון, והוא עושה שימוש אותות מהאירוע האימות הראשון כדי לקבוע אם יש לאשר את הגישה שניסית לבצע, Access מותנה מונעת, או f הוכחה יותר (כגון הטופס השני של זיהוי) נדרש.
+
+    תכונות access מותנה הכלולות הן:
+
+    - Access בהתבסס על שם משתמש, קבוצת תפקיד
+    - Access [בהתבסס על יישום](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) 
+    - [Access בהתבסס על מיקום](https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration);  אפשר גישה מתוך טווחי IP מהימן או במדינות ספציפיות בלבד 
+    - דרוש MFA עבור גישה
+    - חסימת הגישה יישומים המשתמשים [באימות מדור קודם](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication)
+    - דרוש שימוש tp apps [הגנה app Intune](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access)
+    - אימות מותאמים אישית כגון MFA עם ספקים, לדוגמה DUO.
+   
+    תכונות נוספות:
+    - [איפוס סיסמה בשירות עצמי](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-customization) עבור היברידית AD תכלת הרקיע
     
 ## <a name="compliance-features"></a>תכונות תאימות
 
