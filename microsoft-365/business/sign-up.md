@@ -18,18 +18,24 @@ search.appverid:
 - BCS160
 - MET150
 description: למד כיצד לרכוש והצטרף לעסק 365 של Microsoft.
-ms.openlocfilehash: ecbf316f63e11ed07dc775f6659f650112cc8cb4
-ms.sourcegitcommit: 274af83139ad7da3aa33366c3323d533d95c7db4
+ms.openlocfilehash: 0f92bf35d2a7898d530fd509d8d13c91f32ccab3
+ms.sourcegitcommit: 64a7511d8c5ef527673b4c05753e6bb52ce9ab86
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "35086333"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35114921"
 ---
 # <a name="sign-up-for-microsoft-365-business"></a>הירשם עבור העסק 365 של Microsoft
 
 אם אתה שותף, ראה [קבל Microsoft 365 עסקיים ממרכז שותף של Microsoft](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
 
-מעבר אל [יתרון עסקי 365 Microsoft לגלות](https://www.microsoft.com/microsoft-365/business#pmg-cmp-desktop) ובחרו **לרכוש כעת** תחת עסקי 365 של Microsoft.
+כדי לבצע רכישה מקוונת של Microsoft 365 עסקיים, לעבור אל [יתרון עסקי 365 Microsoft לגלות](https://www.microsoft.com/microsoft-365/business#pmg-cmp-desktop) ובחרו **לרכוש כעת** תחת עסקי 365 של Microsoft.
+
+באפשרותך גם ראשי מעל [חנות Microsoft](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) כדי לקנות עסק 365 Microsoft וגם לקבל עזרה כיוונון.
+
+## <a name="complete-the-sign-up-steps"></a>השלם את השלבים הרשמה
+
+לאחר שרכשת עסקיים 365 של Microsoft, בצע את השלבים הבאים.
 
 1. בדף **הפתיחה, בוא להכיר לך** להזין את המידע הנדרש. שים לב:
  
@@ -43,7 +49,7 @@ ms.locfileid: "35086333"
     - **החברה שלך**: הזן שם היחודיים של העסק שלך. זו הוא השם שבו משתמש אתר האינטרנט של העסק שלך אם יש לך כזו, והיא גם השם שברצונך לכלול לאחר הסימן בעת קבלת דואר אלקטרוני של העסק @. שם זה נקרא תחום. לדוגמה, אם העסק שלך נקראת מגלשי קונטוסו, הזן ContosoSkis לאחר הסימן @.
     - **בחר קבוצת מחשבים**: אם אתה הבעלים של שם התחום שלך כבר, בחר. onmicrosoft.com מהרשימה הנפתחת תפריט ואנו מבקשים ממך להגדיר אותו במועד מאוחר יותר. אחרת, קל לקנות שם תחום המייצג את העסק שלך. לשם כך, בחר את התחום שתעדיף מתוך מהתפריט הנפתח. לדוגמה, כתובת הדואר האלקטרוני המלאה שלך עשוי להיות *Teresa@ContosoSkis.net*. אנו ליידע אותך באופן מיידי אם שם התחום אינו זמין. אם כן, נוסיף את העלות של התחום שלך עלות מנוי Microsoft 365 העסק שלך. קבוצת המחשבים החדשה גם יוגדר עד ו מוכן לשימוש ב- Microsoft 365 אם תרכוש אותו כאן. לקבלת מידע אודות תחומים, ראה [שאלות נפוצות של תחומים](https://docs.microsoft.com/office365/admin/setup/domains-faq).
     
-    ![צילום מסך של יצירת דף מזהה המשתמש שלך.](media/signinuserid.png)
+        ![צילום מסך של יצירת דף מזהה המשתמש שלך.](media/signinuserid.png)
 
 3. למלא את שאר השדות ובחר באפשרות **צור חשבון שלי**.
 4. על **להוכיח שאתה .You. Not.A.Robot.** דף להזין מספר טלפון כדי לקבל קוד באמצעות באמצעות טקסט או שיחה ובחר **טקסט לי** או **התקשר אלי**ולאחר מכן הזן את קוד האימות \> **הבא**.

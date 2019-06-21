@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
 description: למד כיצד לרכוש עסק 365 Microsoft ממרכז שותף של Microsoft.
-ms.openlocfilehash: 4f36edb356d382880bb1dda407bd52ca8e2dcce6
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+ms.openlocfilehash: 61e178b73c83880aab22336814dd9dc7fca046a5
+ms.sourcegitcommit: 64a7511d8c5ef527673b4c05753e6bb52ce9ab86
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072699"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35114941"
 ---
 # <a name="get-microsoft-365-business"></a>השג את Microsoft 365 Business
 
@@ -34,6 +34,8 @@ ms.locfileid: "34072699"
 אם אין לך שותף ואתה מעוניין להשיג את Microsoft 365 Business, באפשרותך [לקנות אותו כאן](https://www.microsoft.com/en-US/microsoft-365/business).
 
 ראה [להירשם עבור העסק 365 של Microsoft](sign-up.md) לקבלת הוראות מפורטות.
+
+באפשרותך גם ראשי מעל [חנות Microsoft](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) כדי לקנות עסק 365 Microsoft וגם לקבל עזרה כיוונון.
   
 ## <a name="get-microsoft-365-business-from-microsoft-partner-center"></a>השגת Microsoft 365 Business ממרכז השותפים של Microsoft
 
