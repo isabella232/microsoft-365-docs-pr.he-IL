@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: ביקור 365 של Microsoft, Microsoft 365, SMB, שאלות נפוצות, נפוצות שאלות, תשובות, ביקור
 ms.date: 06/08/2018
-ms.openlocfilehash: 6ef500c9b0c9e83e77e46c1eaf7057e3e46cfe0d
-ms.sourcegitcommit: 5c6bbf6dd7020b462b56b644b5a0fcc0217d6a53
+ms.openlocfilehash: 9f3f82169dcd4454ffb46b1269422688a107f2b0
+ms.sourcegitcommit: 0c1227dc79b66bab529bf178c5672791369ba471
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34276222"
+ms.lasthandoff: 07/11/2019
+ms.locfileid: "35630588"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>ביקור Microsoft 365 שאלות נפוצות
 
@@ -27,7 +27,7 @@ Microsoft 365 היא פתרון משולב אשר משלבת כלי פרודוק
 **סדרת כלים הפרודוקטיביות ושיתוף עסקי הוליסטי** 
 * Word, Excel, PowerPoint, Outlook, OneNote, Publisher, ו- Access 
 * Exchange, OneDrive, Skype עבור SharePoint עסקיות, צוותים של Microsoft, 
-* יישומים עסקיים מ- Office (הזמנות, מנהל לקוח Outlook, MileIQ<sup>[1](#footnote1)</sup>, רישומים Microsoft<sup>[1](#footnote1)</sup>, חיבורים Microsoft<sup>[1](#footnote1)</sup>,<sup>[1](#footnote1)</sup>של הפקת חשבונית של Microsoft) 
+* יישומים עסקיים מ- Office (הזמנות, מנהל לקוח Outlook, MileIQ<sup>[1](#footnote1)</sup>, Microsoft הפקת חשבונית<sup>[1](#footnote1)</sup>) 
  
 **יכולות ניהול ואבטחה של ההתקן ברמה ארגונית** 
 - סיוע במתן הגנה מפני איומים חיצוניים כמו דיוג & מתוחכם תוכנות זדוניות עם הגנה איום מתקדם של Office 365 ו- Windows Defender לנצל מגן 
