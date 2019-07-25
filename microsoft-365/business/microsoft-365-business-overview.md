@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: למד כיצד להגדיר עסקיים 365 של Microsoft.
-ms.openlocfilehash: 6fd328ebd4a8d3fbcde836c4aa87b56b9775c3cd
-ms.sourcegitcommit: 64a7511d8c5ef527673b4c05753e6bb52ce9ab86
+ms.openlocfilehash: 64cfa460311af6cdafb637ceb3415511e003e394
+ms.sourcegitcommit: dd0d99d2ff930cd1777d6704f4d88a70adc9ca74
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35114961"
+ms.lasthandoff: 07/24/2019
+ms.locfileid: "35853148"
 ---
 # <a name="overview-of-microsoft-365-business"></a>מבט כולל על עסקי Microsoft 365
 
@@ -36,7 +36,7 @@ Microsoft 365 Business הוא ערכה מקיפה של כלי שיתוף פעו�
   
 Microsoft 365 Business נועד עבור עד 300 רשיונות. אם אתה זקוק לרשיונות נוספים, עיין בתיעוד של [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) לקבלת מידע נוסף.
 
-ראה [תיאור שירות עסקי 365 של Microsoft](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-business-service-description) עבור כל רשימת תכונות.
+ראה [תיאור שירות עסקי 365 של Microsoft](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) עבור כל רשימת תכונות.
   
 ## <a name="small-business-security-needs"></a>דרוש אבטחה לעסקים קטנים
 
