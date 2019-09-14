@@ -1,6 +1,6 @@
 ---
-title: ביקור Microsoft 365 שאלות נפוצות 
-description: חפש תשובות לרוב שאלות נפוצות אודות העסק 365 של Microsoft, פתרון חדש המיועד לעסקים קטנים, בינוניים (SMB). 
+title: מיקרוסופט 365 שאלות נפוצות לגבי עסקים 
+description: חפש תשובות לשאלות הנפוצות ביותר אודות Microsoft 365 Business, פתרון חדש המיועד לעסקים קטנים ובינוניים (SMB). 
 author: Sirkkuw
 ms.author: sirkkuw
 ms.topic: article 
@@ -8,186 +8,188 @@ ms.prod: microsoft-365-business
 ms.collection: M365-subscription-management
 localization_priority: Normal
 audience: microsoft-business 
-keywords: ביקור 365 של Microsoft, Microsoft 365, SMB, שאלות נפוצות, נפוצות שאלות, תשובות, ביקור
+keywords: מיקרוסופט 365 עסקים, מיקרוסופט 365, SMB, שאלות נפוצות, שאלות נפוצות, תשובות, עסקים
 ms.date: 06/08/2018
-ms.openlocfilehash: 9f3f82169dcd4454ffb46b1269422688a107f2b0
-ms.sourcegitcommit: 0c1227dc79b66bab529bf178c5672791369ba471
+ms.openlocfilehash: 3ab99b402bf440cd0c113a87dc453ff388a5befb
+ms.sourcegitcommit: 91ff1d4339f0f043c2b43997d87d84677c79e279
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/11/2019
-ms.locfileid: "35630588"
+ms.lasthandoff: 09/14/2019
+ms.locfileid: "36982320"
 ---
-# <a name="microsoft-365-business-frequently-asked-questions"></a>ביקור Microsoft 365 שאלות נפוצות
+# <a name="microsoft-365-business-frequently-asked-questions"></a>מיקרוסופט 365 שאלות נפוצות לגבי עסקים
 
 ## <a name="general"></a>כללי
 
-### <a name="what-is-microsoft-365-business"></a>מהו העסק 365 של Microsoft? 
-Microsoft 365 היא פתרון משולב אשר משלבת כלי פרודוקטיביות הטוב מסוגו, האבטחה ויכולות ניהול התקן עבור עסקים קטנים בגודל בינוני. 
+### <a name="what-is-microsoft-365-business"></a>מה זה מיקרוסופט 365 עסקים? 
+Microsoft 365 הוא פתרון משולב המביא לכלי הפרודוקטיביות, האבטחה ויכולות ניהול ההתקנים הטובים ביותר ברמה הטובה ביותר עבור עסקים קטנים ובינוניים. 
 
-**סדרת כלים הפרודוקטיביות ושיתוף עסקי הוליסטי** 
-* Word, Excel, PowerPoint, Outlook, OneNote, Publisher, ו- Access 
-* Exchange, OneDrive, Skype עבור SharePoint עסקיות, צוותים של Microsoft, 
-* יישומים עסקיים מ- Office (הזמנות, מנהל לקוח Outlook, MileIQ<sup>[1](#footnote1)</sup>, Microsoft הפקת חשבונית<sup>[1](#footnote1)</sup>) 
+**סט הוליסטי של פרודוקטיביות עסקית וכלי שיתוף פעולה** 
+* Word, Excel, PowerPoint, Outlook, OneNote, Publisher ו-Access 
+* Exchange, OneDrive, סקייפ לעסק, צוותי מיקרוסופט, SharePoint 
+* יישומים עסקיים מ-Office (הזמנות, מנהל הלקוחות של Outlook, MileIQ<sup>[1](#footnote1)</sup>, מיקרוסופט החשבונית<sup>[1](#footnote1)</sup>) 
  
-**יכולות ניהול ואבטחה של ההתקן ברמה ארגונית** 
-- סיוע במתן הגנה מפני איומים חיצוניים כמו דיוג & מתוחכם תוכנות זדוניות עם הגנה איום מתקדם של Office 365 ו- Windows Defender לנצל מגן 
--  מסייע & בקרת ניהול מידע רגיש כיצד לגשת ולשדר עם מדיניות מניעת אובדן נתונים של Office 365 (כדי שיהיה זמין בקיץ, 2018) ו- 1 תכנון של הגנת מידע תכלת הרקיע 
--  מסייע להגן על, לשמר ו לגבות את הנתונים שלך עם Exchange Online בארכיון  
--   הגנה app עבור Office & אחרים apps ניידים עם הגנה App Intune 
--  ניהול התקנים עבור Windows 10 מחשבים אישיים, & MacOS Mobiles התקנים עם ניהול התקנים Intune 
--  עקבי תצורת האבטחה במכשירים - הגנה על נתוני החברה במכשירים - Windows Defender, ופעיל תמיד ועדכני 
+**ניהול התקנים ויכולות אבטחה ברמה ארגונית** 
+- מסייע לספק הגנה מפני איומים חיצוניים כגון דיוג _ Amp_ תוכנות זדוניות מתוחכמות עם Office 365 איום מתקדם הגנה משמר Windows Defender ניצול 
+-  מסייע לשלוט ב-_ Amp_ לנהל את אופן הגישה של מידע רגיש ומשודר עם מדיניות מניעת אובדן נתונים של Office 365 (להיות זמינה בקיץ, 2018) ותוכנית הגנת מידע תכלת 1 
+-  סיוע בהגנה, שמירה וגיבוי של הנתונים שלך באמצעות ' ארכיון מקוון של Exchange '  
+-   הגנה app עבור Office _ Amp_ יישומים ניידים אחרים עם Intune App הגנה 
+-  ניהול התקנים עבור מחשבי Windows 10, MacOS _ Amp_ התקני מוביילים עם ניהול התקן Intune 
+-  תצורת אבטחה עקבית בין התקנים-הגנה על נתוני חברה באמצעות התקנים-Windows Defender, תמיד-מופעל ועדכני 
  
  
-**הגדרת פריסת ומשתמש התקן פשוטה** 
-* בודד מסוף ניהול להתקנה וניהול של משתמשים והתקנים 
-* התקנה אוטומטית של יישומי Office במחשבים Windows 10 
-* Office + Windows 10 מעודכן תמיד 
-* פריסה יעילה של מחשבים עם Windows AutoPilot
+**פריסת התקנים מפושטת וכיוונון משתמש** 
+* קונסולת ניהול יחיד להתקנה וניהול של משתמשים והתקנים 
+* התקנה אוטומטית של יישומי Office במחשבי Windows 10 
+* מעודכן תמיד ב-Office + Windows 10 
+* פריסה מפושטת של מחשבים עם Windows טייס אוטומטי
 
-### <a name="who-should-consider-adopting-microsoft-365-business"></a>מי לשקול ביקור 365 Microsoft מאמצת? 
-ביקור 365 Microsoft נבנה עבור לקוחות קטנים ובגודל בינוני אשר יש מעט כ- no משאבי על צוות וברצונך הטוב מסוגו הפרודוקטיביות ושיתוף היכולות של Office 365 יחד עם פתרונות ניהול ואבטחה של התקן אשר להגן על נתונים עסקיים. לקוחות עסקיים 365 Microsoft הוא מוכן להעביר את פעולות ה-IT שלהם הענן והוא מעוניין בשמירה על stance מקדימים כדי לסייע בהגנה על נתוני החברה והתקני בבעלות העובד.
+### <a name="who-should-consider-adopting-microsoft-365-business"></a>מי צריך לשקול לאמץ את מיקרוסופט 365 עסקים? 
+Microsoft 365 Business נבנה עבור לקוחות קטנים ובינוניים, שאין להם משאבי IT קטנים בצוות ומעוניינים ביכולות הפרודוקטיביות והשיתוף הטובות ביותר של Office 365 יחד עם ניהול התקנים ופתרונות אבטחה ה לשמור על הנתונים העסקיים. הלקוח העסקי של Microsoft 365 מוכן להעביר את פעולות ה-IT שלהם לענן הצמתים והוא מעוניין לשמור על עמידה אקטיבית כדי לסייע בהגנה על נתונים בהתקנים השייכים לחברה ולעובדים.
 
-### <a name="how-can-i-get-microsoft-365-business-for-my-business"></a>כיצד אוכל לקבל Microsoft 365 עסקי עבור העסק שלי? 
-ייתכן שניתן לרכוש עסק 365 Microsoft באמצעות <a href="https://www.microsoft.com/solution-providers/search" target="_blank">שותף Microsoft</a> או ישירות מ- <a href="https://www.microsoft.com//microsoft-365/business" target="_blank">Microsoft</a>. בבחירת אם לרכוש ישירות מ- Microsoft או באמצעות שותף של Microsoft, עליך לשקול את היכולת על צוות ולאחר כדי לשמור על תשתית IT לאפשר. שותף של Microsoft יכולים לסייע לך לפרוס ולנהל תשתית ה-IT כולל פתרונות Microsoft.
+### <a name="how-can-i-get-microsoft-365-business-for-my-business"></a>איך אני יכול לקבל את מיקרוסופט 365 עסקים עבור העסק שלי? 
+ניתן לרכוש עסקים של microsoft 365 באמצעות <a href="https://www.microsoft.com/solution-providers/search" target="_blank">שותף של microsoft</a> או ישירות מ- <a href="https://www.microsoft.com//microsoft-365/business" target="_blank">microsoft</a>. כדי לבחור אם לרכוש ישירות מ-Microsoft או באמצעות שותף של Microsoft, עליך לשקול את יכולת העובדים והרצון שלך לשמור על תשתית IT. שותף של Microsoft יכול לסייע לך לפרוס ולנהל את תשתית ה-IT שלך כולל פתרונות של Microsoft.
 
-### <a name="how-much-does-microsoft-365-business-cost"></a>באיזו מידה עסקיים 365 Microsoft עלות? 
-ביקור 365 Microsoft מוצע ב- USD$ 20.00 המשתמש לחודש בהתאם של _חוזה שנתי_ אם רכשת ישירות מ- Microsoft. כאשר שנרכשו דרך שותף של Microsoft, תמחור עשויה להשתנות בהתאם את השירותים שמספק השותף ואת מודל התמחור שלהם עבור העסק 365 של Microsoft. 
+### <a name="how-much-does-microsoft-365-business-cost"></a>כמה עולה עלות עסקית של מיקרוסופט 365? 
+מיקרוסופט 365 העסק מוצע ב USD $20.00 המשתמש/החודש מבוסס על _חוזה שנתי_ אם נרכש ישירות מ-Microsoft. בעת הרכישה באמצעות שותף של Microsoft, תמחור יכול להשתנות בהתבסס על השירותים שהשותף מספק ומודל התמחור שלהם עבור Microsoft 365 Business. 
 
-### <a name="is-there-a-cap-to-how-many-microsoft-365-business-seats-a-customer-can-have"></a>אין כיפה כמה מקומות Microsoft 365 עסקי לקוחות יכולים להיות? 
-ביקור 365 Microsoft תוכנן לעסקים קטנים ובינוניים בגודל עם נמוך עד בינוני בדרישות המורכבות של IT. לקוחות לרכוש רשיונות העסק 365 Microsoft עד 300 עבור הארגון שלהם. לקוחות באפשרותך לערבב ולהתאים מנויים ענן; כתוצאה מכך, בהתאם של הארגון שלהם לדרישות IT, הלקוחות יכולים להוסיף רשיונות ארגוניים 365 Microsoft באותו החשבון. 
+### <a name="is-there-a-cap-to-how-many-microsoft-365-business-seats-a-customer-can-have"></a>האם יש כיפה כמה מושבים עסקיים של מיקרוסופט 365 ללקוח יכול להיות? 
+מיקרוסופט 365 Business תוכנן עבור עסקים קטנים עד בינוניים עם דרישות מורכבות IT נמוכה עד בינונית. הלקוחות יכולים לרכוש עד 300 מיקרוסופט 365 רשיונות עסקיים עבור הארגון שלהם. לקוחות יכולים לערבב ולהתאים מנויים ענן; כתוצאה מכך, בהתאם לדרישות ה-IT של הארגון שלהם, לקוחות עשויים להוסיף את Microsoft 365 רשיונות ארגוניים לאותו חשבון. 
  
-כשאתה שוקל סביבה המורכבת סוגי מנוי מרובים, לקוחות אמור לעבוד עם שלהם יועצי IT מהימן כדי לקבוע את הדרך הטובה ביותר לנהל ולאבטח את המנויים שונים כמו שימוש עסקי 365 של Microsoft ו- Microsoft 365 ארגון יכולות שונות כדי לאבטח ולנהל יישומים ונתונים.
+כאשר אתה שוקל סביבה המורכבת מסוגי מנויים מרובים, על הלקוחות לעבוד עם יועצי ה-IT המהימנים שלהם כדי לקבוע כיצד לנהל ולאבטח את המנויים השונים כגון Microsoft 365 Business ו-Microsoft 365 ארגון השימוש הארגוני יכולות שונות כדי לאבטח ולנהל נתונים ויישומים.
 
-### <a name="can-i-combine-microsoft-365-business-with-other-microsoft-subscription-offerings"></a>ניתן ניתן לשלב ביקור 365 Microsoft עם אחרים הצעות מנוי Microsoft? 
-כן, לקוחות ניתן לשלב מנויים עסקיים 365 Microsoft שלהם עם תוכניות והרחבות מתכלת הרקיע, Dynamics 365, ארגון ניידות + אבטחה ו- Office 365.
+### <a name="can-i-combine-microsoft-365-business-with-other-microsoft-subscription-offerings"></a>האם באפשרותי לשלב את Microsoft 365 Business עם הצעות מנוי אחרות של Microsoft? 
+כן, לקוחות יכולים לשלב את מנויי העסקים שלהם ב-Microsoft 365 עם תוכניות והרחבות מתכלת, Dynamics 365, ניידות ארגונית + אבטחה ו-Office 365.
 
-### <a name="is-everyone-in-my-business-required-to-have-a-microsoft-365-business-subscription"></a>האם כולם בעסק שלי צריכים להיות בעלי מנוי עסקי 365 של Microsoft? 
-לא, לא כל אחד צריך מנוי עסקי 365 של Microsoft, למרות היתרונות אבטחה וניהול זמינים רק למשתמשים אלה עם התקנים מנוהלים עם מנוי עסקי 365 של Microsoft. 
+### <a name="is-everyone-in-my-business-required-to-have-a-microsoft-365-business-subscription"></a>האם כולם בעסק שלי נדרשים לקבל מנוי עסקי של Microsoft 365? 
+לא, לא כל אחד זקוק למנוי עסקי של Microsoft 365, למרות שיתרונות האבטחה והניהול זמינים רק למשתמשים עם התקנים המנוהלים באמצעות מנוי עסקי של Microsoft 365. 
  
-תקנון של סביבת ה-IT משמש כדי לסייע בצמצום תחזוקה והן אבטחה עלויות לאורך זמן הוא מצב שבו יש להשתדל להשיג עסקים. עם זאת, אנו לזהות לקוחות מסוימים גודל קטנים ובינוניים לעדכן את התוכנה שלהם בעיקר כאשר הם לשדרג את החומרה שלהם, לאורך תקופה ארוכה. עסקים יכולים לפרוס עסקיים 365 Microsoft לחלק של הארגון שלהם, אך עבור ההגנה הטובה ביותר של נתונים עסקיים רגישים וחוויות שיתוף פעולה עקבי, מומלץ פריסה לכל המשתמשים.
+סטנדרטיזציה של סביבת IT מסייעת לצמצם את עלויות התחזוקה והאבטחה לאורך זמן ומהווה מצב שהעסקים צריכים לשאוף להשיגו. עם זאת, אנו מזהים שלקוחות קטנים ובינוניים מעדכנים את התוכנה שלהם בעיקר כשהם משדרגים את החומרה שלהם, במשך תקופה ארוכה. עסקים יכולים לפרוס את Microsoft 365 Business לחלק מהארגון שלהם, אך להגנה מיטבית של נתונים עסקיים רגישים וחוויות שיתוף פעולה עקביות, מומלץ לבצע פריסה לכל המשתמשים.
 
-### <a name="how-can-i-know-if-the-hardware-and-software-i-run-today-is-compatible-with-microsoft-365-business"></a>כיצד אוכל לדעת אם החומרה והתוכנה אני מפעיל היום התואמת ל- Microsoft 365 עסקית? 
-אם החומרה הפעלת היום פועל Windows 7 Pro או מאוחר יותר, הוא ככל הנראה עומד בדרישות המינימליות עבור העסק 365 של Microsoft. תכונות מסוימות של Windows 10 כגון Cortana, שלום של Windows ו- multitouch מחייבים חומרה ספציפית זמינה רק במחשבים חדשים. ראה <a href="https://www.microsoft.com/windows/windows-10-specifications" target="_blank">דרישות מערכת Windows 10 Pro</a> לקבלת פרטים נוספים. 
+### <a name="how-can-i-know-if-the-hardware-and-software-i-run-today-is-compatible-with-microsoft-365-business"></a>כיצד ניתן לדעת אם החומרה והתוכנה שאני מפעיל היום תואמות ל-Microsoft 365 Business? 
+אם החומרה שאתה מפעיל היום מפעילה את Windows 7 Pro או גירסה מתקדמת יותר, סביר להניח שהיא עומדת בדרישות המינימליות של Microsoft 365 Business. תכונות מסוימות של Windows 10 כגון Cortana, Windows שלום, ו-multitouch דורשים חומרה ספציפית הזמינה רק במחשבים חדשים יותר. לפרטים נוספים, עיין <a href="https://www.microsoft.com/windows/windows-10-specifications" target="_blank">בדרישות המערכת של Windows 10</a> . 
  
-קיימת תאימות יישומים (Win32) בשולחן העבודה היא חזקה ב- Windows 10, עם רוב היישומים הקיים עובד ללא שינויים. לקוחות יועצי IT המהימנים שלהם יש לקרוא תהליך הבדיקה יישום המומלצת עבור <a href="https://docs.microsoft.com/windows/deployment/planning/windows-10-compatibility#recommended-application-testing-process" target="_blank">תאימות 10 חלונות</a> ולסקור את <a href="https://products.office.com/office-system-requirements#subscription-plans-section" target="_blank">דרישות המערכת של Office</a> כדי להבטיח מעבר חלק לעסק 365 של Microsoft. 
+תאימות יישומים קיימת של שולחן העבודה (Win32) חזקה ב-Windows 10, כאשר רוב היישומים הקיימים פועלים ללא שינויים. לקוחות ויועצי ה-IT המהימנים שלהם צריכים לקרוא את תהליך בדיקת היישומים המומלץ עבור <a href="https://docs.microsoft.com/windows/deployment/planning/windows-10-compatibility#recommended-application-testing-process" target="_blank">תאימות של Windows 10</a> ולסקור את <a href="https://products.office.com/office-system-requirements#subscription-plans-section" target="_blank">דרישות המערכת של Office</a> כדי להבטיח מעבר חלק ל-Microsoft 365 Business. 
 
-### <a name="what-is-windows-10-business"></a>מהו העסק 10 של Windows? 
-ביקור 10 של Windows היא ערכה של שירותי ענן והתקן יכולות ניהול משלימים Windows 10 Pro אשר אפשר פקדים אבטחה וניהול מרכזי של העסק 365 של Microsoft. ביקור 10 Windows מגיע גם עם Windows AutoPilot, שירות מייעל את הפריסה של מחשבים אישיים של 10 חלונות חדשים. אם ברשותך התקנים המותקנים ברשיון עבור Windows 7, 8 ו- 8.1 מקצועי, ביקור 365 Microsoft מספק שדרוג ל- Windows 10 Pro המהווה תנאי מוקדם עבור פריסת Windows 10 עסקיים. 
+### <a name="what-is-windows-10-business"></a>מהו העסק של Windows 10? 
+Windows 10 Business הוא קבוצה של יכולות שירותי ענן וניהול התקנים המשלימים את Windows 10 Pro ומאפשרים את בקרת הניהול והאבטחה המרוכזים של Microsoft 365 Business. Windows 10 עסקים גם מגיע עם Windows טייס אוטומטי, שירות המייייעל את הפריסה של Windows 10 מחשבים אישיים חדשים. אם יש לך התקנים המורשים עבור Windows 7, 8 ו-8.1 מקצועי, Microsoft 365 Business מספק שדרוג ל-Windows 10 Pro שהוא תנאי הדרישה לפריסת Windows 10 עסקים.
+> [!IMPORTANT]
+> עליך לספק את מפתח המוצר המקורי בעת שדרוג, אחרת השדרוג לא יפעל. 
 
-### <a name="how-does-microsoft-365-business-help-support-our-bring-your-own-device-byod-policy"></a>כיצד מסייעת עסקיים 365 Microsoft תומכת מדיניות שלנו להביא את עצמו התקן (BYOD)? 
-עובדים רבים מעדיפים להשתמש בלוחות אישי access ומידע על עבודה במקום הנושאות התקנים מרובים עבור כל מטרה או טלפונים ניידים משלהם. השימוש בהתקני אישי לעבודה, תוך משותפות, מגדיל את הסיכון מידע עסקי היתה בסופו של דבר בידיים לא נכונות. פתרונות הגנת נתונים נייד מתחרה רבים דורשים למשתמשים לעבור למצב ספציפי במכשיר שלהם או להשתמש במנגנון מורכב אחר כי ייתכן למצוא הפרעה ומשתמשים לכן הימנע משימוש. 
+### <a name="how-does-microsoft-365-business-help-support-our-bring-your-own-device-byod-policy"></a>כיצד Microsoft 365 Business מסייע בתמיכה במדיניות הבאת התקן משלך (BYOD)? 
+עובדים רבים מעדיפים להשתמש בטלפונים הניידים שלהם או בטבליות כדי לגשת למידע אישי ולעבודה במקום להחזיק מכשירים מרובים לכל מטרה. השימוש במכשירים אישיים לעבודה, בעוד שבשגרה, מגביר את הסיכון שמידע עסקי עלול להסתיים בידיים הלא נכונות. פתרונות הגנה מפני נתונים ניידים מתחרים רבים דורשים מהמשתמשים לעבור למצב ספציפי במכשיר שלהם או להשתמש במנגנון מורכב אחר שהמשתמשים עלולים למצוא פולשניים ולכן להימנע משימוש. 
  
-ביקור 365 Microsoft מספק ללקוחות אמצעים פשוטה אך רבת עוצמה של הפעלת עובדים לשימוש ההתקנים האישיים שלהם לעבודה תוך מתן העסק עם היכולת כדי למנוע התקנים אלה מתוך גישה, שמירה, ו/או שיתוף מידע עסקי . באופן ספציפי יותר: 
-* **הגנה app עבור יישומים ניידים של Office** מסייעת בהגנה על הנתונים Office, כולל דואר אלקטרוני, לוח שנה, אנשי קשר ומסמכים ב- iOS ו- Android התקנים ניידים, על-ידי אכיפת מדיניות כגון מחיקה אוטומטית של נתונים עסקיים לאחר פרק זמן מומלצת לא בהתחברות לשירות, לדרוש מידע מאוחסן רק כדי OneDrive לעסקים, לדרוש אימות טביעת אצבע/ה-PIN כדי לגשת יישומי Office ואת נתוני החברה למנוע העתקה מתוך יישום Office לתוך יישומים אישי. ניהול יישומים ניידים עבור יישומים ניידים אחרים דרך Intune זמין גם עבור מנויים עסקיים 365 של Microsoft. 
+Microsoft 365 Business מציע ללקוחות אמצעי פשוט אך רב עוצמה לאפשר לעובדים להשתמש במכשירים האישיים שלהם לעבודה תוך מתן העסק עם היכולת למנוע ממכשירים אלה גישה, שמירה, ו/או שיתוף של מידע עסקי . באופן ספציפי: 
+* **App הגנה על יישומים ניידים של office מסייע להגן** על נתוני office, כולל דואר אלקטרוני, לוח שנה, אנשי קשר, ומסמכים על iOS ומכשירים ניידים אנדרואיד, על ידי אכיפת מדיניות כגון מחיקת נתונים עסקיים באופן אוטומטי לאחר כמות זמן שנקבעה של לא להתחבר לשירות, המחייב המידע מאוחסן רק OneDrive עבור עסקים, המחייב אימות PIN/טביעת אצבע כדי לגשת ליישומי Office, ומניעת העתקת נתוני החברה מיישום Office ליישומים אישיים. ניהול אפליקציות ניידות עבור יישומים ניידים אחרים דרך Intune זמין גם עבור מנויים עסקיים של Microsoft 365. 
   
-* **התקן ניהול עבור Windows 10 מחשבים אישיים** מאפשר לעסקים לבחור להגדיר ולאכוף יכולות כגון הגנת Windows Defender עבור תוכנות זדוניות, עדכונים אוטומטיים וביטול מסכים לאחר פרק זמן מומלצת. בנוסף, התקני Windows 10 שאבד או נגנב יכול להיות לגמרי מנוקה של נתונים באמצעות מרכז Admin ויישומים עסקיים. 
+* **ניהול התקנים עבור Windows 10 PCs** מאפשר לעסקים לבחור להגדיר ולאכוף יכולות כגון הגנה של Windows Defender עבור תוכנות זדוניות, עדכונים אוטומטיים וביטול מסכי לאחר כמות זמן שנקבעה. בנוסף, התקנים שאבדו או נגנבו של Windows 10 יכולים להימחק לחלוטין של יישומים עסקיים ונתונים באמצעות מרכז הניהול. 
 
-* תכונות **ניהול התקנים עבור iOS, Android & MacOS** מסייע לעסקים לנהל בצורה מאובטחת ecosystem של ההתקן מגוונת הכוללת התקני iOS, Android, Windows ו- macOS. 
+* **ניהול התקנים עבור iOS, דמוי אדם _ amp_ תכונות MacOS** מסייע לעסקים באופן מאובטח לנהל מערכת אקולוגית המכשיר מגוון הכולל IOS, אנדרואיד, Windows, ו-MacOS התקנים. 
 
-### <a name="how-does-microsoft-365-business-help-protect-pcs-in-my-organization-from-malicious-attacks"></a>כיצד עוזרת עסקיים 365 Microsoft להגן על מחשבים אישיים בארגון שלי מפני תקיפות זדוניות? 
-מחשבים אישיים מנוהל עם העסק 365 Microsoft מוגנים באמצעות Windows Defender, שהיא לא תכונת אנטי-וירוס 1 10 חלונות, הגנה על מחשבים יותר מפני וירוסים, תוכנות זדוניות, תוכנות ריגול ואיומים אחרים מאשר כל פתרון אחר.  עם Microsoft 365 עסקית, עסקים תוכל להבטיח הגנת Windows Defender היא פועלת ועדכנית תמיד על כל ההתקנים Windows 10 שלהם.  
+### <a name="how-does-microsoft-365-business-help-protect-pcs-in-my-organization-from-malicious-attacks"></a>כיצד Microsoft 365 Business מסייעים בהגנה על מחשבים אישיים בארגון שלי מפני תקיפות זדוניות? 
+מחשבים מנוהלים עם Microsoft 365 Business מוגנים באמצעות Windows Defender, שהוא לא. 1 תכונת אנטי-וירוס ב-Windows 10, הגנה על מחשבים נוספים מפני וירוסים, תוכנות זדוניות, תוכנות ריגול ואיומים אחרים מכל פתרון אחר.  עם Microsoft 365 Business, עסקים יכולים להבטיח שההגנה של Windows Defender פועלת ותמיד מעודכנת בכל המכשירים של Windows 10 שלהם.  
  
-ביקור 10 חלונות כוללת גם המגן של לנצל Defender ב- Windows, ערכה חדשה של יכולות מניעת חדירות. אחת התכונות שלו, גישה לתיקיות מבוקר, מפסיק ransomware ברצועות שלו על-ידי לנעילת תיקיות ומניעת של יישומים לא מורשים לגשת לקבצים חשובים של משתמש. 
+Windows 10 עסקים כולל גם Windows Defender ניצול המשמר, קבוצה חדשה של יכולות מניעת חדירה. אחת התכונות שלה, גישה לתיקייה מבוקרת, מפסיק ransomware בעקבותיו על ידי נעילת תיקיות ומניעת יישומים לא מורשים גישה לקבצים החשובים של המשתמש. 
 
-### <a name="whats-the-difference-between-office-365-business-premium-microsoft-365-business-and-microsoft-365-enterprise"></a>מה ההבדל בין Premium עסקי של Office 365, עסקי 365 של Microsoft ו- Microsoft 365 הארגון? 
-Microsoft כולל מגוון הצעות ניהול הפרודקטיביות והאבטחה אשר לקוחות קטן בגודל בינוני עשוי לשקול בעת שדרוג שולחן העבודה ואת ההתקן התשתית שלהם, כל שופכים חזקים יותר ויותר תכונות ופונקציונליות. 
+### <a name="whats-the-difference-between-office-365-business-premium-microsoft-365-business-and-microsoft-365-enterprise"></a>מה ההבדל בין Office 365 Business Premium, Microsoft 365 עסקים ו-Microsoft 365 Enterprise? 
+ל-Microsoft יש מגוון של הצעות לפרודוקטיביות ולניהול אבטחה שלקוחות קטנים עד בינוניים עשויים לשקול בעת שדרוג של תשתית שולחן העבודה וההתקן, כל אחד מהם מביא לתכונות ולפונקציונליות בעלות עוצמה רבה יותר ויותר. 
 
-**Premium עסקי של office 365** מספק פרודוקטיביות הטוב מסוגו עם יישומי Office 365 ושירותים אך אינו כולל את יישום התקן והגנה יכולות ניהול עסקי 365 של Microsoft.
+**Office 365 Business Premium** מספק פרודוקטיביות מיטבית ברמה הגבוהה ביותר עם יישומים ושירותים של office 365, אך אינו כולל את יכולות ניהול ההתקנים והאבטחה של Microsoft 365 Business.
 
-**ביקור 365 Microsoft** משלבת Office 365 יישומים ושירותים עם ניהול יישומים ניידים ו- Windows 10 Pro כדי לאפשר ניהול מרחוק ולסייע בהגנה על התקנים מפני וירוסים ותוכנות זדוניות. הוא כולל מסוף ניהול פשוטה באמצעות התקן ונתונים אילו עשוי לנהל מדיניות. עסקים קטנים בגודל בינוני רבים יכולים בצורה הטובה ביותר יוגשו עם העסק 365 של Microsoft. 
+**Microsoft 365 Business** משלבת יישומים ושירותים של Office 365 עם ניהול יישומים ניידים ו-Windows 10 Pro כדי לאפשר ניהול מרחוק ולסייע בהגנה על התקנים מפני וירוסים ותוכנות זדוניות. הוא כולל מסוף ניהול פשוט שדרכו ניתן לנהל מדיניות התקן ונתונים. עסקים קטנים רבים בגודל בינוני ניתן להגיש במיוחד עם Microsoft 365 Business. 
  
-**ארגון 365 Microsoft** היא ערכה של רישוי תוכניות מציעות רמות מוגברת של ניהול אבטחת וציות מעל עסקיים 365 Microsoft אשר מיועדים עבור לקוחות ארגוניים ולקוחות אלה בהם משתמשים מ- 300. בנוסף, תוכניות Microsoft 365 הארגון לספק פונקציונליות נוספת כולל בינה עסקית והכלים analytics.
+**Microsoft 365 Enterprise** היא ערכה של תוכניות רישוי המציעות רמות גבוהות של ניהול תאימות ואבטחה על-ידי Microsoft 365 Business ומיועדות ללקוחות ארגוניים וללקוחות בעלי יותר מ-300 משתמשים. בנוסף, Microsoft 365 תוכניות ארגוניות מספקות פונקציונליות נוספת, כולל מודיעין עסקי וכלים לניתוח.
 
-### <a name="can-i-switch-my-office-365-plan-to-microsoft-365-business"></a>ניתן לעבור תוכנית Office 365 שלי לעסק 365 של Microsoft? 
-כן, לקוחות לעבור שלהם מתכננת מתוכנית Office 365 העומד בדרישות העסק 365 של Microsoft. בהתאם לתוכנית של הלקוח הנוכחית יש להיות בירידה או להגדיל ב חיובים חודשיים.
+### <a name="can-i-switch-my-office-365-plan-to-microsoft-365-business"></a>האם באפשרותי להחליף את Office 365 בתוכנית של Microsoft 365 Business? 
+כן, הלקוחות יכולים להחליף את התכניות שלהם מתוכנית Office 365 המוקדמות לחברת Microsoft 365 Business. בהתאם לתוכנית הנוכחית של הלקוח ייתכנו ירידה או עלייה בחיובים החודשיים.
 
-### <a name="in-what-regions-is-microsoft-365-business-available"></a>אילו אזורים זמינה עסקיים 365 של Microsoft? 
-העסק 365 Microsoft יהיו זמינים עבור כל שותפים ולקוחות שבו Office 365 זמין. עיין ברשימה של <a href="https://products.office.com/business/international-availability" target="_blank">Office 365 בינלאומיות זמינות עבור שפות, מדינות ואזורים</a>. 
+### <a name="in-what-regions-is-microsoft-365-business-available"></a>באילו אזורים מיקרוסופט 365 עסק זמין? 
+העסק של Microsoft 365 יהיה זמין לכל השותפים וללקוחות שבהם Office 365 זמין. עיין ברשימת <a href="https://products.office.com/business/international-availability" target="_blank">הזמינות הבינלאומית של Office 365 עבור שפות, מדינות ואזורים</a>. 
 
-### <a name="is-there-a-microsoft-365-business-trial-i-may-use-to-evaluate-the-offer"></a>האם יש גירסת ניסיון עסקי 365 Microsoft שניתן להשתמש כדי להעריך את ההצעה? 
-גירסת ניסיון עסקי 365 Microsoft זמינה עבור Csp. גירסת ניסיון עבור לקוחות ישיר יהיו זמינים במועד מאוחר יותר. 
+### <a name="is-there-a-microsoft-365-business-trial-i-may-use-to-evaluate-the-offer"></a>האם קיים משפט עסקי של Microsoft 365 שייתכן שאשתמש בו כדי להעריך את ההצעה? 
+משפט עסקי של Microsoft 365 זמין עבור CSPs. משפט ללקוחות ישירים יהיה זמין מאוחר יותר. 
  
-### <a name="what-should-customers-and-partners-know-before-running-microsoft-365-business-within-their-organization"></a>מה לקוחות ושותפים לדעת לפני הפעלת Microsoft 365 עסקיים בארגון שלהם? 
-לקוחות המעוניינים להיתקל היכולות מלאה של Microsoft 365 העסק חייב לפעול Windows 7, 8.1 או 10 Pro<sup>[2](#footnote2)</sup> בשולחנות העבודה שלהם קיים. Pc Pro 10 חלונות קיימים אמור לפעול עדכון יוצרי אם הם עדיין לא עשית זאת. 
+### <a name="what-should-customers-and-partners-know-before-running-microsoft-365-business-within-their-organization"></a>מה יש ללקוחות ולשותפים לדעת לפני הפעלת Microsoft 365 Business בתוך הארגון שלהם? 
+לקוחות המעוניינים לחוות את היכולות השלמות של העסק של Microsoft 365, חייבים לפעול ב-Windows 7, 8.1 או 10 Pro<sup>[2](#footnote2)</sup> בשולחנות העבודה הקיימים שלהם. המחשבים הקיימים של Windows 10 Pro צריכים להפעיל את עדכון הקריאייטיב אם הם עדיין לא עשו זאת. 
 
 ## <a name="deployment"></a>פריסה
 
-### <a name="what-should-customers-consider-when-planning-a-microsoft-365-business-deployment"></a>מה הלקוחות לשקול בעת תכנון פריסה עסקיים 365 של Microsoft? 
-הנתיב פריסה מוצלחת של Microsoft 365 עסקיים הישירה ביותר הוא לערב עם שותף של Microsoft. הם הכשרה מקיפה ו להיתקל עם מגוון רחב של תרחישי לקוחות וכוללות כשהוא מצויד להבין את הסביבה וצרכים בצורה הטובה ביותר. לקוחות אשר נתקל IT על צוות יכול להשתמש <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">Microsoft 365 עסקיים תחילת העבודה</a> כדי לסייע להם בפריסה Microsoft 365 העסק שלהם. 
+### <a name="what-should-customers-consider-when-planning-a-microsoft-365-business-deployment"></a>מה הלקוחות צריכים לשקול בעת תכנון פריסה עסקית של Microsoft 365? 
+הנתיב הישיר ביותר לפריסה עסקית מוצלחת של Microsoft 365 הוא לעסוק בשותפות עם שותף של Microsoft. יש להם הכשרה נרחבת וניסיון עם מגוון רחב של תרחישי לקוחות והם מצוידים הטובה ביותר כדי להבין את הסביבה ואת הצרכים. לקוחות שחוו את IT בצוות יכולים להשתמש ב- <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">microsoft 365 business התחלת העבודה</a> כדי לסייע להם בפריסה העסקית של microsoft 365. 
 
-### <a name="does-microsoft-365-business-include-the-full-capabilities-of-microsoft-intune"></a>ביקור 365 Microsoft כוללת יכולות מלאות של Microsoft Intune? 
-כן, מנויים עסקיים 365 Microsoft מורשים להשתמש ביכולות Intune מלא עבור iOS, Android, MacOS וניהול התקנים בפלטפורמות אחרות. תכונות שאינן זמינות במסוף ניהול פשוטה ב- Microsoft 365 Business, כמו ניהול יישום צד שלישי וקביעת התצורה של פרופילים WiFi, VPN אישורים וכו ', יכול להיות מנוהל במסוף Intune מלאה. יש לך זכויות השימוש מנהל תצורה לניהול לקוחות המכוסה על-ידי הרשיון EMS. עבור SCCM שאילתות קשורות, ראה <a href="https://docs.microsoft.com/en-us/sccm/core/understand/product-and-licensing-faq#bkmk_csp" target="_blank">שאלות נפוצות SCCM</a>
+### <a name="does-microsoft-365-business-include-the-full-capabilities-of-microsoft-intune"></a>האם Microsoft 365 Business כולל את היכולות המלאות של Microsoft Intune? 
+כן, Microsoft 365 מנויים עסקיים מורשים להשתמש ביכולות Intune מלאות עבור iOS, אנדרואיד, MacOS, וניהול התקנים אחרים חוצת פלטפורמות. תכונות שאינן זמינות במסוף ניהול מפושט ב-Microsoft 365 Business, כמו ניהול צד שלישי של יישומים וקביעת תצורה של פרופילי WiFi, אישורי VPN, וכו ', ניתן לנהל במסוף Intune מלא. יש לך זכויות להשתמש ב'מנהל התצורה ' כדי לנהל את הלקוחות המכוסים על-ידי רשיון EMS. עבור שאילתות הקשורות SCCM, אנא ראה <a href="https://docs.microsoft.com/en-us/sccm/core/understand/product-and-licensing-faq#bkmk_csp" target="_blank">שאלות נפוצות Sccm</a>
   
 
-### <a name="does-azure-active-directory-premium-p1-come-with-microsoft-365-business"></a>תכלת הרקיע P1 Premium הספריה הפעילה מגיעות עם העסק 365 של Microsoft? 
-Microsoft 365 עסקיים המבוססים על טכנולוגיית מתוך על-פני Microsoft וכל עוד הוא משתף תכונות מסוימות עם Active Directory תכלת הרקיע, הוא אינו גירסה מלאה. האבטחה ואת מדיניות ניהול שנוצר ב- Microsoft 365 Business מסתמכים על חלק מהפונקציונליות תכלת הרקיע אך לא תכלול את כל התכונות (למשל בשירות עצמי תכונות, תכונות של access מותנה ודיווח). לקוחות רשאים לרכוש P1 Premium של מדריך הכתובות הפעיל של תכלת הרקיע או P2 כ הרחבה לעסק 365 של Microsoft. [תיאור שירות עסקי 365 של Microsoft](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148) לקבלת מידע נוסף, עיין 
+### <a name="does-azure-active-directory-premium-p1-come-with-microsoft-365-business"></a>האם התכלת Active מדריך הפרמיה P1 מגיעים עם מיקרוסופט 365 עסקים? 
+מיקרוסופט 365 העסק בנוי על הטכנולוגיה מרחבי מיקרוסופט ובזמן שהוא משתף כמה תכונות עם שליטת Active Directory, זה לא גרסה מלאה. מדיניות האבטחה והניהול שנוצרה ב-Microsoft 365 Business מסתמכת על פונקציונליות של תכלת, אך אינה כוללת את כל התכונות (לדוגמה, תכונות של שירות עצמי, תכונות גישה מותנות ודיווח). לקוחות יכולים לבחור לרכוש התכלת Active הספריה Premium P1 או P2 כתוספת ל-Microsoft 365 Business. לקבלת מידע נוסף, עיין [בתיאור השירות העסקי של Microsoft 365](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148) 
  
  
-### <a name="does-microsoft-365-business-allow-customers-to-manage-macs"></a>ביקור 365 של Microsoft מאפשר ללקוחות לנהל Macs? 
-Intune מסייע לך לנהל בצורה מאובטחת התקנים iOS, Android, Windows ו- macOS. 
+### <a name="does-microsoft-365-business-allow-customers-to-manage-macs"></a>האם Microsoft 365 Business מאפשר ללקוחות לנהל את מקינטוש? 
+Intune מסייע לך לנהל באופן מאובטח iOS, אנדרואיד, Windows, ו-macOS התקנים. 
  
-### <a name="what-is-windows-autopilot"></a>מהו Windows AutoPilot? 
-Windows AutoPilot הוא שירות מייעל את הפריסה של מחשבים אישיים של 10 חלונות חדשים. תהליך זה יכול להתבצע כאשר משתמש הקצה מבצע לעסק 365 Microsoft בפעם הראשונה — ללא IT נוגע אי-פעם ההתקן — באמצעות מינוף פקדים ניהול ריכוזי של העסק 365 של Microsoft. באפשרותך גם להשתמש ב- Windows AutoPilot עבור קיימים מחשבים שבהם פועל Windows Update של יוצרי מקצועי 10 (או גירסה מתקדמת יותר) ולא היו איפוס המפעל. ניתן למצוא פרטים אודות Windows AutoPilot <a href="https://blogs.technet.microsoft.com/windowsitpro/2017/06/29/modernizing-windows-deployment-with-windows-autopilot/" target="_blank">ביוני זה, 2017 בלוג</a>.
+### <a name="what-is-windows-autopilot"></a>מהו Windows טייס אוטומטי? 
+Windows טייס אוטומטי הוא שירות המייייעל את הפריסה של מחשבים חדשים של Windows 10. ניתן לבצע תהליך זה כאשר משתמש הקצה נכנס ל-Microsoft 365 Business בפעם הראשונה-מבלי ש-IT ייגע בהתקן-על-ידי מינוף פקדי ניהול מרוכזים של Microsoft 365 Business. באפשרותך גם להשתמש בטייס אוטומטי של Windows עבור מחשבים קיימים שבהם פועל Windows 10 מקצועי יוצרי עדכון (או מאוחר יותר) והיה איפוס המפעל. פרטים על Windows טייס אוטומטי ניתן למצוא <a href="https://blogs.technet.microsoft.com/windowsitpro/2017/06/29/modernizing-windows-deployment-with-windows-autopilot/" target="_blank">בחודש זה יוני, 2017 בלוג פוסט</a>.
 
 ## <a name="compatibility"></a>תאימות
 
-### <a name="can-i-add-office-365-add-ons-to-microsoft-365-business"></a>האם ניתן להוסיף הרחבות Office 365 לעסקים 365 של Microsoft? 
-ניתן להוסיף כל ההרחבות שניתן להוסיף ל- Office 365 עסקיים איכותיים לעסק 365 של Microsoft. משמעות הדבר היא כי ניתן לרכוש הגנה מפני איום מתקדם, Office 365 ענן App אבטחה, מתקדם, בינה האיום, MyAnalytics, PowerBI Pro, וציות ועידת שמע. 
+### <a name="can-i-add-office-365-add-ons-to-microsoft-365-business"></a>האם אני יכול להוסיף ל-Office 365 הרחבות ל-Microsoft 365 Business? 
+כל ההרחבות שניתן להוסיף ל-Office 365 Business Premium ניתן להוסיף למיקרוסופט 365 Business. משמעות הדבר היא כי אתה יכול לרכוש הגנה מפני איום מתקדם, Office 365 ענן App אבטחה, תאימות מתקדמת, מודיעין איום, מיניתוחים, PowerBI Pro, ועידות שמע. 
  
-### <a name="can-i-add-phone-system-and-calling-plans-to-microsoft-365-business"></a>האם ניתן להוסיף מערכת Phone ומתכננת מתקשר לעסק 365 של Microsoft? 
-לא, המערכת Phone ותכנן מתקשר שמורות עבור לקוחות מתקדמות נוספות צרכים. לקוחות הזקוקים יכולות אלה יש הבט הצעות ארגון 365 של Microsoft. 
+### <a name="can-i-add-phone-system-and-calling-plans-to-microsoft-365-business"></a>האם ניתן להוסיף מערכת טלפון ותוכניות התקשרות אל Microsoft 365 Business? 
+לא, מערכת הטלפונים ותוכנית השיחות שמורות ללקוחות בעלי צרכים מתקדמים יותר. לקוחות הזקוקים ליכולות אלה צריכים לבדוק את ההצעות הארגוניות של Microsoft 365. 
  
-### <a name="can-microsoft-365-business-customers-use-windows-defender-advanced-threat-protection"></a>לקוחות עסקיים 365 של Microsoft, באפשרותך להשתמש הגנה איום מתקדמות של Windows Defender? 
-לא, לקוחות הדורשים הגנה איום מתקדמות של Windows Defender צריכים E5 ארגון 10 של Windows או E5 ארגון 365 של Microsoft. 
+### <a name="can-microsoft-365-business-customers-use-windows-defender-advanced-threat-protection"></a>האם Microsoft 365 לקוחות עסקיים יכולים להשתמש בהגנה על איומים מתקדמים של Windows Defender? 
+לא, לקוחות שדורשים Windows Defender הגנה מתקדמים איום צריך או Windows 10 Enterprise E5 או Microsoft 365 Enterprise E5. 
  
 
 
-### <a name="can-customers-create-hosted-windows-10-vms-with-a-microsoft-365-business-subscription"></a>לקוחות, באפשרותך ליצור סוגי 10 חלונות מתארח עם מנוי עסקי 365 של Microsoft? 
-לא, לקוחות הדורשים וירטואליזציה לרכוש ארגוניים 10 של Windows או מנוי Microsoft 365 הארגון.
+### <a name="can-customers-create-hosted-windows-10-vms-with-a-microsoft-365-business-subscription"></a>האם לקוחות יכולים ליצור מתארח ב-Windows 10 VMs עם מנוי עסקי של Microsoft 365? 
+לא, לקוחות המחייבים וירטואליזציה צריכים לרכוש את Windows 10 Enterprise או מנוי ארגוני של Microsoft 365.
 
-## <a name="partner-opportunity"></a>הזדמנות שותף
+## <a name="partner-opportunity"></a>הזדמנות שותפה
 
-### <a name="where-can-i-learn-more-about-the-opportunities-and-benefits-in-becoming-a-microsoft-partner"></a>היכן באפשרותי ללמוד עוד אודות הזדמנויות והיתרונות ב והופך שותף של Microsoft? 
-ספקי שירותי IT שאינם כבר שותפי Microsoft באפשרותך ללמוד עוד אודות התוכנית ספק פתרונות ענן של Microsoft בכתובת [https://partners.office.com/microsoft365business](https://partners.office.com/microsoft365business).
+### <a name="where-can-i-learn-more-about-the-opportunities-and-benefits-in-becoming-a-microsoft-partner"></a>היכן ניתן ללמוד עוד אודות ההזדמנויות והיתרונות בלהפוך לשותף של Microsoft? 
+ספקי שירותי IT שאינם שותפים של Microsoft כבר יכולים ללמוד עוד אודות התוכנית של ספק [https://partners.office.com/microsoft365business](https://partners.office.com/microsoft365business)פתרונות הענן של microsoft.
 
-### <a name="where-can-i-learn-how-to-sell-microsoft-365-business"></a>היכן באפשרותך ללמוד כיצד למכור עסק 365 של Microsoft? 
-שותפים כעת מכירת Office 365 באפשרותך להשתמש באותן שיטות המכירה הלקוח למכור עסק 365 של Microsoft. בנוסף, אנו והם הכירו יותר משאבי הדרכה עבור צוות המכירות שלך להבין הקיים שולחן העבודה סביבה, Active Directory שיסתיים, ניידות ואבטחה צרכי הלקוחות כדי להעביר באופן אפקטיבי את הערך המלא של Microsoft 365 עסקי באופן שהוא רלוונטי ללקוח. חיפוש משאבים אלה בפורטל שותף Office בכל [http://partners.office.com/microsoft365business](http://partners.office.com/microsoft365business). 
+### <a name="where-can-i-learn-how-to-sell-microsoft-365-business"></a>היכן ניתן ללמוד כיצד למכור את מיקרוסופט 365 Business? 
+שותפים מוכרים כעת Office 365 יכול להשתמש באותה שיטות מכירה מייעץ למכור Microsoft 365 עסקים. בנוסף, אנו מציגים משאבים נוספים והכשרה עבור צוות המכירות שלך כדי להבין את סביבת שולחן העבודה הקיים של הלקוחות, Active Directory הסתמכות, ניידות ואבטחה צרכים כדי להעביר ביעילות את הערך המלא של Microsoft 365 Business באופן הרלוונטי ללקוח. חפש משאבים אלה בפורטל השותפים של [http://partners.office.com/microsoft365business](http://partners.office.com/microsoft365business)Office. 
 
-### <a name="how-can-microsoft-365-business-help-partners-increase-the-profitability"></a>כיצד העסק 365 של Microsoft יכולים לסייע שותפים להגדיל את הרווחיות? 
-ביקור 365 Microsoft יסייע שותפים להפחית עלויות דרך היעילות תפעולי גדול והעשרה של הכנסה דרך המכירה של שירותים נוספים. Forrester מחקר, מחקר Microsoft 365 עסקי הכולל כלכליות ההשפעה (TEI), יוני 2017 (https://partners.office.com/TEIBusiness), מדגים כי העסק 365 Microsoft תהיה השפעה חיובית על רווחיות שותף. 
+### <a name="how-can-microsoft-365-business-help-partners-increase-the-profitability"></a>כיצד יכול Microsoft 365 לסייע לשותפים עסקיים להגדיל את הרווחיות? 
+Microsoft 365 Business יסייע לשותפים להפחית עלויות באמצעות יעילות תפעולית גדולה יותר ולשפר את ההכנסות באמצעות מכירת שירותים נוספים. מחקר פורסטר, מיקרוסופט 365 עסקים ההשפעה הכלכלית הכוללת (טיי) מחקר, יוני 2017 (https://partners.office.com/TEIBusiness), מדגים כי מיקרוסופט 365 העסק תהיה השפעה חיובית על רווחיות השותף. 
 
-בחקר TEI שותפים דיווח כי עם Microsoft 365 עסקיים הם מצפים: 
+ב-שותפי המחקר של טיי דיווחו כי עם מיקרוסופט 365 עסקים הם מצפים: 
 
-- הגדלה של 20%-נקודת \[חד-פעמי\] הכנסה שירותי פריסה ועלון היידוע
-- 10%-נקודת להגדיל צרף בקצב של שירותים מנוהלים
-- הגדלה של 8%-נקודת ייעוץ ו- \[שוטפות\] מנוהל שולי הרווח שירותים (מתוך עלויות נמוכות יותר)
+- 20%-הגדלת נקודות \[בפריסה חד\] פעמי והכנסות שירותים מייעצת
+- הגדלת 10% בשיעור הצמדה של שירותים מנוהלים
+- 8%-הגדלת נקודות בייעוץ \[ושולי רווח שוטפים\] של שירותים מנוהלים (מעלויות נמוכות)
 
-### <a name="what-resources-are-available-to-partners-to-sell-deploy-and-support-microsoft-365-business"></a>אילו משאבים זמינים לשותפים למכור, לפרוס ותמיכה עסקית 365 של Microsoft?
-Microsoft מספקת מגוון רחב של משאבים עבור שותפים CSP לשווק, למכור תמיכה עסקית 365 של Microsoft. ניתן למצוא ב- [https://partners.office.com/microsoft365business](https://partners.office.com/microsoft365business).
+### <a name="what-resources-are-available-to-partners-to-sell-deploy-and-support-microsoft-365-business"></a>אילו משאבים זמינים לשותפים למכור, לפרוס ולתמוך ב-Microsoft 365 Business?
+Microsoft מספקת מבחר רחב של משאבים עבור שותפי CSP לשוק, למכירה ולתמיכה ב-Microsoft 365 Business. [https://partners.office.com/microsoft365business](https://partners.office.com/microsoft365business). אפשר למצוא אותם
 
-### <a name="what-up-sell-opportunities-does-microsoft-365-business-give-partners"></a>איזה הזדמנויות מכירה למעלה עסקיים 365 Microsoft נותנת שותפים? 
-ביקור 365 Microsoft מאפשרת לשותפים לשמור על מיקום מהימן יועץ שלהם עם לקוחות, על-ידי יצירת פלטפורמה מלא ומאובטח שעליו למכור שירותים נוספים וכן שדרוג למוצרים ולשירותים קיימים. ביקור 365 Microsoft מספק הזדמנות לקיים דיון של שדרוג עם הלקוחות כעת באמצעות שרת Exchange, Exchange Online או יסודות העסק של Office 365. שותפי עשוי גם לקבל הכנסה נוספת מתוך שירותים מנוהלים מוגברת ו/או דמי התמיכה peruser. 
+### <a name="what-up-sell-opportunities-does-microsoft-365-business-give-partners"></a>מה למכור הזדמנויות האם מיקרוסופט 365 עסקים לתת שותפים? 
+Microsoft 365 Business מאפשר לשותפים לשמור על מיקום היועץ המהימן שלהם עם לקוחות, על ידי יצירת פלטפורמה מוצקה ומאובטחת שעליה למכור שירותים נוספים ולשדרג מוצרים ושירותים קיימים. Microsoft 365 Business מספק הזדמנות לקיים דיון שדרוג עם לקוחות באמצעות Exchange Server, Exchange Online או Office 365 יסודות עסקיים. שותפים רשאים גם לקבל הכנסות נוספות משירותים מנוהלים מוגברים ו/או דמי תמיכה של המשתמש. 
  
-עם AutoPilot חלונות חדשים תכונה הכלולות ב- Microsoft 365 Business, שותפים אשר מועסקים מסתייג למכור התקנים חדשים של Windows עקב לוגיסטיקה הפריסה ואת עלויות ימצא הזדמנות זו מרשים הרבה יותר. לקוחות המעוניינים שהאפקטים האבטחה של שלהם מקומית ניידים והתקני סביר יותר גם להשקעה בשירותים נוספים, כגון Dynamics 365. 
+עם התכונה החדשה של Windows טייס אוטומטי כלולים ב-Microsoft 365 Business, שותפים אשר כבר מסרבים למכור התקנים חדשים של Windows בשל הלוגיסטיקה פריסה ועלויות ימצא הזדמנות זו הרבה יותר אטרקטיבי. לקוחות אשר בטוחים באבטחה של המכשירים המקומי והניידים שלהם הם גם נוטים יותר להשקיע בשירותים נוספים, כגון Dynamics 365. 
  
-### <a name="should-partners-sell-microsoft-365-business-over-other-plans-from-microsoft"></a>יש שותפים למכור עסק 365 Microsoft באמצעות תוכניות אחרות מ- Microsoft? 
-ספק פתרון Microsoft ענן יש תמיד למכור את התוכנית כי המתאים ביותר לצרכים העסקיים של הלקוח ואת התקציב שלו. לדוגמה, אם לקוח עליך לציית והתקנות אבטחה, פרטיות, CSP עשוי למכור עסק 365 של Microsoft יחד עם כל ההרחבות המסייעים הלקוח עומד בדרישות שלו או עשוי להציע אבטחה מתקדמים וניהול שסופק על-ידי Microsoft 365 ביקור אלקטרוני פריטי ה-Sku. 
+### <a name="should-partners-sell-microsoft-365-business-over-other-plans-from-microsoft"></a>האם על שותפים למכור את Microsoft 365 Business על תוכניות אחרות מ-Microsoft? 
+על ספק פתרונות ענן של Microsoft למכור תמיד את התוכנית המתאימה ביותר לצרכיו העסקיים של הלקוח ולתקציבו. לדוגמה, אם לקוח חייב לציית לפרטיות ולתקנות אבטחה, CSP עשוי למכור את Microsoft 365 Business בתוספת כל ההרחבות המסייעות ללקוח לענות על הדרישות שלו או עשויות להציע את האבטחה והניהול המתקדמים שסופקו על-ידי Microsoft 365 Business E . בסדר, מכאן. 
  
-### <a name="some-of-my-customers-have-devices-that-are-not-genuine-will-microsoft-365-business-make-these-devices-genuine"></a>לחלק מן הלקוחות שלי יש התקנים שאינם מקורי; ביקור 365 Microsoft תהפוך התקנים אלה מקורית? 
-ביקור 365 Microsoft תבצע גירסה אחרת שאינה מקורית של Windows מקורית. ביקור 365 Microsoft לספק יתרון של שדרוג ומאפשרים ללקוחות אלה שבהם פועל Windows 7 מקורי, 8 או 8.1 Pro כדי לשדרג לגירסה עדכנית, מקורית ביותר של Windows 10 Pro. 
+### <a name="some-of-my-customers-have-devices-that-are-not-genuine-will-microsoft-365-business-make-these-devices-genuine"></a>לחלק מהלקוחות שלי יש התקנים שאינם מקוריים; האם Microsoft 365 Business יגרום להתקנים אלה להיות מקוריים? 
+Microsoft 365 Business אינו מהווה גירסה אחרת של Windows שאינה מקורית, מקורית. Microsoft 365 Business מספק תועלת שדרוג המאפשרת ללקוחות אלה פועל Windows 7, 8 או 8.1 Pro כדי לשדרג את הגירסה העדכנית ביותר, מקורית של Windows 10 Pro. 
  
-### <a name="what-support-is-available-to-csp-partners-for-the-microsoft-365-business-preview"></a>איזה תמיכה זמינה לשותפים CSP עבור תצוגה מקדימה של העסק 365 של Microsoft? 
-אותה תמיכה ערוצים זמינים לשותפים CSP היום (תמיכה premier ותוכנית תמיכה מתקדמת) יש עבר המתמחים בעסק 365 Microsoft והם מוכנים לספק משתפת פעולה עם תמיכה. 
+### <a name="what-support-is-available-to-csp-partners-for-the-microsoft-365-business-preview"></a>איזו תמיכה זמינה לשותפי CSP עבור התצוגה המקדימה העסקית של Microsoft 365? 
+אותם ערוצי תמיכה הזמינים לשותפי CSP היום (תמיכה premier ותוכנית תמיכה מתקדמת) הוכשרו ב-Microsoft 365 Business ומוכנים לספק לשותפים תמיכה. 
 
-### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-help-customers-with-their-compliance-obligations"></a>מה GDPR ואת כיצד העסק 365 Microsoft עוזרת לקוחות עם בהתחייבויות תאימות שלהם?
-רגולציה הגנת נתונים כללי (GDPR) הוא חוק הפרטיות חדש מקיף מעניק תושבי האיחוד האירופי (EU) גדול שליטה שלהם "נתונים אישיים" ודורש ארגונים כדי לשמר את שלמות הנתונים האישיים. GDPR מחייב ארגונים לפקד זה, או תהליך קשור נתונים אישיים עבור תושבי האיחוד האירופי ישתמש רק מעבדים נתונים צד שלישי אשר עונה על הדרישות של GDPR לצורך עיבוד נתונים אישיים. ב- 2017 במרץ, Microsoft שבוצעו ערבויות חוזי זמינים המספקים אבטחות אלה. לקוחות שיש להם שאלות אודות כיצד Microsoft יכולים לסייע להם לעמוד בהתחייבויות שלהם-GDPR נוספים צריך ללמוד אודות תאימות מתקדם ויכולות אבטחה זמינים להורדה (למשל תכלת הרקיע מידע הגנה, מניעת אובדן נתונים, מתקדם הגנה מפני איום, וכן הלאה.) וב -חבילות אחרות (למשל Microsoft 365 ארגון E5). לקבלת מידע נוסף, בקר ב- [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
-
-
+### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-help-customers-with-their-compliance-obligations"></a>מהו GDPR וכיצד Microsoft 365 Business מסייעים ללקוחות לסייע בהתחייבויות התאימות שלהם?
+הרגולציה הכללית של הגנת הנתונים (GDPR) היא חוק הפרטיות החדש והמקיף המעניק לתושבי האיחוד האירופי שליטה רבה יותר על "הנתונים האישיים" שלהם ודורש מארגונים לשמור על שלמות הנתונים האישיים. GDPR דורש ארגונים השולטים, או מעבדים נתונים אישיים הקשורים לתושבי האיחוד האירופי כדי להשתמש רק במעבדי נתונים של צד שלישי העומדים בדרישות של GDPR לעיבוד נתונים אישיים. במרץ 2017, מיקרוסופט הפכה ערבויות חוזיות הזמינות המספקות הבטחות אלה. לקוחות שיש להם שאלות אודות האופן שבו Microsoft יכולה לסייע להם לעמוד בהתחייבויות הנוספות של GDPR צריכים ללמוד על התאימות ויכולות האבטחה המתקדמות הזמינות כהרחבות (לדוגמה, הגנת מידע תכלת, מניעת אובדן נתונים, מתקדם הגנה מפני איומים וכד) ובסוויטות אחרות (לדוגמה, מיקרוסופט 365 Enterprise E5). לקבלת מידע נוסף, בקר [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
 
 
-## <a name="footnotes"></a>הערות שוליים
-<sup><a name="footnote1">**1**</a></sup> <small>זמין בארצות הברית, בבריטניה ובקנדה.</small> </br>
-<sup><a name="footnote2">**2**</a></sup> <small>ההתקנים פועל Windows 7 או 8.1 Pro הם זכאי שדרוג ל- Windows 10 Pro התצוגה המקדימה של Microsoft 365 ביקור.</small>
+
+
+## <a name="footnotes"></a>ערות שוליים
+<sup><a name="footnote1">**1**</a></sup> <small>זמין בארה ב, בריטניה, וקנדה.</small> </br>
+<sup><a name="footnote2">**2**</a></sup> <small>התקנים בהם פועל windows 7 או 8.1 פרו זכאים לשדרוג ל-windows 10 pro בתוך התצוגה המקדימה העסקית של Microsoft 365.</small>
  
 
 

@@ -1,5 +1,5 @@
 ---
-title: Access המקומית משאבים ממכשיר מצורף AD תכלת הרקיע ב- Microsoft 365 Business
+title: גישה למשאבים מקומיים ממכשיר תכלת המצורף לאתר ב-Microsoft 365 Business
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -16,40 +16,45 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
-description: למד כיצד לקבל גישה למשאבים המקומית כמו יישומים שורה של העסק, שיתופי קבצים ומדפסות מתכלת הרקיע של Active Directory המצורפים להתקן Windows 10.
-ms.openlocfilehash: fa3cf640e799feb81ff08c5b7b81d57f707e0152
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: למד כיצד לקבל גישה למשאבים מקומיים כגון יישומים עסקיים, שיתופי קבצים ומדפסות מתוך מכשיר המצורף ל-Windows 10.
+ms.openlocfilehash: ab9049e78617372463b8446dc8f8bc0089d8c117
+ms.sourcegitcommit: 91ff1d4339f0f043c2b43997d87d84677c79e279
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072029"
+ms.lasthandoff: 09/14/2019
+ms.locfileid: "36981660"
 ---
-# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Access המקומית משאבים ממכשיר מצורף AD תכלת הרקיע ב- Microsoft 365 Business
+# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>גישה למשאבים מקומיים ממכשיר תכלת המצורף לאתר ב-Microsoft 365 Business
 
-כל התקן Windows 10 הוא תכלת הרקיע Active Directory מצורף תהיה גישה לכל המשאבים מבוססות ענן כגון יישומי Office 365 שלך ואת להיות מוגן על-ידי Microsoft 365 עסקיים. גם לאפשר גישה למשאבים המקומית כמו apps של קו עסקיים (LOB), שיתופי קבצים ומדפסות, עליך לסנכרן המקומית של Active Directory עם תכלת הרקיע Active Directory באמצעות [חיבור AD תכלת הרקיע](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect). ראה [מבוא ניהול התקנים ב- Active Directory תכלת הרקיע](https://docs.microsoft.com/en-us/azure/active-directory/device-management-introduction) כדי ללמוד עוד. 
-  
-## <a name="run-azure-ad-connect"></a>הפעל AD תכלת הרקיע ההתקשרות
+כל מכשיר של Windows 10 שהוא הצטרף למשרד התכלת הפעילה יקבל גישה לכל המשאבים המבוססים על ענן צמתים כגון יישומי Office 365 וניתן להגן עליהם על-ידי Microsoft 365 Business. כדי לאפשר גם גישה למשאבים מקומיים כגון יישומים של שורה של עסקים (בלוב), מיקומים משותפים של קבצים ומדפסות, עליך לסנכרן את ה-Active Directory המקומי שלך עם מדריך הפעלה תכלת באמצעות [התחברות לספירה](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect). הסרטון הבא מפרט את השלבים עבור אופן ההגדרה של התרחיש השכיח ביותר.
+ 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
 
-השלם את השלבים הבאים כדי לאפשר להתקנים AD תכלת הרקיע מצורף של הארגון שלך לקבל גישה למשאבים המקומית.
+ראה [מבוא לניהול התקנים ב-תכלת Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/device-management-introduction) כדי ללמוד עוד.
+השלבים מסוכמים גם בסעיפים הבאים.
+
+## <a name="run-azure-ad-connect"></a>הפעל תכלת והתחבר
+
+השלם את השלבים הבאים כדי לאפשר להתקנים המצורפים של הארגון לבצע גישה למשאבים מקומיים.
   
-1. כדי לסנכרן שלך משתמשים, קבוצות ואנשי קשר מ- Active Directory המקומי לתוך תכלת הרקיע Active Directory, הפעל את אשף סינכרון הספריה ולאחר התחבר AD תכלת הרקיע כפי שמתואר [להגדיר סינכרון ספריות עבור Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846).
+1. כדי לסנכרן את המשתמשים, הקבוצות ואנשי הקשר שלך מתוך Active Directory המקומי לתוך הספריה הפעילה של המשרד, הפעל את אשף סינכרון הספריות ואת ' כחול לספירה ' כמתואר [בהגדרת סינכרון ספריות עבור Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846).
     
-2. לאחר סינכרון ספריות הושלמה, ודא ש-AD תכלת הרקיע מצורף הם התקני Windows 10 של הארגון שלך. שלב זה מבוצע בנפרד בכל התקן Windows 10. לקבלת פרטים, ראה [הגדרת התקני Windows עבור משתמשים עסקיים 365 של Microsoft](set-up-windows-devices.md) . 
+2. לאחר השלמת סינכרון הספריות, ודא שהתקני Windows 10 של הארגון שלך הם המצורפים לתכלת. שלב זה נעשה בנפרד בכל התקן של Windows 10. ראה [הגדרת התקני Windows עבור משתמשים עסקיים של Microsoft 365](set-up-windows-devices.md) לפרטים. 
     
-3. לאחר ההתקנים 10 חלונות הם AD תכלת הרקיע המצורפים, כל משתמש עליך לאתחל מחדש התקנים והכניסה שלהם עם אישורי Microsoft 365 העסק שלהם. כל ההתקנים כעת תהיה גישה למשאבים המקומית גם.
+3. לאחר התקני Windows 10 הם תכלת לספירה הצטרפו, כל משתמש צריך לאתחל את המכשירים שלהם להתחבר עם האישורים העסקיים שלהם Microsoft 365. לכל ההתקנים תהיה כעת גישה גם למשאבים מקומיים.
     
-ללא שלבים נוספים נדרשים כדי לקבל גישה מקומית משאבים עבור הפרסומת תכלת הרקיע לחבר התקנים. זהו פונקציונליות מובנית זמינה ב- Windows 10. 
+אין צורך בצעדים נוספים כדי לקבל גישה למשאבים מקומיים עבור התקנים המצורפים ל-תכלת AD. זוהי פונקציונליות מוכללת הזמינה ב-Windows 10. 
   
-אם הארגון שלך אינו מוכן לפריסה בתכלת הרקיע AD מצורף תצורת ההתקן המתואר לעיל, שקול להגדיר את [תצורת ההתקן Joined AD תכלת הרקיע היברידית](manage-windows-devices.md).
+אם הארגון שלך אינו מוכן לפרוס בתצורת ההתקן המצורף למטה לספירה המתוארת לעיל, שקול להגדיר את [תצורת ההתקן היברידית של התכלת ההיברידית](manage-windows-devices.md).
   
-### <a name="considerations-when-joining-your-windows-devices-to-azure-ad"></a>שיקולים בעת הצטרפות התקני Windows שלך כדי AD תכלת הרקיע
+### <a name="considerations-when-joining-your-windows-devices-to-azure-ad"></a>שיקולים בעת הצטרפות להתקני Windows לתכלת
 
-אם אתה AD תכלת הרקיע הצטרפות התקן Windows שהיתה בעבר לתחום או לקבוצת עבודה, עליך לקחת בחשבון את המגבלות הבאות:
+אם אתה מצטרף להתקן של מערכת Windows שכבר הצטרף לתחום או בקבוצת עבודה, עליך לשקול את המגבלות הבאות:
   
-- כאשר התקן AD תכלת הרקיע מצטרף, הוא יוצר משתמש חדש ללא הפניה פרופיל קיים. כדי לפתור בעיה זו, פרופילי צורך להעביר באופן ידני. פרופיל המשתמש מכיל מידע, כגון מועדפים קבצים מקומיים, הגדרות הדפדפן, הגדרות תפריט התחלה, וכו '. הגישה הטובה ביותר היא למצוא כלי צד שלישי כדי למפות הגדרות וקבצים קיימים לפרופיל החדש
+- כאשר התקן "תכלת לספירה" מצטרף, הוא יוצר משתמש חדש מבלי ליצור הפניה לפרופיל קיים. כדי לתקן זאת, יש להעביר את הפרופילים באופן ידני. פרופיל משתמש מכיל מידע כגון מועדפים, קבצים מקומיים, הגדרות דפדפן, הגדרות תפריט התחלה וכו '. הגישה הטובה ביותר היא למצוא כלי של ספק חיצוני כדי למפות קבצים והגדרות קיימים לפרופיל החדש
 
-- אם ההתקן משתמש אובייקטי מדיניות קבוצתית (GPO), אובייקטי Gpo מסוימים ייתכן שאין דומים [התצורה של ספק שירות](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) (CSP) ב- Intune. הפעל את [הכלי MMAT](https://www.microsoft.com/download/details.aspx?id=45520) כדי למצוא Csp דומים עבור אובייקטי Gpo קיים.
+- אם ההתקן משתמש באובייקטי מדיניות קבוצתית (GPO), ייתכן שלאובייקטי Gpo מסוימים אין [ספק שירותי תצורה](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) דומה (CSP) ב-Intune. הפעל את [הכלי Mmat](https://www.microsoft.com/download/details.aspx?id=45520) כדי לחפש מדיניות קבוצתית דומה עבור אובייקטי gpo קיימים.
 
-- למשתמשים לא תהיה אפשרות לאמת ליישומים התלויים אימות של Active Directory. כדי להתמודד עם זה להעריך באמצעות app מדור קודם ושקול עדכון ליישום העושה אימות מודרניים במידת האפשר.
+- למשתמשים לא תהיה אפשרות לבצע אימות ליישומים התלויים באימות של Active Directory. כדי להתמודד עם זה להעריך באמצעות יישום מדור קודם ולשקול עדכון לאפליקציה המשתמשת באימות מודרני אם אפשרי.
 
-- גילוי מדפסת הספריה הפעילה לא יפעלו. כדי לפתור בעיה זו, מספקים נתיבי הדפסה ישירה עבור כל המשתמשים או למנף [הדפסה ענן היברידי](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).
+- גילוי מדפסות של active Directory לא יפעל. כדי לתקן זאת, ספק נתיבי מדפסת ישירים עבור כל המשתמשים או לחץ על [הדפסת ענן היברידית](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).
