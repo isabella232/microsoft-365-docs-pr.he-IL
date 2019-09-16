@@ -17,18 +17,16 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: למד כיצד לקבל גישה למשאבים מקומיים כגון יישומים עסקיים, שיתופי קבצים ומדפסות מתוך מכשיר המצורף ל-Windows 10.
-ms.openlocfilehash: ab9049e78617372463b8446dc8f8bc0089d8c117
-ms.sourcegitcommit: 91ff1d4339f0f043c2b43997d87d84677c79e279
+ms.openlocfilehash: 6065dd68bc8d306898ee02baa97fe07f71042439
+ms.sourcegitcommit: c0f769244d05ad019ea2307c38d5543d7b1e5afd
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2019
-ms.locfileid: "36981660"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36992248"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>גישה למשאבים מקומיים ממכשיר תכלת המצורף לאתר ב-Microsoft 365 Business
 
-כל מכשיר של Windows 10 שהוא הצטרף למשרד התכלת הפעילה יקבל גישה לכל המשאבים המבוססים על ענן צמתים כגון יישומי Office 365 וניתן להגן עליהם על-ידי Microsoft 365 Business. כדי לאפשר גם גישה למשאבים מקומיים כגון יישומים של שורה של עסקים (בלוב), מיקומים משותפים של קבצים ומדפסות, עליך לסנכרן את ה-Active Directory המקומי שלך עם מדריך הפעלה תכלת באמצעות [התחברות לספירה](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect). הסרטון הבא מפרט את השלבים עבור אופן ההגדרה של התרחיש השכיח ביותר.
- 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
+כל מכשיר של Windows 10 שהוא הצטרף למשרד התכלת הפעילה יקבל גישה לכל המשאבים המבוססים על ענן צמתים כגון יישומי Office 365 וניתן להגן עליהם על-ידי Microsoft 365 Business. כדי לאפשר גם גישה למשאבים מקומיים כגון יישומים של שורה של עסקים (בלוב), מיקומים משותפים של קבצים ומדפסות, עליך לסנכרן את ה-Active Directory המקומי שלך עם מדריך הפעלה תכלת באמצעות [התחברות לספירה](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect). 
 
 ראה [מבוא לניהול התקנים ב-תכלת Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/device-management-introduction) כדי ללמוד עוד.
 השלבים מסוכמים גם בסעיפים הבאים.
