@@ -10,21 +10,21 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: מיקרוסופט 365 עסקים, מיקרוסופט 365, SMB, שאלות נפוצות, שאלות נפוצות, תשובות, עסקים
 ms.date: 06/08/2018
-ms.openlocfilehash: 3ab99b402bf440cd0c113a87dc453ff388a5befb
-ms.sourcegitcommit: 91ff1d4339f0f043c2b43997d87d84677c79e279
+ms.openlocfilehash: e722cc117d967796f0063b20e3d117b36b179f3e
+ms.sourcegitcommit: 14624abb412b6a34138a6266c994bb9cae411ad9
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2019
-ms.locfileid: "36982320"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37028406"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>מיקרוסופט 365 שאלות נפוצות לגבי עסקים
 
 ## <a name="general"></a>כללי
 
 ### <a name="what-is-microsoft-365-business"></a>מה זה מיקרוסופט 365 עסקים? 
-Microsoft 365 הוא פתרון משולב המביא לכלי הפרודוקטיביות, האבטחה ויכולות ניהול ההתקנים הטובים ביותר ברמה הטובה ביותר עבור עסקים קטנים ובינוניים. 
+Microsoft 365 הוא פתרון משולב, המביא יחד כלים לפרודוקטיביות מיטבית ברמה הטובה ביותר, לאבטחה ולניהול התקנים עבור עסקים קטנים בגודל בינוני. 
 
-**סט הוליסטי של פרודוקטיביות עסקית וכלי שיתוף פעולה** 
+**קבוצה של כלים לפרודוקטיביות ולשיתוף פעולה עסקי** 
 * Word, Excel, PowerPoint, Outlook, OneNote, Publisher ו-Access 
 * Exchange, OneDrive, סקייפ לעסק, צוותי מיקרוסופט, SharePoint 
 * יישומים עסקיים מ-Office (הזמנות, מנהל הלקוחות של Outlook, MileIQ<sup>[1](#footnote1)</sup>, מיקרוסופט החשבונית<sup>[1](#footnote1)</sup>) 
@@ -32,7 +32,7 @@ Microsoft 365 הוא פתרון משולב המביא לכלי הפרודוקט�
 **ניהול התקנים ויכולות אבטחה ברמה ארגונית** 
 - מסייע לספק הגנה מפני איומים חיצוניים כגון דיוג _ Amp_ תוכנות זדוניות מתוחכמות עם Office 365 איום מתקדם הגנה משמר Windows Defender ניצול 
 -  מסייע לשלוט ב-_ Amp_ לנהל את אופן הגישה של מידע רגיש ומשודר עם מדיניות מניעת אובדן נתונים של Office 365 (להיות זמינה בקיץ, 2018) ותוכנית הגנת מידע תכלת 1 
--  סיוע בהגנה, שמירה וגיבוי של הנתונים שלך באמצעות ' ארכיון מקוון של Exchange '  
+-  מסייע להגן, לשמר ולגבות את הנתונים שלך באמצעות ' ארכיון מקוון של Exchange '  
 -   הגנה app עבור Office _ Amp_ יישומים ניידים אחרים עם Intune App הגנה 
 -  ניהול התקנים עבור מחשבי Windows 10, MacOS _ Amp_ התקני מוביילים עם ניהול התקן Intune 
 -  תצורת אבטחה עקבית בין התקנים-הגנה על נתוני חברה באמצעות התקנים-Windows Defender, תמיד-מופעל ועדכני 
@@ -118,11 +118,11 @@ Windows 10 עסקים כולל גם Windows Defender ניצול המשמר, קב
 הנתיב הישיר ביותר לפריסה עסקית מוצלחת של Microsoft 365 הוא לעסוק בשותפות עם שותף של Microsoft. יש להם הכשרה נרחבת וניסיון עם מגוון רחב של תרחישי לקוחות והם מצוידים הטובה ביותר כדי להבין את הסביבה ואת הצרכים. לקוחות שחוו את IT בצוות יכולים להשתמש ב- <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">microsoft 365 business התחלת העבודה</a> כדי לסייע להם בפריסה העסקית של microsoft 365. 
 
 ### <a name="does-microsoft-365-business-include-the-full-capabilities-of-microsoft-intune"></a>האם Microsoft 365 Business כולל את היכולות המלאות של Microsoft Intune? 
-כן, Microsoft 365 מנויים עסקיים מורשים להשתמש ביכולות Intune מלאות עבור iOS, אנדרואיד, MacOS, וניהול התקנים אחרים חוצת פלטפורמות. תכונות שאינן זמינות במסוף ניהול מפושט ב-Microsoft 365 Business, כמו ניהול צד שלישי של יישומים וקביעת תצורה של פרופילי WiFi, אישורי VPN, וכו ', ניתן לנהל במסוף Intune מלא. יש לך זכויות להשתמש ב'מנהל התצורה ' כדי לנהל את הלקוחות המכוסים על-ידי רשיון EMS. עבור שאילתות הקשורות SCCM, אנא ראה <a href="https://docs.microsoft.com/en-us/sccm/core/understand/product-and-licensing-faq#bkmk_csp" target="_blank">שאלות נפוצות Sccm</a>
+כן, Microsoft 365 מנויים עסקיים מורשים להשתמש ביכולות Intune מלאות עבור iOS, אנדרואיד, MacOS, וניהול התקנים אחרים חוצת פלטפורמות. תכונות שאינן זמינות במסוף ניהול מפושט ב-Microsoft 365 Business, כמו ניהול צד שלישי של יישומים וקביעת תצורה של פרופילי WiFi, אישורי VPN, וכו ', ניתן לנהל במסוף Intune מלא. 
   
 
 ### <a name="does-azure-active-directory-premium-p1-come-with-microsoft-365-business"></a>האם התכלת Active מדריך הפרמיה P1 מגיעים עם מיקרוסופט 365 עסקים? 
-מיקרוסופט 365 העסק בנוי על הטכנולוגיה מרחבי מיקרוסופט ובזמן שהוא משתף כמה תכונות עם שליטת Active Directory, זה לא גרסה מלאה. מדיניות האבטחה והניהול שנוצרה ב-Microsoft 365 Business מסתמכת על פונקציונליות של תכלת, אך אינה כוללת את כל התכונות (לדוגמה, תכונות של שירות עצמי, תכונות גישה מותנות ודיווח). לקוחות יכולים לבחור לרכוש התכלת Active הספריה Premium P1 או P2 כתוספת ל-Microsoft 365 Business. לקבלת מידע נוסף, עיין [בתיאור השירות העסקי של Microsoft 365](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148) 
+מיקרוסופט 365 העסק כולל בחירה תכלת AD Premium P1 (AADP P1) תכונות כגון סיסמה שירות עצמי לאפס עם AD לכתוב בחזרה, התכלת משרד וגישה מותנית. הוא אינו כולל את כולו של AADP P1. נא עיין [בתיאור שירות העסקים של Microsoft 365](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148) לקבלת מידע נוסף 
  
  
 ### <a name="does-microsoft-365-business-allow-customers-to-manage-macs"></a>האם Microsoft 365 Business מאפשר ללקוחות לנהל את מקינטוש? 
