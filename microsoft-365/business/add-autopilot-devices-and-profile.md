@@ -19,17 +19,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
-description: למד כיצד להשתמש AutoPilot של Windows כדי להתקין התקנים חדשים של Windows 10 עבור העסק שלך.
-ms.openlocfilehash: 9a70978156fb26ac3aad08f1758b7ee125067d38
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: למד כיצד להשתמש בטייס אוטומטי של Windows כדי להגדיר התקנים חדשים של Windows 10 עבור העסק שלך.
+ms.openlocfilehash: ee4b4a9b06c08b8f9456822b680542665c27baf3
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072149"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121197"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>שימוש במדריך שלב אחר שלב להוספת מכשירים ופרופיל של Autopilot
 
-באפשרותך להשתמש AutoPilot של Windows כדי להגדיר התקנים 10 חלונות **חדשים** עבור העסק שלך, כך הם מוכנים לשימוש יעיל ברגע שתיתן לו את העובדים שלך.
+באפשרותך להשתמש בטייס אוטומטי של Windows כדי להגדיר windows **חדש** 10 התקנים עבור העסק שלך כך שהם מוכנים לשימוש פרודוקטיבי ברגע שאתה נותן אותם לעובדים שלך.
   
 ## <a name="device-requirements"></a>דרישות המכשירים
 
@@ -41,17 +41,17 @@ ms.locfileid: "34072149"
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>שימוש במדריך ההתקנה ליצירת מכשירים ופרופילים
 
-![כרזה המצביעים על https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+[![תווית כדי ליידע אותך שמרכז הניהול משתנה ובאפשרותך למצוא פרטים נוספים ב-aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 אם עדיין לא יצרת קבוצות מכשירים או פרופילים, הדרך הטובה ביותר להתחיל היא באמצעות מדריך צעד-אחר-צעד, אך תוכל גם [להוסיף מכשירים](create-and-edit-autopilot-devices.md) ו [להקצות להם פרופילים](create-and-edit-autopilot-profiles.md) מבלי להשתמש במדריך. 
   
-1. עבור אל מרכז admin ב <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+1. <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. לך למרכז המנהלה
 
-2. בסרגל ניווט השמאלי לבחור **התקנים** \> **AutoPilot**.
+2. בניווט השמאלי בחר **התקנים** \> **טייס אוטומטי**.
 
-    ![במרכז admin לבחור התקנים ולאחר מכן AutoPilot.](media/AutoPilot.png)
+    ![במרכז admin לבחור התקנים ולאחר מכן טייס אוטומטי.](media/AutoPilot.png)
   
-2. בדף **AutoPilot** , לחץ או הקש על **מדריך התחלה**.
+2. בעמוד **הטייס האוטומטי** , לחץ או הקש על **התחל מדריך**.
     
     ![Click Start guide for step-by-step instructions for Autopilot.](media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   

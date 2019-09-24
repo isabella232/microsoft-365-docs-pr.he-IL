@@ -18,25 +18,25 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
-description: 'למד כיצד להשתמש ב- Microsoft עסק 365 מפעל איפוס התקני Windows 10 שלך. '
-ms.openlocfilehash: 7cb7afdc947766598ef5385078a1b2cab87601dd
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: 'למד כיצד להשתמש ב-Microsoft 365 Business כדי לאפס את התקני Windows 10 שלך. '
+ms.openlocfilehash: 12e0bdbab430654fb80baa0313e63b2493e5077e
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074469"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121177"
 ---
 # <a name="reset-windows-10-devices-to-their-factory-settings"></a>איפוס מכשירי Windows 10 להגדרות היצרן שלהם
 
-![כרזה המצביעים על https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+[![תווית כדי ליידע אותך שמרכז הניהול משתנה ובאפשרותך למצוא פרטים נוספים ב-aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 איפוס להגדרות יצרן מחזיר מכשיר להגדרות המקוריות שהופיעו במכשיר בעת רכישתו. כל האפליקציות והנתונים במכשיר שהותקנו לאחר הרכישה יוסרו. באפשרותך להשתמש ב- Microsoft 365 Business לצורך איפוס להגדרות יצרן של מכשירי Windows 10 שאתה מנהל.
   
-1. עבור אל מרכז admin ב <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>... 
+1. לך למרכז המנהלה <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>... 
     
-2. נווט השמאלי, בחר **התקנים** \> **ניהול**.
+2. בניווט השמאלי, בחר באפשרות ' **התקנים** \> **'.**
 
-3. בדף ' **ניהול** ', סמן את תיבת הסימון ליד ההתקן שברצונך להסיר נתונים ולאחר מכן, **ניהול** הנפתחת בחר **איפוס המפעל**.
+3. בדף **ניהול** , בדוק את תיבת הסימון לצד ההתקן שממנו ברצונך להסיר נתונים ולאחר מכן, **באיפוס**הרשימה הנפתחת של **ניהול** בחירה.
     
 4. בחלונית **האם אתה בטוח שברצונך לאפס את המכשירים להגדרות היצרן**, בחר **אשר** \> **סגור**.
     

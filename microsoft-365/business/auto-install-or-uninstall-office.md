@@ -19,17 +19,17 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: cbc6bfe5-565a-4fb8-95f0-b06e7b74ac46
-description: 'התקנה או הסרת התקנה של Office בהתקני Windows 10 ממרכז ניהול עסקי 365 של Microsoft. '
-ms.openlocfilehash: 1e962f51882ddfd97da566858a0a1e6fb56ecbb8
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: 'התקן או הסר התקנה של Office בהתקני Windows 10 ממרכז הניהול העסקי של Microsoft 365. '
+ms.openlocfilehash: 70fd2f1ded87e04f506b1ba415c820af5d535938
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34071959"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121257"
 ---
 # <a name="automatically-install-or-uninstall-office-on-windows-10-devices"></a>התקנה או הסרת התקנה אוטומטית של Office במכשירי Windows 10
 
-![כרזה המצביעים על https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+[![תווית כדי ליידע אותך שמרכז הניהול משתנה ובאפשרותך למצוא פרטים נוספים ב-aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 תוכל להתקין את Office במחשבי PC של Windows 10 בקלות ובמהירות ממרכז הניהול של Microsoft 365 Business.
   
@@ -40,7 +40,7 @@ ms.locfileid: "34071959"
 1. היכנס ל[מרכז הניהול](https://aka.ms/bcsportal) עם אישורים של מנהל מערכת כללי. 
     
 2. בכרטיס **מכשירים**, בחר **ניהול פריסת Office**.
-      אם אינך רואה את **פעולות התקן** הכרטיס, ניהול מרכז **הבית** בעמוד, לחץ על **הוספה** (+) כדי להוסיף אותו לדף הבית של הניהול שלך.
+      אם אינך רואה את כרטיס **פעולות ההתקן** , בדף **הבית** של מרכז הניהול, לחץ על **הוסף** (+) כדי להוסיפו לבית המנהל שלך.
     
     ![Screenshot of the Devices card in the admin center](media/9982e784-dbf9-4a76-a159-bb3e2e5aa23f.png)
   

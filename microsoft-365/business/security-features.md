@@ -1,5 +1,5 @@
 ---
-title: תכונות האבטחה והתאימות של Microsoft 365 עסקי
+title: מיקרוסופט 365 תכונות אבטחה ותאימות של העסק
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -18,108 +18,108 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
-description: למד אודות תכונות אבטחה הכלולים ב- Microsoft 365 עסקיים.
-ms.openlocfilehash: bd61ad3bf1b34635a7b80f1c9ccf63fa98d31915
-ms.sourcegitcommit: 274af83139ad7da3aa33366c3323d533d95c7db4
+description: למד אודות תכונות האבטחה הגיעות עם Microsoft 365 Business.
+ms.openlocfilehash: 6b8fc215b95913e1beef3a3715119b947a7af406
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "35017521"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121157"
 ---
-# <a name="microsoft-365-business-security-and-compliance-features"></a>תכונות האבטחה והתאימות של Microsoft 365 עסקי
+# <a name="microsoft-365-business-security-and-compliance-features"></a>מיקרוסופט 365 תכונות אבטחה ותאימות של העסק
 
-Microsoft 365 שעסק מציע תכונות אבטחה פשוטה כדי לסייע בשמירה על הנתונים שלך על מחשבים אישיים, טלפונים בלוחות.
+Microsoft 365 Business מציע תכונות אבטחה פשוטות יותר כדי לסייע בהגנה על הנתונים שלך במחשבים, בטלפונים ובטבליות.
     
-## <a name="microsoft-365-business-admin-center-security-features"></a>תכונות האבטחה של מרכז ניהול עסקי 365 של Microsoft
+## <a name="microsoft-365-business-admin-center-security-features"></a>מיקרוסופט 365 מרכז עסקים ניהול תכונות אבטחה
 
-![כרזה המצביעים על https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+[![תווית כדי ליידע אותך שמרכז הניהול משתנה ובאפשרותך למצוא פרטים נוספים ב-aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
-באפשרותך לנהל רבות מתכונות האבטחה עסקיים 365 Microsoft במרכז admin, המעניק לך דרך פשוטה הפעלה או ביטול של תכונות אלה. במרכז admin באפשרותך לבצע את הפעולות הבאות:
+באפשרותך לנהל רבות מתכונות האבטחה העסקיות של Microsoft 365 במרכז הניהול, המעניקה לך דרך פשוטה להפעיל או לבטל תכונות אלה. במרכז הניהול באפשרותך לבצע את הפעולות הבאות:
   
   
-- [קבע הגדרות ניהול יישומים עבור התקנים Android או iOS](app-protection-settings-for-android-and-ios.md) . 
+- [קביעת הגדרות ניהול יישומים עבור מכשירי Android או iOS](app-protection-settings-for-android-and-ios.md) . 
     
-    הגדרות אלה כוללות מחיקת קבצים מהמכשיר לא פעילה לאחר פרק זמן מוגדר, הצפנת קבצי עבודה, לדרוש כי משתמשים להגדיר מספר זיהוי אישי, וכן הלאה.
+    הגדרות אלה כוללות מחיקת קבצים מהתקן לא פעיל לאחר תקופת ערכה, הצפנת קבצי עבודה, המחייב את המשתמשים להגדיר PIN, וכו '.
     
-- [קבע הגדרות הגנת יישום עבור התקני Windows 10](protection-settings-for-windows-10-devices.md) . 
+- [קביעת הגדרות הגנת יישומים עבור התקני Windows 10](protection-settings-for-windows-10-devices.md) . 
     
-    ניתן להחיל הגדרות אלה על נתוני החברה בשני בבעלות חברה או התקנים בבעלות באופן אישי.
+    ניתן להחיל הגדרות אלה על נתוני חברה הן בבעלות החברה והן בהתקנים הנמצאים בבעלות אישית.
     
-- [קבע הגדרות הגנה התקן עבור Windows 10 התקנים](protection-settings-for-windows-10-pcs.md) . 
+- [קביעת הגדרות הגנת התקן עבור התקני Windows 10](protection-settings-for-windows-10-pcs.md) . 
     
-    באפשרותך להפוך לזמין [של bitlocker לסייע בהגנה על הנתונים במקרה התקן אבד או נגנב](https://go.microsoft.com/fwlink/p/?linkid=871405) , ולאפשר [Windows מגן לנצל](https://go.microsoft.com/fwlink/p/?linkid=871404) לספק הגנה מתקדמת מפני ransomware. 
+    באפשרותך להפוך את הצפנת [BitLocker](https://go.microsoft.com/fwlink/p/?linkid=871405) לזמינה כדי לסייע בהגנה על נתונים במקרה של אובדן או גניבה של התקן, ולאפשר [למשמר הניצול של Windows](https://go.microsoft.com/fwlink/p/?linkid=871404) לספק הגנה מתקדמת מפני ransomware. 
     
 - [הסרת נתוני חברה ממכשירים](remove-company-data.md)
     
-    באפשרותך נגב נתוני החברה מרחוק אם התקן הוא אבד, נגנב, או עובד עוזב את החברה שלך.
+    באפשרותך למחוק מרחוק נתוני חברה אם התקן אובד, נגנב או עובד עוזב את החברה שלך.
     
-- [התקנים 10 חלונות איפוס להגדרות היצרן שלהם](reset-devices-to-factory-settings.md) . 
+- [אפס את התקני Windows 10 להגדרות המפעל שלהם](reset-devices-to-factory-settings.md) . 
     
-    באפשרותך לאפס כל המכשירים Windows 10 יש הגדרות הגנה התקן שהוחל עליהם.
+    באפשרותך לאפס התקני Windows 10 שהוחלו עליהם הגדרות הגנת התקן.
     
 ## <a name="additional-security-features"></a>תכונות אבטחה נוספת 
 
-תכונות מתקדמות בעסק 365 של Microsoft זמינים לסייע לך להגן על העסק שלך מפני איומים באינטרנט וכן להגן על מידע רגיש.
+תכונות מתקדמות ב-Microsoft 365 Business זמינות כדי לסייע לך להגן על העסק שלך מפני איומי סייבר ולהגן על מידע רגיש.
   
-- **[Office 365 איום מתקדם הגנה](https://support.office.com/article/e100fe7c-f2a1-4b7d-9e08-622330b83653)**
+- **[הגנת האיום המתקדם של Office 365](https://support.office.com/article/e100fe7c-f2a1-4b7d-9e08-622330b83653)**
     
-    מתקדם הגנה מפני איום (ATP) מסייע להגן על העסק שלך כנגד התקפות מתוחכמות דיוג והתקפות ransomware שנועד לפגוע עובד או פרטי הלקוח. התכונות כוללות:
+    הגנת האיומים המתקדמת (ATP) מסייעת לשמור על העסק שלך מפני התקפות דיוג וransomware מתוחכמות המיועדות לפגוע בפרטי העובד או הלקוח. התכונות כוללות:
     
-  - סריקת הקובץ המצורף מתוחכמים וניתוח מאפיק AI כדי לזהות ולמחוק הודעות מסוכן.
+  - סריקת מצורף מתוחכם וניתוח AI מופעל כדי לזהות ולמחוק הודעות מסוכנות.
     
-  - אוטומטי בודק קישורים בדואר אלקטרוני כדי להעריך אם הן חלק מזימת דיוג. הדבר משאיר אותך מפני גישה אל אתרי אינטרנט שאינם בטוחים '.
+  - בדיקות אוטומטיות של קישורים בדואר אלקטרוני כדי להעריך אם הם חלק ממזימת דיוג. פעולה זו שומרת עליך מפני גישה לאתרים לא בטוחים.
 
-- **[יכולות מלאות של Intune בפורטל תכלת הרקיע](https://go.microsoft.com/fwlink/p/?linkid=871403)**
+- **[היכולות המלאות של Intune בפורטל התכלת](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
-    גישה Intune מרכז ניהול בפורטל תכלת הרקיע מאפשר לך להגדיר תכונות אבטחה נוספות, כגון ניהול התקנים MacOS, iPhone ו Android התקנים יחד עם ניהול מתקדם של התקן עבור Windows, שאינם זמינים באמצעות Microsoft מרכז ניהול עסקי 365.
-- **[Access מותנה](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview) זהה כתוכנית AD P1 תכלת הרקיע**
+    גישה למרכז admin Intune בפורטל תכלת מאפשר לך להגדיר תכונות אבטחה נוספות, כגון ניהול של התקני MacOS, iPhone, והתקנים אנדרואיד יחד עם ניהול התקנים מתקדמים עבור Windows, כי הם לא זמינים דרך מיקרוסופט 365 מרכז עסקים.
+- **[גישה מותנית](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview) זהה לתוכנית התכלת של AD P1**
 
-    Access מותנה באפשרותך לעזור להגן על הארגון שלך מפני סיכון הכניסה, גישה ניסיונות רשת לא צפויה או אזור, ניסיונות גישה סוגי התקנים מסוכנת טופס, וכן הלאה. אכיפת מדיניות לאחר השלמת האימות הראשון, והוא עושה שימוש אותות מהאירוע האימות הראשון כדי לקבוע אם יש לאשר את הגישה שניסית לבצע, Access מותנה מונעת, או f הוכחה יותר (כגון הטופס השני של זיהוי) נדרש.
+    ' גישה מותנית ' יכולה לסייע בהגנה על הארגון שלך מפני סיכוני כניסה, גישה לנסיונות מרשת או אזור לא צפויים, access מנסה ליצור סוגי התקנים מסוכנים וכדומה. פריטי מדיניות של גישה מותנית נאכפות לאחר השלמת האימות הראשון, והיא משתמשת באותות מאירוע האימות הראשון כדי לקבוע אם יש לאשר את הגישה הרצויה, מונעת, או f הוכחה נוספת (כגון סוג הזיהוי השני) היא נדרש.
 
-    תכונות access מותנה הכלולות הן:
+    תכונות הגישה המותנה הכלולות הן:
 
-    - Access בהתבסס על שם משתמש, קבוצת תפקיד
-    - Access [בהתבסס על יישום](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) 
-    - [Access בהתבסס על מיקום](https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration);  אפשר גישה מתוך טווחי IP מהימן או במדינות ספציפיות בלבד 
-    - דרוש MFA עבור גישה
-    - חסימת הגישה יישומים המשתמשים [באימות מדור קודם](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication)
-    - דרוש שימוש tp apps [הגנה app Intune](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access)
-    - אימות מותאמים אישית כגון MFA עם ספקים, לדוגמה DUO.
+    - גישה בהתבסס על שם משתמש, קבוצה ותפקיד
+    - גישה [בהתבסס על אפליקציה](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) 
+    - [Access מבוסס על מיקום](https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration);  אפשר גישה מטווחי IP מהימנים או ממדינות ספציפיות בלבד 
+    - דרוש גישה לתואר שלנו
+    - חסימת גישה ליישומים המשתמשים [באימות מדור קודם](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication)
+    - דרוש יישומים tp להשתמש [Intune app הגנה](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access)
+    - אימות מותאם אישית כגון משרד התואר השלישי עם ספקי צד שלישי, לדוגמה DUO.
    
-    תכונות נוספות:
-    - [איפוס סיסמה בשירות עצמי](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-customization) עבור היברידית AD תכלת הרקיע
+    תכונות אחרות:
+    - [איפוס סיסמה בשירות עצמי](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-customization) עבור תכלת היברידית
     
-## <a name="compliance-features"></a>תכונות תאימות
+## <a name="compliance-features"></a>מאפייני תאימות
 
-העסק שלך 365 Microsoft המנוי כולל תכונות המסייעים לשמור על תאימות ותקנים תקניות.
+המנוי העסקי שלך ב-Microsoft 365 כולל תכונות המסייעות לך לשמור על תאימות ותקני רגולציה.
 
 - **[מבט כולל על מדיניות מניעת אובדן נתונים](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
     
-    באפשרותך להגדיר DLP לזיהוי אוטומטי של מידע רגיש, כגון מספרי כרטיס אשראי, מספרי תעודת וכו כדי למנוע שלהם שיתוף מחוץ לחברה.
+    באפשרותך להגדיר את DLP כדי לאתר באופן אוטומטי מידע רגיש, כגון מספרי כרטיסי אשראי, מספרי ביטוח לאומי וכדומה, כדי למנוע שיתוף שלהם בצורה בשלה מחוץ לחברה שלך.
     
 - **[אחסון בארכיון של Exchange Online](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)**
     
-    רשיון בארכיון המקוון של Exchange מאפשרת הודעות בקלות לאחסון בארכיון עם גיבוי נתונים רציף. הוא מאחסן את כל הודעות דואר אלקטרוני של משתמש, כולל פריטים שנמחקו, למקרה בהם צורך מאוחר יותר עבור גילוי או שחזור. בנוסף, באפשרותך להשתמש מדיניות שמירה שונה כדי לשמור על נתוני דואר אלקטרוני עבור חסימות תביעה משפטית, גילוי אלקטרוני, או כדי לענות על דרישות תאימות.
+    הרישיון Exchange Online ארכיון מאפשר להודעות להיות בארכיון בקלות עם גיבוי נתונים רציף. הוא מאחסן את כל המיילים של המשתמש, כולל פריטים שנמחקו, במקרה שהם נחוצים מאוחר יותר עבור גילוי או שחזור. בנוסף, באפשרותך להשתמש בפריטי מדיניות שמירה שונים כדי לשמר נתוני דואר אלקטרוני לצורך התדיינות משפטית, גילוי eDiscovery או כדי לעמוד בדרישות התאימות.
     
-- **[הגנה על מידע תכלת הרקיע](https://go.microsoft.com/fwlink/p/?linkid=871406)**
+- **[הגנה מפני מידע תכלת](https://go.microsoft.com/fwlink/p/?linkid=871406)**
     
-    מסייע הגנת מידע שבקרה על גישה למידע רגיש דואר אלקטרוני ומסמכים עם פקדים כגון "אין קדימה" ו- "אל תעתיק." באפשרותך גם לסווג מידע רגיש כמו "סודי" ולציין כיצד ניתן לשתף מידע מסווג מחוץ ובתוך העסק. הצפנה ברמה ארגונית היא להחיל דואר אלקטרוני ומסמכים כדי לשמור על פרטיות המידע שלך בקלות. ביקור 365 של Microsoft כולל את התכונות של [תכלת הרקיע מידע הגנה תכנון 1](https://go.microsoft.com/fwlink/p/?linkid=871407). באפשרותך גם להתקין את הגנת מידע תכלת הרקיע תוספת הלקוח עבור יישומי Office. לקבלת פרטים נוספים, עיין [במדריך למנהל המערכת של לקוח הגנה על מידע תכלת הרקיע](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide).
+    הגנת מידע תסייע לך לשלוט בגישה למידע רגיש בדואר אלקטרוני ובמסמכים עם פקדים כגון "אל תעביר" ו-"אל תעתיק". באפשרותך גם לסווג מידע רגיש כ-"סודי" ולציין כיצד ניתן לשתף מידע מסווג בחוץ ובתוך העסק. הצפנה ברמה ארגונית קלה להחלה על דואר אלקטרוני ומסמכים כדי לשמור על פרטי המידע שלך. העסק של Microsoft 365 כולל את כל התכונות של [תוכנית הגנת מידע תכלת 1](https://go.microsoft.com/fwlink/p/?linkid=871407). באפשרותך גם להתקין את התוספת של לקוח הגנת מידע תכלת עבור יישומי Office. לפרטים נוספים, ראה [מדריך מנהל לקוח של הגנת מידע תכלת](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide).
 
-באפשרותך לנהל תכונות אלה האבטחה &amp; מרכז תאימות ומרכז admin Intune. לאורך זמן, הפקדים פשוטה יתווספו אל מרכז ניהול עסקי 365 של Microsoft.
+באפשרותך לנהל תכונות אלה במרכז &amp; תאימות האבטחה ובמרכז הניהול של Intune. עם הזמן, הפקדים הפשוטים יתווספו למרכז הניהול העסקי של Microsoft 365.
   
     
 ## <a name="faq"></a>שאלות נפוצות
 
- ### <a name="are-these-security-features-available-in-all-markets"></a>זמינות תכונות אבטחה אלה בכל השווקים?
+ ### <a name="are-these-security-features-available-in-all-markets"></a>האם תכונות אבטחה אלה זמינות בכל השווקים?
   
-כן, תכונות אלה זמינות בכל השווקים שבו נמכר עסקיים 365 של Microsoft.
+כן, תכונות אלה זמינות בכל השווקים שבו Microsoft 365 עסקים נמכרים.
   
-### <a name="how-do-i-find-the-security-amp-compliance-center"></a>כיצד למצוא את האבטחה &amp; מרכז תאימות?
+### <a name="how-do-i-find-the-security-amp-compliance-center"></a>כיצד ניתן לאתר את &amp; מרכז תאימות האבטחה?
   
-1. [להיכנס לעסק 365 Microsoft](https://portal.microsoft.com/) באמצעות אישורי הניהול שלך. 
+1. [היכנס ל-Microsoft 365 Business](https://portal.microsoft.com/) באמצעות אישורי המנהל שלך. 
     
-2. ב- nav השמאלי, אתר **ניהול מרכזי** והרחב אותו. 
+2. בניווט השמאלי, אתר **מרכזי ניהול** והרחב אותו. 
     
-    ![נווט שמאלה במרכז הניהול של Microsoft 365, בחר ניהול מרכזי.](media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
+    ![בניווט השמאלי במרכז הניהול של Microsoft 365, בחר במרכזי ניהול.](media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
-3. בחר **אבטחה &amp; תאימות** כדי לעבור אל אבטחה &amp; מרכז תאימות.
+3. בחר **בתאימות אבטחה &amp; ** כדי לעבור &amp; אל מרכז תאימות אבטחה.

@@ -18,33 +18,33 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
-description: 'למד כיצד להשתמש ב- Microsoft 365 עסקיים כדי להסיר נתוני החברה משתמש התקנים או מחשבים אישיים של Windows. '
-ms.openlocfilehash: 804c8104dca4c9203f603346da2a746e36c23dcd
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: 'למד כיצד להשתמש ב-Microsoft 365 Business כדי להסיר נתוני חברה מהתקני משתמש או ממחשבי Windows. '
+ms.openlocfilehash: b9dc2d612ee1e63428526fc486a565cfd997e1ab
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074569"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121297"
 ---
 # <a name="remove-company-data-from-devices"></a>הסרת נתוני חברה ממכשירים
 
-![כרזה המצביעים על https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+[![תווית כדי ליידע אותך שמרכז הניהול משתנה ובאפשרותך למצוא פרטים נוספים ב-aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 ## <a name="remove-company-data"></a>הסרת נתוני חברה
 
 ניתן להשתמש ב- Microsoft 365 Business כדי להסיר נתוני חברה שהמשתמשים שלך התקינו ב[מכשירים](app-protection-settings-for-android-and-ios.md) או ב [מחשבי Windows](protection-settings-for-windows-10-devices.md) שלהם, המוגנים על-ידי Microsoft 365. **אם תסיר נתוני חברה ממכשיר, לא תוכל לשחזר אותם לאחר מכן**. 
   
-1. עבור אל מרכז admin ב <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+1. <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. לך למרכז המנהלה
     
-2. נווט השמאלי, בחר **התקנים** \> **ניהול**.  
+2. בניווט השמאלי, בחר באפשרות ' **התקנים** \> **'.**  
   
-3. בדף ' **ניהול** ', בחר או חפש משתמש למי יש הנתונים שברצונך להסיר ולאחר מכן בחר בשם. 
+3. בדף **ניהול** , בחר או חפש משתמש הנתונים שברצונך להסיר ובחר את השם. 
     
-4. בחלונית הבאה, בחר את ההתקן או ההתקנים מרשימת **ההתקנים** ובחר בהתקן חלונית שנפתחת שאתה יכול לאפס את המכשיר להגדרות היצרן, או להסיר נתוני החברה בהתאם לסוג ההתקן. 
+4. בחלונית הבאה, בחר את ההתקן או ההתקנים מרשימת **ההתקנים** ובחלונית ההתקן שנפתחת באפשרותך לבחור לאפס את ההתקן להגדרות היצרן, או להסיר נתוני חברה בהתאם לסוג ההתקן. 
     
     ![On the remove comapany data pane, select the device from which you want to remove the data.](media/resetorremove.png)
   
-5. בחלונית אישור, בחרו ' **אשר** \> **סגור**.
+5. בחלונית האישור, בחר ' **אשר** \> **סגירה**'.
     
 
 
