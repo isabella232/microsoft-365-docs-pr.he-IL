@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: מיקרוסופט 365 עסקים, מיקרוסופט 365, SMB, שאלות נפוצות, שאלות נפוצות, תשובות, עסקים
 ms.date: 06/08/2018
-ms.openlocfilehash: e722cc117d967796f0063b20e3d117b36b179f3e
-ms.sourcegitcommit: 14624abb412b6a34138a6266c994bb9cae411ad9
+ms.openlocfilehash: cc6cc924cf45fa19d7f91235515981b636abf77d
+ms.sourcegitcommit: bd17ee20da1685e5c660d5f99746c81c63a17b22
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37028406"
+ms.lasthandoff: 09/24/2019
+ms.locfileid: "37141508"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>מיקרוסופט 365 שאלות נפוצות לגבי עסקים
 
@@ -43,6 +43,9 @@ Microsoft 365 הוא פתרון משולב, המביא יחד כלים לפרו�
 * התקנה אוטומטית של יישומי Office במחשבי Windows 10 
 * מעודכן תמיד ב-Office + Windows 10 
 * פריסה מפושטת של מחשבים עם Windows טייס אוטומטי
+
+**הפעלת גישה מותנית**
+- Microsoft 365 לקוחות עסקיים יכולים לאפשר גישה מותנית דרך הגדרות המדריך התכלת בפורטל התכלת. לקבלת מידע נוסף אודות קביעת התצורה של פריטי מדיניות של גישה מותנית, עיין במאמר [מהי גישה מותנית](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
 
 ### <a name="who-should-consider-adopting-microsoft-365-business"></a>מי צריך לשקול לאמץ את מיקרוסופט 365 עסקים? 
 Microsoft 365 Business נבנה עבור לקוחות קטנים ובינוניים, שאין להם משאבי IT קטנים בצוות ומעוניינים ביכולות הפרודוקטיביות והשיתוף הטובות ביותר של Office 365 יחד עם ניהול התקנים ופתרונות אבטחה ה לשמור על הנתונים העסקיים. הלקוח העסקי של Microsoft 365 מוכן להעביר את פעולות ה-IT שלהם לענן הצמתים והוא מעוניין לשמור על עמידה אקטיבית כדי לסייע בהגנה על נתונים בהתקנים השייכים לחברה ולעובדים.
