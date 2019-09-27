@@ -10,21 +10,18 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: bd66c26c-73a4-45a8-8642-3ea4ee7cd89d
-description: למד אודות ברירת המחדל והגדרות אחרות הזמינות ב- Microsoft Business 365 לאבטחת התקנים Windows 10.
-ms.openlocfilehash: 844bddc4b93c7dc543ad6c6a79f5cf92c96ceff0
-ms.sourcegitcommit: 0c1227dc79b66bab529bf178c5672791369ba471
+description: למד אודות ברירת המחדל והגדרות אחרות הזמינות ב-Microsoft 365 Business כדי לאבטח התקני Windows 10.
+ms.openlocfilehash: 11042a63c1c0938d73ee8c2ee4326430af31b92d
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/11/2019
-ms.locfileid: "35630608"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288684"
 ---
 # <a name="set-device-protection-settings-for-windows-10-pcs"></a>קביעת הגדרות הגנה על מכשירים עבור מחשבי PC של Windows 10
 
@@ -34,9 +31,9 @@ ms.locfileid: "35630608"
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/a5734146-620a-4cec-8618-536b3ca37972?autoplay=false]
   
-1. עבור אל מרכז admin ב <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
+1. <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. לך למרכז המנהלה 
     
-2. נווט השמאלי, בחר **התקנים** \> **מדיניות** \> **הוספה**.
+2. בניווט השמאלי, בחר באפשרות **מדיניות** \> **** **התקנים** \> .
   
 3. בחלונית **הוסף מדיניות**, הזן שם ייחודי עבור מדיניות זו. 
     

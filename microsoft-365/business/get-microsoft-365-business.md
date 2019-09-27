@@ -1,5 +1,5 @@
 ---
-title: קבל העסק 365 Microsoft ממרכז שותף
+title: קבל את Microsoft 365 Business מהמרכז השותף
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -10,22 +10,18 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
-description: למד כיצד לרכוש עסק 365 Microsoft ממרכז שותף של Microsoft.
-ms.openlocfilehash: 61e178b73c83880aab22336814dd9dc7fca046a5
-ms.sourcegitcommit: 64a7511d8c5ef527673b4c05753e6bb52ce9ab86
+description: למד כיצד לרכוש את Microsoft 365 Business ממרכז השותפים של Microsoft.
+ms.openlocfilehash: 27f0b291861959c7fe925f5c72698895999d65f8
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35114941"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287794"
 ---
 # <a name="get-microsoft-365-business"></a>השג את Microsoft 365 Business
 
@@ -33,9 +29,9 @@ ms.locfileid: "35114941"
 
 אם אין לך שותף ואתה מעוניין להשיג את Microsoft 365 Business, באפשרותך [לקנות אותו כאן](https://www.microsoft.com/en-US/microsoft-365/business).
 
-ראה [להירשם עבור העסק 365 של Microsoft](sign-up.md) לקבלת הוראות מפורטות.
+ראה [הירשם עבור Microsoft 365 Business](sign-up.md) לקבלת הוראות מפורטות.
 
-באפשרותך גם ראשי מעל [חנות Microsoft](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) כדי לקנות עסק 365 Microsoft וגם לקבל עזרה כיוונון.
+באפשרותך גם לגשת [למאגר של microsoft](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) כדי לרכוש את Microsoft 365 Business ולקבל עזרה מוגדרת.
   
 ## <a name="get-microsoft-365-business-from-microsoft-partner-center"></a>השגת Microsoft 365 Business ממרכז השותפים של Microsoft
 

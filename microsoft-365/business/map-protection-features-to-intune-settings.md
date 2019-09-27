@@ -12,22 +12,18 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: aad21b1a-c775-469a-b89c-c5d1d59d27db
-description: למד כיצד תכונות הגנה ב- Microsoft 365 Business למפות להגדרות Intune. המנוי מספק לך רשיון כדי לשנות הגדרות Intune.
-ms.openlocfilehash: a6aaf6cc06c31b870eb85582f5aa47699919d75d
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: למד כיצד תכונות הגנה במפה העסקית של Microsoft 365 להגדרות Intune. המנוי מספק רשיון לשינוי הגדרות Intune.
+ms.openlocfilehash: 316dc8efbe69057f049bf8fadd3c3f41c358a33e
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074259"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287960"
 ---
 # <a name="how-do-protection-features-in-microsoft-365-business-map-to-intune-settings"></a>כיצד תכונות ההגנה של Microsoft 365 Business ממפות להגדרות Intune
 
@@ -37,7 +33,7 @@ ms.locfileid: "34074259"
   
 כדי למצוא את הגדרת Intune, לאחר שתיכנס באמצעות אישורי מנהל המערכת של Microsoft 365 Business, עבור אל **מרכזי ניהול** ולאחר מכן בחר **Intune**.
   
- **חשוב:** מנוי עסקי 365 Microsoft מספק לך רשיון כדי לשנות את ההגדרות Intune. עיין [מבוא Intune כדי להתחיל.](https://docs.microsoft.com/intune/introduction-intune)
+ **חשוב:** מנוי עסקי של Microsoft 365 מספק לך רשיון לשינוי כל הגדרות Intune. ראה [מבוא לIntune כדי להתחיל.](https://docs.microsoft.com/intune/introduction-intune)
   
 לחץ על שם המדיניות שברצונך לבחור, לדוגמה 'מדיניות אפליקציות עבור Android', ולאחר מכן בחר **הגדרות מדיניות**.
   
@@ -68,7 +64,7 @@ ms.locfileid: "34074259"
 
 הטבלה הבאה מפרטת כיצד הגדרות מדיניות האפליקציות של Windows 10 ממופות להגדרות Intune.
   
-כדי למצוא את Intune הגדרה, בעוד מחובר באמצעות אישורי ניהול עסקי 365 Microsoft שלך, עבור אל [פורטל תכלת הרקיע](https://portal.azure.com), ולאחר מכן בחר **יותר שירותים**, והקלד Intune לתוך **מסנן**, בחר **הגנה App Intune** \> ** מדיניות יישום**.
+כדי למצוא את ההגדרה Intune, בזמן שנכנסת עם אישורי המנהל העסקי של Microsoft 365, עבור [לפורטל התכלת](https://portal.azure.com), בחר **שירותים נוספים**והקלד ב-Intune לתוך **המסנן**, בחר באפשרות **Intune הגנת יישומים** \> ** מדיניות אפליקציה**.
   
  **חשוב**: מנוי Microsoft 365 Business מספק לך רשיון לשינוי הגדרות Intune הממופות להגדרות הזמינות ב- Microsoft 365 Business בלבד. 
   
@@ -88,7 +84,7 @@ ms.locfileid: "34074259"
 
 הטבלה הבאה מפרטת כיצד הגדרות תצורת המכשיר של Windows 10 ממופות להגדרות Intune.
   
-כדי למצוא את Intune הגדרה, בעוד מחובר באמצעות אישורי ניהול עסקי 365 Microsoft שלך, עבור אל [פורטל תכלת הרקיע](https://portal.azure.com), ולאחר מכן בחר **יותר שירותים**, והקלד Intune לתוך **מסנן**, בחר **Intune** \> **התקן תצורת** \> **פרופילים**. Then select **Device policy for Windows 10** \> **Properties** \> **Settings**.
+כדי למצוא את ההגדרה Intune, בזמן שנכנסת עם אישורי המנהל העסקי של Microsoft 365, עבור [לפורטל התכלת](https://portal.azure.com), בחר **שירותים נוספים**והקלד ב-Intune לתוך **המסנן**, בחר **Intune** \> **Device ** \> **פרופילי**תצורה. Then select **Device policy for Windows 10** \> **Properties** \> **Settings**.
   
 |**הגדרת מדיניות מכשיר של Windows 10**|**הגדרות Intune**|
 |:-----|:-----|

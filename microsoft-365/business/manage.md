@@ -8,34 +8,30 @@ ms.topic: hub-page
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
-description: למד כיצד לנהל את העסק 365 Microsoft הקשורים משימות הניהול, מכשירים ניידים, Windows 10PCs ומשימות רבות כאלה.
-ms.openlocfilehash: 8cae8f580b8967eeafe8a22658fd95d41f22a43c
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: למד לנהל משימות ניהול הקשורות לעסקים של Microsoft 365, מכשירים ניידים, 10PCs של Windows ומשימות רבות כאלה.
+ms.openlocfilehash: 87ba4093a37c708fe405cd0876a53f8b9ae91567
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074239"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287965"
 ---
 # <a name="manage-microsoft-365-business"></a>ניהול Microsoft 365 Business
 
 ## <a name="general-microsoft-365-business-admin-tasks"></a>משימות ניהול כלליות של Microsoft 365 Business
 
-רוב [תוכן הניהול של](/Office365/Admin/admin-home.md) Office 365 עבור העסק חלה גם עבור העסק 365 של Microsoft.
+רוב [תוכן מנהל](/Office365/Admin/admin-home.md) עבור Office 365 עבור עסקים חל גם עבור Microsoft 365 business.
 
 - [הוספת משתמשים נוספים ל- Microsoft 365 Business](add-users-m365b.md)
     
 - [הצגת כללי מדיניות ומכשירים](view-policies-and-devices.md)
     
-- [תכונות האבטחה של Microsoft 365 עסקית](security-features.md)
+- [Microsoft 365 תכונות אבטחה עסקיות](security-features.md)
     
 - [כיצד תכונות ההגנה של Microsoft 365 Business ממפות להגדרות Intune](map-protection-features-to-intune-settings.md)
     
@@ -47,7 +43,7 @@ ms.locfileid: "34074239"
     
 - [קביעת הגדרות הגנה של אפליקציות עבור מכשירי Android או iOS](app-protection-settings-for-android-and-ios.md)
     
-    ראה [הגדרות הגנה app אמת בהתקן Android או iOS](validate-settings-on-android-or-ios.md) כדי לוודא זו פעלה. 
+    ראה [אימות הגדרות הגנה app על אנדרואיד או מכשיר iOS](validate-settings-on-android-or-ios.md) כדי לוודא שזה עובד. 
     
 - [הסרת נתוני חברה ממכשירים](remove-company-data.md)
     

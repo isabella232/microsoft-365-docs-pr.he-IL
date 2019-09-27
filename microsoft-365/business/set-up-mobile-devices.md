@@ -10,21 +10,18 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
-description: התקנת Office iPhone או של טלפון Android, והקבצים שלך עבודה ב- apps יהיו מוגנים על-ידי ביקור 365 של Microsoft Office.
-ms.openlocfilehash: 81ec7eb980cbe35ced37ab3b25d87d77d9e4390a
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: התקנת Office ב-iPhone או טלפון אנדרואיד, וקבצי העבודה שלך ב-Office apps יהיה מוגן על ידי Microsoft 365 Business.
+ms.openlocfilehash: f5e1b16e3c95f6f44d2d294d74c166bf5d318dc4
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074689"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288764"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-business-users"></a>התקנת מכשירים ניידים עבור משתמשים של Microsoft 365 Business
 
@@ -37,7 +34,7 @@ ms.locfileid: "34074689"
 
 ## <a name="iphonetabiphone"></a>[iPhone](#tab/iPhone)
   
-צפה בסרטון וידאו על כיצד להגדיר יישומי Office במכשירים iOS עם העסק 365 של Microsoft:
+צפה בסרטון וידאו על אופן ההגדרה של יישומי Office על התקני iOS עם Microsoft 365 Business:
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/e0ee7052-e0f4-4c42-a4f1-5e91b9776ce9?autoplay=false] 
 
@@ -65,9 +62,9 @@ ms.locfileid: "34074689"
   
 ![Set a PIN to access your organization's data](media/64f2630b-3164-47a4-9dd6-ca0c29ed5fb3.png)
   
-## <a name="androidtabandroid"></a>[Android](#tab/Android)
+## <a name="androidtabandroid"></a>[אנדרואיד](#tab/Android)
   
-כדי להתחיל בהתקנה בטלפון Android שלך, עבור אל החנות הפעל.
+כדי להתחיל בהתקנה בטלפון Android, עבור אל חנות ההפעלה.
   
 ![On the Android home screen, tap Play Store](media/93df88e7-c778-40e1-b35e-868ca6e97f6c.png)
   

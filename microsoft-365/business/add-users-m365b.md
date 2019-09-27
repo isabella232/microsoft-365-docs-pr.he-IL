@@ -10,30 +10,26 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
-description: למד כיצד להוסיף משתמשים חדשים, לאבטח את המכשירים שלהם והקצאת תפקידים בעסק 365 של Microsoft.
-ms.openlocfilehash: 844245f5740d1e90ca1a7c9f372a8ab5a8225dd7
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: למד כיצד להוסיף משתמשים חדשים, לאבטח את ההתקנים שלהם ולהקצות תפקידים ב-Microsoft 365 Business.
+ms.openlocfilehash: 9451be8a13c78230d0314e6d4ac74a6c9d7564ae
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072909"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287434"
 ---
 # <a name="add-additional-users-to-microsoft-365-business"></a>הוספת משתמשים נוספים ל- Microsoft 365 Business
 
 ## <a name="add-new-users"></a>הוספת משתמשים חדשים
 
-1. עבור אל מרכז admin ב <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
-2. נווט שמאלה בחר **משתמשים** \> **משתמשים פעילים**.
-1. בעמוד **משתמשים פעילים** , בחר **הוסף משתמש**.
+1. <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. לך למרכז המנהלה 
+2. בניווט השמאלי בחר **משתמשים** \> **פעילים**.
+1. בדף ' **משתמשים פעילים** ', בחר **באפשרות ' הוסף משתמש**'.
  4. בחלונית **משתמש חדש**, הקלד את המידע הדרוש. 
   
     ניתן גם להזין מידע נוסף תחת **פרטי קשר**, לבחור כיצד להגדיר את הסיסמה תחת הגדרת ה **סיסמה** ולהקצות תפקידים תחת **תפקידים**.
@@ -44,5 +40,5 @@ ms.locfileid: "34072909"
       
     ![Set the license setting to On position](media/7404f7f7-93bc-44a3-9ffb-4208b5b17402.png)
   
-ראה גם [להוסיף משתמשים בנפרד או בצובר](https://docs.microsoft.com/office365/admin/add-users/add-users).
+ראה גם [הוספת משתמשים בנפרד או בכמויות גדולות](https://docs.microsoft.com/office365/admin/add-users/add-users).
   

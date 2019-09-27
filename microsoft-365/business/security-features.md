@@ -10,21 +10,18 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-security-compliance
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: למד אודות תכונות האבטחה הגיעות עם Microsoft 365 Business.
-ms.openlocfilehash: 6b8fc215b95913e1beef3a3715119b947a7af406
-ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
+ms.openlocfilehash: 8e45d5fdb6a78f3966c46542189aa30ddd80998e
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37121157"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288454"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>מיקרוסופט 365 תכונות אבטחה ותאימות של העסק
 
@@ -93,7 +90,7 @@ Microsoft 365 Business מציע תכונות אבטחה פשוטות יותר כ
 
 המנוי העסקי שלך ב-Microsoft 365 כולל תכונות המסייעות לך לשמור על תאימות ותקני רגולציה.
 
-- **[מבט כולל על מדיניות מניעת אובדן נתונים](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
+- **[סקירה של מדיניות מניעת אובדן נתונים](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
     
     באפשרותך להגדיר את DLP כדי לאתר באופן אוטומטי מידע רגיש, כגון מספרי כרטיסי אשראי, מספרי ביטוח לאומי וכדומה, כדי למנוע שיתוף שלהם בצורה בשלה מחוץ לחברה שלך.
     

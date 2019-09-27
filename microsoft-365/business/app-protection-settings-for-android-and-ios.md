@@ -11,32 +11,28 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
-description: למד כיצד ליצור, לערוך, או למחוק מדיניות ניהול app ולהגן על קבצי עבודה במכשירים Android או iOS.
-ms.openlocfilehash: 21cc1d91c2952c6e9414d3742c26547fc36016a5
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: למד כיצד ליצור, לערוך או למחוק מדיניות ניהול יישומים ולהגן על קבצי עבודה בהתקני Android או iOS.
+ms.openlocfilehash: 68a338ffb4f9b6cab16c677f80d27481ccec4bd8
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34073509"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287694"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>קביעת הגדרות הגנה של אפליקציות עבור מכשירי Android או iOS
 
-![כרזה המצביעים על https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+![. באנר שיצביע על https://aka.ms/aboutM365previewכך](media/m365admincenterchanging.png)
 
 ## <a name="create-an-app-management-policy"></a>יצירת מדיניות לניהול יישומים
 
-1. עבור אל מרכז admin ב <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
+1. <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. לך למרכז המנהלה 
     
-2. נווט השמאלי, בחר **התקנים** \> **מדיניות** \> **הוספה**.
+2. בניווט השמאלי, בחר באפשרות **מדיניות** \> **** **התקנים** \> .
   
 3. בחלונית **הוסף מדיניות**, הזן שם ייחודי עבור מדיניות זו. 
     
@@ -54,7 +50,7 @@ ms.locfileid: "34073509"
     
 ## <a name="edit-an-app-management-policy"></a>עריכת מדיניות לניהול יישומים
 
-1. בכרטיס **מדיניות** , בחרו ' **עריכת מדיניות**.
+1. בכרטיס **המדיניות** , בחר **מדיניות עריכה**.
     
 2. בחלונית **ערוך מדיניות**, בחר את המדיניות שברצונך לשנות 
     
@@ -64,9 +60,9 @@ ms.locfileid: "34073509"
     
 ## <a name="delete-an-app-management-policy"></a>מחיקת מדיניות לניהול יישומים
 
-1. בדף ' **פריטי מדיניות** ', בחר של מדיניות ולאחר מכן **למחוק**.
+1. בדף ' **פריטי מדיניות** ', בחר מדיניות ולאחר מכן **מחק**.
     
-2. בחלונית **למחוק מדיניות** לבחור **אישור** כדי למחוק את מדיניות או מדיניות שבחרת. 
+2. בחלונית **המדיניות מחק** בחר **באישור** כדי למחוק את המדיניות או את פריטי המדיניות שבחרת. 
     
 ## <a name="available-settings"></a>הגדרות זמינות
 

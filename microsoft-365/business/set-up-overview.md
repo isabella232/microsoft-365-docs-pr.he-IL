@@ -1,5 +1,5 @@
 ---
-title: מבט כולל על הגדר
+title: מבט כולל על הגדרת
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -13,74 +13,71 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: מבט כולל על הגדר השלבים עבור העסק 365 של Microsoft.
-ms.openlocfilehash: ae7ed0aab36a6e759e0f0c1fbc3d3183273a284e
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: מבט כולל על השלבים שנקבעו עבור Microsoft 365 Business.
+ms.openlocfilehash: f156d236a783942ec06d457c9b7ca087d12d6f58
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "35086326"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288574"
 ---
-# <a name="overview-of-setup"></a>מבט כולל על כיוונון
+# <a name="overview-of-setup"></a>מבט כולל על הכיוונון
 
-ניתן לעשות זאת רוב להגדיר השלבים באשף ההתקנה, אך רשומים גם אפשרויות אחרות.
+ניתן לבצע את רוב השלבים המפורטים באשף ההתקנה, אך גם האפשרויות האחרות מפורטות.
 
 
-## <a name="step-1-add-your-domain-and-users"></a>שלב 1: הוספת קבוצת המחשבים והמשתמשים שלך
+## <a name="step-1-add-your-domain-and-users"></a>שלב 1: הוספת התחום שלך והמשתמשים
 
-   - **[הוסף קבוצת המחשבים שלך](set-up.md#add-your-domain-to-personalize-sign-in)** (אם רכשת את התחום שלך במהלך [להירשם](sign-up.md), שלב זה כבר בוצע.)
+   - **[הוסף את התחום שלך](set-up.md#add-your-domain-to-personalize-sign-in)** (אם רכשת את התחום שלך במהלך [ההרשמה](sign-up.md), שלב זה כבר נעשה.)
 
-    - **הוסף משתמשים**. ניתן לעשות זאת באחת משלוש דרכים:
-        - [אשף](set-up.md#add-users-in-the-wizard).
-        - השתמש סינכרון ספריות כדי [להוסיף משתמשים באמצעות חיבור AD תכלת הרקיע](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) אם ברשותך המקומית של Active directory.
-        - באפשרותך גם [להוסיף משתמשים מאוחר יותר](add-users-m365b.md) במרכז admin.
+    - **הוסיף משתמשים**. באפשרותך לעשות זאת בכל אחת משלוש הדרכים:
+        - באשף [](set-up.md#add-users-in-the-wizard).
+        - השתמש בסינכרון ספריות כדי [להוסיף משתמשים על-ידי שימוש בתכלת AD להתקשרות](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) אם ברשותך ספריה פעילה מקומית.
+        - באפשרותך גם [להוסיף משתמשים בהמשך](add-users-m365b.md) מרכז הניהול.
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>שלב 2: הגדרת מדיניות אבטחה וקביעת תצורה של התקנים 
 
-  - השתמש [באשף ההתקנה](set-up.md#set-up-security-policies-and-device-configurations) כדי להגדיר פריטי מדיניות התקן ואבטחה. 
-  - באפשרותך גם להוסיף יותר או לערוך אותם מאוחר יותר ב- [מרכז admin](view-policies-and-devices.md) [פורטל Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal).
-  - בנוסף להגדרות אבטחה באשף ההתקנה, באפשרותך להגביר את האבטחה על-ידי הוספת את ההגדרות הבאות:
+  - השתמש [באשף ההתקנה](set-up.md#set-up-security-policies-and-device-configurations) כדי לקבוע את תצורת מדיניות ההתקן והאבטחה. 
+  - באפשרותך גם להוסיף או לערוך אותם בהמשך [מרכז הניהול](view-policies-and-devices.md) [ובפורטל Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal).
+  - בנוסף להגדרות האבטחה באשף ההתקנה, באפשרותך להגביר את האבטחה על-ידי הוספת ההגדרות הבאות:
 
-      - **הגנה מפני תוכנות זדוניות דוא**
-      - **קישורים בטוח מתקדם של הגנה מפני איום (ATP)**
-      - **קבצים מצורפים מתאימים ATP**
-      - **ATP למניעת דיוג**
+      - **הגנה מפני תוכנות זדוניות דוא ל**
+      - **קישורים מתקדמים להגנת האיומים (ATP)**
+      - **מסמכים מצורפים בטוחים ב-ATP**
+      - **ATP נגד דיוג**
       - **אחסון בארכיון של Exchange Online**
       - **מניעת אובדן נתונים (DLP)**
-      - **הגנה על מידע תכלת הרקיע (Plan1**)
+      - **תכלת הגנת מידע (Plan1**)
 
-          כדי לקבל מופעל, ראה [הגדרת מדיניות אבטחה מתקדמות](set-up-advanced-security.md).
+          כדי להתחיל לראות, [הגדר מדיניות אבטחה מתקדמת](set-up-advanced-security.md).
 
-        ראה גם [העליון 10 דרכים לאבטחת העסק 365 Microsoft](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) עבור מפת דרכים של שיטות עבודה מומלצות של אבטחה.
+        ראה גם [top 10 דרכים לאבטח את Microsoft 365 Business](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) עבור מפת הדרכים של נוהלי האבטחה הטובה ביותר.
 
-## <a name="step-3-set-up-and-manage-windows-10-devices"></a>שלב 3: להגדיר ולנהל התקני Windows 10
+## <a name="step-3-set-up-and-manage-windows-10-devices"></a>שלב 3: הגדרת וניהול של התקני Windows 10
 
-   בעת הצטרפות התקן Windows 10 כדי AD תכלת הרקיע, פריטי המדיניות שהגדרת [בשלב](#step-2-set-up-security-policies-and-configure-devices) 2 לקבל שהוחלה עליו.
+   כאשר אתה מצטרף להתקן של Windows 10 לתכלת, המדיניות שהגדרת [בשלב 2](#step-2-set-up-security-policies-and-configure-devices) מוחלת עליו.
 
-   - Windows 10 Pro [קדם הדרושים](pre-requisites-for-data-protection.md) לעסקים 365 של Microsoft, אך אם יש לך Windows 7 Pro, Windows 8 Pro או Windows 8.1 Pro, המנוי שלך מקנה לך [שדרוג ל- Windows 10 Pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
-    - השתמש [באשף הגדרת](set-up.md#set-up-security-policies-and-device-configurations) כדי להגדיר פריטי מדיניות עבור התקני Windows 10.
+   - Windows 10 Pro הוא [הכרחי מראש](pre-requisites-for-data-protection.md) עבור Microsoft 365 Business, אבל אם יש לך Windows 7 Pro, Windows 8 pro, או Windows 8.1 pro, המנוי שלך מזכה אותך [לשדרוג ל-Windows 10 pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
+    - השתמש [באשף ההתקנה](set-up.md#set-up-security-policies-and-device-configurations) כדי לקבוע את תצורת פריטי המדיניות עבור התקני Windows 10.
 
-## <a name="stes-4-install-office-365-business"></a>Stes 4: התקנת Office 365 עסקי
+## <a name="stes-4-install-office-365-business"></a>ס. ס 4: להתקין את Office 365 עסקים
 - באפשרותך להתקין את Office באופן אוטומטי בהתקני Windows באמצעות [אשף ההתקנה](set-up.md#deploy-office-365-client-apps).
-- באופן אוטומטי [להתקין את Office](auto-install-or-uninstall-office.md) ממרכז admin.
-- לאפשר למשתמשים [להתקין את יישומי Office](https://docs.microsoft.com/office365/admin/setup/install-applications) עבור Windows והתקנים.
+- התקן באופן אוטומטי את [Office](auto-install-or-uninstall-office.md) ממרכז הניהול.
+- אפשר למשתמשים [להתקין יישומי Office](https://docs.microsoft.com/office365/admin/setup/install-applications) עבור Windows והתקנים.
      
 ## <a name="advanced"></a>מתקדם
-- **השתמש Autopilot כדי להגדיר התקנים חדשים**
+- **השתמש בטייס אוטומטי כדי להגדיר התקנים חדשים**
             
-     באפשרותך להשתמש ב- [Windows Autopilot](add-autopilot-devices-and-profile.md) כדי לקבוע מראש של התקנים 10 חלונות **חדשים** עבור משתמש באופן אוטומטי, אך ייתכן שיהיה קל יותר לקבל [שותף](https://www.microsoft.com/solution-providers/search) מי יכול לבצע זאת עבורך. באפשרותך גם לעבור לחנות [Microsoft](https://go.microsoft.com/fwlink/?linkid=874598) ובקש טכנולוגיה ענן מומחה להגדיר התקנים חדשים שאתה רוכש עבורך.
+     באפשרותך להשתמש [בטייס אוטומטי של windows](add-autopilot-devices-and-profile.md) כדי לקבוע מראש את התצורה של התקנים **חדשים** של windows 10 עבור משתמש, אך ייתכן שיהיה קל יותר לקבל [שותף](https://www.microsoft.com/solution-providers/search) שיוכל לעשות זאת עבורך. באפשרותך גם לעבור ל- [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598) ולבקש ממומחה טכנולוגיית ענן להגדיר התקנים חדשים שתרכוש עבורך.
 
-- **Access המקומית משאבים**
+- **גישה למשאבים מקומיים**
 
-     - אם הארגון שלך משתמש Windows Server Active Directory המקומית, באפשרותך להגדיר עסקיים 365 של Microsoft להגנה על התקני Windows 10 שלך, תוך שמירה עדיין גישה למשאבים המקומית המחייבים אימות מקומי. בצע את השלבים [אפשר לתחום התקני Windows 10 להיות מנוהל על-ידי Microsoft 365 עסקיים](manage-windows-devices.md) כדי להגדיר זאת. זוהי השיטה המועדפת ואת התקנים במצב זה נקראות תכלת הרקיע היברידית AD לחבר התקנים.
+     - אם הארגון שלך משתמש ב-Windows Server Active Directory מקומי, באפשרותך להגדיר את Microsoft 365 Business כדי להגן על התקני Windows 10 שלך, תוך שמירה על גישה למשאבים מקומיים המחייבים אימות מקומי. בצע את השלבים [בהפעלת התקני Windows 10 המצורפים לתחום כדי שיוכלו להיות מנוהלים על-ידי Microsoft 365 Business](manage-windows-devices.md) כדי להגדיר זאת. זוהי השיטה המועדפת והתקנים במצב זה נקראים היברידית תכלת AD התקנים המצורפים.
 
-    - אם בעסק שלך יש מקומי Active Directory המכילה כמה המקומית משאבים (כגון שיתופי קבצים ומדפסות), באפשרותך להעניק גישה ההתקנים המצורפים AD תכלת הרקיע שלך למשאבים אלה על-ידי ביצוע השלבים כאן: [Access המקומית משאבים מ תכלת הרקיע מצורף AD ההתקן ב- Microsoft 365 Business](access-resources.md).
+    - אם לעסק שלך יש active Directory מקומי המכיל חלק מהמשאבים המקומיים (כגון שיתופי קבצים ומדפסות), באפשרותך להעניק להתקנים המצורפים למשאבים אלה גישה אל משאבים אלה על-ידי ביצוע השלבים כאן: [גישה למשאבים מקומיים מ המכשיר המצורף למודעה ב-Microsoft 365 Business](access-resources.md).
 
   

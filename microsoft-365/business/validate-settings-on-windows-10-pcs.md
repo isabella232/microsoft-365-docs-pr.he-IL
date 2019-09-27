@@ -11,50 +11,46 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: למד כיצד לאמת את הגדרות ההגנה app עסקיים 365 Microsoft ב- Windows 10 התקנים.
-ms.openlocfilehash: 15c2d54c6281369875d15985c9d4ed16f0114176
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: למד כיצד לאמת את הגדרות הגנת היישום העסקי של Microsoft 365 בהתקני Windows 10.
+ms.openlocfilehash: 66e83df19e44419b37bcc1c5678ab13317162dbc
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072230"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288594"
 ---
-# <a name="validate-device-protection-settings-on-windows-10-pcs"></a>אימות הגדרות הגנה התקן במחשבים 10 חלונות
+# <a name="validate-device-protection-settings-on-windows-10-pcs"></a>אימות הגדרות הגנת התקן במחשבי Windows 10
 
-## <a name="verify-that-windows-10-device-policies-are-set"></a>ודא כי מדיניות התקן Windows 10 מוגדרות
+## <a name="verify-that-windows-10-device-policies-are-set"></a>ודא שמדיניות ההתקנים של Windows 10 מוגדרת
 
-לאחר [הגדרת פריטי מדיניות של התקנים](protection-settings-for-windows-10-pcs.md), עשוי להימשך עד מספר שעות עבור המדיניות ייכנסו לתוקף במכשירים של המשתמשים. באפשרותך לאשר למדיניות ארך אפקט על-ידי התבוננות מסכי הגדרות Windows שונים במכשירים של המשתמשים. מאחר למשתמשים לא תהיה אפשרות לשנות את הגדרות Windows Update ו- Windows Defender וירוס בהתקנים שלהם Windows 10, מספר רב של אפשרויות אלה יעומעמו.
+לאחר [הגדרת פריטי מדיניות של התקנים](protection-settings-for-windows-10-pcs.md), המדיניות עשויה להימשך שעות ספורות כדי שהמדיניות ייכנסו לתוקף בהתקני המשתמשים. באפשרותך לאשר שהמדיניות השפיעה על-ידי התבוננות במסכים שונים של הגדרות Windows בהתקני המשתמשים. מכיוון שהמשתמשים לא יוכלו לשנות את הגדרות windows Update ו-Windows Defender Antivirus בהתקני Windows 10 שלהם, הרבה אפשרויות אלה יהיה מאפיר.
   
-1. עבור אל **הגדרות** \> **עדכון &amp; אבטחה** \> **עדכון Windows** \> **אפשרויות הפעלה מחדש** ואשר כל ההגדרות הם greyed החוצה. 
+1. עבור אל **הגדרות** \> **עדכון &amp; אבטחה** \> **של Windows עדכון** \> **אפשרויות הפעלה** ולוודא כי כל ההגדרות מאפיר. 
     
-    ![כל האפשרויות מחדש הם greyed החוצה.](media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
+    ![כל האפשרויות הפעלה מחדש מאפיר.](media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
   
-2. עבור אל **הגדרות** \> **עדכון &amp; אבטחה** \> **עדכון Windows** \> **אפשרויות מתקדמות** ואשר כל ההגדרות הם greyed החוצה. 
+2. עבור אל **הגדרות** \> ** &amp; עדכון אבטחה** \> **Windows עדכן** \> **אפשרויות מתקדמות** ולאשר כי כל ההגדרות מאפיר. 
     
-    ![אפשרויות מתקדמות של Windows של עדכונים הם כל greyed החוצה.](media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
+    ![אפשרויות העדכונים המתקדמים של Windows כולן החוצה.](media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
   
-3. עבור אל **הגדרות** \> **עדכון &amp; אבטחה** \> **עדכון Windows** \> **אפשרויות מתקדמות** \> **בחר כיצד העדכונים יועברו**.
+3. עבור אל **הגדרות** \> ** &amp; עדכון אבטחה** \> **של Windows update** \> **אפשרויות** \> **מתקדמות בחר את אופן המשלוח של עדכונים**.
     
-    ודא כי באפשרותך לראות את ההודעה (באדום) הגדרות מסוימות הן מוסתרות או מנוהל על-ידי הארגון שלך, ולא כל האפשרויות הם greyed החוצה.
+    ודא שאתה יכול לראות את ההודעה (באדום) שההגדרות מסוימות מוסתרות או מנוהלות על-ידי הארגון שלך, וכל האפשרויות מאפיר.
     
-    ![בחר כיצד מועברים עדכוני דף מציין הגדרות הן מוסתרות או מנוהל על-ידי הארגון שלך.](media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
+    ![בחר כיצד עדכונים מועברים לדף מציין שההגדרות מוסתרות או מנוהלות על-ידי הארגון שלך.](media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
   
-4. כדי לפתוח את מרכז האבטחה של Windows Defender, עבור אל **הגדרות** \> **עדכון &amp; אבטחה** \> **Windows Defender** \> לחץ על **פתח את Windows Defender מרכז האבטחה** \> **וירוס &amp; משנה (thread) הגנה** \> **וירוס &amp; איום הגדרות הגנה**. 
+4. כדי לפתוח את מרכז האבטחה של Windows defender, עבור אל **הגדרות** \> ** &amp; עדכון אבטחה** \> **windows defender** \> לחץ על **פתח windows Defender אבטחה מרכז** \> **וירוס &amp; הליך משנה הגנת** \> **וירוס &amp; איום הגדרות הגנה**. 
     
-5. ודא כי כל האפשרויות הם greyed החוצה. 
+5. ודא שכל האפשרויות מאפיר. 
     
-    ![הגדרות ההגנה מפני וירוסים ותוכנות איום הם greyed החוצה.](media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
+    ![הגדרות הגנת הוירוס והאיום מאפיר.](media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
   
-## <a name="related-topics"></a>נושאים קשורים
+## <a name="related-topics"></a>נושאים קרובים
 
 [תיעוד ומשאבים עבור Microsoft 365 Business](https://go.microsoft.com/fwlink/p/?linkid=853701)
   
