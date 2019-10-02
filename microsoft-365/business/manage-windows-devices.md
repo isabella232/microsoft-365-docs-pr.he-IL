@@ -16,12 +16,12 @@ search.appverid:
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: למד כיצד לאפשר ל-Microsoft 365 להגן על התקנים המקומיים המצורפים ל-Windows 10.
-ms.openlocfilehash: d1dbfc6a35d54db653ae0f911fad05ac2ce0a993
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 452e884f952a4b2c2e87148bb7203ed48a48d944
+ms.sourcegitcommit: 3a632d8ec009abf1aac57363eaf78aeeda5db136
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288034"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37376094"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business"></a>מתן אפשרות לניהול מכשירי Windows 10 המצורפים לתחום על-ידי Microsoft 365 Business
 
@@ -39,7 +39,7 @@ ms.locfileid: "37288034"
 
    - ודא שאין כפילויות בספריה שלך עבור התכונות הבאות: **דואר**, **כתובות Proxyaddresses שמות** **משתמשים**. על ערכים אלה להיות ייחודיים ולהסיר את כל הכפילויות.
    
-   - **המלצתי** למשתמש להתאים את כתובת הדואר האלקטרוני הראשית התואמת ל-Microsoft 365 המורשה של משתמש מקומי. לדוגמה *מרי שלי @<span>contoso.<span> com* במקום *מרי @ contoso. מקומי*
+   - מומלץ לציין כי התכונה **Userהפריפלשם** (UPN) עבור כל חשבון משתמש מקומי מוגדרת להתאים לכתובת הדואר האלקטרוני הראשית המתאימה למשתמש המורשה של Microsoft 365. לדוגמה *mary.shelley@contoso.com* במקום *מרי @ contoso. מקומי*
    
    - אם קבוצת המחשבים של Active Directory מסתיימת בסיומת שאינה ניתנת לניתוב כגון *. local* או *. lan*, במקום סיומת אינטרנט הניתנת לניתוב כגון *. com* או *. org*, יהיה עליך לכוונן תחילה את סיומת ה-UPN של חשבונות המשתמשים המקומיים כמתואר ב [הכן תחום שאינו ניתן לניתוב עבור סינכרון ספריות](https://docs.microsoft.com/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization). 
 
@@ -75,6 +75,6 @@ ms.locfileid: "37288034"
 
 ## <a name="6-set-up-windows-hello-for-business"></a>6. הגדרת Windows שלום עבור עסקים
 
- Windows שלום לעסק מחליף סיסמאות עם אימות שני גורמים חזק (2FA) לצורך כניסה למחשב מקומי. גורם אחד הוא זוג מפתחות אסימטרי, והשני הוא PIN או מחווה מקומית אחרת, כגון טביעת אצבע או זיהוי פנים אם המכשיר תומך בו. אנו ממליצים לך להחליף סיסמאות עם 2FA ו-Windows שלום לעסקים במידת האפשר.
+ Windows שלום לעסק מחליף סיסמאות עם אימות שני גורמים חזק (2FA) לצורך כניסה למחשב מקומי. גורם אחד הוא זוג מפתחות אסימטרי, והשני הוא PIN או מחווה מקומית אחרת, כגון טביעת אצבע או זיהוי פנים אם המכשיר תומך בו. מומלץ להחליף סיסמאות באמצעות 2FA ו-Windows שלום לעסקים במידת האפשר.
 
 כדי להגדיר היברידית Windows שלום עבור עסקים, לסקור את [מפתח היברידית אמון Windows שלום עבור דרישות מוקדמות בעסקים](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-trust-prereqs). לאחר מכן בצע את ההוראות ב- [קביעת תצורה של Windows Hybrid שלום עבור הגדרות אמון מפתח עסקי](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-whfb-settings). 
