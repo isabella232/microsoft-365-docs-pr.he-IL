@@ -15,12 +15,12 @@ search.appverid:
 - BCS160
 - MET150
 description: הגדר את הגנת האיומים המתקדמת של Office 365 והגנת נתונים רגישים.
-ms.openlocfilehash: 81197a8baf1c4d0cbfd898c41a305c1a99bab57c
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 5009379d6a5d8c3a692799aa7c0f137dae1482fd
+ms.sourcegitcommit: 492f03a2c83e36846602fced396c8f8d32315c85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288114"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398908"
 ---
 # <a name="increase-threat-protection"></a>הגברת הגנת האיום
 
@@ -146,8 +146,6 @@ Ransomware מגבילה גישה לנתונים על-ידי הצפנת קבצי�
 |מודיעין תיבת דואר  <br/> |כברירת מחדל, מודיעין תיבת דואר נבחר בעת יצירת מדיניות חדשה נגד דיוג. **השאר הגדרה זו** לקבלת התוצאות הטובות ביותר.  <br/> |
 |הוספת שולחים ותחומים מהימנים  <br/> |כאן באפשרותך להוסיף תחום משלך, או כל קבוצת מחשבים מהימנה אחרת.  <br/> |
 |הוחל על  <br/> |בחר **את קבוצת המחשבים של הנמען**. תחת **כל אחד מאלה**, בחר **באפשרות בחירה**. בחר **+ הוסף**. בחר בתיבת הסימון לצד שם התחום, לדוגמה *contoso.<span> com <span>*, ברשימה ולאחר מכן בחר **בהוספה**. . בחירה **מתבצעת**  <br/> |
-   
-לקבלת מידע נוסף, ראה [הגדרת מדיניות האנטי-דיוג של Office 365 ATP](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409).
   
 ## <a name="protect-against-malicious-attachments-and-files-with-atp-safe-attachments"></a>הגנה מפני קבצים מצורפים זדוניים וקבצי עם קבצים מצורפים בטוחים של ATP
 
