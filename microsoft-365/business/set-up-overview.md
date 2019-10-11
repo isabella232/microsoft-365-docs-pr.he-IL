@@ -19,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: מבט כולל על השלבים שנקבעו עבור Microsoft 365 Business.
-ms.openlocfilehash: f156d236a783942ec06d457c9b7ca087d12d6f58
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 4be0a8aa1b050ee3e20a045eb2c07666765118ed
+ms.sourcegitcommit: cbf117a4cd92a907115c9f10752f3c557361e586
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288574"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37440536"
 ---
 # <a name="overview-of-setup"></a>מבט כולל על הכיוונון
 
@@ -41,7 +41,7 @@ ms.locfileid: "37288574"
         - באפשרותך גם [להוסיף משתמשים בהמשך](add-users-m365b.md) מרכז הניהול.
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>שלב 2: הגדרת מדיניות אבטחה וקביעת תצורה של התקנים 
 
-  - השתמש [באשף ההתקנה](set-up.md#set-up-security-policies-and-device-configurations) כדי לקבוע את תצורת מדיניות ההתקן והאבטחה. 
+  - השתמש [באשף ההתקנה](set-up.md#protect-data-and-devices) כדי לקבוע את תצורת מדיניות ההתקן והאבטחה. 
   - באפשרותך גם להוסיף או לערוך אותם בהמשך [מרכז הניהול](view-policies-and-devices.md) [ובפורטל Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal).
   - בנוסף להגדרות האבטחה באשף ההתקנה, באפשרותך להגביר את האבטחה על-ידי הוספת ההגדרות הבאות:
 
@@ -62,7 +62,7 @@ ms.locfileid: "37288574"
    כאשר אתה מצטרף להתקן של Windows 10 לתכלת, המדיניות שהגדרת [בשלב 2](#step-2-set-up-security-policies-and-configure-devices) מוחלת עליו.
 
    - Windows 10 Pro הוא [הכרחי מראש](pre-requisites-for-data-protection.md) עבור Microsoft 365 Business, אבל אם יש לך Windows 7 Pro, Windows 8 pro, או Windows 8.1 pro, המנוי שלך מזכה אותך [לשדרוג ל-Windows 10 pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
-    - השתמש [באשף ההתקנה](set-up.md#set-up-security-policies-and-device-configurations) כדי לקבוע את תצורת פריטי המדיניות עבור התקני Windows 10.
+    - השתמש [באשף ההתקנה](set-up.md#protect-data-and-devices) כדי לקבוע את תצורת פריטי המדיניות עבור התקני Windows 10.
 
 ## <a name="stes-4-install-office-365-business"></a>ס. ס 4: להתקין את Office 365 עסקים
 - באפשרותך להתקין את Office באופן אוטומטי בהתקני Windows באמצעות [אשף ההתקנה](set-up.md#deploy-office-365-client-apps).

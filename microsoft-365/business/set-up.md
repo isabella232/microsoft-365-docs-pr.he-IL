@@ -19,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: למד כיצד להגדיר את Microsoft 365 Business.
-ms.openlocfilehash: d33839693001f36fbb56541775015f739300b043
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 4f31af3fa63416d3b1bd7281f7712313252ad437
+ms.sourcegitcommit: cbf117a4cd92a907115c9f10752f3c557361e586
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288494"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37440595"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>הגדרת העסק של Microsoft 365 באשף ההתקנה
 
@@ -44,7 +44,7 @@ ms.locfileid: "37288494"
     > [!IMPORTANT]
     > אם רכשת תחום במהלך ההרשמה, לא תראה **הוספת שלב בתחום** כאן. עבור כדי [להוסיף משתמשים](#add-users-and-assign-licenses) במקום זאת.
 
-    ![בחר בהוסף תחום.](media/addadomainadmincenter.png)
+    ![בחר באפשרות עבור לכיוונון.](media/gotosetupinadmincenter.png)
     
 3. באשף, הזן את שם התחום בו ברצונך להשתמש (כגון contoso.com).
 
@@ -70,7 +70,9 @@ ms.locfileid: "37288494"
 
 1. אם למנוי העסקי שלך ב-Microsoft 365 יש משתמשים קיימים (לדוגמה, אם השתמשת בתכלת AD Connect), תקבל אפשרות להקצות להם רשיונות כעת. קדימה, הוסף רשיונות גם להם.
 
-3. לאחר שהוספת את המשתמשים, תהיה לך גם אפשרות לשתף אישורים עם המשתמשים החדשים שהוספת. באפשרותך להדפיס אותם, לשלוח אותם בדואר אלקטרוני או להוריד אותם.
+2. לאחר שהוספת את המשתמשים, תהיה לך גם אפשרות לשתף אישורים עם המשתמשים החדשים שהוספת. באפשרותך להדפיס אותם, לשלוח אותם בדואר אלקטרוני או להוריד אותם.
+
+3. באפשרות צור צוותים עבור הארגון שלך, באפשרותך לבחור להוסיף צוותים ולהוסיף להם משתמשים. אתה יכול גם לעשות את זה מאוחר יותר. לקבלת מידע נוסף, ראה [יצירת צוות ברחבי החברה](https://support.office.com/article/037bb27a-bcc9-48fe-8d72-44d9482420a3).
 
 4. דלג על העברת הודעות דואר אלקטרוני ובחר **הבא** בדף **העברת הודעות דואר אלקטרוני**. 
 
@@ -86,14 +88,14 @@ ms.locfileid: "37288494"
   
 1. אשף ההגדרה מזהה בדרך כלל את הרשם שלך, ומספק לך קישור להוראות מפורטות לעדכון רשומות ה- NS באתר האינטרנט של הרשם. אם לא, [שנה את שרתי הnamםכדי להגדיר את Office 365 עם כל רשם תחום](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2). 
 
-    - אם יש לך רשומות DNS קיימות, לדוגמה אתר אינטרנט קיים, אך מארח ה-DNS שלך זמין עבור [התחברות לתחום](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), בחר **באפשרות ' הוסף רשומות**עבורי '. 
+    - אם יש לך רשומות DNS קיימות, לדוגמה אתר אינטרנט קיים, אך מארח ה-DNS שלך זמין עבור [התחברות לתחום](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), בחר **באפשרות ' הוסף רשומות**עבורי '. בדף **' בחירת שירותים מקוונים** ', קבל את כל ברירות המחדל ובחר באפשרות ' **הבא**' ובחר ' **אישור** ' בדף המארח של DNS.
     - אם יש לך רשומות DNS קיימות עם מארחי DNS אחרים (שאינם זמינים עבור התחברות לתחום), תרצה לנהל את רשומות ה-DNS שלך כדי לוודא שהשירותים הקיימים יישארו מחוברים. לקבלת מידע נוסף, ראה [יסודות קבוצת מחשבים](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics) .
 
         ![חבר את דף התחום שלך עם אני ינהל את רשומות ה-DNS שלי.](media/connectyourdomainpage.png)
 
 2. בצע את השלבים באשף ובדואר אלקטרוני ובשירותים אחרים שהוגדרו עבורך.
 
-### <a name="set-up-security-policies-and-device-configurations"></a>הגדרת מדיניות אבטחה ותצורות התקנים 
+### <a name="protect-data-and-devices"></a>הגנה על נתונים והתקנים 
 
 פריטי המדיניות שאתה מגדיר באשף מוחלים באופן אוטומטי על [קבוצת אבטחה](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) הנקראת ' *כל המשתמשים*'. באפשרותך גם ליצור קבוצות נוספות להקצאת פריטי מדיניות במרכז הניהול.
 
@@ -113,7 +115,6 @@ ms.locfileid: "37288494"
 3. באפשרותך גם לבחור [להתקין באופן אוטומטי את Office](install-office-on-windows-10-during-setup.md) בהתקני Windows 10.
 
     ![צילום מסך של הגדרת Windows 10 תצורת התקן הדף.](media/setwin10config.png)
-
 
 
 ## <a name="deploy-office-365-client-apps"></a>פריסת Office 365 יישומי לקוח

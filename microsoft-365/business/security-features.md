@@ -16,12 +16,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: למד אודות תכונות האבטחה הגיעות עם Microsoft 365 Business.
-ms.openlocfilehash: 8e45d5fdb6a78f3966c46542189aa30ddd80998e
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: c0c37b09fd0bb0218864b6bc97aa127feae1ff16
+ms.sourcegitcommit: 255e8194bb5767a9983d54d16e79d628732a1d97
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288454"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37453975"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>מיקרוסופט 365 תכונות אבטחה ותאימות של העסק
 
@@ -98,9 +98,9 @@ Microsoft 365 Business מציע תכונות אבטחה פשוטות יותר כ
     
     הרישיון Exchange Online ארכיון מאפשר להודעות להיות בארכיון בקלות עם גיבוי נתונים רציף. הוא מאחסן את כל המיילים של המשתמש, כולל פריטים שנמחקו, במקרה שהם נחוצים מאוחר יותר עבור גילוי או שחזור. בנוסף, באפשרותך להשתמש בפריטי מדיניות שמירה שונים כדי לשמר נתוני דואר אלקטרוני לצורך התדיינות משפטית, גילוי eDiscovery או כדי לעמוד בדרישות התאימות.
     
-- **[הגנה מפני מידע תכלת](https://go.microsoft.com/fwlink/p/?linkid=871406)**
-    
-    הגנת מידע תסייע לך לשלוט בגישה למידע רגיש בדואר אלקטרוני ובמסמכים עם פקדים כגון "אל תעביר" ו-"אל תעתיק". באפשרותך גם לסווג מידע רגיש כ-"סודי" ולציין כיצד ניתן לשתף מידע מסווג בחוץ ובתוך העסק. הצפנה ברמה ארגונית קלה להחלה על דואר אלקטרוני ומסמכים כדי לשמור על פרטי המידע שלך. העסק של Microsoft 365 כולל את כל התכונות של [תוכנית הגנת מידע תכלת 1](https://go.microsoft.com/fwlink/p/?linkid=871407). באפשרותך גם להתקין את התוספת של לקוח הגנת מידע תכלת עבור יישומי Office. לפרטים נוספים, ראה [מדריך מנהל לקוח של הגנת מידע תכלת](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide).
+- **[תוויות רגישות](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)**
+
+   העסק של Microsoft 365 כולל את כל התכונות של [תוכנית הגנת מידע תכלת 1](https://go.microsoft.com/fwlink/p/?linkid=871407). באמצעות תוכנית זו באפשרותך ליצור **תוויות רגישות**, המאפשרות לך לשלוט בגישה למידע רגיש בדואר אלקטרוני ובמסמכים עם פקדים כמו "אל תעביר" ו-"אל תעתיק". באפשרותך גם לסווג מידע רגיש כ-"סודי" ולציין כיצד ניתן לשתף מידע מסווג בחוץ ובתוך העסק. הצפנה ברמה ארגונית קלה להחלה על דואר אלקטרוני ומסמכים כדי לשמור על פרטי המידע שלך. באפשרותך גם להתקין את התוספת של לקוח הגנת מידע תכלת עבור יישומי Office. לפרטים נוספים, ראה [לקוח מאוחד להגנת מידע בתכלת](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). בתוויות רגישות, התקן את ה- **AzInfoProtection_UL. exe**.
 
 באפשרותך לנהל תכונות אלה במרכז &amp; תאימות האבטחה ובמרכז הניהול של Intune. עם הזמן, הפקדים הפשוטים יתווספו למרכז הניהול העסקי של Microsoft 365.
   
