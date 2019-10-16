@@ -8,7 +8,7 @@
 ### [הגדרת העסק של Microsoft 365](set-up.md)
 ### [שדרג ל-Windows יוצרי Pro עדכון](upgrade-to-windows-pro-creators-update.md)
 ### [התכוננות לפריסת לקוח של Office](prepare-for-office-client-deployment.md)
-### [התקנה או הסרה אוטומטית של Office](auto-install-or-uninstall-office.md)
+### [עזרה למשתמשים להתקין את Office](help-users-install-office.md)
 ### [גישה למשאבים מקומיים]()
 #### [אפשר ניהול של התקנים של Windows 10 המצורפים לתחום](manage-windows-devices.md)
 #### [גישה למשאבים ממכשיר תכלת מחובר](access-resources.md)
