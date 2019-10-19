@@ -11,10 +11,10 @@ audience: microsoft-business 
 keywords: מיקרוסופט 365 עסקים, מיקרוסופט 365, SMB, שאלות נפוצות, שאלות נפוצות, תשובות, עסקים
 ms.date: 06/08/2018
 ms.openlocfilehash: cc6cc924cf45fa19d7f91235515981b636abf77d
-ms.sourcegitcommit: bd17ee20da1685e5c660d5f99746c81c63a17b22
+ms.sourcegitcommit: 0d423b50d2f1f4eccd64e35e00f67313244efba9
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/24/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "37141508"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>מיקרוסופט 365 שאלות נפוצות לגבי עסקים
@@ -27,7 +27,7 @@ Microsoft 365 הוא פתרון משולב, המביא יחד כלים לפרו�
 **קבוצה של כלים לפרודוקטיביות ולשיתוף פעולה עסקי** 
 * Word, Excel, PowerPoint, Outlook, OneNote, Publisher ו-Access 
 * Exchange, OneDrive, סקייפ לעסק, צוותי מיקרוסופט, SharePoint 
-* יישומים עסקיים מ-Office (הזמנות, מנהל הלקוחות של Outlook, MileIQ<sup>[1](#footnote1)</sup>, מיקרוסופט החשבונית<sup>[1](#footnote1)</sup>) 
+* יישומים עסקיים מ-Office (הזמנות, מנהל הלקוח של Outlook, MileIQ<sup>[1](#footnote1)</sup>, מיקרוסופט להפקת חשבונית<sup>[1](#footnote1)</sup>) 
  
 **ניהול התקנים ויכולות אבטחה ברמה ארגונית** 
 - מסייע לספק הגנה מפני איומים חיצוניים כגון דיוג _ Amp_ תוכנות זדוניות מתוחכמות עם Office 365 איום מתקדם הגנה משמר Windows Defender ניצול 
