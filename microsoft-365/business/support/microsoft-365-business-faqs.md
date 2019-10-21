@@ -10,45 +10,51 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: מיקרוסופט 365 עסקים, מיקרוסופט 365, SMB, שאלות נפוצות, שאלות נפוצות, תשובות, עסקים
 ms.date: 06/08/2018
-ms.openlocfilehash: cc6cc924cf45fa19d7f91235515981b636abf77d
-ms.sourcegitcommit: 0d423b50d2f1f4eccd64e35e00f67313244efba9
+ms.openlocfilehash: 18198007bf61d448581335594016433668edb47d
+ms.sourcegitcommit: 23173f7d0ca5079662ef4060371d8ee11bac228e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37141508"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "37611420"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>מיקרוסופט 365 שאלות נפוצות לגבי עסקים
 
 ## <a name="general"></a>כללי
 
 ### <a name="what-is-microsoft-365-business"></a>מה זה מיקרוסופט 365 עסקים? 
-Microsoft 365 הוא פתרון משולב, המביא יחד כלים לפרודוקטיביות מיטבית ברמה הטובה ביותר, לאבטחה ולניהול התקנים עבור עסקים קטנים בגודל בינוני. 
+Microsoft 365 הוא פתרון משולב, המביא יחד כלים לפרודוקטיביות מיטבית ברמה הטובה ביותר, לאבטחה ולניהול התקנים עבור עסקים קטנים בגודל בינוני. הוא כולל:
 
 **קבוצה של כלים לפרודוקטיביות ולשיתוף פעולה עסקי** 
 * Word, Excel, PowerPoint, Outlook, OneNote, Publisher ו-Access 
-* Exchange, OneDrive, סקייפ לעסק, צוותי מיקרוסופט, SharePoint 
-* יישומים עסקיים מ-Office (הזמנות, מנהל הלקוח של Outlook, MileIQ<sup>[1](#footnote1)</sup>, מיקרוסופט להפקת חשבונית<sup>[1](#footnote1)</sup>) 
+* Exchange, OneDrive, סקייפ לעסקים, צוותי מיקרוסופט, ו-SharePoint. 
+* אפליקציות לעסקים מ-Office (הזמנות, MileIQ<sup>[1](#footnote1)</sup>). 
  
 **ניהול התקנים ויכולות אבטחה ברמה ארגונית** 
-- מסייע לספק הגנה מפני איומים חיצוניים כגון דיוג _ Amp_ תוכנות זדוניות מתוחכמות עם Office 365 איום מתקדם הגנה משמר Windows Defender ניצול 
--  מסייע לשלוט ב-_ Amp_ לנהל את אופן הגישה של מידע רגיש ומשודר עם מדיניות מניעת אובדן נתונים של Office 365 (להיות זמינה בקיץ, 2018) ותוכנית הגנת מידע תכלת 1 
--  מסייע להגן, לשמר ולגבות את הנתונים שלך באמצעות ' ארכיון מקוון של Exchange '  
--   הגנה app עבור Office _ Amp_ יישומים ניידים אחרים עם Intune App הגנה 
--  ניהול התקנים עבור מחשבי Windows 10, MacOS _ Amp_ התקני מוביילים עם ניהול התקן Intune 
--  תצורת אבטחה עקבית בין התקנים-הגנה על נתוני חברה באמצעות התקנים-Windows Defender, תמיד-מופעל ועדכני 
+- מסייע לספק הגנה מפני איומים חיצוניים כגון דיוג _ Amp_ תוכנות זדוניות מתוחכמות עם Office 365 מתקדם איום תוכנית הגנה 1 ו-Windows Defender ניצול המשמר. 
+-  מסייע לשלוט ב-_ Amp_ לנהל את אופן הגישה של מידע רגיש ומשודר באמצעות מדיניות מניעת אובדן נתונים ב-Office 365 ותוכנית הגנה מפני מידע תכלת 1. 
+-  מסייע בהגנה, שמירה וגיבוי של הנתונים שלך באמצעות הארכיון של Exchange Online.  
+-   הגנה app עבור Office _ Amp_ יישומים ניידים אחרים עם Intune App הגנה. 
+-  ניהול התקנים עבור מחשבי Windows 10, MacOS _ Amp_ מכשירים מוביילים עם ניהול התקן Intune. 
+-  הגנת זהות עם אימות מרובה גורמים, איפוס סיסמה של שירות עצמי וגישה מותנית.
+-  תצורת אבטחה עקבית באמצעות הגנת התקנים של נתוני חברה על-פני התקנים-Windows Defender, תמיד ומעודכן. 
  
  
 **פריסת התקנים מפושטת וכיוונון משתמש** 
 * קונסולת ניהול יחיד להתקנה וניהול של משתמשים והתקנים 
-* התקנה אוטומטית של יישומי Office במחשבי Windows 10 
-* מעודכן תמיד ב-Office + Windows 10 
-* פריסה מפושטת של מחשבים עם Windows טייס אוטומטי
+* התקנה אוטומטית של יישומי Office במחשבי Windows 10. 
+* מעודכן תמיד ב-Office + Windows 10. 
+* פריסה מפושטת של מחשבים עם Windows טייס אוטומטי.
 
-**הפעלת גישה מותנית**
-- Microsoft 365 לקוחות עסקיים יכולים לאפשר גישה מותנית דרך הגדרות המדריך התכלת בפורטל התכלת. לקבלת מידע נוסף אודות קביעת התצורה של פריטי מדיניות של גישה מותנית, עיין במאמר [מהי גישה מותנית](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
+**זכאויות אחרות** 
+- ל-Microsoft 365 לקוחות עסקיים יש גם גישה ליכולות הפעלת מחשב משותף של Windows ושולחן עבודה של Office. קרא את [הבלוג העסקי של Microsoft 365](https://techcommunity.microsoft.com/t5/Microsoft-365-Business-Blog/bg-p/Microsoft365BusinessBlog) כדי ללמוד עוד. ראה גם את [תיאור שירות העסקים של Microsoft 365](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description).
 
 ### <a name="who-should-consider-adopting-microsoft-365-business"></a>מי צריך לשקול לאמץ את מיקרוסופט 365 עסקים? 
-Microsoft 365 Business נבנה עבור לקוחות קטנים ובינוניים, שאין להם משאבי IT קטנים בצוות ומעוניינים ביכולות הפרודוקטיביות והשיתוף הטובות ביותר של Office 365 יחד עם ניהול התקנים ופתרונות אבטחה ה לשמור על הנתונים העסקיים. הלקוח העסקי של Microsoft 365 מוכן להעביר את פעולות ה-IT שלהם לענן הצמתים והוא מעוניין לשמור על עמידה אקטיבית כדי לסייע בהגנה על נתונים בהתקנים השייכים לחברה ולעובדים.
+Microsoft 365 Business הוא פתרון אבטחה מקיף ומבוסס ענן המאפשר לך:  
+- הגן על העסק שלך מפני איומים cyberthreats תקדמים עם דיוג והגנה מתוחכמים מransomware. 
+- פיקוח על גישה למידע רגיש על-ידי שימוש בהצפנה כדי למנוע מנתונים להיות משותפים בטעות עם אדם שאינו מורשה לראותו. 
+- אבטח את ההתקנים המתחברים לעסק שלך וסייע באבטחת הנתונים שלך ב-iOS, אנדרואיד, Windows ו-Mac התקנים מאובטחים, והתקני Windows שלך מעודכנים.
+
+מיקרוסופט 365 העסק משולב באופן מלא עם Office 365 כדי לספק לך מיקום מוכר עבור ניהול, חיובים, ו 24x7 תמיכה. הוא מורכב טכנולוגיה ברמה ארגונית שנבנתה עבור עסקים עם פחות מ 300 עובדים. 
 
 ### <a name="how-can-i-get-microsoft-365-business-for-my-business"></a>איך אני יכול לקבל את מיקרוסופט 365 עסקים עבור העסק שלי? 
 ניתן לרכוש עסקים של microsoft 365 באמצעות <a href="https://www.microsoft.com/solution-providers/search" target="_blank">שותף של microsoft</a> או ישירות מ- <a href="https://www.microsoft.com//microsoft-365/business" target="_blank">microsoft</a>. כדי לבחור אם לרכוש ישירות מ-Microsoft או באמצעות שותף של Microsoft, עליך לשקול את יכולת העובדים והרצון שלך לשמור על תשתית IT. שותף של Microsoft יכול לסייע לך לפרוס ולנהל את תשתית ה-IT שלך כולל פתרונות של Microsoft.
@@ -75,7 +81,11 @@ Microsoft 365 Business נבנה עבור לקוחות קטנים ובינוני�
 תאימות יישומים קיימת של שולחן העבודה (Win32) חזקה ב-Windows 10, כאשר רוב היישומים הקיימים פועלים ללא שינויים. לקוחות ויועצי ה-IT המהימנים שלהם צריכים לקרוא את תהליך בדיקת היישומים המומלץ עבור <a href="https://docs.microsoft.com/windows/deployment/planning/windows-10-compatibility#recommended-application-testing-process" target="_blank">תאימות של Windows 10</a> ולסקור את <a href="https://products.office.com/office-system-requirements#subscription-plans-section" target="_blank">דרישות המערכת של Office</a> כדי להבטיח מעבר חלק ל-Microsoft 365 Business. 
 
 ### <a name="what-is-windows-10-business"></a>מהו העסק של Windows 10? 
-Windows 10 Business הוא קבוצה של יכולות שירותי ענן וניהול התקנים המשלימים את Windows 10 Pro ומאפשרים את בקרת הניהול והאבטחה המרוכזים של Microsoft 365 Business. Windows 10 עסקים גם מגיע עם Windows טייס אוטומטי, שירות המייייעל את הפריסה של Windows 10 מחשבים אישיים חדשים. אם יש לך התקנים המורשים עבור Windows 7, 8 ו-8.1 מקצועי, Microsoft 365 Business מספק שדרוג ל-Windows 10 Pro שהוא תנאי הדרישה לפריסת Windows 10 עסקים.
+Windows 10 Business הוא קבוצה של יכולות שירותי ענן וניהול התקנים המשלימים את Windows 10 Pro ומאפשרים את בקרת הניהול והאבטחה המרוכזים של Microsoft 365 Business.
+
+Windows 10 עסקים מגיע גם עם פרמיה מסוימים מיקרוסופט Defender תכונות כמו גישה לתיקייה מבוקרת והגנה על רשת עבור הליכי מבוסס אינטרנט. הוא כולל גם Windows טייס אוטומטי, שירות המייייעל את הפריסה של Windows 10 מחשבים אישיים חדשים.
+
+אם יש לך התקנים המורשים עבור Windows 7, 8 ו-8.1 מקצועי, Microsoft 365 Business מספק שדרוג ל-Windows 10 Pro שהוא תנאי הדרישה לפריסת Windows 10 עסקים.
 > [!IMPORTANT]
 > עליך לספק את מפתח המוצר המקורי בעת שדרוג, אחרת השדרוג לא יפעל. 
 
@@ -99,7 +109,7 @@ Windows 10 עסקים כולל גם Windows Defender ניצול המשמר, קב
 
 **Office 365 Business Premium** מספק פרודוקטיביות מיטבית ברמה הגבוהה ביותר עם יישומים ושירותים של office 365, אך אינו כולל את יכולות ניהול ההתקנים והאבטחה של Microsoft 365 Business.
 
-**Microsoft 365 Business** משלבת יישומים ושירותים של Office 365 עם ניהול יישומים ניידים ו-Windows 10 Pro כדי לאפשר ניהול מרחוק ולסייע בהגנה על התקנים מפני וירוסים ותוכנות זדוניות. הוא כולל מסוף ניהול פשוט שדרכו ניתן לנהל מדיניות התקן ונתונים. עסקים קטנים רבים בגודל בינוני ניתן להגיש במיוחד עם Microsoft 365 Business. 
+**Microsoft 365 Business** משלבת יישומים ושירותים של Office 365 עם יכולות אבטחה מתקדמות כדי לסייע בהגנה על העסק שלך מפני איומי רשת מתקדמים, להגן על הנתונים שלך ולנהל את ההתקנים שלך. הוא כולל מסוף ניהול פשוט שדרכו ניתן לנהל מדיניות התקן ונתונים. עסקים קטנים רבים בגודל בינוני ניתן להגיש במיוחד עם Microsoft 365 Business. 
  
 **Microsoft 365 Enterprise** היא ערכה של תוכניות רישוי המציעות רמות גבוהות של ניהול תאימות ואבטחה על-ידי Microsoft 365 Business ומיועדות ללקוחות ארגוניים וללקוחות בעלי יותר מ-300 משתמשים. בנוסף, Microsoft 365 תוכניות ארגוניות מספקות פונקציונליות נוספת, כולל מודיעין עסקי וכלים לניתוח.
 
@@ -137,18 +147,13 @@ Windows טייס אוטומטי הוא שירות המייייעל את הפרי
 ## <a name="compatibility"></a>תאימות
 
 ### <a name="can-i-add-office-365-add-ons-to-microsoft-365-business"></a>האם אני יכול להוסיף ל-Office 365 הרחבות ל-Microsoft 365 Business? 
-כל ההרחבות שניתן להוסיף ל-Office 365 Business Premium ניתן להוסיף למיקרוסופט 365 Business. משמעות הדבר היא כי אתה יכול לרכוש הגנה מפני איום מתקדם, Office 365 ענן App אבטחה, תאימות מתקדמת, מודיעין איום, מיניתוחים, PowerBI Pro, ועידות שמע. 
+כל ההרחבות שניתן להוסיף ל-Office 365 Business Premium ניתן להוסיף למיקרוסופט 365 Business. משמעות הדבר היא כי אתה יכול לרכוש Office 365 ענן App אבטחה, תאימות מתקדמת, מודיעין איום, MyAnalytics, PowerBI Pro, ושיחות ועידה אודיו. 
  
 ### <a name="can-i-add-phone-system-and-calling-plans-to-microsoft-365-business"></a>האם ניתן להוסיף מערכת טלפון ותוכניות התקשרות אל Microsoft 365 Business? 
 לא, מערכת הטלפונים ותוכנית השיחות שמורות ללקוחות בעלי צרכים מתקדמים יותר. לקוחות הזקוקים ליכולות אלה צריכים לבדוק את ההצעות הארגוניות של Microsoft 365. 
  
 ### <a name="can-microsoft-365-business-customers-use-windows-defender-advanced-threat-protection"></a>האם Microsoft 365 לקוחות עסקיים יכולים להשתמש בהגנה על איומים מתקדמים של Windows Defender? 
 לא, לקוחות שדורשים Windows Defender הגנה מתקדמים איום צריך או Windows 10 Enterprise E5 או Microsoft 365 Enterprise E5. 
- 
-
-
-### <a name="can-customers-create-hosted-windows-10-vms-with-a-microsoft-365-business-subscription"></a>האם לקוחות יכולים ליצור מתארח ב-Windows 10 VMs עם מנוי עסקי של Microsoft 365? 
-לא, לקוחות המחייבים וירטואליזציה צריכים לרכוש את Windows 10 Enterprise או מנוי ארגוני של Microsoft 365.
 
 ## <a name="partner-opportunity"></a>הזדמנות שותפה
 
@@ -180,20 +185,11 @@ Microsoft 365 Business מאפשר לשותפים לשמור על מיקום הי
  
 ### <a name="some-of-my-customers-have-devices-that-are-not-genuine-will-microsoft-365-business-make-these-devices-genuine"></a>לחלק מהלקוחות שלי יש התקנים שאינם מקוריים; האם Microsoft 365 Business יגרום להתקנים אלה להיות מקוריים? 
 Microsoft 365 Business אינו מהווה גירסה אחרת של Windows שאינה מקורית, מקורית. Microsoft 365 Business מספק תועלת שדרוג המאפשרת ללקוחות אלה פועל Windows 7, 8 או 8.1 Pro כדי לשדרג את הגירסה העדכנית ביותר, מקורית של Windows 10 Pro. 
- 
-### <a name="what-support-is-available-to-csp-partners-for-the-microsoft-365-business-preview"></a>איזו תמיכה זמינה לשותפי CSP עבור התצוגה המקדימה העסקית של Microsoft 365? 
-אותם ערוצי תמיכה הזמינים לשותפי CSP היום (תמיכה premier ותוכנית תמיכה מתקדמת) הוכשרו ב-Microsoft 365 Business ומוכנים לספק לשותפים תמיכה. 
 
 ### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-help-customers-with-their-compliance-obligations"></a>מהו GDPR וכיצד Microsoft 365 Business מסייעים ללקוחות לסייע בהתחייבויות התאימות שלהם?
-הרגולציה הכללית של הגנת הנתונים (GDPR) היא חוק הפרטיות החדש והמקיף המעניק לתושבי האיחוד האירופי שליטה רבה יותר על "הנתונים האישיים" שלהם ודורש מארגונים לשמור על שלמות הנתונים האישיים. GDPR דורש ארגונים השולטים, או מעבדים נתונים אישיים הקשורים לתושבי האיחוד האירופי כדי להשתמש רק במעבדי נתונים של צד שלישי העומדים בדרישות של GDPR לעיבוד נתונים אישיים. במרץ 2017, מיקרוסופט הפכה ערבויות חוזיות הזמינות המספקות הבטחות אלה. לקוחות שיש להם שאלות אודות האופן שבו Microsoft יכולה לסייע להם לעמוד בהתחייבויות הנוספות של GDPR צריכים ללמוד על התאימות ויכולות האבטחה המתקדמות הזמינות כהרחבות (לדוגמה, הגנת מידע תכלת, מניעת אובדן נתונים, מתקדם הגנה מפני איומים וכד) ובסוויטות אחרות (לדוגמה, מיקרוסופט 365 Enterprise E5). לקבלת מידע נוסף, בקר [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
-
-
+הרגולציה הכללית של הגנת הנתונים (GDPR) היא חוק הפרטיות החדש והמקיף המעניק לתושבי האיחוד האירופי שליטה רבה יותר על "הנתונים האישיים" שלהם ודורש מארגונים לשמור על שלמות הנתונים האישיים. GDPR דורש ארגונים השולטים, או מעבדים נתונים אישיים הקשורים לתושבי האיחוד האירופי כדי להשתמש רק במעבדי נתונים של צד שלישי העומדים בדרישות של GDPR לעיבוד נתונים אישיים. במרץ 2017, מיקרוסופט הפכה ערבויות חוזיות הזמינות המספקות הבטחות אלה. לקוחות שיש להם שאלות אודות האופן שבו Microsoft יכולה לסייע להם לענות על התחייבויות GDPR הנוספות שלהם, צריכים ללמוד על התאימות המתקדמת ויכולות האבטחה הזמינות ב-Microsoft 365 Business (למשל, הגנת מידע תכלת, אובדן נתונים מניעה, הגנת איומים מתקדמת, וכו '. ובסוויטות אחרות (לדוגמה, מיקרוסופט 365 Enterprise E5). לקבלת מידע נוסף, בקר [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
 
 
 ## <a name="footnotes"></a>ערות שוליים
 <sup><a name="footnote1">**1**</a></sup> <small>זמין בארה ב, בריטניה, וקנדה.</small> </br>
 <sup><a name="footnote2">**2**</a></sup> <small>התקנים בהם פועל windows 7 או 8.1 פרו זכאים לשדרוג ל-windows 10 pro בתוך התצוגה המקדימה העסקית של Microsoft 365.</small>
- 
-
-
-
