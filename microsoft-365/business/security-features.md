@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: למד אודות תכונות האבטחה הגיעות עם Microsoft 365 Business.
-ms.openlocfilehash: 668b83e363a40e61391cbe56b0dbfab88cae7c43
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 0d1c35192bf82ac61e59356cda4d9fb29cb3d995
+ms.sourcegitcommit: 4d5e4cb3fa3ab45ad15f103c720c77277b22fc23
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575697"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37636771"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>מיקרוסופט 365 תכונות אבטחה ותאימות של העסק
 
@@ -48,7 +48,7 @@ Microsoft 365 Business מציע תכונות אבטחה פשוטות יותר כ
     
 - [קביעת הגדרות הגנת התקן עבור התקני Windows 10](protection-settings-for-windows-10-pcs.md) . 
     
-    באפשרותך להפוך את הצפנת [BitLocker](https://go.microsoft.com/fwlink/p/?linkid=871405) לזמינה כדי לסייע בהגנה על נתונים במקרה של אובדן או גניבה של התקן, ולאפשר [למשמר הניצול של Windows](https://go.microsoft.com/fwlink/p/?linkid=871404) לספק הגנה מתקדמת מפני ransomware. 
+    באפשרותך להפוך את הצפנת [BitLocker](https://go.microsoft.com/fwlink/p/?linkid=871405) לזמינה כדי לסייע בהגנה על נתונים במקרה של אובדן או גניבה של התקן, ולאפשר [למשמר הניצול של Windows](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection) לספק הגנה מתקדמת מפני ransomware. 
     
 - [הסרת נתוני חברה ממכשירים](remove-company-data.md)
     
