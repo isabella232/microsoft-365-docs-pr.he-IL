@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: מיקרוסופט 365 עסקים, מיקרוסופט 365, SMB, שאלות נפוצות, שאלות נפוצות, תשובות, עסקים
 ms.date: 06/08/2018
-ms.openlocfilehash: 18198007bf61d448581335594016433668edb47d
-ms.sourcegitcommit: 23173f7d0ca5079662ef4060371d8ee11bac228e
+ms.openlocfilehash: 23cf7c4770387050c60ac21f537fbd7738a8aab4
+ms.sourcegitcommit: 1e3916bbe94d4fbb858566e7db5018e1e46bcd0d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611420"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37646384"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>מיקרוסופט 365 שאלות נפוצות לגבי עסקים
 
@@ -164,7 +164,7 @@ Windows טייס אוטומטי הוא שירות המייייעל את הפרי
 שותפים מוכרים כעת Office 365 יכול להשתמש באותה שיטות מכירה מייעץ למכור Microsoft 365 עסקים. בנוסף, אנו מציגים משאבים נוספים והכשרה עבור צוות המכירות שלך כדי להבין את סביבת שולחן העבודה הקיים של הלקוחות, Active Directory הסתמכות, ניידות ואבטחה צרכים כדי להעביר ביעילות את הערך המלא של Microsoft 365 Business באופן הרלוונטי ללקוח. חפש משאבים אלה בפורטל השותפים של [http://partners.office.com/microsoft365business](http://partners.office.com/microsoft365business)Office. 
 
 ### <a name="how-can-microsoft-365-business-help-partners-increase-the-profitability"></a>כיצד יכול Microsoft 365 לסייע לשותפים עסקיים להגדיל את הרווחיות? 
-Microsoft 365 Business יסייע לשותפים להפחית עלויות באמצעות יעילות תפעולית גדולה יותר ולשפר את ההכנסות באמצעות מכירת שירותים נוספים. מחקר פורסטר, מיקרוסופט 365 עסקים ההשפעה הכלכלית הכוללת (טיי) מחקר, יוני 2017 (https://partners.office.com/TEIBusiness), מדגים כי מיקרוסופט 365 העסק תהיה השפעה חיובית על רווחיות השותף. 
+Microsoft 365 Business יסייע לשותפים להפחית עלויות באמצעות יעילות תפעולית גדולה יותר ולשפר את ההכנסות באמצעות מכירת שירותים נוספים. מחקר פורסטר, מיקרוסופט 365 עסקים ההשפעה הכלכלית הכוללת (טיי) מחקר, יוני 2017 (https://www.microsoft.com/microsoft-365/partners/PartnerTEI), מדגים כי מיקרוסופט 365 העסק תהיה השפעה חיובית על רווחיות השותף. 
 
 ב-שותפי המחקר של טיי דיווחו כי עם מיקרוסופט 365 עסקים הם מצפים: 
 
