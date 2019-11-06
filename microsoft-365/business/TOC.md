@@ -1,5 +1,5 @@
 # מיקרוסופט 365 עסקים
-## [365 מיקרוסופט](index.md)
+## [365 מיקרוסופט](index.yml)
 ## [מה זה מיקרוסופט 365 עסקים?](microsoft-365-business-overview.md)
 ## [קבל את Microsoft 365 Business](sign-up.md)
 ## [דרישות מראש להגנה על נתונים](pre-requisites-for-data-protection.md)
@@ -20,7 +20,7 @@
 ### [הגברת הגנת האיום](increase-threat-protection.md)
 ### [כוונן תכונות תאימות](set-up-compliance.md)
 ## ניהול משתמשים
-### [Add users](add-users-m365b.md)
+### [הוספת משתמשים](add-users-m365b.md)
 ### [הסרת עובד](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ## ניהול התקנים
 ### [הצגה ועריכה של מדיניות והתקנים](view-policies-and-devices.md)
@@ -32,7 +32,10 @@
 ### [הגדרות הגנת התקן עבור מחשבי Windows 10](protection-settings-for-windows-10-pcs.md)
 #### [אמת הגדרות במחשבי Windows 10](validate-settings-on-windows-10-pcs.md)
 ### [הגדרות הגנת יישומים עבור מחשבי Windows 10](protection-settings-for-windows-10-devices.md)
-## [מעבר אל Microsoft 365 Business](migrate-to-microsoft-365-business.md)
+## מעבר אל Microsoft 365 Business
+### [העברה מ-Office 365 עסקים פרימיום](migrate-to-microsoft-365-business.md)
+### [העברה מ-Office 365 E3](migrate-from-e3.md)
+### [העברת ro 365 ארגון מיקרוסופט](migrate-from-microsoft-365-business-to-microsoft-365-enterprise.md)
 ## חיובים
 ### [הצעת החוק שלך](/Office365/Admin/subscriptions-and-billing/view-your-bill-or-invoice?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [שלם](/Office365/Admin/subscriptions-and-billing/pay-for-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
