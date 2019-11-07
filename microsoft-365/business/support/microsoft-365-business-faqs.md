@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: מיקרוסופט 365 עסקים, מיקרוסופט 365, SMB, שאלות נפוצות, שאלות נפוצות, תשובות, עסקים
 ms.date: 06/08/2018
-ms.openlocfilehash: 23cf7c4770387050c60ac21f537fbd7738a8aab4
-ms.sourcegitcommit: 1e3916bbe94d4fbb858566e7db5018e1e46bcd0d
+ms.openlocfilehash: 2067badcb78b48bac59770993de25c0ebbeaa829
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37646384"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38031364"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>מיקרוסופט 365 שאלות נפוצות לגבי עסקים
 
@@ -161,7 +161,7 @@ Windows טייס אוטומטי הוא שירות המייייעל את הפרי
 ספקי שירותי IT שאינם שותפים של Microsoft כבר יכולים ללמוד עוד אודות התוכנית של ספק [https://partners.office.com/microsoft365business](https://partners.office.com/microsoft365business)פתרונות הענן של microsoft.
 
 ### <a name="where-can-i-learn-how-to-sell-microsoft-365-business"></a>היכן ניתן ללמוד כיצד למכור את מיקרוסופט 365 Business? 
-שותפים מוכרים כעת Office 365 יכול להשתמש באותה שיטות מכירה מייעץ למכור Microsoft 365 עסקים. בנוסף, אנו מציגים משאבים נוספים והכשרה עבור צוות המכירות שלך כדי להבין את סביבת שולחן העבודה הקיים של הלקוחות, Active Directory הסתמכות, ניידות ואבטחה צרכים כדי להעביר ביעילות את הערך המלא של Microsoft 365 Business באופן הרלוונטי ללקוח. חפש משאבים אלה בפורטל השותפים של [http://partners.office.com/microsoft365business](http://partners.office.com/microsoft365business)Office. 
+שותפים מוכרים כעת Office 365 יכול להשתמש באותה שיטות מכירה מייעץ למכור Microsoft 365 עסקים. בנוסף, אנו מציגים משאבים נוספים והכשרה עבור צוות המכירות שלך כדי להבין את סביבת שולחן העבודה הקיים של הלקוחות, Active Directory הסתמכות, ניידות ואבטחה צרכים כדי להעביר ביעילות את הערך המלא של Microsoft 365 Business באופן הרלוונטי ללקוח. חפש משאבים אלה בפורטל השותפים של [https://partners.office.com/microsoft365business](https://partners.office.com/microsoft365business)Office. 
 
 ### <a name="how-can-microsoft-365-business-help-partners-increase-the-profitability"></a>כיצד יכול Microsoft 365 לסייע לשותפים עסקיים להגדיל את הרווחיות? 
 Microsoft 365 Business יסייע לשותפים להפחית עלויות באמצעות יעילות תפעולית גדולה יותר ולשפר את ההכנסות באמצעות מכירת שירותים נוספים. מחקר פורסטר, מיקרוסופט 365 עסקים ההשפעה הכלכלית הכוללת (טיי) מחקר, יוני 2017 (https://www.microsoft.com/microsoft-365/partners/PartnerTEI), מדגים כי מיקרוסופט 365 העסק תהיה השפעה חיובית על רווחיות השותף. 

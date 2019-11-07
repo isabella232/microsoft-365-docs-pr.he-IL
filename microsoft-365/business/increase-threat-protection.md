@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: הגדר את הגנת האיומים המתקדמת של Office 365 והגנת נתונים רגישים.
-ms.openlocfilehash: fb63ca7e3cf38ecf31aab98e425b02e8b9983bf8
-ms.sourcegitcommit: 4d5e4cb3fa3ab45ad15f103c720c77277b22fc23
+ms.openlocfilehash: 1827b70f1e4d78a072753390c1a99d7cb4bd5cfd
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37636751"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38030763"
 ---
 # <a name="increase-threat-protection"></a>הגברת הגנת האיום
 
@@ -31,7 +31,7 @@ ms.locfileid: "37636751"
 
 לפני שתתחיל, בדוק את הניקוד המאובטח של Office 365. Office 365 ציון מאובטח מנתח את האבטחה של Office 365 הארגון שלך מבוסס על הפעילויות הרגילות שלך הגדרות אבטחה ומקצה ניקוד. התחל בהערה על התוצאה הנוכחית שלך. נקיטת הפעולות המומלצות במאמר זה מגדילה את הניקוד שלך. המטרה היא לא להשיג את הציון המירבי, אלא להיות מודע להזדמנויות כדי להגן על הסביבה שלך שאינה משפיעה לרעה על הפרודוקטיביות עבור המשתמשים שלך. 
 
-לקבלת מידע נוסף, עיין [בציון מאובטח של Microsoft](https://docs.microsoft.com/en-us/office365/securitycompliance/microsoft-secure-score).
+לקבלת מידע נוסף, עיין [בציון מאובטח של Microsoft](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score).
 
 ## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>העלאת רמת ההגנה מפני תוכנות זדוניות בדואר
 

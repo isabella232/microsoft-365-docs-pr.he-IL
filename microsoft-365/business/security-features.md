@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: למד אודות תכונות האבטחה הגיעות עם Microsoft 365 Business.
-ms.openlocfilehash: 0d1c35192bf82ac61e59356cda4d9fb29cb3d995
-ms.sourcegitcommit: 4d5e4cb3fa3ab45ad15f103c720c77277b22fc23
+ms.openlocfilehash: 5e295480b1a578ca26646a89d6a0a4183a15428d
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37636771"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38031444"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>מיקרוסופט 365 תכונות אבטחה ותאימות של העסק
 
@@ -73,7 +73,7 @@ Microsoft 365 Business מציע תכונות אבטחה פשוטות יותר כ
 - **[היכולות המלאות של Intune בפורטל התכלת](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
     גישה למרכז admin Intune בפורטל תכלת מאפשר לך להגדיר תכונות אבטחה נוספות, כגון ניהול של התקני MacOS, iPhone, והתקנים אנדרואיד יחד עם ניהול התקנים מתקדמים עבור Windows, כי הם לא זמינים דרך מיקרוסופט 365 מרכז עסקים.
-- **[גישה מותנית](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview) זהה לתוכנית התכלת של AD P1**
+- **[גישה מותנית](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) זהה לתוכנית התכלת של AD P1**
 
     ' גישה מותנית ' יכולה לסייע בהגנה על הארגון שלך מפני סיכוני כניסה, גישה לנסיונות מרשת או אזור לא צפויים, access מנסה ליצור סוגי התקנים מסוכנים וכדומה. פריטי מדיניות של גישה מותנית נאכפות לאחר השלמת האימות הראשון, והיא משתמשת באותות מאירוע האימות הראשון כדי לקבוע אם יש לאשר את הגישה הרצויה, מונעת, או f הוכחה נוספת (כגון סוג הזיהוי השני) היא נדרש.
 
