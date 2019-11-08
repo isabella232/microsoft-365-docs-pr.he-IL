@@ -22,18 +22,18 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: למד להגדיר את Microsoft 365 Business.
-ms.openlocfilehash: afc39ce57e63ad039780ad33e60fa81d8e8eec7a
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: 86af927c05168fabe5a72f331c14c9f3e5cbc1dd
+ms.sourcegitcommit: 550ea6f093ec35182e7c65a2811e9bfb07ec7d01
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38031464"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38038948"
 ---
 # <a name="overview-of-microsoft-365-business"></a>סקירה כללית של מיקרוסופט 365 עסקים
 
 ## <a name="what-is-microsoft-365-business"></a>מהו Microsoft 365 Business
 
-Microsoft 365 Business הוא ערכה מקיפה של כלי שיתוף פעולה ופרודוקטיביות עסקית, כגון Outlook,‏ Word,‏ Excel ומוצרי Office אחרים שמעודכנים תמיד. באפשרותך להגן על קבצי העבודה שלך בכל מכשירי iOS,‏ Android ו- Windows 10 שברשותך עם אבטחה פשוטה לניהול ברמת הארגון.
+Microsoft 365 Business הוא שירות מנוי הכולל את כלי הפרודוקטיביות של Office 365 בתוספת יכולות מתקדמות כדי לסייע בהגנה על העסק שלך מפני איומי אינטרנט, להגן על הנתונים שלך ולנהל את ההתקנים.
   
 Microsoft 365 Business נועד עבור עד 300 רשיונות. אם אתה זקוק לרשיונות נוספים, עיין בתיעוד של [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) לקבלת מידע נוסף.
 

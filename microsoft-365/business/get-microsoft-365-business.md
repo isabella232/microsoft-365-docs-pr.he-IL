@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
 description: למד כיצד לרכוש את Microsoft 365 Business ממרכז השותפים של Microsoft.
-ms.openlocfilehash: 168c68c7394ff736e9d94cb40872230a3f3b8894
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: 09d2f24fba1725278b663d5c3159163a56dcdc59
+ms.sourcegitcommit: 550ea6f093ec35182e7c65a2811e9bfb07ec7d01
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38030813"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38038918"
 ---
 # <a name="get-microsoft-365-business"></a>השג את Microsoft 365 Business
 
@@ -36,7 +36,7 @@ ms.locfileid: "38030813"
 
 ראה [הירשם עבור Microsoft 365 Business](sign-up.md) לקבלת הוראות מפורטות.
 
-באפשרותך גם לגשת [למאגר של microsoft](https://www.microsoft.com/store/locations/find-a-store?icid=en-us_UF_FAS) כדי לרכוש את Microsoft 365 Business ולקבל עזרה מוגדרת.
+באפשרותך גם לגשת [למאגר של microsoft](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) כדי לרכוש את Microsoft 365 Business ולקבל עזרה מוגדרת.
   
 ## <a name="get-microsoft-365-business-from-microsoft-partner-center"></a>השגת Microsoft 365 Business ממרכז השותפים של Microsoft
 
@@ -46,7 +46,7 @@ ms.locfileid: "38030813"
     
     ![In the Microsoft Partner center, add a new customer.](media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
   
-3. בדף **מנוי** של הלקוח, בחר 'הוסף מנוי', בחר את האפשרות 'עסק קטן' תחת 'קטלוג' ולאחר מכן בחר **Microsoft 365 Business**.
+3. בדף **המנוי** של הלקוח, בחר **בהוסף מנוי**, בחר באפשרות עסק קטן תחת קטלוג ולאחר מכן בחר ב- **Microsoft 365 business**.
     
     בחר את מספר הרשיונות הדרושים לך (עד 300). אם יש לך יותר מ- 300 משתמשים, ראה [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=862316) במקום זאת. 
     
