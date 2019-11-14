@@ -23,24 +23,24 @@ search.appverid:
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
 description: למד כיצד להעלות התקנים באמצעות טייס אוטומטי ב-Microsoft 365 Business. באפשרותך להקצות פרופיל להתקן או לקבוצת התקנים.
-ms.openlocfilehash: 4eadaa800aa174bcd9cac50375f68c8471e1684e
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 1dd6b1a574166379e29465bf3699e47e3b155e0b
+ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575407"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38320257"
 ---
 # <a name="create-and-edit-autopilot-devices"></a>יצירה ועריכה של מכשירי AutoPilot
 
 ## <a name="upload-a-list-of-devices"></a>העלאת רשימה של מכשירים
 
-באפשרותך להשתמש ב[מדריך צעד-אחר-צעד](add-autopilot-devices-and-profile.md) כדי להעלות מכשירים, אך ניתן גם להעלות בכרטיסיה **מכשירים**. 
+באפשרותך להשתמש [במדריך שלב-אחר-שלב](add-autopilot-devices-and-profile.md) כדי לטעון התקנים, אך באפשרותך גם להעלות התקנים בכרטיסיה ' **התקנים** '. 
   
-המכשירים צריכים לעמוד בדרישות אלה:
+על התקנים לעמוד בדרישות הבאות:
   
-- Windows ,10 גירסה 1703 ואילך.
+- Windows 10, גירסה 1703 ואילך
     
-- מכשירים חדשים שאינם נחשבים כמוצר Windows מוכן לשימוש.
+- מכשירים חדשים שלא עברו חוויה מחוץ לקופסא של Windows
 
 1. במרכז הניהול העסקי של Microsoft 365, בחר **התקנים** \> **טייס אוטומטי**.
   
@@ -50,11 +50,11 @@ ms.locfileid: "37575407"
   
 3. בחלונית **' הוספת התקנים** ', דפדף [לקובץ CSV של רשימת ההתקנים](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e) שהכנת \> **לשמירת** \> **הסגירה**.
     
-    ניתן לקבל מידע זה מספק החומרה, או להשתמש ב[קובץ Script של PowerShell, ‏Get-WindowsAutoPilotInfo](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) שייצור קובץ csv. 
+    אתה יכול לקבל את המידע הזה מספק החומרה שלך, או שאתה יכול להשתמש [בסקריפט לקבל-Windowsautopilinfo PowerShell](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) כדי ליצור קובץ CSV. 
     
 ## <a name="assign-a-profile-to-a-device-or-a-group-of-devices"></a>הקצאת פרופיל למכשיר או לקבוצה של מכשירים
 
-1. בדף **הכנת Windows**, בחר בכרטיסיה **מכשירים** וסמן את תיבת הסימון לצד מכשיר אחד או יותר. 
+1. בדף ' **הכנת Windows** ', בחר בכרטיסיה ' **התקנים** ' ובחר בתיבת הסימון שליד התקן אחד או יותר. 
     
 2. בלוח **מכשיר**, בחר פרופיל מהתפריט הנפתח **פרופיל שהוקצה**. 
     
