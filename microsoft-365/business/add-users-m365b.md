@@ -1,5 +1,5 @@
 ---
-title: הוספת משתמשים נוספים ל- Microsoft 365 Business
+title: הוספת משתמשים נוספים ל-Microsoft 365 Business
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -21,29 +21,29 @@ search.appverid:
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
 description: למד כיצד להוסיף משתמשים חדשים, לאבטח את ההתקנים שלהם ולהקצות תפקידים ב-Microsoft 365 Business.
-ms.openlocfilehash: 0ea3a4845e46ed1d13abf966eea895aa394aebca
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 25f19873400dad1c57445a63dd354bbb5d1fce49
+ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37574757"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38322534"
 ---
-# <a name="add-additional-users-to-microsoft-365-business"></a>הוספת משתמשים נוספים ל- Microsoft 365 Business
+# <a name="add-more-users-to-microsoft-365-business"></a>הוספת משתמשים נוספים ל-Microsoft 365 Business
 
 ## <a name="add-new-users"></a>הוספת משתמשים חדשים
 
 1. <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. לך למרכז המנהלה 
-2. בניווט השמאלי בחר **משתמשים** \> **פעילים**.
-1. בדף ' **משתמשים פעילים** ', בחר **באפשרות ' הוסף משתמש**'.
- 4. בחלונית **משתמש חדש**, הקלד את המידע הדרוש. 
+2. בחלונית הניווט השמאלית, **בחר** \> באפשרות משתמשים **פעילים**.
+3. בדף ' **משתמשים פעילים** ', בחר **באפשרות ' הוסף משתמש**'.
+4. בחלונית **המשתמש החדשה** , הקלד את המידע הדרוש. 
   
-    ניתן גם להזין מידע נוסף תחת **פרטי קשר**, לבחור כיצד להגדיר את הסיסמה תחת הגדרת ה **סיסמה** ולהקצות תפקידים תחת **תפקידים**.
+    באפשרותך להזין מידע נוסף תחת **פרטי קשר**, לבחור כיצד תגדיר את הסיסמה תחת הגדרת **סיסמה** ולהקצות תפקידים תחת **תפקידים**.
       
     ![Enter user information in the New user card](media/f04d39ca-48be-4868-8330-8552a4754c8b.png)
       
-    במקטע 'רשיונות מוצר', קבע את הגדרת רשיון המוצר של **Microsoft 365 Business** ל **מופעל**.
+    **במקטע**רשיונות מוצר, הגדר את הגדרת רשיון המוצר **העסקי של Microsoft 365** .
       
     ![Set the license setting to On position](media/7404f7f7-93bc-44a3-9ffb-4208b5b17402.png)
   
-ראה גם [הוספת משתמשים בנפרד או בכמויות גדולות](https://docs.microsoft.com/office365/admin/add-users/add-users).
+לקבלת מידע נוסף אודות הוספת משתמשים, ראה [הוספת משתמשים בנפרד או בצובר](https://docs.microsoft.com/office365/admin/add-users/add-users).
   
