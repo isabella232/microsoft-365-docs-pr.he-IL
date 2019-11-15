@@ -1,5 +1,5 @@
 ---
-title: דרישות מוקדמות להגנה על נתונים במכשירים עם Microsoft 365 Business
+title: דרישות מוקדמות להגנה על נתונים בהתקנים עם Microsoft 365 Business
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -17,33 +17,30 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
-description: 'דע את דרישות הקדם להגדרת הארגון שלך עם Microsoft 365 Business. '
-ms.openlocfilehash: 157abf0a3396ab374297441bf90d6defc4093390
-ms.sourcegitcommit: e2ed110c4c3a8434f9fcc9d610069bc77bc39220
+description: דע את הדרישות המוקדמות להגדרת הארגון שלך עם Microsoft 365 Business.
+ms.openlocfilehash: 874a85859e315ef17e10fdd8094860e1e6bf2560
+ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38290529"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38640540"
 ---
-# <a name="pre-requisites-for-protecting-data-on-devices-with-microsoft-365-business"></a><span data-ttu-id="280b0-103">דרישות מוקדמות להגנה על נתונים במכשירים עם Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="280b0-103">Pre-requisites for protecting data on devices with Microsoft 365 Business</span></span>
+# <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-business"></a><span data-ttu-id="1cee7-103">דרישות מוקדמות להגנה על נתונים בהתקנים עם Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="1cee7-103">Prerequisites for protecting data on devices with Microsoft 365 Business</span></span>
 
-<span data-ttu-id="280b0-104">השלב הראשון בהגדרת הארגון שלך עם Microsoft 365 Business הוא לוודא שאתה יכול לעמוד בדרישות המוקדמות.</span><span class="sxs-lookup"><span data-stu-id="280b0-104">The first step in setting up your organization with Microsoft 365 Business is to make sure you are able to meet the pre-requisites.</span></span>
+<span data-ttu-id="1cee7-104">השלב הראשון בהגדרת הארגון שלך עם Microsoft 365 Business הוא כדי לוודא שתוכל לעמוד בדרישות המוקדמות.</span><span class="sxs-lookup"><span data-stu-id="1cee7-104">The first step in setting up your organization with Microsoft 365 Business is to make sure you can meet the prerequisites.</span></span>
   
-## <a name="pre-requisites"></a><span data-ttu-id="280b0-105">דרישות מוקדמות</span><span class="sxs-lookup"><span data-stu-id="280b0-105">Pre-requisites</span></span>
+## <a name="prerequisites"></a><span data-ttu-id="1cee7-105">וקדמים</span><span class="sxs-lookup"><span data-stu-id="1cee7-105">Prerequisites</span></span>
 
-- <span data-ttu-id="280b0-106">במכשירי Windows חייב לפעול Windows 7 Professional,‏ Windows 8 Pro או Windows 8.1 Pro.</span><span class="sxs-lookup"><span data-stu-id="280b0-106">Windows devices must be running Windows 7 Professional, Windows 8 Pro, or Windows 8.1 Pro.</span></span>
+- <span data-ttu-id="1cee7-106">במכשירי Windows חייב לפעול Windows 7 Professional,‏ Windows 8 Pro או Windows 8.1 Pro.</span><span class="sxs-lookup"><span data-stu-id="1cee7-106">Windows devices must be running Windows 7 Professional, Windows 8 Pro, or Windows 8.1 Pro.</span></span>
     
-    [<span data-ttu-id="280b0-107">שדרוג מכשירי Windows לעדכון Windows Pro ליוצרים</span><span class="sxs-lookup"><span data-stu-id="280b0-107">Upgrade Windows devices to Windows Pro Creators Update</span></span>](upgrade-to-windows-pro-creators-update.md)
+    [<span data-ttu-id="1cee7-107">שדרוג מכשירי Windows לעדכון Windows Pro ליוצרים</span><span class="sxs-lookup"><span data-stu-id="1cee7-107">Upgrade Windows devices to Windows Pro Creators Update</span></span>](upgrade-to-windows-pro-creators-update.md)
     
-    <span data-ttu-id="280b0-108">אם אתה משתמש ב-Windows 10 Home, אזי עליך **לרכוש** את Windows 10 Pro.</span><span class="sxs-lookup"><span data-stu-id="280b0-108">If you are running Windows 10 Home, then you need to **purchase** Windows  10 Pro.</span></span> <span data-ttu-id="280b0-109">ראה [שדרוג windows 10 הביתה ל-windows 10 Pro](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) לקבלת הוראות.</span><span class="sxs-lookup"><span data-stu-id="280b0-109">See [upgrade Windows 10 Home to Windows 10 Pro](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) for instructions.</span></span> 
+    <span data-ttu-id="1cee7-108">אם אתה משתמש ב-Windows 10 Home, אזי עליך **לרכוש** את Windows 10 Pro.</span><span class="sxs-lookup"><span data-stu-id="1cee7-108">If you're running Windows 10 Home, then you must **purchase** Windows  10 Pro.</span></span> <span data-ttu-id="1cee7-109">ראה [שדרוג windows 10 הביתה ל-windows 10 Pro](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) לקבלת הוראות.</span><span class="sxs-lookup"><span data-stu-id="1cee7-109">See [upgrade Windows 10 Home to Windows 10 Pro](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) for instructions.</span></span> 
     
-- <span data-ttu-id="280b0-p102">הסר מכשירים מפתרונות ניהול למכשירים ניידים (Mobile Iron,‏ AirWatch וכדומה). עליך לרשום את כל האנשים בארגון שלך לניהול מכשירים ניידים של Microsoft 365 Business.</span><span class="sxs-lookup"><span data-stu-id="280b0-p102">Remove devices from mobile management solutions (Mobile Iron, AirWatch, etc.). You will enroll all the people in your organization to Microsoft 365 Business mobile management.</span></span>
+- <span data-ttu-id="1cee7-110">הסר התקנים מפתרונות לניהול נייד (ברזל נייד, שעון AirWatch וכן הלאה).</span><span class="sxs-lookup"><span data-stu-id="1cee7-110">Remove devices from mobile management solutions (Mobile Iron, AirWatch, and so on).</span></span> <span data-ttu-id="1cee7-111">אתה תרשום את כל האנשים בארגון שלך ב-Microsoft 365 עסקים בניהול נייד.</span><span class="sxs-lookup"><span data-stu-id="1cee7-111">You'll enroll all the people in your organization in Microsoft 365 Business mobile management.</span></span>
     
-- <span data-ttu-id="280b0-112">Apple iOS 8.0 ואילך.</span><span class="sxs-lookup"><span data-stu-id="280b0-112">Apple iOS 8.0 and later.</span></span>
+- <span data-ttu-id="1cee7-112">Apple iOS 8.0 ואילך.</span><span class="sxs-lookup"><span data-stu-id="1cee7-112">Apple iOS 8.0 and later.</span></span>
     
-    <span data-ttu-id="280b0-p103">Google Android 4.0 ואילך (כולל Samsung KNOX Standard 4.0 ואילך). לקבלת פרטים נוספים, ראה [מכשירים הנתמכים על-ידי Intune](https://go.microsoft.com/fwlink/p/?linkid=852307).</span><span class="sxs-lookup"><span data-stu-id="280b0-p103">Google Android 4.0 and later (including Samsung KNOX Standard 4.0 and higher). For more details, see [Intune supported devices](https://go.microsoft.com/fwlink/p/?linkid=852307).</span></span>
+    <span data-ttu-id="1cee7-113">Google Android 4.0 ואילך (כולל Samsung KNOX Standard 4.0 ואילך).</span><span class="sxs-lookup"><span data-stu-id="1cee7-113">Google Android 4.0 and later (including Samsung KNOX Standard 4.0 and higher).</span></span> <span data-ttu-id="1cee7-114">לקבלת מידע נוסף, ראה [Intune התקנים נתמכים](https://go.microsoft.com/fwlink/p/?linkid=852307).</span><span class="sxs-lookup"><span data-stu-id="1cee7-114">For more information, see [Intune supported devices](https://go.microsoft.com/fwlink/p/?linkid=852307).</span></span>
     
-- <span data-ttu-id="280b0-115">אם יש לך יישומי Office קיימים במחשבי המשתמשים, קרא [הכנה להתקנת לקוח של Office](prepare-for-office-client-deployment.md) כדי להבין את השלבים שיהיה עליך לבצע לפני שתוכל להגדיר את Microsoft 365 Business כדי להתקין את Office 2016 במחשבי המשתמשים.</span><span class="sxs-lookup"><span data-stu-id="280b0-115">If you have existing Office applications on user computers, read [prepare for Office client installation](prepare-for-office-client-deployment.md) to understand steps you might have to take before you can set up Microsoft 365 Business to install Office 2016 to user computers.</span></span> 
-    
-
-
+- <span data-ttu-id="1cee7-115">אם יש לך יישומי Office קיימים במחשבי משתמש, קרא את [ההכנה להתקנת לקוח office](prepare-for-office-client-deployment.md) כדי להבין את הצעדים שייתכן שיהיה עליך לבצע לפני שתוכל להגדיר את Microsoft 365 Business כדי להתקין את Office 2016 במחשבי משתמש.</span><span class="sxs-lookup"><span data-stu-id="1cee7-115">If you have existing Office applications on user computers, read [prepare for Office client installation](prepare-for-office-client-deployment.md) to understand steps you might need to take before you can set up Microsoft 365 Business to install Office 2016 on user computers.</span></span> 
