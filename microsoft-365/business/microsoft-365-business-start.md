@@ -21,24 +21,24 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: למד להגדיר את Microsoft 365 Business.
-ms.openlocfilehash: 4c744d6a900dba3c11ee51e75602a430268e15bb
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: 5986e3fb7786ebb3fa7bcf42b34345be98af44a2
+ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38029103"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38633428"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>תחילת העבודה עם Microsoft 365 Business
 
 ## <a name="what-is-microsoft-365-business"></a>מהו Microsoft 365 Business
 
-Microsoft 365 Business הוא ערכה מקיפה של כלי שיתוף פעולה ופרודוקטיביות עסקית, כגון Outlook,‏ Word,‏ Excel ומוצרי Office אחרים שמעודכנים תמיד. באפשרותך להגן על קבצי העבודה שלך בכל מכשירי iOS,‏ Android ו- Windows 10 שברשותך עם אבטחה פשוטה לניהול ברמת הארגון.
+Microsoft 365 Business הוא ערכה מקיפה של כלים לפרודוקטיביות ושיתוף פעולה עסקיים, כגון Outlook, Word, Excel ומוצרי Office אחרים, שתמיד עדכניים. אתה יכול להגן על קבצי העבודה שלך על כל iOS שלך, אנדרואיד, ו-Windows 10 התקנים עם אבטחה ברמה ארגונית כי הוא פשוט לנהל.
   
-Microsoft 365 Business נועד עבור עד 300 רשיונות. אם אתה זקוק לרשיונות נוספים, עיין בתיעוד של [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) לקבלת מידע נוסף. 
+העסק של Microsoft 365 מיועד לרשיונות של עד 300. אם אתה זקוק לרשיונות נוספים, עיין בתיעוד [הארגוני של Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=860986) לקבלת מידע נוסף. 
   
 ## <a name="get-microsoft-365-business"></a>השג את Microsoft 365 Business
 
-- אם יש לך שותף, הוא יקבל את Microsoft 365 Business: [השג את Microsoft 365 Business ממרכז השותפים של Microsoft](get-microsoft-365-business.md).
+- אם יש לך שותף, הם יוכלו לקבל את Microsoft 365 Business: [קבל את microsoft 365 business ממרכז השותפים של microsoft](get-microsoft-365-business.md).
     
 - אם אין לך שותף ואתה מעוניין להשיג את Microsoft 365 Business, באפשרותך [לקנות אותו כאן](https://www.microsoft.com/microsoft-365/business).
     
@@ -46,39 +46,39 @@ Microsoft 365 Business נועד עבור עד 300 רשיונות. אם אתה ז
 
  **מבט כולל על חבילת העסקים של Microsoft 365 מוגדר**
   
-הדיאגרמה הבאה מתארת כיצד מנהלים מגדיר עסק של Microsoft 365 Business. היא גם מתארת את השלבים להכנת מחשבי Windows עבור Microsoft 365 Business. באפשרותך גם להוסיף מכשירים חדשים במרכז הניהול של Microsoft 365 Business עם [Windows AutoPilot](add-autopilot-devices-and-profile.md). באפשרותך להשתמש ב- AutoPilot כדי להגדיר ולקבוע מראש את התצורה של מכשירים חדשים, כדי להכין אותם לשימוש פרודוקטיבי ברגע שהמשתמש מתחבר עם אישורי Microsoft 365 Business שלו.
+הדיאגרמה הבאה מתארת כיצד מנהלים מגדיר עסק של Microsoft 365 Business. היא גם מתארת את השלבים להכנת מחשבי Windows עבור Microsoft 365 Business. באפשרותך גם להוסיף התקנים חדשים במרכז הניהול העסקי של Microsoft 365 עם [Windows טייס אוטומטי](add-autopilot-devices-and-profile.md). באפשרותך להשתמש בטייס אוטומטי כדי להגדיר ולהגדיר מראש התקנים חדשים, כך שהם מוכנים לשימוש פרודוקטיבי ברגע שהמשתמש שלטים עם האישורים העסקיים של Microsoft 365 שלהם.
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
   
 ### <a name="1-set-up-microsoft-365-business-admin"></a>1: הגדרת מיקרוסופט 365 עסקים (מנהל)
 
-היכנס ל[מרכז הניהול של Microsoft 365 Business](https://portal.office.com/adminportal/home) עם אישורי מנהל מערכת כללי, ובצע את השלבים הבאים כדי להתקין את Microsoft 365 Business. 
+היכנס אל [מרכז הניהול העסקי של microsoft 365](https://portal.office.com/adminportal/home) עם אישורי המנהל הגלובליים שלך והשלם את השלבים הבאים כדי להגדיר את Microsoft 365 Business. 
   
-1. [דרישות מוקדמות להגנה על נתונים במכשירים עם Microsoft 365 Business](pre-requisites-for-data-protection.md)
+1. [דרישות מוקדמות להגנה על נתונים בהתקנים עם Microsoft 365 Business](pre-requisites-for-data-protection.md)
     
-    קרא את הדרישות המוקדמות תחילה כדי לוודא שהמכשירים שלך מוכנים לקראת Microsoft 365 Business.
+    קרא תחילה את הדרישות המוקדמות כדי לוודא שההתקנים שלך מוכנים ל-Microsoft 365 Business.
     
-2. [התקנה של Microsoft 365 Business באמצעות אשף ההתקנה](set-up.md)
+2. [השתמש באשף ההתקנה כדי להגדיר את Microsoft 365 Business](set-up.md)
     
-    אם אתה **עובר לצמיתות מתוך Active Directory מקומי אל ענן הצמתים**, באפשרותך להוסיף את המשתמשים שלך באופן ידני במרכז הניהול העסקי של Microsoft 365 באמצעות אשף ההתקנה, או לבצע סינכרון חד פעמי עם ' התחברות למטה-התכלת '. ניתן לעשות זאת בשתי דרכים: 
+    אם אתה **עובר לצמיתות מתוך Active Directory מקומי אל ענן הצמתים**, באפשרותך לעבור אל מרכז הניהול העסקי של Microsoft 365 ולהשתמש באשף ההתקנה כדי להוסיף את המשתמשים שלך באופן ידני, או לבצע סינכרון חד פעמי עם התחברות באמצעות התכלת לספירה. ניתן לעשות זאת בשתי דרכים: 
     
-  - אם יש לך גם שרת Exchange 2010, Exchange 2013 או Exchange 2016, [באפשרותך להשתמש באפשרות ' היברידית מינימלית ' כדי להעביר במהירות תיבות דואר של exchange ל-Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef). שלבי התצורה ההיברידית המינימלית כוללים סינכרון חד-פעמי של משתמשים עם Azure AD וכן העברת דואר אלקטרוני מסביבה מקומית לענן. לאחר השלמת העברת הדואר האלקטרוני, סינכרון מדריכי הכתובות מבוטל באופן אוטומטי בעת השימוש בשיטה זו.
+    - אם יש לך גם שרת Exchange 2010, Exchange 2013 או Exchange 2016, [באפשרותך להשתמש באפשרות ' היברידית מינימלית ' כדי להעביר במהירות תיבות דואר של exchange ל-Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef). השלבים ההיברידיים המינימליים כוללים סינכרון חד פעמי של משתמשים לתכלת, והעברת דואר אלקטרוני מקומית לענן. לאחר השלמת העברת הדואר האלקטרוני, סינכרון הספריות מבוטל באופן אוטומטי בעת שימוש בשיטה זו.
     
-  - השתמש באשף סינכרון מדריכי הכתובות של Office 365 כדי לסנכרן את המשתמשים שלך עם הענן. בצע את השלבים המפורטים תחת [Set up directory synchronization for Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) כדי להשלים את התהליך. לאחר שתסנכרן את המשתמשים שלך עם הענן, תצטרך [Turn off directory synchronization for Office 365](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d).
+    - השתמש באשף סינכרון הספריות של Office 365 כדי לסנכרן את המשתמשים לענן הצמתים. בצע את השלבים המפורטים תחת [Set up directory synchronization for Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) כדי להשלים את התהליך. לאחר סינכרון המשתמשים לענן הצמתים, יהיה עליך [לבטל סינכרון ספריות עבור Office 365](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d).
     
-    בנוסף, תצטרך לתת לכל משתמש שנוסף בדרך זו רשיון ל- Microsoft 365 Business. באפשרותך לעשות זאת [באשף ההתקנה](set-up.md), או [להקצות רשיונות למשתמשים ב-Office 365 לצורך עסקים](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC).
+    תצטרך גם לתת לכל משתמש שנוסף בדרך זו רשיון ל-Microsoft 365 Business. באפשרותך לעשות זאת [באשף ההתקנה](set-up.md) או [להקצות רשיונות למשתמשים ב-Office 365 עבור עסקים](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC).
     
 ### <a name="2-prepare-mobile-devices"></a>2: הכנת מכשירים ניידים
 
-בצע את השלבים[בהגדרת התקנים ניידים עבור microsoft 365 משתמשים עסקיים](set-up-mobile-devices.md) כדי להתקין יישומי Office בהתקנים ולוודא שהם מוגנים על-ידי Microsoft 365 Business. 
+בצע את השלבים [בהגדרת התקנים ניידים עבור microsoft 365 משתמשים עסקיים](set-up-mobile-devices.md) כדי להתקין יישומי Office בהתקנים ולוודא שהם מוגנים על-ידי Microsoft 365 Business. 
   
 ### <a name="3-prepare-pcs"></a>3: הכנת מחשבים אישיים
 
-מנהלים יכולים לבחור הגדרות מראש עבור התקנים חדשים של Windows 10 PCs באמצעות [Windows טייס אוטומטי](add-autopilot-devices-and-profile.md). משתמשים יכולים להגדיר את ההתקנים הקיימים או החדשים של Windows 10 על-ידי ביצוע השלבים בנושא זה: [הגדרת מחשבי Windows עבור משתמשים עסקיים של Microsoft 365](set-up-windows-devices.md). עבור התקנים קיימים משתמשים יכולים גם באופן **אופציונלי**[להעביר קבצים לכונן אחד עבור עסקים](move-files-to-onedrive.md). הם יכולים גם להשתמש בכלים של צד שלישי כדי להעביר קבצים המשויכים לפרופיל של Windows ל-OneDrive.
+מנהלים יכולים לבחור הגדרות מראש עבור מחשבים חדשים של Windows 10 באמצעות [Windows טייס אוטומטי](add-autopilot-devices-and-profile.md). משתמשים יכולים להגדיר את ההתקנים הקיימים או החדשים של Windows 10 על-ידי ביצוע השלבים בנושא זה: [הגדרת מחשבי Windows עבור משתמשים עסקיים של Microsoft 365](set-up-windows-devices.md). עבור התקנים קיימים, משתמשים יכולים באופן **אופציונלי** [להעביר קבצים לכונן אחד עבור Business](move-files-to-onedrive.md). הם יכולים גם להשתמש בכלים של צד שלישי כדי להעביר קבצים המשויכים לפרופיל של Windows ל-OneDrive.
   
-אם הארגון שלך משתמש ב-Windows Server Active Directory מקומי, באפשרותך להגדיר את Microsoft 365 Business כדי להגן על התקני Windows 10 שלך, תוך שמירה על גישה למשאבים מקומיים המחייבים אימות מקומי. בצע את השלבים [בהפעלת התקני Windows 10 המצורפים לתחום כדי שיוכלו להיות מנוהלים על-ידי Microsoft 365 Business](manage-windows-devices.md) כדי להגדיר זאת. זוהי השיטה המועדפת והמכשירים במצב זה נקראים " **היברידית תכלת" התקנים המצורפים**. 
+אם הארגון שלך משתמש ב-Windows Server Active Directory מקומי, באפשרותך להגדיר את Microsoft 365 Business כדי להגן על התקני Windows 10 שלך, תוך שמירה על גישה למשאבים מקומיים המחייבים אימות מקומי. בצע את השלבים [בהפעלת התקני Windows 10 המצורפים לתחום כדי שיוכלו להיות מנוהלים על-ידי Microsoft 365 Business](manage-windows-devices.md) כדי להגדיר זאת. שיטה זו מועדפת, והתקנים במצב זה נקראים " **היברידית תכלת" התקנים המצורפים**. 
   
-אם אתה שומר על active Directory מקומי המכיל משאבים מסוימים מקומיים (כגון שיתופי קבצים ומדפסות), באפשרותך להעניק **להתקנים המצורפים** למשאבים אלה גישה אל משאבים אלה על-ידי ביצוע השלבים כאן: [גישה למשאבים מקומיים מ המכשיר המצורף למודעה ב-Microsoft 365 Business](access-resources.md).
+אם אתה שומר על Active Directory מקומי המכיל משאבים מסוימים מקומיים (כגון שיתופי קבצים ומדפסות), באפשרותך להעניק **להתקנים המצורפים** למשאבים הללו גישה אל משאבים אלה על-ידי ביצוע השלבים כאן: [גישה למשאבים מקומיים ממכשיר תכלת המצורף ב-Microsoft 365 Business](access-resources.md).
   
 לאחר הגדרת מחשבי Windows 10, באפשרותך [להתקין את Office באופן אוטומטי](auto-install-or-uninstall-office.md) בהתקנים. 
   
@@ -88,9 +88,9 @@ Microsoft 365 Business נועד עבור עד 300 רשיונות. אם אתה ז
   
 - פנה לשותף שלך.
     
-- כמנהל עסקים של Microsoft 365, יש לך גישה לצוות התמיכה בלקוחות שלנו, ** [צור קשר עם תמיכה עבור מוצרים עסקיים-עזרה מנהל](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)**
+- כמנהל עסקים של Microsoft 365, יש לך גישה לצוות התמיכה בלקוחות שלנו: ** [צור קשר עם תמיכה במוצרים עסקיים-עזרה מנהל](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)**
     
-## <a name="related-topics"></a>נושאים קרובים
+## <a name="related-topics"></a>נושאים קשורים
 [תיעוד ומשאבים עבור Microsoft 365 Business](https://go.microsoft.com/fwlink/p/?linkid=853701)
   
 [ניהול Microsoft 365 Business](manage.md)[מעבר אל Microsoft 365 Business](migrate-to-microsoft-365-business.md)

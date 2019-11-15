@@ -18,21 +18,21 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
-description: למד לנהל משימות ניהול הקשורות לעסקים של Microsoft 365, מכשירים ניידים, 10PCs של Windows ומשימות רבות כאלה.
-ms.openlocfilehash: 1e39adad50688686ef1d03ef7ed51534e067e6b3
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+description: למד לנהל משימות ניהול הקשורות לעסקים של Microsoft 365, מכשירים ניידים, מחשבי Windows 10 ומשימות רבות כאלה.
+ms.openlocfilehash: ee1c856c6c0005842df8b3581a602dd539490bea
+ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575957"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38633308"
 ---
 # <a name="manage-microsoft-365-business"></a>ניהול Microsoft 365 Business
 
 ## <a name="general-microsoft-365-business-admin-tasks"></a>משימות ניהול כלליות של Microsoft 365 Business
 
-רוב [תוכן מנהל](/Office365/Admin/admin-home.md) עבור Office 365 עבור עסקים חל גם עבור Microsoft 365 business.
+רוב [תוכן מנהל](/Office365/Admin/admin-home.md) עבור Office 365 עבור עסקים חל גם על Microsoft 365 business.
 
-- [הוספת משתמשים נוספים ל- Microsoft 365 Business](add-users-m365b.md)
+- [הוספת משתמשים נוספים ל-Microsoft 365 Business](add-users-m365b.md)
     
 - [הצגת כללי מדיניות ומכשירים](view-policies-and-devices.md)
     
@@ -40,7 +40,7 @@ ms.locfileid: "37575957"
     
 - [כיצד תכונות ההגנה של Microsoft 365 Business ממפות להגדרות Intune](map-protection-features-to-intune-settings.md)
     
-עיין בסעיפים הבאים אודות אופן השימוש ב- Microsoft 365 Business כדי להגן על נתוני הארגון במחשבי PC ובמכשירים ניידים.
+עיין בסעיפים הבאים על אופן השימוש ב-Microsoft 365 Business כדי להגן על נתוני הארגון שלך במחשבים אישיים ובמכשירים ניידים.
   
 ## <a name="manage-mobile-devices"></a>ניהול מכשירים ניידים
 
@@ -48,7 +48,7 @@ ms.locfileid: "37575957"
     
 - [קביעת הגדרות הגנה של אפליקציות עבור מכשירי Android או iOS](app-protection-settings-for-android-and-ios.md)
     
-    ראה [אימות הגדרות הגנה app על אנדרואיד או מכשיר iOS](validate-settings-on-android-or-ios.md) כדי לוודא שזה עובד. 
+    כדי לוודא שזה עובד, ראה [אימות הגדרות הגנה app על אנדרואיד או מכשיר iOS](validate-settings-on-android-or-ios.md). 
     
 - [הסרת נתוני חברה ממכשירים](remove-company-data.md)
     
@@ -62,11 +62,11 @@ ms.locfileid: "37575957"
     
 - [קביעת הגדרות הגנה על מכשירים עבור מכשירי Windows 10](protection-settings-for-windows-10-pcs.md)
     
-    ראה [אימות הגדרות הגנה על מכשירים במכשירי Windows 10](validate-settings-on-windows-10-pcs.md) כדי לוודא שהפעולה הצליחה. 
+    כדי לוודא שפעולה זו הצליחה, ראה [אימות הגדרות הגנת התקן בהתקני Windows 10](validate-settings-on-windows-10-pcs.md). 
     
 - [קביעת הגדרות הגנה של יישומים עבור מכשירי Windows 10](protection-settings-for-windows-10-devices.md)
     
-    ראה [אימות הגדרות הגנה של אפליקציות במחשבי Windows 10](validate-protection-settings-on-windows-10-pcs.md) כדי לוודא שהפעולה הצליחה. 
+    כדי לוודא שפעולה זו הצליחה, ראה [אימות הגדרות הגנת יישומים במחשבי Windows 10](validate-protection-settings-on-windows-10-pcs.md). 
     
 - [הסרת נתוני חברה ממכשירים](remove-company-data.md)
     
@@ -88,9 +88,9 @@ ms.locfileid: "37575957"
     
 - [אודות ההגדרות של פרופיל AutoPilot](autopilot-profile-settings.md)
     
-## <a name="set-up-and-pre-requisite-information"></a>מידע על הגדרה ודרישות מוקדמות
+## <a name="set-up-and-prerequisite-information"></a>הגדרת מידע מוגדר ותנאי מוקדם
 
-- [דרישות מוקדמות להגנה על נתונים במכשירים עם Microsoft 365 Business](pre-requisites-for-data-protection.md)
+- [דרישות מוקדמות להגנה על נתונים בהתקנים עם Microsoft 365 Business](pre-requisites-for-data-protection.md)
     
 - [התקנה של Microsoft 365 Business באמצעות אשף ההתקנה](set-up.md)
     
@@ -98,8 +98,4 @@ ms.locfileid: "37575957"
     
 - [מתן אפשרות לניהול מכשירי Windows 10 המצורפים לתחום על-ידי Microsoft 365 Business](manage-windows-devices.md)
     
-[תכונות אבטחה נוספת](security-features.md#additional-security-features)
-    
-
-  
-
+- [תכונות אבטחה נוספת](security-features.md#additional-security-features)
