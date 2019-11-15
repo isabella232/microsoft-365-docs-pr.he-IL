@@ -1,5 +1,5 @@
 ---
-title: דרישות מוקדמות להגנה על נתונים במכשירים עם Microsoft 365 Business
+title: דרישות מוקדמות להגנה על נתונים בהתקנים עם Microsoft 365 Business
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -17,19 +17,19 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
-description: 'דע את דרישות הקדם להגדרת הארגון שלך עם Microsoft 365 Business. '
-ms.openlocfilehash: 157abf0a3396ab374297441bf90d6defc4093390
-ms.sourcegitcommit: e2ed110c4c3a8434f9fcc9d610069bc77bc39220
+description: דע את הדרישות המוקדמות להגדרת הארגון שלך עם Microsoft 365 Business.
+ms.openlocfilehash: 874a85859e315ef17e10fdd8094860e1e6bf2560
+ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38290529"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38640540"
 ---
-# <a name="pre-requisites-for-protecting-data-on-devices-with-microsoft-365-business"></a>דרישות מוקדמות להגנה על נתונים במכשירים עם Microsoft 365 Business
+# <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-business"></a>דרישות מוקדמות להגנה על נתונים בהתקנים עם Microsoft 365 Business
 
-השלב הראשון בהגדרת הארגון שלך עם Microsoft 365 Business הוא לוודא שאתה יכול לעמוד בדרישות המוקדמות.
+השלב הראשון בהגדרת הארגון שלך עם Microsoft 365 Business הוא כדי לוודא שתוכל לעמוד בדרישות המוקדמות.
   
-## <a name="pre-requisites"></a>דרישות מוקדמות
+## <a name="prerequisites"></a>וקדמים
 
 - במכשירי Windows חייב לפעול Windows 7 Professional,‏ Windows 8 Pro או Windows 8.1 Pro.
     
@@ -37,13 +37,10 @@ ms.locfileid: "38290529"
     
     אם אתה משתמש ב-Windows 10 Home, אזי עליך **לרכוש** את Windows 10 Pro. ראה [שדרוג windows 10 הביתה ל-windows 10 Pro](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) לקבלת הוראות. 
     
-- הסר מכשירים מפתרונות ניהול למכשירים ניידים (Mobile Iron,‏ AirWatch וכדומה). עליך לרשום את כל האנשים בארגון שלך לניהול מכשירים ניידים של Microsoft 365 Business.
+- הסר התקנים מפתרונות לניהול נייד (ברזל נייד, שעון AirWatch וכן הלאה). אתה תרשום את כל האנשים בארגון שלך ב-Microsoft 365 עסקים בניהול נייד.
     
 - Apple iOS 8.0 ואילך.
     
-    Google Android 4.0 ואילך (כולל Samsung KNOX Standard 4.0 ואילך). לקבלת פרטים נוספים, ראה [מכשירים הנתמכים על-ידי Intune](https://go.microsoft.com/fwlink/p/?linkid=852307).
+    Google Android 4.0 ואילך (כולל Samsung KNOX Standard 4.0 ואילך). לקבלת מידע נוסף, ראה [Intune התקנים נתמכים](https://go.microsoft.com/fwlink/p/?linkid=852307).
     
-- אם יש לך יישומי Office קיימים במחשבי המשתמשים, קרא [הכנה להתקנת לקוח של Office](prepare-for-office-client-deployment.md) כדי להבין את השלבים שיהיה עליך לבצע לפני שתוכל להגדיר את Microsoft 365 Business כדי להתקין את Office 2016 במחשבי המשתמשים. 
-    
-
-
+- אם יש לך יישומי Office קיימים במחשבי משתמש, קרא את [ההכנה להתקנת לקוח office](prepare-for-office-client-deployment.md) כדי להבין את הצעדים שייתכן שיהיה עליך לבצע לפני שתוכל להגדיר את Microsoft 365 Business כדי להתקין את Office 2016 במחשבי משתמש. 
