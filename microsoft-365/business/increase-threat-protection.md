@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: הגדר את הגנת האיומים המתקדמת של Office 365 והגנת נתונים רגישים.
-ms.openlocfilehash: 00a40ceb6d51add2ebe8cc7ca4c299fe07a10b89
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+ms.openlocfilehash: bca5400a04ca2986496c4a704289474887eb834b
+ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320107"
+ms.lasthandoff: 11/16/2019
+ms.locfileid: "38676007"
 ---
 # <a name="increase-threat-protection"></a>הגברת הגנת האיום
 
@@ -86,7 +86,7 @@ Ransomware מגבילה גישה לנתונים על-ידי הצפנת קבצי�
    
 לקבלת מידע נוסף, ראה:
   
-- [כיצד להתמודד עם ransomware](https://go.microsoft.com/fwlink/?linkid=2016501&amp;clcid=0x409)
+- [כיצד להתמודד עם ransomware](https://go.microsoft.com/fwlink/?linkid=2016501)
     
 - [שחזר את ה-OneDrive שלך](https://support.office.com/article/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
 
@@ -178,7 +178,7 @@ Ransomware מגבילה גישה לנתונים על-ידי הצפנת קבצי�
 |נתב מחדש קובץ מצורף באיתור  <br/> |הפוך ניתוב מחדש לזמין (בחר בתיבה זו) הזן את חשבון המנהל או את הגדרת תיבת הדואר עבור ההסגר.          החל את הבחירה לעיל אם התוכנה הזדונית סריקה עבור מצורפים פעמים או שגיאה מתרחשת (בחר בתיבה זו).  <br/> |
 |הוחל על  <br/> |קבוצת המחשבים של הנמען היא. . . בחור את התחום שלך.  <br/> |
    
-לקבלת מידע נוסף, ראה [הגדרת מדיניות האנטי-דיוג של Office 365 ATP](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409).
+לקבלת מידע נוסף, ראה [הגדרת מדיניות האנטי-דיוג של Office 365 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies).
   
 
 
