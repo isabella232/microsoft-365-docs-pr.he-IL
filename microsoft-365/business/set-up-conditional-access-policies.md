@@ -21,16 +21,16 @@ search.appverid:
 - MET150
 - MOE150
 description: למד כיצד להגדיר מדיניות גישה מותנית עבור קמפיינים של Microsoft 365.
-ms.openlocfilehash: 3772aa0d505ef54a0587423e890ede519d571e0c
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: 0fccd103e3633c7fa5ac07c731341eee93059986
+ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38031394"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38715081"
 ---
 # <a name="set-up-conditional-access-policies"></a>הגדרת מדיניות גישה מותנית
 
-פריטי מדיניות [גישה מותנית](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) מוסיפים אבטחה נוספת בחומר החומר. Microsoft מספקת מערכת של פריטי מדיניות גישה מותנית בסיסית המומלצת עבור כל הלקוחות. מדיניות בסיסית היא קבוצה של פריטי מדיניות מוגדרים מראש המסייעים להגן על ארגונים מפני התקפות נפוצות רבות. התקפות נפוצות אלה יכולות לכלול תרסיס סיסמה, הפעלה חוזרת ודיוג.
+פריטי מדיניות [גישה מותנית](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) מוסיפים אבטחה משמעותית. Microsoft מספקת מערכת של פריטי מדיניות גישה מותנית בסיסית המומלצת עבור כל הלקוחות. מדיניות בסיסית היא קבוצה של פריטי מדיניות מוגדרים מראש המסייעים להגן על ארגונים מפני התקפות נפוצות רבות. התקפות נפוצות אלה יכולות לכלול תרסיס סיסמה, הפעלה חוזרת ודיוג.
 
 מדיניות זו דורשת ממנהלים ומשתמשים להזין סוג שני של אימות (הנקרא אימות מרובה גורמים או משרד המשנה) כאשר מתקיימים תנאים מסוימים. לדוגמה, אם משתמש נכנס ממדינה אחרת, ייתכן שהכניסה תיחשב כמסוכנת והמשתמש חייב לספק סוג נוסף של אימות. 
 
@@ -58,4 +58,4 @@ Microsoft ממליצה להפוך את כל פריטי המדיניות הבסי
  - [חסום אימות מדור קודם](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth)
   - [דרוש תואר שירות למען ניהול השירות](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-azure)
 
-באפשרותך להגדיר פריטי מדיניות נוספים רבים, כגון דרישת יישומי לקוח מאושרים. לקבלת מידע נוסף, עיין [בתיעוד הגישה המותנה](https://docs.microsoft.com/azure/active-directory/conditional-access/) .
+באפשרותך להגדיר פריטי מדיניות נוספים רבים, כגון דרישת יישומי לקוח מאושרים. לקבלת מידע נוסף, עיין [בתיעוד של גישה מותנית](https://docs.microsoft.com/azure/active-directory/conditional-access/).

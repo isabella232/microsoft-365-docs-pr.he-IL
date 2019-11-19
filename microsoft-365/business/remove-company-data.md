@@ -20,16 +20,16 @@ search.appverid:
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
 description: 'למד כיצד להשתמש ב-Microsoft 365 Business כדי להסיר נתוני חברה מהתקני משתמש או ממחשבי Windows. '
-ms.openlocfilehash: 169bc7d849bb934de2788daebb90308b1a086111
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 59e94a08e149a5cb119aabbbe816ccd2f4a9f9fb
+ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575737"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38715231"
 ---
 # <a name="remove-company-data-from-devices"></a>הסרת נתוני חברה ממכשירים
 
-[![תווית כדי ליידע אותך שמרכז הניהול משתנה ובאפשרותך למצוא פרטים נוספים ב-aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![תווית המיידעת אותך שמרכז הניהול משתנה ושניתן למצוא פרטים נוספים ב- aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 ## <a name="remove-company-data"></a>הסרת נתוני חברה
 
@@ -41,9 +41,9 @@ ms.locfileid: "37575737"
   
 3. בדף **ניהול** , בחר או חפש משתמש הנתונים שברצונך להסיר ובחר את השם. 
     
-4. בחלונית הבאה, בחר את ההתקן או ההתקנים מרשימת **ההתקנים** ובחלונית ההתקן שנפתחת באפשרותך לבחור לאפס את ההתקן להגדרות היצרן, או להסיר נתוני חברה בהתאם לסוג ההתקן. 
+4. בחלונית הבאה, בחר את ההתקן או ההתקנים מרשימת **ההתקנים** . בחלונית ההתקן שנפתחת, באפשרותך לבחור לאפס את ההתקן להגדרות היצרן או להסיר נתוני חברה, בהתאם לסוג ההתקן. 
     
-    ![On the remove comapany data pane, select the device from which you want to remove the data.](media/resetorremove.png)
+    ![בחלונית הנתונים הסרת החברה, בחר את ההתקן שממנו ברצונך להסיר את הנתונים.](media/resetorremove.png)
   
 5. בחלונית האישור, בחר ' **אשר** \> **סגירה**'.
     
