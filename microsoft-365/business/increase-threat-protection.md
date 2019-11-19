@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: הגדר את הגנת האיומים המתקדמת של Office 365 והגנת נתונים רגישים.
-ms.openlocfilehash: bca5400a04ca2986496c4a704289474887eb834b
-ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
+ms.openlocfilehash: 87a5c79636a2eefe394b4a30e72971eb851e3ecb
+ms.sourcegitcommit: 38934a2115d5cdeb44c7484d57be07686c6f7720
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/16/2019
-ms.locfileid: "38676007"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704074"
 ---
 # <a name="increase-threat-protection"></a>הגברת הגנת האיום
 
@@ -233,4 +233,4 @@ Ransomware מגבילה גישה לנתונים על-ידי הצפנת קבצי�
 
 3. לאחר הופעת התוצאות, בחר את ההתחלה ליד **Microsoft Intune** כדי להפוך אותה למועדפת וקלה לאיתור מאוחר יותר.
 
-בנוסף למרכז הניהול, באפשרותך להשתמש ב-Intune כדי להירשם ולנהל את התקני הארגון שלך. לקבלת מידע נוסף, ראה [יכולות על-ידי שיטת הרשמה עבור אפשרויות התקנים](https://docs.microsoft.com/intune/enrollment-method-capabs) והרשמה של Windows [עבור התקנים המנוהלים על-ידי Intune](https://docs.microsoft.com/intune/enrollment-options).
+בנוסף למרכז הניהול, באפשרותך להשתמש ב-Intune כדי להירשם ולנהל את התקני הארגון שלך. לקבלת מידע נוסף, ראה [יכולות על-ידי שיטת הרשמה עבור אפשרויות התקנים](https://docs.microsoft.com/intune/enrollment/enrollment-method-capab) והרשמה של Windows [עבור התקנים המנוהלים על-ידי Intune](https://docs.microsoft.com/intune/enrollment-options).

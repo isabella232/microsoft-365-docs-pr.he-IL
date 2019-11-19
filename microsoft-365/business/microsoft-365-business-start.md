@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: למד להגדיר את Microsoft 365 Business.
-ms.openlocfilehash: 5986e3fb7786ebb3fa7bcf42b34345be98af44a2
-ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
+ms.openlocfilehash: f269e970cc1ee5ba7455ea799b238db577116f09
+ms.sourcegitcommit: 38934a2115d5cdeb44c7484d57be07686c6f7720
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38633428"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704114"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>תחילת העבודה עם Microsoft 365 Business
 
@@ -80,7 +80,6 @@ Microsoft 365 Business הוא ערכה מקיפה של כלים לפרודוקט
   
 אם אתה שומר על Active Directory מקומי המכיל משאבים מסוימים מקומיים (כגון שיתופי קבצים ומדפסות), באפשרותך להעניק **להתקנים המצורפים** למשאבים הללו גישה אל משאבים אלה על-ידי ביצוע השלבים כאן: [גישה למשאבים מקומיים ממכשיר תכלת המצורף ב-Microsoft 365 Business](access-resources.md).
   
-לאחר הגדרת מחשבי Windows 10, באפשרותך [להתקין את Office באופן אוטומטי](auto-install-or-uninstall-office.md) בהתקנים. 
   
 ## <a name="contact-support"></a>פנה לתמיכה
 

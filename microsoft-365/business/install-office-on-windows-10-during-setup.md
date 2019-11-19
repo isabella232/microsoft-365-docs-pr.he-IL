@@ -22,12 +22,12 @@ search.appverid:
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
 description: למד כעת לפרוס באופן אוטומטי את Office להתקני Windows 10 במהלך ההתקנה.
-ms.openlocfilehash: fbc11553452ae5068ad7013a409901dee5b3570d
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+ms.openlocfilehash: 6bcb85a0acdf738d939c10d4fe418646b00b0b95
+ms.sourcegitcommit: 38934a2115d5cdeb44c7484d57be07686c6f7720
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320047"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704094"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>התקנת Office ב- Windows 10 במהלך ההתקנה
 
@@ -35,4 +35,4 @@ ms.locfileid: "38320047"
 
 הגדרה זו כבויה כברירת מחדל. באפשרותך להפעיל אותו כדי לוודא שלמשתמשים יש את הגירסה העדכנית ביותר של Office בכל ההתקנים של Windows 10, אך תחילה ודא שכל הדרישות המוקדמות מולאו. משתמשים חייבים להיות מורשים עבור Microsoft 365 Business עבור הגדרה זו כדי לדחוף את התוכנה להתקן, בנוסף לדרישות אחרות המתוארות [בהכנה לפריסת לקוח של Office על-ידי microsoft 365 Business](prepare-for-office-client-deployment.md). 
   
-מומלץ לקבל את הגדרת ברירת המחדל במהלך ההתקנה. אם אתה מעוניין בהגדרות שונות עבור קבוצות שונות של משתמשים, תוכל לנהל את הפריסה של Office על בסיס קבוצה אחר קבוצה לאחר השלמת ההתקנה. עבור אל **מכשירים** \> **ניהול הפריסה של Office** מדף הבית של מרכז הניהול. לקבלת הוראות צעד-אחר-צעד, ראה [התקנה או הסרת התקנה אוטומטית של Office במכשירי Windows 10](auto-install-or-uninstall-office.md).
+מומלץ לקבל את הגדרת ברירת המחדל במהלך ההתקנה. 
