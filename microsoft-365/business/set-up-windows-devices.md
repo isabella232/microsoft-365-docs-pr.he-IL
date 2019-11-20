@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: 'למד כיצד להגדיר התקני Windows שבהם פועל Windows 10 Pro עבור משתמשים עסקיים של Microsoft 365. '
-ms.openlocfilehash: 7b6fa2ce3243500c3ddcff7883fa9d8da27dcf86
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: f929c64b00e4ebf24e9f82fcfea433119abf2f1c
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575567"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38718878"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>הגדרת מכשירי Windows עבור משתמשים של Microsoft 365 Business
 
@@ -41,7 +41,7 @@ ms.locfileid: "37575567"
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>צירוף מכשירי Windows 10 ל- Azure AD של הארגון שלך
 
-לאחר השדרוג של כל מכשירי Windows בארגון לעדכון Windows 10 Pro ליוצרים, או אם המכשירים כבר פועלים עם עדכון Windows 10 Pro ליוצרים, ניתן לצרף מכשירים אלה ל- Azure Active Directory של הארגון. לאחר צירוף המכשירים, הם ישודרגו באופן אוטומטי ל- Windows 10 Business, המהווה חלק ממנוי Microsoft 365 Business.
+כאשר כל התקני Windows בארגון שלך שודרגו ל-Windows 10 Pro יוצרי עדכון או שכבר פועל Windows 10 Pro יוצרי עדכון, אתה יכול להצטרף התקנים אלה לתוך הארגון שלך הפעיל הספריה. לאחר הצירוף של המכשירים, הם ישודרגו באופן אוטומטי ל-Windows 10 Business, המהווה חלק ממנוי העסקי של Microsoft 365.
   
 ### <a name="for-a-brand-new-or-newly-upgraded-windows-10-pro-device"></a>עבור מכשיר Windows 10 Pro חדש לגמרי או ששודרג לאחרונה
 
@@ -89,7 +89,7 @@ ms.locfileid: "37575567"
   
    ![On the Make sure this is your organization screen, click Join](media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
   
-אם העלית קבצים אל OneDrive for Business, סנכרן אותם בחזרה. אם השתמשת בכלי של ספק חיצוני להעברת פרופיל וקבצים, סנכרן אותם עם הפרופיל החדש.
+אם העלית קבצים אל OneDrive for Business, סנכרן אותם בחזרה. אם השתמשת בכלי של ספק חיצוני כדי להעביר פרופיל וקבצים, סנכרן גם אותם לפרופיל החדש.
   
 ## <a name="verify-the-device-is-connected-to-azure-ad"></a>אימות שהמכשיר מחובר ל- Azure AD
 
@@ -97,7 +97,7 @@ ms.locfileid: "37575567"
   
 בדף 'מצב סינכרון', לחץ על 'סינכרון' כדי לקבל את פריטי מדיניות הניהול העדכניים ביותר של המכשיר הנייד במחשב ה- PC.
   
-כדי להתחיל להשתמש בחשבון Microsoft 365 Business, עבור אל לחצן **התחל** של Windows, לחץ באמצעות לחצן העכבר הימני על תמונת החשבון הנוכחי שלך ולאחר מכן **החלף חשבון**. היכנס באמצעות הדואר האלקטרוני והסיסמה של הארגון שלך.
+כדי להתחיל להשתמש בחשבון העסקי של Microsoft 365, עבור ללחצן **התחל** של Windows, לחץ לחיצה ימנית על תמונת החשבון הנוכחית שלך ולאחר מכן **החלף חשבון**. היכנס באמצעות הדואר האלקטרוני והסיסמה של הארגון שלך.
   
 ![Click Info button to view synchronization status](media/818f7043-adbf-402a-844a-59d50034911d.png)
   

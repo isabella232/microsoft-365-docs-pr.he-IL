@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: התקנת Office ב-iPhone או טלפון אנדרואיד, וקבצי העבודה שלך ב-Office apps יהיה מוגן על ידי Microsoft 365 Business.
-ms.openlocfilehash: 6dd18569f0d4b3c71f00004706c2430eb7c5ae43
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: e09db43705d601df0c0b30a46ee36cf0295ecae3
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575607"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38718938"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-business-users"></a>התקנת מכשירים ניידים עבור משתמשים של Microsoft 365 Business
 
@@ -58,11 +58,11 @@ ms.locfileid: "37575607"
   
 ![Sign in to your work account](media/3cef1fb5-7bec-4d3d-8542-872b731ce19f.png)
   
-אם הארגון שלך מגן על קבצים באפליקציות, תראה תיבת דו-שיח המציינת כי הארגון שלך מגן כעת על הנתונים באפליקציה ושעליך להפעיל מחדש את האפליקציה כדי להמשיך להשתמש בו. הקש על **אישור** וסגור את Outlook. 
+אם הארגון שלך מגן על קבצים ביישומים, תראה תיבת דו-שיח המציינת שהארגון שלך מגן כעת על הנתונים ביישום ועליך להפעיל מחדש את היישום כדי להמשיך להשתמש בו. הקש על **אישור** וסגור את Outlook. 
   
-![Screenshot that showa your organization is now protecting your Outlook app](media/fb4c1c84-b1e9-42e1-8070-c13dcf79fb09.png)
+![מסך זה מראה הארגון שלך הוא כעת הגנה על יישום Outlook שלך](media/fb4c1c84-b1e9-42e1-8070-c13dcf79fb09.png)
   
-אתר את Outlook ב- iPhone והפעל אותו מחדש. כאשר תתבקש, הזן מספר זיהוי אישי ואמת אותו. Outlook ב- iPhone שלך מוכן כעת לשימוש.
+אתר את Outlook ב- iPhone והפעל אותו מחדש. כשתתבקש, הזן PIN ואמת אותו. Outlook ב- iPhone שלך מוכן כעת לשימוש.
   
 ![Set a PIN to access your organization's data](media/64f2630b-3164-47a4-9dd6-ca0c29ed5fb3.png)
   
@@ -72,11 +72,11 @@ ms.locfileid: "37575607"
   
 ![On the Android home screen, tap Play Store](media/93df88e7-c778-40e1-b35e-868ca6e97f6c.png)
   
-הזן Microsoft Outlook בתיבת החיפוש 'Google Play' והקש **התקן**.לאחר ש- Outlook מסיים את ההתקנה, הקש על **פתח**.
+היכנס ל-Microsoft Outlook בתיבת החיפוש של Google Play והקש על **התקן**. לאחר ש-Outlook מבצע התקנה, הקש על **פתח**.
   
 ![Tap Open to open Outlook app](media/8b4c5937-8875-4b5a-a5b6-b8c6c9cd6240.png)
   
-באפליקציית Outlook, הקש על **תחילת העבודה** ולאחר מכן הוסף את חשבון הדואר האלקטרוני שלך ב- Microsoft 365 Business \> **המשך** והיכנס עם האישורים של הארגון שלך.
+ביישום Outlook, הקש על **תחילת**העבודה ולאחר מכן הוסף את חשבון \> הדואר האלקטרוני העסקי של Microsoft 365 **המשך**, והיכנס לחשבונך באמצעות אישורי הארגון שלך.
   
 ![Sign in to your organizational account in Outlook](media/18f67c66-4bab-4b99-94bd-080839312e29.png)
   
@@ -84,7 +84,7 @@ ms.locfileid: "37575607"
   
 ![Tap on Go to store to get Intune Company Portal app](media/a702d712-5622-45dd-a511-b1adaee63071.png)
   
-ב- Play Store, התקן את Intune Company Portal.
+בחנות הפעל, התקן Intune החברה פורטל.
   
 ![Screenshot that shows the install button for Intune Company Portal in Google Play Store](media/5e0408f2-3f37-44dd-80ed-13ca2ac6df0c.png)
   
