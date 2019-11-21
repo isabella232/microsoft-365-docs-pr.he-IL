@@ -35,8 +35,8 @@
 ## מעבר אל Microsoft 365 Business
 ### [העברה מ-Office 365 עסקים פרימיום](migrate-to-microsoft-365-business.md)
 ### [העברה מ-Office 365 E3](migrate-from-e3.md)
-### [העברת ro 365 ארגון מיקרוסופט](migrate-from-microsoft-365-business-to-microsoft-365-enterprise.md)
-## חיובים
+### [העברה לארגון של Microsoft 365](migrate-from-microsoft-365-business-to-microsoft-365-enterprise.md)
+## חיוב
 ### [הצעת החוק שלך](/Office365/Admin/subscriptions-and-billing/view-your-bill-or-invoice?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [שלם](/Office365/Admin/subscriptions-and-billing/pay-for-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [בטל](/Office365/Admin/subscriptions-and-billing/cancel-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
