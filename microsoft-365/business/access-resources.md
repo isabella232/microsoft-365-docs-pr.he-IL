@@ -18,12 +18,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: למד כיצד לקבל גישה למשאבים מקומיים כגון שורה של יישומים עסקיים, שיתופי קבצים ומדפסות מתוך מכשיר המצורף ל-Windows 10.
-ms.openlocfilehash: fdc1eca6913ba6af4f6b65691fdee2165e7c827e
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+ms.openlocfilehash: 4a2ff28107c6e2ec4473859c75bf720df7662747
+ms.sourcegitcommit: 58a7bd70a4bcf52530baf5f82507fd5dc4455fd9
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38323394"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39668787"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>גישה למשאבים מקומיים ממכשיר תכלת המצורף לאתר ב-Microsoft 365 Business
 
@@ -32,6 +32,9 @@ ms.locfileid: "38323394"
 לקבלת מידע נוסף, ראה [מבוא לניהול התקנים בתוך הספריה הפעילה](https://docs.microsoft.com/azure/active-directory/device-management-introduction).
 השלבים מסוכמים גם בסעיפים הבאים.
 
+> [!IMPORTANT]
+> הליך זה ישים רק ל-OAuth ו-NTLM. אין תמיכה ב-Kerberos.
+ 
 ## <a name="run-azure-ad-connect"></a>הפעל תכלת והתחבר
 
 השלם את השלבים הבאים כדי לאפשר להתקנים המצורפים של הארגון לבצע גישה למשאבים מקומיים.
@@ -43,6 +46,8 @@ ms.locfileid: "38323394"
 3. לאחר שהתקני Windows 10 הם המצורפים לתכלת, כל משתמש חייב לאתחל את המכשירים שלהם ולהיכנס עם האישורים העסקיים של Microsoft 365 שלהם. לכל ההתקנים יש כעת גישה גם למשאבים מקומיים.
     
 אין צורך בצעדים נוספים כדי לקבל גישה למשאבים מקומיים עבור התקנים המצורפים ל-תכלת AD. פונקציונליות זו מוכללת ב-Windows 10. 
+
+אם יש לך תוכניות להתחבר למכשיר AADJ אחר מאשר שיטת סיסמה כמו PIN/Bio-מטרי באמצעות התחברות האישור WHFB ולאחר מכן לגשת למשאבים המקומי (מיקומים משותפים, מדפסות... וכו '), אנא עקוב אחרhttps://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
   
 אם הארגון שלך אינו מוכן לפרוס בתצורת ההתקן המצורף של התכלת שתוארה לעיל, שקול להגדיר [תצורת התקן היברידית של התכלת ההיברידית](manage-windows-devices.md).
   
