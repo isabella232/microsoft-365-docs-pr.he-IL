@@ -13,6 +13,7 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
+- TRN_SMB
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -23,14 +24,20 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: למד כיצד להגדיר את Microsoft 365 Business.
-ms.openlocfilehash: f29dbdb61636fdfe573a1a6920d0aed963b737ad
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: 7ab6ae095ae30f8ceb74be69fcee20f31977ae21
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38721488"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39818911"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>הגדרת העסק של Microsoft 365 באשף ההתקנה
+
+צפה בסרטון וידאו זה למבט כולל על ההתקנה העסקית של Microsoft 365.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
+
+אם מצאת את הסרטון הזה מועיל, בדוק את [סידרת ההדרכה המלאה לעסקים קטנים ולאלה החדשים ל-Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>הוספת התחום, המשתמשים והגדרת המדיניות
 
@@ -44,16 +51,18 @@ ms.locfileid: "38721488"
 
 1. היכנס ל- [Microsoft 365 admin center](https://admin.microsoft.com) באמצעות אישורי המנהל הגלובלי שלך. 
 
-2. בחר **בהוסף תחום** או **הוסף משתמשים** כדי להפעיל את האשף.
+2. בחר באפשרות **עבור אל ההתקנה** כדי להפעיל את האשף.
+
+    ![בחר באפשרות עבור לכיוונון.](media/gotosetupinadmincenter.png)
+
+3. בדף **התקנת היישומים שלך** ב-Office, באפשרותך להתקין את היישומים במחשב שלך באופן אופציונלי.
+    
+4. בשלב **הוספת תחום** , הזן את שם התחום בו ברצונך להשתמש (כגון contoso.com).
+
     > [!IMPORTANT]
     > אם רכשת תחום במהלך ההרשמה, לא תראה **הוספת שלב בתחום** כאן. עבור כדי [להוסיף משתמשים](#add-users-and-assign-licenses) במקום זאת.
 
-    ![בחר באפשרות עבור לכיוונון.](media/gotosetupinadmincenter.png)
-    
-3. באשף, הזן את שם התחום בו ברצונך להשתמש (כגון contoso.com).
-
-
-    ![צילום מסך של התאמה אישית של דף הכניסה שלך.](media/personalizesignin.png)
+    ![צילום מסך של התאמה אישית של דף הכניסה שלך.](media/adddomain.png)
 
     
 4. בצע את השלבים באשף כדי [ליצור רשומות dns בכל ספק dns המארח עבור Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) המאמת את התחום שלך. אם אתה מכיר את מארח התחום שלך, ראה גם את [ההנחיות הספציפיות למחשב המארח](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions).
@@ -76,13 +85,6 @@ ms.locfileid: "38721488"
 
 2. לאחר שהוספת את המשתמשים, תקבל גם אפשרות לשתף אישורים עם המשתמשים החדשים שהוספת. באפשרותך להדפיס אותם, לשלוח אותם בדואר אלקטרוני או להוריד אותם.
 
-3. באפשרות צור צוותים עבור הארגון שלך, באפשרותך לבחור להוסיף צוותים ולהוסיף להם משתמשים. אתה יכול גם לעשות את זה מאוחר יותר. לקבלת מידע נוסף, ראה [יצירת צוות ברחבי החברה](https://support.office.com/article/037bb27a-bcc9-48fe-8d72-44d9482420a3).
-
-4. דלג על העברת הודעות דואר אלקטרוני ובחר **הבא** בדף **העברת הודעות דואר אלקטרוני**. 
-
-    אם אתה עובר מספק דואר אלקטרוני אחר וברצונך להעתיק את הנתונים שלך מאוחר יותר, באפשרותך [להעביר דואר אלקטרוני ואנשי קשר ל-Office 365](https://support.office.com/article/a3e3bddb-582e-4133-8670-e61b9f58627e).
-
-
 ### <a name="connect-your-domain"></a>חיבור התחום שלך
 
 > [!NOTE]
@@ -95,31 +97,29 @@ ms.locfileid: "38721488"
     - אם יש לך רשומות DNS קיימות, לדוגמה אתר אינטרנט קיים, אך מארח ה-DNS שלך זמין עבור [התחברות לתחום](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), בחר **באפשרות ' הוסף רשומות**עבורי '. בדף **' בחירת שירותים מקוונים** ', קבל את כל ברירות המחדל ובחר באפשרות ' **הבא**' ובחר ' **אישור** ' בדף המארח של DNS.
     - אם יש לך רשומות DNS קיימות עם מארחי DNS אחרים (שאינם זמינים עבור התחברות לתחום), תרצה לנהל את רשומות ה-DNS שלך כדי לוודא שהשירותים הקיימים יישארו מחוברים. לקבלת מידע נוסף, ראה [יסודות קבוצת מחשבים](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics) .
 
-        ![חבר את דף התחום שלך עם אני ינהל את רשומות ה-DNS שלי.](media/connectyourdomainpage.png)
+        ![הפעלת דף רשומות.](media/activaterecords.png)
 
 2. בצע את השלבים באשף ובדואר אלקטרוני ובשירותים אחרים שהוגדרו עבורך.
 
-### <a name="protect-data-and-devices"></a>הגנה על נתונים והתקנים 
+### <a name="protect-your-organization"></a>הגן על הארגון שלך 
 
 פריטי המדיניות שאתה מגדיר באשף מוחלים באופן אוטומטי על [קבוצת אבטחה](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) הנקראת ' *כל המשתמשים*'. באפשרותך גם ליצור קבוצות נוספות להקצאת פריטי מדיניות במרכז הניהול.
 
-1. בהגנה על **קבצי העבודה שלך במכשירים ניידים**, האפשרות **להגן על קבצי עבודה כאשר התקנים אובדים או גנובים מסומנים כברירת** מחדל. יש לך אפשרות להפעיל את **ניהול האופן שבו משתמשים ניגשים לקבצי Office במכשירים ניידים**, ומומלץ לעשות זאת.
+1. על **הגנה מפני הגדלת מאיומי סייבר מתקדמים**, מומלץ לקבל את ברירות המחדל כדי לאפשר ל- [Office 365 מראש הגנה על איומים](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) לסרוק קבצים וקישורים ב-office apps.
 
-    ![צילום מסך של הגנה על קבצי עבודה בדף התקנים ניידים.](media/protectworkfilesondevices.png)
+    ![צילום מסך של עמוד הגנה מפני הגדלת.](media/increasetreatprotection.png)
 
-     - הרחב **הגן על קבצי עבודה כאשר התקנים אובדים או גנובים** כדי להציג את [ערכי ברירת המחדל](protect-work-files-on-lost-or-stolen-device.md):
 
-        ![צילום מסך של ערכי ברירת מחדל להגנה על קבצים בהתקנים אבודים.](media/protectworkfilesondevicesdefault.png)
+2. על מנת **למנוע דליפות של דף נתונים רגישים** , קבל את ברירות המחדל כדי להפעיל את מניעת אובדן נתונים של Office 365 (DLP) כדי לעקוב אחר נתונים רגישים ביישומי office ולמנוע את השיתוף המקרי של אלה מחוץ לארגון שלך.
 
-    - בחר באפשרות **נהל את אופן הגישה של משתמשים לקבצי Office בהתקנים ניידים** והרחב אותו כדי להציג את [ערכי ברירת המחדל](manage-user-access-on-mobile-devices.md). מומלץ לקבל את ערכי ברירת המחדל במהלך ההתקנה כדי ליצור מדיניות יישומים עבור אנדרואיד, iOS ו-Windows 10 החלים על כל המשתמשים. ניתן ליצור פריטי מדיניות נוספים לאחר השלמת ההתקנה.
+3. בעמוד **הגנה על הנתונים ב-Office for mobile** , השאר את ניהול האפליקציות הניידות, הרחב את ההגדרות וסקור אותן ולאחר מכן בחר באפשרות **צור מדיניות ניהול אפליקציות ניידות**.
 
-        ![צילום מסך של הגדרות הגנה עבור קבצי Office בנייד.](media/useraccessonmobile.png)
+    ![צילום מסך של הגנה על נתונים ב-Office עבור דף נייד.](media/protectdatainmobile.png)
 
-2. השלב האחרון בהגנה על נתונים והתקנים מאפשר לך להגדיר מדיניות לאבטחת התקני Windows 10. הגדרות אלה מוחלות באופן אוטומטי בעת התחברות Windows 10 של משתמש לארגון. באפשרותך להרחיב **התקנים מאובטחים של Windows 10** כדי לראות ולשנות את [ערכי ברירת המחדל](secure-windows-10-devices.md).
-3. באפשרותך גם לבחור [להתקין באופן אוטומטי את Office](install-office-on-windows-10-during-setup.md) בהתקני Windows 10.
 
-    ![צילום מסך של הגדרת Windows 10 תצורת התקן הדף.](media/setwin10config.png)
+## <a name="secure-windows-10-pcs"></a>אבטחת Windows 10 מחשבים אישיים
 
+בניווט השמאלי, בחר **בהגדרה** ולאחר מכן, תחת **שירה ואבטחה**, בחר **באבטחת מחשבי Windows 10 שלך**. בחר **' תצוגה '** כדי להתחיל. לקבלת הוראות מלאות, ראה [אבטחת מחשבי Windows 10](secure-win-10-pcs.md) .
 
 ## <a name="deploy-office-365-client-apps"></a>פריסת Office 365 יישומי לקוח
 
@@ -128,3 +128,7 @@ ms.locfileid: "38721488"
 כדי להתקין את Office ב-iOS נייד או בהתקני Android, ראה [הגדרת מכשירים ניידים עבור משתמשים עסקיים של Microsoft 365](set-up-mobile-devices.md).
 
 באפשרותך גם להתקין את Office בנפרד. ראה [התקנת Office במחשב או במקינטוש](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658) לקבלת הוראות.
+
+## <a name="see-also"></a>למידע נוסף
+
+[סרטוני הדרכה עסקיים של Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
