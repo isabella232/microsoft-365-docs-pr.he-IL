@@ -11,6 +11,7 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
+- TRN_SMB
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -22,22 +23,28 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: למד עוד אודות מיקרוסופט 365 עסקים.
-ms.openlocfilehash: abd1e8374ef7530a879de71ab7ad0125f1ca4616
-ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
+ms.openlocfilehash: 419754b5ea06baabac8c170a860e076dc7fa8f81
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/16/2019
-ms.locfileid: "38676075"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39812857"
 ---
 # <a name="overview-of-microsoft-365-business"></a>סקירה כללית של מיקרוסופט 365 עסקים
 
 ## <a name="what-is-microsoft-365-business"></a>מהו Microsoft 365 Business
 
 Microsoft 365 Business הוא שירות מנוי הכולל את כלי הפרודוקטיביות של Office 365 בתוספת יכולות מתקדמות כדי לסייע בהגנה על העסק שלך מפני איומי סייבר, להגן על הנתונים שלך ולנהל התקנים.
+
+צפה בסרטון וידאו זה סקירה מהירה של Microsoft 365 Business.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
+אם מצאת את הסרטון הזה מועיל, בדוק את [סידרת ההדרכה המלאה לעסקים קטנים ולאלה החדשים ל-Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
+
 העסק של Microsoft 365 מיועד לרשיונות של עד 300. אם אתה זקוק לרשיונות נוספים, עיין בתיעוד [הארגוני של Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=860986) לקבלת מידע נוסף.
 
-עיין [בתיאור שירות העסקים של Microsoft 365](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) עבור רשימת התכונות השלמה.
+עיין [בתיאור השירות העסקי של Microsoft 365](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) עבור רשימת התכונות השלמה.
   
 ## <a name="small-business-security-needs"></a>צרכים ביטחוניים עסקיים קטנים
 
@@ -102,3 +109,7 @@ Microsoft 365 Business מסייע להגן על הנתונים שלך בכל א�
 
     > [!NOTE]
     > קישור זה מיועד לחנויות בארה ב בלבד
+
+## <a name="see-also"></a>למידע נוסף
+
+[סרטוני הדרכה עסקיים של Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

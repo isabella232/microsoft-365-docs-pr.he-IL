@@ -10,6 +10,7 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
+- TRN_SMB
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -21,18 +22,22 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: למד להגדיר את Microsoft 365 Business.
-ms.openlocfilehash: f269e970cc1ee5ba7455ea799b238db577116f09
-ms.sourcegitcommit: 38934a2115d5cdeb44c7484d57be07686c6f7720
+ms.openlocfilehash: 2e6e1e6153fe4033aa7dd47280c737957d0e4bd5
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704114"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39813057"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>תחילת העבודה עם Microsoft 365 Business
 
 ## <a name="what-is-microsoft-365-business"></a>מהו Microsoft 365 Business
 
 Microsoft 365 Business הוא ערכה מקיפה של כלים לפרודוקטיביות ושיתוף פעולה עסקיים, כגון Outlook, Word, Excel ומוצרי Office אחרים, שתמיד עדכניים. אתה יכול להגן על קבצי העבודה שלך על כל iOS שלך, אנדרואיד, ו-Windows 10 התקנים עם אבטחה ברמה ארגונית כי הוא פשוט לנהל.
+
+צפה בסרטון וידאו זה סקירה מהירה של Microsoft 365 Business.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
 העסק של Microsoft 365 מיועד לרשיונות של עד 300. אם אתה זקוק לרשיונות נוספים, עיין בתיעוד [הארגוני של Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=860986) לקבלת מידע נוסף. 
   
@@ -49,6 +54,13 @@ Microsoft 365 Business הוא ערכה מקיפה של כלים לפרודוקט
 הדיאגרמה הבאה מתארת כיצד מנהלים מגדיר עסק של Microsoft 365 Business. היא גם מתארת את השלבים להכנת מחשבי Windows עבור Microsoft 365 Business. באפשרותך גם להוסיף התקנים חדשים במרכז הניהול העסקי של Microsoft 365 עם [Windows טייס אוטומטי](add-autopilot-devices-and-profile.md). באפשרותך להשתמש בטייס אוטומטי כדי להגדיר ולהגדיר מראש התקנים חדשים, כך שהם מוכנים לשימוש פרודוקטיבי ברגע שהמשתמש שלטים עם האישורים העסקיים של Microsoft 365 שלהם.
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
+
+צפה בסרטון וידאו זה למבט כולל על ההתקנה העסקית של Microsoft 365.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
+
+אם מצאת את הסרטון הזה מועיל, בדוק את [סידרת ההדרכה המלאה לעסקים קטנים ולאלה החדשים ל-Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+
   
 ### <a name="1-set-up-microsoft-365-business-admin"></a>1: הגדרת מיקרוסופט 365 עסקים (מנהל)
 
@@ -89,9 +101,10 @@ Microsoft 365 Business הוא ערכה מקיפה של כלים לפרודוקט
     
 - כמנהל עסקים של Microsoft 365, יש לך גישה לצוות התמיכה בלקוחות שלנו: ** [צור קשר עם תמיכה במוצרים עסקיים-עזרה מנהל](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)**
     
-## <a name="related-topics"></a>נושאים קשורים
+## <a name="see-also"></a>למידע נוסף
+
 [תיעוד ומשאבים עבור Microsoft 365 Business](https://go.microsoft.com/fwlink/p/?linkid=853701)
   
 [ניהול Microsoft 365 Business](manage.md)[מעבר אל Microsoft 365 Business](migrate-to-microsoft-365-business.md)
-  
 
+[סרטוני הדרכה עסקיים של Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) 
