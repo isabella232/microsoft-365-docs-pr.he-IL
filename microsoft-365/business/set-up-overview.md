@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: מבט כולל על שלבי ההתקנה של Microsoft 365 Business.
-ms.openlocfilehash: 425c465262c266ca764ae8c7a52130903fa635a5
-ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
+ms.openlocfilehash: f531830bffbe1cb6ce4e39ee2ba12da5738a2684
+ms.sourcegitcommit: 8c244b38c43dd00c4ef0102f8bed02ab36639a6b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39812777"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39967622"
 ---
 # <a name="overview-of-setup"></a>מבט כולל על הכיוונון
 
@@ -50,14 +50,16 @@ ms.locfileid: "39812777"
   
   בנוסף להגדרות האבטחה באשף ההתקנה, באפשרותך להגביר את האבטחה על-ידי הוספת ההגדרות הבאות:
 
-      - **הגנה מפני תוכנות זדוניות דוא ל**
-      - **ATP נגד דיוג**
-      - **אחסון בארכיון של Exchange Online**
-      - **תכלת הגנת מידע (Plan1**)
 
-          כדי להתחיל לראות, [הגדר מדיניות אבטחה מתקדמת](set-up-advanced-security.md).
+- **הגנה מפני תוכנות זדוניות דוא ל**
+- **ATP נגד דיוג**
+- **אחסון בארכיון של Exchange Online**
+- **תכלת הגנת מידע (Plan1**)
 
-        ראה גם [top 10 דרכים לאבטח את Microsoft 365 Business](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) עבור מפת הדרכים של נוהלי האבטחה הטובה ביותר.
+
+כדי להתחיל לראות, [הגדר מדיניות אבטחה מתקדמת](set-up-advanced-security.md).
+
+ראה גם [top 10 דרכים לאבטח את Microsoft 365 Business](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) עבור מפת הדרכים של נוהלי האבטחה הטובה ביותר.
 
 ## <a name="step-3-set-up-and-manage-windows-10-devices"></a>שלב 3: הגדרת וניהול של התקני Windows 10
 
