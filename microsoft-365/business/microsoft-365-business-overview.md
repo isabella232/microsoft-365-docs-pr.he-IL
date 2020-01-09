@@ -25,12 +25,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: למד עוד אודות מיקרוסופט 365 עסקים.
-ms.openlocfilehash: 1d4eb62a31cc44ab8dc75964c038f0a3deef4005
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+ms.openlocfilehash: eafd03be90c128051c8c91bc339af69a0a613136
+ms.sourcegitcommit: d48b7852383262083a6a109530d84f0858cb3801
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831432"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "40999553"
 ---
 # <a name="overview-of-microsoft-365-business"></a>סקירה כללית של מיקרוסופט 365 עסקים
 
@@ -42,7 +42,7 @@ Microsoft 365 Business הוא שירות מנוי הכולל את כלי הפר�
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-אם מצאת את הסרטון הזה מועיל, בדוק את [סידרת ההדרכה המלאה לעסקים קטנים ולאלה החדשים ל-Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
+אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב-Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
 
 העסק של Microsoft 365 מיועד לרשיונות של עד 300. אם אתה זקוק לרשיונות נוספים, עיין בתיעוד [הארגוני של Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=860986) לקבלת מידע נוסף.
 
@@ -99,7 +99,7 @@ Microsoft 365 Business מסייע להגן על הנתונים שלך בכל א�
 
 - שימוש בפקדים פשוטים כדי לנהל מדיניות עבור כל מחשבי Windows 10 בחברה שלך, לאכוף הצפנת BitLocker ולהתקין באופן אוטומטי עדכוני Windows קריטיים (אכיפת מדיניות Windows update).
 
-כדי לראות את הרשימה המלאה של תכונות האבטחה, ראה [Microsoft 365 תכונות אבטחה עסקיות](security-features.md). לאחר [הגדרת Microsoft 365 Business](set-up.md), ראה [הגדרת פריטי מדיניות אבטחה מתקדמים](set-up-advanced-security.md) כדי להתחיל בתכונות האבטחה שאינן נכללות כחלק מההתקנה המודרכת. קרא גם [Top 10 דרכים כדי לאבטח את Office 365 ו-Microsoft 365 תוכניות עסקיות](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) עבור סקירה טובה כיצד להגדיר הגנות מפני פושעי סייבר והאקרים.
+כדי לראות את הרשימה המלאה של תכונות האבטחה, ראה [Microsoft 365 תכונות אבטחה עסקיות](security-features.md). לאחר [הגדרת Microsoft 365 Business](set-up.md), ראה [הגברת הגנת האיום](increase-threat-protection.md) [והגדרת תכונות תאימות](set-up-compliance.md) כדי להתחיל בתכונות האבטחה שאינן נכללות כחלק מההתקנה המודרכת. קרא גם [Top 10 דרכים כדי לאבטח את Office 365 ו-Microsoft 365 תוכניות עסקיות](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) עבור סקירה טובה כיצד להגדיר הגנות מפני פושעי סייבר והאקרים.
 
 ## <a name="get-microsoft-365-business"></a>השג את Microsoft 365 Business
 
@@ -114,4 +114,4 @@ Microsoft 365 Business מסייע להגן על הנתונים שלך בכל א�
 
 ## <a name="see-also"></a>למידע נוסף
 
-[סרטוני הדרכה עסקיים של Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[סרטוני הדרכה בנושא Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
