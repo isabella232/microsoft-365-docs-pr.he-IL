@@ -1,5 +1,5 @@
 ---
-title: שדרוג מכשירי Windows לעדכון Windows Pro ליוצרים
+title: שדרג את התקני Windows ל-Windows 10 Pro
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -21,25 +21,25 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
-description: 'למד כיצד לשדרג את התקני Windows ל-Windows 10 יוצרי העדכונים הפרו. '
-ms.openlocfilehash: e8399ad94ef58ad8fa5386d4ab0ed7fa4b8627a0
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+description: 'למד כיצד לשדרג התקני Windows ל-Windows 10 Pro. '
+ms.openlocfilehash: acad4a393e0870299df768fd4c821d9c1e83ecac
+ms.sourcegitcommit: cf7b0fd80ecfb7a216111a801269c5322794795e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831192"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "40995269"
 ---
-# <a name="upgrade-windows-devices-to-windows-pro-creators-update"></a>שדרוג מכשירי Windows לעדכון Windows Pro ליוצרים
+# <a name="upgrade-windows-devices-to-windows-10-pro"></a>שדרג את התקני Windows ל-Windows 10 Pro
 
 צפה בסרטון וידאו קצר אודות שדרוג התקני Windows ל-Windows 10 Pro.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
 
-אם מצאת את הסרטון הזה מועיל, בדוק את [סידרת ההדרכה המלאה לעסקים קטנים ולאלה החדשים ל-Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב-Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
-## <a name="upgrade-to-windows-10-pro-creators-update"></a>שדרג ל-Windows 10 יוצרי Pro עדכון
+## <a name="upgrade-to-windows-10-pro"></a>שדרג ל-Windows 10 Pro
   
-כדי לשדרג ל-Windows 10 היוצרים Pro עדכון, יש לך כמה אפשרויות. אתה יכול:
+כדי לשדרג ל-Windows 10 Pro, יש לך מספר אפשרויות. אתה יכול:
     
 - התקן את &ndash; השדרוג [מאתר הורדת התוכנה של Microsoft](https://go.microsoft.com/fwlink/?LinkID=836951 ) בחר באפשרות זו אם ההתקן שאתה מחובר אליו נמצא באותו התקן שבו ברצונך לעדכן. 
 
@@ -50,7 +50,7 @@ ms.locfileid: "39831192"
     - קרא את ההוראות לגבי אופן השימוש בכלי וצור את מדיית ההתקנה. 
 
 > [!NOTE]
-> אם ברשותך התקני Windows שבהם פועל Windows 7 Pro, Windows 8 Pro או Windows 8.1 Pro, מנוי העסקים של Microsoft 365 מזכה אותך לשדרוג של Windows 10; אינך זקוק למפתח מוצר.
+> אם ברשותך התקני Windows הפועלים באמצעות Windows 7 Pro, Windows 8 Pro או Windows 8.1 Pro, מנוי עסקי של Microsoft 365 מזכה אותך לשדרוג של Windows Pro 10; אינך זקוק למפתח מוצר.
     
 ראה [הגדרת התקני windows עבור משתמשים עסקיים של Microsoft 365](set-up-windows-devices.md) כדי להשלים את הגדרת התקני windows 10. 
   
@@ -58,4 +58,4 @@ ms.locfileid: "39831192"
   
 ## <a name="see-also"></a>למידע נוסף
 
-[סרטוני הדרכה עסקיים של Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[סרטוני הדרכה בנושא Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
