@@ -22,12 +22,12 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: 'למד כיצד לשדרג התקני Windows ל-Windows 10 Pro. '
-ms.openlocfilehash: acad4a393e0870299df768fd4c821d9c1e83ecac
-ms.sourcegitcommit: cf7b0fd80ecfb7a216111a801269c5322794795e
+ms.openlocfilehash: 3457b35c5f9e313e176664ca088e64ce5dd4f881
+ms.sourcegitcommit: 1db269c0349a252eaf3f315ee72ff679fff829f1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "40995269"
+ms.lasthandoff: 01/22/2020
+ms.locfileid: "41265857"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>שדרג את התקני Windows ל-Windows 10 Pro
 
@@ -50,7 +50,7 @@ ms.locfileid: "40995269"
     - קרא את ההוראות לגבי אופן השימוש בכלי וצור את מדיית ההתקנה. 
 
 > [!NOTE]
-> אם ברשותך התקני Windows הפועלים באמצעות Windows 7 Pro, Windows 8 Pro או Windows 8.1 Pro, מנוי עסקי של Microsoft 365 מזכה אותך לשדרוג של Windows Pro 10; אינך זקוק למפתח מוצר.
+> אם ברשותך התקני Windows הפועלים באמצעות Windows 7 Pro, Windows 8 Pro או Windows 8.1 Pro, מנוי העסקים של Microsoft 365 מזכה אותך לשדרוג של Windows Pro 10.
     
 ראה [הגדרת התקני windows עבור משתמשים עסקיים של Microsoft 365](set-up-windows-devices.md) כדי להשלים את הגדרת התקני windows 10. 
   
