@@ -1,5 +1,7 @@
 ---
 title: קבל את Microsoft 365 Business מהמרכז השותף
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -21,38 +23,38 @@ search.appverid:
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
 description: למד כיצד לרכוש את Microsoft 365 Business ממרכז השותפים של Microsoft.
-ms.openlocfilehash: be38ba6869ed9419b2c34e6b4f86ce4aad6a6c52
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+ms.openlocfilehash: 18af5b0aee378784199e91c8254b50fd1104172b
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320167"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593950"
 ---
-# <a name="get-microsoft-365-business"></a><span data-ttu-id="09ad4-103">השג את Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="09ad4-103">Get Microsoft 365 Business</span></span>
+# <a name="get-microsoft-365-business"></a><span data-ttu-id="d2aa3-103">השג את Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="d2aa3-103">Get Microsoft 365 Business</span></span>
 
-## <a name="get-microsoft-365-business-from-microsoft"></a><span data-ttu-id="09ad4-104">השגת Microsoft 365 Business מ- Microsoft</span><span class="sxs-lookup"><span data-stu-id="09ad4-104">Get Microsoft 365 Business from Microsoft</span></span>
+## <a name="get-microsoft-365-business-from-microsoft"></a><span data-ttu-id="d2aa3-104">השגת Microsoft 365 Business מ- Microsoft</span><span class="sxs-lookup"><span data-stu-id="d2aa3-104">Get Microsoft 365 Business from Microsoft</span></span>
 
-<span data-ttu-id="09ad4-105">אם אין לך שותף ואתה מעוניין להשיג את Microsoft 365 Business, באפשרותך [לקנות אותו כאן](https://www.microsoft.com/en-US/microsoft-365/business).</span><span class="sxs-lookup"><span data-stu-id="09ad4-105">If you don't have a partner and want to get Microsoft 365 Business, you can [buy it here](https://www.microsoft.com/en-US/microsoft-365/business).</span></span>
+<span data-ttu-id="d2aa3-105">אם אין לך שותף ואתה מעוניין להשיג את Microsoft 365 Business, באפשרותך [לקנות אותו כאן](https://www.microsoft.com/en-US/microsoft-365/business).</span><span class="sxs-lookup"><span data-stu-id="d2aa3-105">If you don't have a partner and want to get Microsoft 365 Business, you can [buy it here](https://www.microsoft.com/en-US/microsoft-365/business).</span></span>
 
-<span data-ttu-id="09ad4-106">ראה [הירשם עבור Microsoft 365 Business](sign-up.md) לקבלת הוראות מפורטות.</span><span class="sxs-lookup"><span data-stu-id="09ad4-106">See [sign up for Microsoft 365 Business](sign-up.md) for detailed instructions.</span></span>
+<span data-ttu-id="d2aa3-106">ראה [הירשם עבור Microsoft 365 Business](sign-up.md) לקבלת הוראות מפורטות.</span><span class="sxs-lookup"><span data-stu-id="d2aa3-106">See [sign up for Microsoft 365 Business](sign-up.md) for detailed instructions.</span></span>
 
-<span data-ttu-id="09ad4-107">באפשרותך גם לגשת [למאגר של microsoft](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) כדי לרכוש את Microsoft 365 Business ולקבל עזרה מתוכנית ההתקנה.</span><span class="sxs-lookup"><span data-stu-id="09ad4-107">You can also head over to a [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) to buy Microsoft 365 Business and get setup help.</span></span>
+<span data-ttu-id="d2aa3-107">באפשרותך גם לגשת [למאגר של microsoft](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) כדי לרכוש את Microsoft 365 Business ולקבל עזרה מתוכנית ההתקנה.</span><span class="sxs-lookup"><span data-stu-id="d2aa3-107">You can also head over to a [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) to buy Microsoft 365 Business and get setup help.</span></span>
   
-## <a name="get-microsoft-365-business-from-microsoft-partner-center"></a><span data-ttu-id="09ad4-108">השגת Microsoft 365 Business ממרכז השותפים של Microsoft</span><span class="sxs-lookup"><span data-stu-id="09ad4-108">Get Microsoft 365 Business from Microsoft Partner Center</span></span>
+## <a name="get-microsoft-365-business-from-microsoft-partner-center"></a><span data-ttu-id="d2aa3-108">השגת Microsoft 365 Business ממרכז השותפים של Microsoft</span><span class="sxs-lookup"><span data-stu-id="d2aa3-108">Get Microsoft 365 Business from Microsoft Partner Center</span></span>
 
-1. <span data-ttu-id="09ad4-109">היכנס אל [מרכז השותפים של Microsoft](https://go.microsoft.com/fwlink/p/?linkid=849910) באמצעות האישורים שיצרת בעת הרישום לתוכנית ספק שירותי הענן (CSP).</span><span class="sxs-lookup"><span data-stu-id="09ad4-109">Sign in at [Microsoft Partner Center](https://go.microsoft.com/fwlink/p/?linkid=849910) by using the credentials you created when you enrolled to the Cloud Service Provider (CSP) program.</span></span> 
+1. <span data-ttu-id="d2aa3-109">היכנס אל [מרכז השותפים של Microsoft](https://go.microsoft.com/fwlink/p/?linkid=849910) באמצעות האישורים שיצרת בעת הרישום לתוכנית ספק שירותי הענן (CSP).</span><span class="sxs-lookup"><span data-stu-id="d2aa3-109">Sign in at [Microsoft Partner Center](https://go.microsoft.com/fwlink/p/?linkid=849910) by using the credentials you created when you enrolled to the Cloud Service Provider (CSP) program.</span></span> 
     
-2. <span data-ttu-id="09ad4-110">בלוח המחוונים של השותף, בחר **לקוחות**ולאחר מכן בחר את הלקוח שלך או הוסף לקוח חדש לפני שתקבל את Microsoft 365 Business.</span><span class="sxs-lookup"><span data-stu-id="09ad4-110">On the Partner Dashboard, choose **Customers**, then select your customer or add a new customer before you get Microsoft 365 Business.</span></span>
+2. <span data-ttu-id="d2aa3-110">בלוח המחוונים של השותף, בחר **לקוחות**ולאחר מכן בחר את הלקוח שלך או הוסף לקוח חדש לפני שתקבל את Microsoft 365 Business.</span><span class="sxs-lookup"><span data-stu-id="d2aa3-110">On the Partner Dashboard, choose **Customers**, then select your customer or add a new customer before you get Microsoft 365 Business.</span></span>
     
     ![במרכז השותפים של Microsoft, הוסף לקוח.](media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
   
-3. <span data-ttu-id="09ad4-112">בדף **המנוי** של הלקוח, בחר **בהוסף מנוי**, בחר באפשרות עסק קטן תחת קטלוג ולאחר מכן בחר ב- **Microsoft 365 business**.</span><span class="sxs-lookup"><span data-stu-id="09ad4-112">On the customer's **Subscription** page, select **Add subscription**, choose the Small business option under Catalog, and then choose **Microsoft 365 Business**.</span></span>
+3. <span data-ttu-id="d2aa3-112">בדף **המנוי** של הלקוח, בחר **בהוסף מנוי**, בחר באפשרות עסק קטן תחת קטלוג ולאחר מכן בחר ב- **Microsoft 365 business**.</span><span class="sxs-lookup"><span data-stu-id="d2aa3-112">On the customer's **Subscription** page, select **Add subscription**, choose the Small business option under Catalog, and then choose **Microsoft 365 Business**.</span></span>
     
-    <span data-ttu-id="09ad4-113">בחר את מספר הרשיונות הדרושים לך (עד 300).</span><span class="sxs-lookup"><span data-stu-id="09ad4-113">Select the number of licenses you need (up to 300).</span></span> <span data-ttu-id="09ad4-114">אם יש לך יותר מ- 300 משתמשים, ראה [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=862316) במקום זאת.</span><span class="sxs-lookup"><span data-stu-id="09ad4-114">If you have more than 300 users, see [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=862316) instead.</span></span> 
+    <span data-ttu-id="d2aa3-113">בחר את מספר הרשיונות הדרושים לך (עד 300).</span><span class="sxs-lookup"><span data-stu-id="d2aa3-113">Select the number of licenses you need (up to 300).</span></span> <span data-ttu-id="d2aa3-114">אם יש לך יותר מ- 300 משתמשים, ראה [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=862316) במקום זאת.</span><span class="sxs-lookup"><span data-stu-id="d2aa3-114">If you have more than 300 users, see [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=862316) instead.</span></span> 
     
     ![בדף המנוי החדש, בחר בעסק קטן.](media/52d99e89-2175-4974-84bb-dd626048541b.png)
   
-    <span data-ttu-id="09ad4-116">השלם את שאר השלבים עבור הוספת לקוח חדש, כולל שם העסק.</span><span class="sxs-lookup"><span data-stu-id="09ad4-116">Complete the rest of the steps for adding a new customer, including the business name.</span></span>
+    <span data-ttu-id="d2aa3-116">השלם את שאר השלבים עבור הוספת לקוח חדש, כולל שם העסק.</span><span class="sxs-lookup"><span data-stu-id="d2aa3-116">Complete the rest of the steps for adding a new customer, including the business name.</span></span>
     
 
 
