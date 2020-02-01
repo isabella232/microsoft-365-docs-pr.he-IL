@@ -2,6 +2,8 @@
 title: מיקרוסופט 365 שאלות נפוצות בנוגע לעסקים 
 description: חפש תשובות לשאלות הנפוצות ביותר אודות Microsoft 365 Business, פתרון חדש המיועד לעסקים קטנים ובינוניים (SMB). 
 author: Sirkkuw
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 ms.topic: article 
 ms.prod: microsoft-365-business
@@ -10,12 +12,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: מיקרוסופט 365 עסקים, מיקרוסופט 365, SMB, שאלות נפוצות, שאלות נפוצות, תשובות, עסקים
 ms.date: 06/08/2018
-ms.openlocfilehash: 09a155c87bf90309f8a4cdd2eb5c0b71d2337d58
-ms.sourcegitcommit: b535fe233234fd25146cfe15478e20d954f71e03
+ms.openlocfilehash: 706646eae722b0040db2a5bd7bcf187f5e1295bf
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38748370"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594227"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>מיקרוסופט 365 שאלות נפוצות בנוגע לעסקים
 

@@ -1,5 +1,7 @@
 ---
 title: התקנת Microsoft 365 Business
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -26,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: למד כיצד להגדיר את Microsoft 365 Business.
-ms.openlocfilehash: 0001c2b9962f6cce0be1f77cbf427c68f9ee3249
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+ms.openlocfilehash: c370a5b3fd735e704eea56ac1079bb2e5dad4c4b
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831302"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594268"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>הגדרת העסק של Microsoft 365 באשף ההתקנה
 
@@ -39,7 +41,7 @@ ms.locfileid: "39831302"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
-אם מצאת את הסרטון הזה מועיל, בדוק את [סידרת ההדרכה המלאה לעסקים קטנים ולאלה החדשים ל-Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב-Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>הוספת התחום, המשתמשים והגדרת המדיניות
 
@@ -133,4 +135,4 @@ ms.locfileid: "39831302"
 
 ## <a name="see-also"></a>למידע נוסף
 
-[סרטוני הדרכה עסקיים של Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[סרטוני הדרכה בנושא Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

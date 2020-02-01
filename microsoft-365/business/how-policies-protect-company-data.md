@@ -1,5 +1,7 @@
 ---
 title: כיצד פריטי מדיניות ב- Microsoft 365 Business מגנים על נתוני החברה
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
@@ -24,12 +26,12 @@ search.appverid:
 - MOE150
 ms.assetid: 665485be-2389-4f1d-9ef8-dbef19c6acdf
 description: כדי להגן על נתוני החברה בהתקנים האישיים של המשתמשים, השתמש במדיניות המיועדת להתקנים ולקבוצות אבטחה ספציפיות.
-ms.openlocfilehash: 225dbadf599d5287a706ce50ec2b3cc9dd27c996
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+ms.openlocfilehash: c33d228fef5e138f94810faf1174ea3243277f4d
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320127"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593900"
 ---
 # <a name="how-policies-in-microsoft-365-business-protect-company-data"></a>כיצד פריטי מדיניות ב- Microsoft 365 Business מגנים על נתוני החברה
 

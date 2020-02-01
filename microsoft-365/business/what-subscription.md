@@ -1,5 +1,7 @@
 ---
 title: מהו המנוי המתאים לעסק שלך?
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -16,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: קבע אם Office 365 E3, Office 365 Business Premium או Microsoft 365 Business מהווה את הזכות לעסק שלך.
-ms.openlocfilehash: f3adf67cf164b14596bc0cedf1cacd7dec41955e
-ms.sourcegitcommit: b535fe233234fd25146cfe15478e20d954f71e03
+ms.openlocfilehash: 44d8b6c64882b0357674793e8430423802b0fc1a
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38748320"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594934"
 ---
 # <a name="what-subscription-is-right-for-your-small-business"></a>מהו המנוי המתאים לעסק הקטן שלך?
 
