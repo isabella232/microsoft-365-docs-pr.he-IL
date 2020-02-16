@@ -20,12 +20,12 @@ search.appverid:
 - BCS160
 - MET150
 description: כוונן תכונות תאימות כדי למנוע אובדן נתונים והדבקת נתונים רגישים.
-ms.openlocfilehash: 09619de03aafde37106fb3942890b457c488ad43
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: d569ff8d84faf82881035f0ed54e5d175605776f
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593404"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42064703"
 ---
 # <a name="set-up-compliance-features"></a>כוונן תכונות תאימות
 
@@ -70,6 +70,6 @@ ms.locfileid: "41593404"
 1. הורד את **AzinfoProtection_UL. exe** [ממרכז ההורדות של Microsoft](https://www.microsoft.com/download/details.aspx?id=53018).
  
 2. באפשרותך לוודא שההתקנה פעלה על-ידי הצגת מסמך Word ולוודא שהאפשרות **רגישות** זמינה בכרטיסיה **בית** .
-<br/>![הכרטיסייה ' הגנה ' נפתחת במסמך Word.](media/word-sensitivity.png)
+<br/>![הכרטיסייה ' הגנה ' נפתחת במסמך Word.](../media/word-sensitivity.png)
 
 לקבלת מידע נוסף, ראה [התקנת הלקוח](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3).

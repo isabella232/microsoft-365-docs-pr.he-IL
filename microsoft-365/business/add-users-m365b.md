@@ -25,12 +25,12 @@ search.appverid:
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
 description: למד כיצד להוסיף משתמשים חדשים, לאבטח את ההתקנים שלהם ולהקצות תפקידים ב-Microsoft 365 Business.
-ms.openlocfilehash: 932b969d089dd223426e35c5bea4efde4409ad48
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: a7893a8b070b37b7643a4d4e7de3e8ef2ec704f2
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593292"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42068592"
 ---
 # <a name="add-more-users-to-microsoft-365-business"></a>הוספת משתמשים נוספים ל-Microsoft 365 Business
 
@@ -51,11 +51,11 @@ ms.locfileid: "41593292"
   
     באפשרותך להזין מידע נוסף תחת **פרטי קשר**, לבחור כיצד תגדיר את הסיסמה תחת הגדרת **סיסמה** ולהקצות תפקידים תחת **תפקידים**.
       
-    ![Enter user information in the New user card](media/f04d39ca-48be-4868-8330-8552a4754c8b.png)
+    ![Enter user information in the New user card](../media/f04d39ca-48be-4868-8330-8552a4754c8b.png)
       
     **במקטע**רשיונות מוצר, הגדר את הגדרת רשיון המוצר **העסקי של Microsoft 365** .
       
-    ![Set the license setting to On position](media/7404f7f7-93bc-44a3-9ffb-4208b5b17402.png)
+    ![Set the license setting to On position](../media/7404f7f7-93bc-44a3-9ffb-4208b5b17402.png)
   
 לקבלת מידע נוסף אודות הוספת משתמשים, ראה [הוספת משתמשים בנפרד או בצובר](https://docs.microsoft.com/office365/admin/add-users/add-users).
   

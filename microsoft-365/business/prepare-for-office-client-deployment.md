@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: ed34fff3-2881-4ed4-9906-1ba6bb8dd804
 description: למד כיצד להתקין באופן אוטומטי את יישומי Office 32-bit במחשבי Windows 10 ולעדכן אותם.
-ms.openlocfilehash: fa5b2ce1852ebdb1e76c1fa844793fee56af3d68
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 0f8cd7df49ad627b190fad6737ec95a6d64d99d0
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593618"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065104"
 ---
 # <a name="prepare-for-office-client-deployment-by-microsoft-365-business"></a>הכנה לפריסת לקוח של Office על-ידי Microsoft 365 Business
 
@@ -44,7 +44,7 @@ ms.locfileid: "41593618"
     
 כדי לקבוע אם יש לך גירסת 'לחץ והפעל' של Office, בכל יישום של Office, עבור אל **קובץ** \> **חשבון** ( **חשבון Office** ב- Outlook). אם אתה רואה **עדכונים של Office** כפי שמוצג באיור הבא, ההתקנה נעשתה על-ידי שימוש בלחיצה-להפעלה. 
   
-![Screenshot of Office updates in Office app Account](media/e3439380-fa43-4ed6-ae5d-64851c297df5.png)
+![Screenshot of Office updates in Office app Account](../media/e3439380-fa43-4ed6-ae5d-64851c297df5.png)
   
  **שנהנה מתכונה זו**
   

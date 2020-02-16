@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: שלבים המשדרגים את העסק שלך מ-Office 365 Business Premium ל-Microsoft 365 Business.
-ms.openlocfilehash: 0732f76e5bd8540e5954bd7ea7b88061326901b5
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: e17ac2658c7276ba4a77de371847343866815c42
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593678"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065276"
 ---
 # <a name="upgrade-to-microsoft-365-business-from-office-365-business-premium"></a>שדרג ל-Microsoft 365 עסקים מ-Office 365 Business Premium
 
@@ -51,11 +51,11 @@ ms.locfileid: "41593678"
 1. היכנס למרכז המנהלה <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
 2. עבור אל חלונית הניווט ובחר מוצרי **חיוב** \> **_ amp_ Services**. מצא את מנוי ה-Office 365 שלך ובחר אותו כדי להציג את הפרטים. 
 
-    ![צילום מסך מראה כיצד לאתר ולבחור את המנוי שלך במרכז המנהלה.](media/FindYourSubscription.png)
+    ![צילום מסך מראה כיצד לאתר ולבחור את המנוי שלך במרכז המנהלה.](../media/FindYourSubscription.png)
 
 3. בעמוד הבא, בחר באפשרות **שדרג**. 
 
-      ![צילום מסך מראה היכן לבחור שדרוג במרכז admin.](media/SelectUpgrade.png)
+      ![צילום מסך מראה היכן לבחור שדרוג במרכז admin.](../media/SelectUpgrade.png)
 
   > [!NOTE]
   > אם אתה רואה הודעה המציינת **ששדרוג המנוי שלך אינו נתמך ברישוי מבוסס-קבוצות ב-תכלת Active Directory**, באפשרותך להתעלם ממנה בביטחה אלא אם יש לך ארגון גדול מאוד. ארגונים שבחרו באפשרות זו יהיו מודעים לכך שהם משתמשים ברישוי מבוסס-קבוצות.

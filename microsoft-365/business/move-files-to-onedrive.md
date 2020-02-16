@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
 description: למד להעביר את הקבצים שלך ל-OneDrive.
-ms.openlocfilehash: 0417325f93582ac5445cb739f9ca877a34f1d1c4
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 85ff7ad2ecab3646eeb196a380f85983b1403f7a
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593658"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065216"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>העברת קבצים אל OneDrive for Business
 
@@ -44,9 +44,9 @@ ms.locfileid: "41593658"
   
 1. עבור אל portal.office.com והיכנס באמצעות אישורי Microsoft 365 Business של המשתמש.
     
-2. לחץ על מפעיל היישומים ![The app launcher icon in Office 365](media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) ועבור אל OneDrive. 
+2. לחץ על מפעיל היישומים ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) ועבור אל OneDrive. 
     
-3. בחר **העלה**![Upload](media/d9b963b8-10af-42e2-953d-360301b83d3c.png) בשורת התפריטים ונווט אל הקבצים שברצונך לשמור. 
+3. בחר **העלה**![Upload](../media/d9b963b8-10af-42e2-953d-360301b83d3c.png) בשורת התפריטים ונווט אל הקבצים שברצונך לשמור. 
     
 כדי להעביר את פרופיל המשתמש וקבצים חשובים, ניתן גם להשתמש בכלי של ספק חיצוני, כגון ForensiT. עליך להעלות את הקבצים שנוצרו גם ב- OneDrive for Business.
   

@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 - MOE150
 description: למד כיצד להגדיר מדיניות גישה מותנית עבור קמפיינים של Microsoft 365.
-ms.openlocfilehash: 335fbd7e771b1595e1846529daed76e5ddd3a8f5
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 1ef90bd77da43ded624d85cef9c7a33beec74345
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593384"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42064608"
 ---
 # <a name="set-up-conditional-access-policies"></a>הגדרת מדיניות גישה מותנית
 
@@ -52,7 +52,7 @@ Microsoft ממליצה להפוך את כל פריטי המדיניות הבסי
 1. עבור אל [הפורטל התכלת](https://portal.azure.com)ונווט אל **הגישה המותנית**של **active Directory** \> .
     
     פריטי המדיניות הבסיסיים מפורטים בדף. <br/> <br/>
-    ![דף המפרט מדיניות בסיסית עבור גישה מותנית.](media/baslinepolicies.png)
+    ![דף המפרט מדיניות בסיסית עבור גישה מותנית.](../media/baslinepolicies.png)
 1. עיין בהנחיות הספציפיות הבאות עבור כל מדיניות:
 
   - [דרוש את משרד התואר למנהלים](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)

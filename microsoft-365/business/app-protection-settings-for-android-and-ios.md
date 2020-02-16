@@ -24,16 +24,16 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: למד כיצד ליצור, לערוך או למחוק מדיניות ניהול יישומים ולהגן על קבצי עבודה בהתקני Android או iOS.
-ms.openlocfilehash: c0c8883fb120db90d81e57fbb80206d6ce4eccbf
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: f4366230805c50fe82183431e3bd2bdfa9fddd68
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593312"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42068645"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>קביעת הגדרות הגנה של אפליקציות עבור מכשירי Android או iOS
 
-![. באנר שיצביע על https://aka.ms/aboutM365previewכך](media/m365admincenterchanging.png)
+![. באנר שיצביע על https://aka.ms/aboutM365previewכך](../media/m365admincenterchanging.png)
 
 ## <a name="create-an-app-management-policy"></a>יצירת מדיניות לניהול יישומים
 
@@ -49,7 +49,7 @@ ms.locfileid: "41593312"
     
     ניתן להשתמש תמיד בקישור **איפוס הגדרות ברירת מחדל** כדי לחזור להגדרת ברירת המחדל. 
     
-    ![Screenshot of Create a policy with Application management for Android selected](media/eabbe06d-ac0a-4f3a-8630-68c808b1e662.png)
+    ![Screenshot of Create a policy with Application management for Android selected](../media/eabbe06d-ac0a-4f3a-8630-68c808b1e662.png)
   
 6. לאחר מכן החלט **מי יקבל הגדרות אלה?** אם אין ברצונך להשתמש בקבוצת האבטחה ' **כל המשתמשים** ' המהווה ברירת מחדל, בחר באפשרות ' **שינוי**', בחר בקבוצות האבטחה הבאות \> **לבחירת**הגדרות אלה.
     

@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: למד אודות תכונות האבטחה הגיעות עם Microsoft 365 Business.
-ms.openlocfilehash: 0e1823374ec1843b6caa3f080393ca013302bf72
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: e5f67d70c5a8f22e95b60a229d68ae12574d0036
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593424"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42064800"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>מיקרוסופט 365 תכונות אבטחה ותאימות של העסק
 
@@ -35,7 +35,7 @@ Microsoft 365 Business מציע תכונות אבטחה פשוטות יותר כ
     
 ## <a name="microsoft-365-business-admin-center-security-features"></a>מיקרוסופט 365 מרכז עסקים ניהול תכונות אבטחה
 
-[![תווית המיידעת אותך שמרכז הניהול משתנה ושניתן למצוא פרטים נוספים ב- aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![תווית המיידעת אותך שמרכז הניהול משתנה ושניתן למצוא פרטים נוספים ב- aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 באפשרותך לנהל רבות מתכונות האבטחה העסקיות של Microsoft 365 במרכז הניהול, המעניקה לך דרך פשוטה להפעיל או לבטל תכונות אלה. במרכז הניהול, באפשרותך לבצע את הפעולות הבאות:
   
@@ -123,6 +123,6 @@ Microsoft 365 Business מציע תכונות אבטחה פשוטות יותר כ
     
 2. בניווט השמאלי, אתר **מרכזי ניהול** והרחב אותו. 
     
-    ![בניווט השמאלי במרכז הניהול של Microsoft 365, בחר במרכזי ניהול.](media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
+    ![בניווט השמאלי במרכז הניהול של Microsoft 365, בחר במרכזי ניהול.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
 3. בחר **בתאימות אבטחה &amp; ** כדי לעבור &amp; אל מרכז תאימות אבטחה.

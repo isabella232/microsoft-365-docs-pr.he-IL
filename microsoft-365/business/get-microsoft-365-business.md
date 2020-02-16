@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
 description: למד כיצד לרכוש את Microsoft 365 Business ממרכז השותפים של Microsoft.
-ms.openlocfilehash: 18af5b0aee378784199e91c8254b50fd1104172b
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: ba6aa806e3e628e8c3478abb57c4529e4f5692bf
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593950"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065813"
 ---
 # <a name="get-microsoft-365-business"></a>השג את Microsoft 365 Business
 
@@ -46,13 +46,13 @@ ms.locfileid: "41593950"
     
 2. בלוח המחוונים של השותף, בחר **לקוחות**ולאחר מכן בחר את הלקוח שלך או הוסף לקוח חדש לפני שתקבל את Microsoft 365 Business.
     
-    ![במרכז השותפים של Microsoft, הוסף לקוח.](media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
+    ![במרכז השותפים של Microsoft, הוסף לקוח.](../media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
   
 3. בדף **המנוי** של הלקוח, בחר **בהוסף מנוי**, בחר באפשרות עסק קטן תחת קטלוג ולאחר מכן בחר ב- **Microsoft 365 business**.
     
     בחר את מספר הרשיונות הדרושים לך (עד 300). אם יש לך יותר מ- 300 משתמשים, ראה [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=862316) במקום זאת. 
     
-    ![בדף המנוי החדש, בחר בעסק קטן.](media/52d99e89-2175-4974-84bb-dd626048541b.png)
+    ![בדף המנוי החדש, בחר בעסק קטן.](../media/52d99e89-2175-4974-84bb-dd626048541b.png)
   
     השלם את שאר השלבים עבור הוספת לקוח חדש, כולל שם העסק.
     

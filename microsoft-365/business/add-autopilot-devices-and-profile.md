@@ -23,12 +23,12 @@ search.appverid:
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: למד כיצד להשתמש בטייס אוטומטי של Windows כדי להגדיר התקנים חדשים של Windows 10 עבור העסק שלך.
-ms.openlocfilehash: 1fd0abb76d16b79dd11ef27b6b27a87894d89ef9
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: e5774b1e2079a5249e0f6e9e7142de19268253b5
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593272"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42068534"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>שימוש במדריך שלב אחר שלב להוספת מכשירים ופרופיל של Autopilot
 
@@ -44,7 +44,7 @@ ms.locfileid: "41593272"
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>שימוש במדריך ההתקנה ליצירת מכשירים ופרופילים
 
-[![תווית המיידעת אותך שמרכז הניהול משתנה ושניתן למצוא פרטים נוספים ב- aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![תווית המיידעת אותך שמרכז הניהול משתנה ושניתן למצוא פרטים נוספים ב- aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 אם עדיין לא יצרת קבוצות או פרופילים של התקנים, הדרך הטובה ביותר להתחיל היא באמצעות המדריך צעד-אחר-צעד. באפשרותך גם [להוסיף התקנים](create-and-edit-autopilot-devices.md) [ולהקצות אליהם פרופילים](create-and-edit-autopilot-profiles.md) מבלי להשתמש במדריך. 
   
@@ -52,11 +52,11 @@ ms.locfileid: "41593272"
 
 2. בחלונית הניווט השמאלית, בחר באפשרות **התקנים** \> **טייס אוטומטי**.
 
-    ![במרכז הניהול, בחר התקנים ולאחר מכן טייס אוטומטי.](media/AutoPilot.png)
+    ![במרכז הניהול, בחר התקנים ולאחר מכן טייס אוטומטי.](../media/AutoPilot.png)
   
 2. בעמוד **הטייס האוטומטי** , לחץ או הקש על **התחל מדריך**.
     
-    ![Click Start guide for step-by-step instructions for Autopilot.](media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
+    ![Click Start guide for step-by-step instructions for Autopilot.](../media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   
 3. בקובץ **העלאה. csv עם רשימת ההתקנים** , אתר את המיקום שבו הכנת את הרשימה. קובץ CSV ולאחר מכן **פתח את** \> **הבא**. הקובץ חייב לכלול שלוש כותרות:
     

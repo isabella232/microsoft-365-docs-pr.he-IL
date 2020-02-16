@@ -27,12 +27,12 @@ search.appverid:
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
 description: למד כיצד ליצור מדיניות ניהול יישומים ולהגן על קבצי עבודה בהתקני Windows 10.
-ms.openlocfilehash: 703f63fc1c90966eb8412886e82670af3e9d6f62
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: eb9c5465bf7376efa95162cd39be3f1c6840a3e4
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593535"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065011"
 ---
 # <a name="set-application-protection-settings-for-windows-10-devices"></a>קביעת הגדרות הגנה של יישומים עבור מכשירי Windows 10
 
@@ -60,11 +60,11 @@ ms.locfileid: "41593535"
     
     כברירת מחדל, קבצי עבודה מוצפנים באמצעות מפתח סודי שמאוחסן במכשיר ומשויך לפרופיל של המשתמש. רק המשתמש יכול לפתוח ולפענח את הקובץ. עם זאת, במקרה של אובדן המכשיר או הסרת משתמש, הקובץ יכול להיתקע במצב מוצפן. מנהל יכול להשתמש באישור סוכן שחזור נתונים (DRA) כדי לפענח את הקובץ.
     
-    ![Browse to Data Recovery Agent certificate.](media/7d7d664f-b72f-4293-a3e7-d0fa7371366c.png)
+    ![Browse to Data Recovery Agent certificate.](../media/7d7d664f-b72f-4293-a3e7-d0fa7371366c.png)
   
 10. הרחב את **הגן על מיקומי רשת וענן נוספים** אם ברצונך להוסיף תחומים נוספים או מיקומים מקוונים של SharePoint כדי לוודא שהקבצים בכל היישומים המפורטים מוגנים. אם עליך להזין יותר מפריט אחד עבור שדה כלשהו, השתמש בנקודה-פסיק (;) בין הפריטים.
     
-    ![Expand Protect additional network and cloud locations, and enter domains or SharePoint Online sites you own.](media/7afaa0c7-ba53-456d-8c61-312c45e09625.png)
+    ![Expand Protect additional network and cloud locations, and enter domains or SharePoint Online sites you own.](../media/7afaa0c7-ba53-456d-8c61-312c45e09625.png)
   
 11. לאחר מכן החלט **מי יקבל הגדרות אלה?** אם אינך מעוניין להשתמש בקבוצת האבטחה המוגדרת כברירת מחדל **כל המשתמשים**, בחר **שינוי**, בחר את קבוצות האבטחה שיקבלו הגדרות אלה \> **בחר**.
     
