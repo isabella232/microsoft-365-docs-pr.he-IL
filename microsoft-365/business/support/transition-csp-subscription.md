@@ -11,12 +11,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, מיקרוסופט 365, SMB, מנוי CSP מעבר
 ms.date: 11/01/2017
-ms.openlocfilehash: 4aadfa24bec8728c7e011ac6da48a8e30516e145
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 7d8e04a0136f86d3c4bb51208081fd1dcbecf59d
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41595044"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42057238"
 ---
 # <a name="transition-a-microsoft-365-business-csp-subscription"></a>מעבר מנוי מ365 עסקי של Microsoft באמצעות CSP
 
@@ -29,33 +29,33 @@ ms.locfileid: "41595044"
 
     המנויים לחברה יירשמו.
 
-    ![מנויים ללקוחות במרכז השותפים](images/pc_customer_subscriptions_1.png)
+    ![מנויים ללקוחות במרכז השותפים](../../media/pc_customer_subscriptions_1.png)
     
 3. בדף **המנויים** של החברה, בחר **בהוסף מנוי**.
 4. בדף **המנוי החדש** , בחר **בעסק קטן** ולאחר מכן בחר באפשרות **עסקים של Microsoft 365** מתוך הרשימה.
 5. הוסף את מספר הרשיונות ולאחר מכן בחר את **הבא: סקור** כדי לסקור את המנוי ולאחר מכן בחר **בשלח**.
 
-    ![סקירת המנוי החדש ל-Microsoft 365 Business](images/pc_customer_reviewnewsubscription.png)
+    ![סקירת המנוי החדש ל-Microsoft 365 Business](../../media/pc_customer_reviewnewsubscription.png)
 
     **המנויים המבוססים על רשיון** יציג את **Microsoft 365 בתצוגה מקדימה עסקית** ו- **microsoft 365 business**. תוכל להשעות את המנוי הבא בתצוגה המקדימה.
 
 6. בחר באפשרות **תצוגה מקדימה עסקית של Microsoft 365**.
 7. בדף **התצוגה המקדימה של Microsoft 365 Business** , בחר באפשרות **השעיה** כדי להשעות את המנוי לתצוגה מקדימה.
 
-    ![השהה את מנוי התצוגה המקדימה העסקי של Microsoft 365](images/pc_customer_m365bpreview_suspend.png)
+    ![השהה את מנוי התצוגה המקדימה העסקי של Microsoft 365](../../media/pc_customer_m365bpreview_suspend.png)
 
 8. בחר באפשרות ' **שלח** ' כדי לאשר.
 
     בדף **מנויים** , ודא שמצב **התצוגה המקדימה העסקית של Microsoft 365** מציג **השעיה**.
 
-    ![אישור שמצב המנוי המקדימה מושהה](images/pc_customer_m365bpreview_suspend_confirm.png)
+    ![אישור שמצב המנוי המקדימה מושהה](../../media/pc_customer_m365bpreview_suspend_confirm.png)
 
 9. באופן אופציונלי, באפשרותך גם לאמת את הסכם הרשיון. כדי לעשות זאת, בצע את הפעולות הבאות:
     1. בחר **משתמשים ורשיונות** מדף **המנויים** של החברה.
     2. בדף ' **משתמשים ורשיונות** ', בחר משתמש.
     3. בעמוד של המשתמש, בדוק את מקטע **רשיונות הקצאה** וודא שהוא מציג את **Microsoft 365 Business**.
 
-        ![ודא שהרשיון העסקי של Microsoft 365 מוקצה למשתמש](images/pc_customer_userslicenses_m365b_validate.png)
+        ![ודא שהרשיון העסקי של Microsoft 365 מוקצה למשתמש](../../media/pc_customer_userslicenses_m365b_validate.png)
 
 ## <a name="impact-to-customers-and-users-during-and-after-transition"></a>השפעה על לקוחות ומשתמשים במהלך ואחרי המעבר
 
