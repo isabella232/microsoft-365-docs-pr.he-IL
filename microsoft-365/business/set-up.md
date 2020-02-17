@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: למד כיצד להגדיר את Microsoft 365 Business.
-ms.openlocfilehash: c370a5b3fd735e704eea56ac1079bb2e5dad4c4b
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: a41d03c4f9e250cf3b16d11bf23897e31adaf866
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41594268"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42090868"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>הגדרת העסק של Microsoft 365 באשף ההתקנה
 
@@ -41,11 +41,11 @@ ms.locfileid: "41594268"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
-אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב-Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>הוספת התחום, המשתמשים והגדרת המדיניות
 
-[![תווית המיידעת אותך שמרכז הניהול משתנה ושניתן למצוא פרטים נוספים ב- aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![תווית המיידעת אותך שמרכז הניהול משתנה ושניתן למצוא פרטים נוספים ב- aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 בעת רכישת Microsoft 365 Business, יש לך את האפשרות להשתמש בתחום שבבעלותך, או לקנות אחד במהלך [ההרשמה](sign-up.md).
 
@@ -57,7 +57,7 @@ ms.locfileid: "41594268"
 
 2. בחר באפשרות **עבור אל ההתקנה** כדי להפעיל את האשף.
 
-    ![בחר באפשרות עבור לכיוונון.](media/gotosetupinadmincenter.png)
+    ![בחר באפשרות עבור לכיוונון.](../media/gotosetupinadmincenter.png)
 
 3. בדף **התקנת היישומים שלך** ב-Office, באפשרותך להתקין את היישומים במחשב שלך באופן אופציונלי.
     
@@ -66,14 +66,14 @@ ms.locfileid: "41594268"
     > [!IMPORTANT]
     > אם רכשת תחום במהלך ההרשמה, לא תראה **הוספת שלב בתחום** כאן. עבור כדי [להוסיף משתמשים](#add-users-and-assign-licenses) במקום זאת.
 
-    ![צילום מסך של התאמה אישית של דף הכניסה שלך.](media/adddomain.png)
+    ![צילום מסך של התאמה אישית של דף הכניסה שלך.](../media/adddomain.png)
 
     
 4. בצע את השלבים באשף כדי [ליצור רשומות dns בכל ספק dns המארח עבור Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) המאמת את התחום שלך. אם אתה מכיר את מארח התחום שלך, ראה גם את [ההנחיות הספציפיות למחשב המארח](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions).
 
     אם ספק האירוח שלך הוא GoDaddy או מארח אחר הזמין עם [התחברות לקבוצת מחשבים](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), התהליך יהיה פשוט ותתבקש באופן אוטומטי להיכנס ולאפשר ל-Microsoft לבצע אימות בשמך.
 
-    ![בעמוד הרשאה לאישור, בחר באפשרות הרשאת.](media/godaddyauth.png)
+    ![בעמוד הרשאה לאישור, בחר באפשרות הרשאת.](../media/godaddyauth.png)
 
 ### <a name="add-users-and-assign-licenses"></a>הוספת משתמשים והקצאת רשיונות
 
@@ -83,7 +83,7 @@ ms.locfileid: "41594268"
 
 כל משתמש שתוסיף באשף יוקצה באופן אוטומטי לרשיון עסקי של Microsoft 365.
 
-![צילום מסך של הדף ' הוספת משתמשים חדשים ' באשף](media/addnewuserspage.png)
+![צילום מסך של הדף ' הוספת משתמשים חדשים ' באשף](../media/addnewuserspage.png)
 
 1. אם למנוי העסקי שלך ב-Microsoft 365 יש משתמשים קיימים (לדוגמה, אם השתמשת בתכלת AD Connect), תקבל אפשרות להקצות להם רשיונות כעת. קדימה, הוסף רשיונות גם להם.
 
@@ -101,7 +101,7 @@ ms.locfileid: "41594268"
     - אם יש לך רשומות DNS קיימות, לדוגמה אתר אינטרנט קיים, אך מארח ה-DNS שלך זמין עבור [התחברות לתחום](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), בחר **באפשרות ' הוסף רשומות**עבורי '. בדף **' בחירת שירותים מקוונים** ', קבל את כל ברירות המחדל ובחר באפשרות ' **הבא**' ובחר ' **אישור** ' בדף המארח של DNS.
     - אם יש לך רשומות DNS קיימות עם מארחי DNS אחרים (שאינם זמינים עבור התחברות לתחום), תרצה לנהל את רשומות ה-DNS שלך כדי לוודא שהשירותים הקיימים יישארו מחוברים. לקבלת מידע נוסף, ראה [יסודות קבוצת מחשבים](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics) .
 
-        ![הפעלת דף רשומות.](media/activaterecords.png)
+        ![הפעלת דף רשומות.](../media/activaterecords.png)
 
 2. בצע את השלבים באשף ובדואר אלקטרוני ובשירותים אחרים שהוגדרו עבורך.
 
@@ -111,14 +111,14 @@ ms.locfileid: "41594268"
 
 1. על **הגנה מפני הגדלת מאיומי סייבר מתקדמים**, מומלץ לקבל את ברירות המחדל כדי לאפשר ל- [Office 365 מראש הגנה על איומים](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) לסרוק קבצים וקישורים ב-office apps.
 
-    ![צילום מסך של עמוד הגנה מפני הגדלת.](media/increasetreatprotection.png)
+    ![צילום מסך של עמוד הגנה מפני הגדלת.](../media/increasetreatprotection.png)
 
 
 2. על מנת **למנוע דליפות של דף נתונים רגישים** , קבל את ברירות המחדל כדי להפעיל את מניעת אובדן נתונים של Office 365 (DLP) כדי לעקוב אחר נתונים רגישים ביישומי office ולמנוע את השיתוף המקרי של אלה מחוץ לארגון שלך.
 
 3. בעמוד **הגנה על הנתונים ב-Office for mobile** , השאר את ניהול האפליקציות הניידות, הרחב את ההגדרות וסקור אותן ולאחר מכן בחר באפשרות **צור מדיניות ניהול אפליקציות ניידות**.
 
-    ![צילום מסך של הגנה על נתונים ב-Office עבור דף נייד.](media/protectdatainmobile.png)
+    ![צילום מסך של הגנה על נתונים ב-Office עבור דף נייד.](../media/protectdatainmobile.png)
 
 
 ## <a name="secure-windows-10-pcs"></a>אבטחת Windows 10 מחשבים אישיים
