@@ -20,17 +20,18 @@ ms.custom:
 - Core_O365Admin_Migration
 - MSB365
 - OKR_SMB_M365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: למד את שלבי ההתקנה עבור Microsoft 365 Business, החל מהרשמה מנוי, כדי להוסיף תחום ומשתמשים, כדי להגדיר מדיניות אבטחה ועוד.
-ms.openlocfilehash: 4c9c3ee4c45625cebe5d19eb03fcb6d90eb9243e
-ms.sourcegitcommit: ab916c216053999c9c4ef4838217e82cd861f23f
+ms.openlocfilehash: 75ef784a886de754e7550d9e86af1242209346dd
+ms.sourcegitcommit: d6c871bf3f94d9299d22695f5dbaf25dc1bd6ff9
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42415564"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42417225"
 ---
 # <a name="overview-of-setup"></a>מבט כולל על הכיוונון
 
