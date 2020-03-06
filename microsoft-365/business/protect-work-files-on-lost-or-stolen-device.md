@@ -18,18 +18,19 @@ ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
 - MSB365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: c12164c7-6190-4294-b88a-590580c9869a
-description: למד אודות ההגדרות הזמינות להגנה על קבצי העבודה אם התקן המשתמש אובד או נגנב.
-ms.openlocfilehash: 5f137354b51a0151e57e5e109b1ebbb043c68f60
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: למד אודות ההגדרות הזמינות ב-Microsoft 365 Business כדי להגן על קבצי עבודה אם התקן של משתמש אובד או נגנב.
+ms.openlocfilehash: 244e4773f1efa9548dd2126e03a007aefb840b40
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593555"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550166"
 ---
 # <a name="protect-work-files-when-a-mobile-device-is-lost-or-stolen"></a>הגנה על קבצי עבודה במקרה של אובדן או גניבה של מכשיר נייד
 

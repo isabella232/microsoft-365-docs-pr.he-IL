@@ -15,23 +15,24 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
-description: דע את הדרישות המוקדמות להגדרת הארגון שלך עם Microsoft 365 Business.
-ms.openlocfilehash: 3ca0433faaaeacbe6e0d2c88c820ebad19afec51
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: למד אודות הדרישות להגדרת הארגון שלך באמצעות Microsoft 365 Business והגנה על נתוני עבודה בהתקני המשתמשים.
+ms.openlocfilehash: 9e35e3b1cd4f0df1c5852b0fec407a99c9bcf4f4
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593638"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550186"
 ---
 # <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-business"></a>דרישות מוקדמות להגנה על נתונים בהתקנים עם Microsoft 365 Business
 
 השלב הראשון בהגדרת הארגון שלך עם Microsoft 365 Business הוא כדי לוודא שתוכל לעמוד בדרישות המוקדמות.
   
-## <a name="prerequisites"></a>וקדמים
+## <a name="requirements-for-setting-up-your-organization-with-microsoft-365-business"></a>דרישות להגדרת הארגון שלך באמצעות Microsoft 365 Business
 
 - במכשירי Windows חייב לפעול Windows 7 Professional,‏ Windows 8 Pro או Windows 8.1 Pro.
     

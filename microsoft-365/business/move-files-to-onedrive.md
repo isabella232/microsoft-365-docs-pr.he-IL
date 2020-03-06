@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
 description: למד כיצד באפשרותך להעביר את קבצי העבודה האישיים וקבצי החברה הרגישים ל-OneDrive עבור עסקים בצעדים פשוטים בלבד.
-ms.openlocfilehash: 2f4e21096570e1b830a7a8ceee87d652abb9448f
-ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
+ms.openlocfilehash: 837ec8bb01ed78e7a13ee802afaf845c80544f5d
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42547750"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550266"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>העברת קבצים אל OneDrive for Business
 
@@ -51,6 +51,6 @@ ms.locfileid: "42547750"
     
 כדי להעביר את פרופיל המשתמש וקבצים חשובים, ניתן גם להשתמש בכלי של ספק חיצוני, כגון ForensiT. עליך להעלות את הקבצים שנוצרו גם ב- OneDrive for Business.
   
-## <a name="see-also"></a>למידע נוסף
+## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a>לקבלת פרטים נוספים על הגדרה ושימוש ב-Microsoft 365 Business
 
 [סרטוני הדרכה בנושא Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
