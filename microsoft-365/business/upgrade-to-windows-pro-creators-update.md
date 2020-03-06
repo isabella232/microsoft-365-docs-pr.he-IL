@@ -19,17 +19,18 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
+- MARVEL_SEO_MAR
 search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
-description: 'למד כיצד לשדרג התקני Windows ל-Windows 10 Pro. '
-ms.openlocfilehash: 60ffb507e2a572d0ca52d7adf2db70ea6cb446f2
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: גלה מספר דרכים שבהן באפשרותך לשדרג את התקני Windows שלך ל-Windows 10 Pro כדי ליהנות מתכונות אבטחה ורשתות עסקיות מתקדמות יותר.
+ms.openlocfilehash: 0668945d107be7abc0698035fa458e1c805c7201
+ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41594187"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42547490"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>שדרג את התקני Windows ל-Windows 10 Pro
 
@@ -37,7 +38,7 @@ ms.locfileid: "41594187"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
 
-אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב-Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 ## <a name="upgrade-to-windows-10-pro"></a>שדרג ל-Windows 10 Pro
   
