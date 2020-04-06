@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: למד אודות תכונות האבטחה הנמצאות עם Microsoft 365 Business כדי לסייע בהגנה על הנתונים שלך במחשבים, בטלפונים ובטבליות.
-ms.openlocfilehash: 85f9b50225c3dbdb0c1b76c33d516aaa03bec773
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: 3f638a3287c06ded7bf4c29c647e62cbf3fca969
+ms.sourcegitcommit: e525bcf073a61e1350484719a0c3ceb6ff0d8db1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561259"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "43153797"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>מיקרוסופט 365 תכונות אבטחה ותאימות של העסק
 
@@ -74,13 +74,13 @@ Microsoft 365 Business מציע תכונות אבטחה פשוטות יותר כ
 
 - **[היכולות המלאות של Intune בפורטל התכלת](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
-    גישה למרכז admin Intune בפורטל תכלת מאפשר לך להגדיר תכונות אבטחה נוספות, כגון ניהול של התקני MacOS, iPhone, והתקנים אנדרואיד, יחד עם ניהול התקנים מתקדמים עבור Windows, כי אינם זמינים באמצעות Microsoft 365 מרכז עסקים.
-- **[גישה מותנית](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) זהה לתוכנית התכלת של AD P1**
+    גישה למרכז admin Intune בפורטל תכלת מאפשר לך להגדיר תכונות אבטחה נוספות, כגון ניהול של התקני MacOS, iPhone, והתקנים אנדרואיד, יחד עם ניהול התקנים מתקדמים עבור Windows, כי אינם זמינים דרך מרכז העסקים של מיקרוסופט 365.
+- **[גישה מותנית](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) זהה לתוכנית תכלת לספירה Premium P1**
 
 
-    ' גישה מותנית ' יכולה לסייע בהגנה על הארגון שלך מפני סיכוני כניסה, גישה לנסיונות מרשת או אזור לא צפויים, access מנסה לקבל מסוגי התקנים מסוכנים וכן הלאה. מדיניות גישה מותנית נאכפת לאחר השלמת האימות הראשון, והיא משתמשת באותות מאירוע האימות הראשון כדי לקבוע אם יש לקבל את הגישה הרצויה, נדחתה או אם הוכחה נוספת (כגון סוג הזיהוי השני) נדרש.
+    ' גישה מותנית ' יכולה לסייע בהגנה על הארגון שלך מפני סיכוני כניסה, גישה לנסיונות מרשת או אזור לא צפויים, access מנסה לקבל מסוגי התקנים מסוכנים וכן הלאה. מדיניות גישה מותנית נאכפת לאחר השלמת האימות הראשון, והיא משתמשת באותות מאירוע האימות הראשון כדי לקבוע אם יש לקבל את הגישה לאישור, נדחתה או אם יש צורך בהוכחה נוספת (כגון סוג הזיהוי השני).
 
-    תכונות הגישה המותנה הכלולות הן:
+    התכונות של ' גישה מותנית ' כלולות:
 
     - גישה בהתבסס על שם משתמש, קבוצה ותפקיד
     - גישה [בהתבסס על אפליקציה](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) 
