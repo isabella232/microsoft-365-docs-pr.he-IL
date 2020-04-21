@@ -1,5 +1,5 @@
 ---
-title: התקנת מכשירים ניידים עבור משתמשים של Microsoft 365 Business
+title: הגדרת התקנים ניידים עבור Microsoft 365 עבור משתמשים עסקיים
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -23,25 +23,25 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
-description: התקנת Office ב-iPhone או טלפון אנדרואיד, וקבצי העבודה שלך ב-Office apps יהיה מוגן על ידי Microsoft 365 Business.
-ms.openlocfilehash: 36cc3cb9b35cb5746a4147509f17e4f4d7909617
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: התקנת Office ב-iPhone או טלפון אנדרואיד, וקבצי העבודה שלך ב-Office apps יהיה מוגן על ידי Microsoft 365 עבור עסקים.
+ms.openlocfilehash: 1263a922ba41083511fec8030634ed6cfaf70f00
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42089346"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43632566"
 ---
-# <a name="set-up-mobile-devices-for-microsoft-365-business-users"></a>התקנת מכשירים ניידים עבור משתמשים של Microsoft 365 Business
+# <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>הגדרת התקנים ניידים עבור Microsoft 365 עבור משתמשים עסקיים
 
-בצע את ההוראות בכרטיסיות כדי להתקין את Office ב- iPhone או בטלפון Android. לאחר ביצוע שלבים אלה, קבצי העבודה שלך שנוצרו באפליקציות Office יהיו מוגנים על-ידי Microsoft 365 Business.
+בצע את ההוראות בכרטיסיות כדי להתקין את Office ב- iPhone או בטלפון Android. לאחר שתבצע את הפעולות הבאות, קבצי העבודה שייווצרו ביישומי Office יהיו מוגנים על-ידי Microsoft 365 עבור עסקים.
 
 הדוגמה מיועדת ל- Outlook, אבל היא חלה על אפליקציות אחרות של Office שברצונך להתקין גם כן.
   
 ## <a name="set-up-mobile-devices"></a>הגדרת מכשירים ניידים
 
-## <a name="iphonetabiphone"></a>[iPhone](#tab/iPhone)
+## <a name="iphone"></a>[iPhone](#tab/iPhone)
   
-צפה בסרטון וידאו קצר על אופן ההגדרה של יישומי Office על התקני iOS עם Microsoft 365 Business.<br><br>
+צפה בסרטון וידאו קצר על איך להגדיר יישומי Office על התקני iOS עם Microsoft 365 עבור עסקים.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWee2n] 
 
@@ -59,7 +59,7 @@ ms.locfileid: "42089346"
   
 ![Screenshot of Outlook with Get Started button](../media/005bedec-ae50-4d75-b3bb-e7cef9e2561c.png)
   
-הזן את כתובת הדואר האלקטרוני שלך בעבודה במסך **הוספת חשבון דואר אלקטרוני** \> **הוספת חשבון** ולאחר מכן הזן את אישורי Microsoft 365 Business שלך \> **כניסה**.
+הזן את כתובת הדואר האלקטרוני שלך בעבודה \> **בחשבון**הוספת המסך של \> **חשבון הדואר האלקטרוני** ולאחר מכן הזן את Microsoft 365 עבור **הכניסה**לאישורים עסקיים.
   
 ![Sign in to your work account](../media/3cef1fb5-7bec-4d3d-8542-872b731ce19f.png)
   
@@ -71,7 +71,7 @@ ms.locfileid: "42089346"
   
 ![Set a PIN to access your organization's data](../media/64f2630b-3164-47a4-9dd6-ca0c29ed5fb3.png)
   
-## <a name="androidtabandroid"></a>[אנדרואיד](#tab/Android)
+## <a name="android"></a>[אנדרואיד](#tab/Android)
   
 צפה בסרטון וידאו אודות התקנת Outlook ו-Office על התקנים אנדרואיד.<br><br>
 
@@ -87,7 +87,7 @@ ms.locfileid: "42089346"
   
 ![Tap Open to open Outlook app](../media/8b4c5937-8875-4b5a-a5b6-b8c6c9cd6240.png)
   
-ביישום Outlook, הקש על **תחילת**העבודה ולאחר מכן הוסף את חשבון \> הדואר האלקטרוני העסקי של Microsoft 365 **המשך**, והיכנס לחשבונך באמצעות אישורי הארגון שלך.
+ביישום Outlook, הקש על **תחילת**העבודה ולאחר מכן הוסף את ה- \> Microsoft 365 שלך לחשבון דואר אלקטרוני עסקי **המשך**, והיכנס עם האישורים של הארגון שלך.
   
 ![Sign in to your organizational account in Outlook](../media/18f67c66-4bab-4b99-94bd-080839312e29.png)
   
@@ -105,6 +105,6 @@ ms.locfileid: "42089346"
 
 ## <a name="see-also"></a>למידע נוסף
 
-[סרטוני הדרכה בנושא Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[מיקרוסופט 365 עבור סרטוני הדרכה עסקית](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
 
 ---

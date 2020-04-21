@@ -25,12 +25,12 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: גלה דרכים שבהן באפשרותך לשדרג את התקני Windows שלך ל-Windows 10 Pro כדי לנצל תכונות מתקדמות יותר של אבטחה ורשתות עסקיות.
-ms.openlocfilehash: 3901754d9ef269ae74dbf1893cb62b1ba810919d
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: f0cedda49dbff2a8c2884bb52e240fabfbeb4537
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560659"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43632050"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>שדרג את התקני Windows ל-Windows 10 Pro
 
@@ -53,12 +53,12 @@ ms.locfileid: "42560659"
     - קרא את ההוראות לגבי אופן השימוש בכלי וצור את מדיית ההתקנה. 
 
 > [!NOTE]
-> אם ברשותך התקני Windows הפועלים באמצעות Windows 7 Pro, Windows 8 Pro או Windows 8.1 Pro, מנוי העסקים של Microsoft 365 מזכה אותך לשדרוג של Windows Pro 10.
+> אם ברשותך התקני Windows הפועלים באמצעות Windows 7 Pro, Windows 8 Pro או Windows 8.1 Pro, Microsoft 365 עבור מנוי עסקי מזכה אותך בשדרוג של Windows Pro 10.
     
-ראה [הגדרת התקני windows עבור משתמשים עסקיים של Microsoft 365](set-up-windows-devices.md) כדי להשלים את הגדרת התקני windows 10. 
+ראה [הגדרת התקני windows עבור Microsoft 365 עבור משתמשים עסקיים](set-up-windows-devices.md) כדי להשלים את הגדרת התקני windows 10. 
   
-ראה [הגדרת התקנים ניידים עבור Microsoft 365 משתמשים עסקיים](set-up-mobile-devices.md) כדי להשלים את הגדרת התקנים אנדרואיד ו-iOS. 
+ראה [הגדרת מכשירים ניידים עבור Microsoft 365 עבור משתמשים עסקיים](set-up-mobile-devices.md) כדי להשלים את הגדרת אנדרואיד והתקנים iOS. 
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a>לקבלת פרטים נוספים על הגדרה ושימוש ב-Microsoft 365 Business
+## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>לקבלת פרטים נוספים על הגדרה ושימוש ב-Microsoft 365 לעסקים
 
-[סרטוני הדרכה בנושא Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[מיקרוסופט 365 עבור סרטוני הדרכה עסקית](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

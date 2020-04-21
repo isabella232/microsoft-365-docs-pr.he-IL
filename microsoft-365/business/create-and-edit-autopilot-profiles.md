@@ -26,12 +26,12 @@ search.appverid:
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: למד ליצור פרופיל טייס אוטומטי ולהחיל אותו על התקן, כמו גם לערוך או למחוק פרופיל או להסיר פרופיל מהתקן.
-ms.openlocfilehash: 58c16b68c66dce7541a02ecd0d2466babe8cc338
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: a6e02ab56faeb08718a9831657b55cff0356a4ec
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560719"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627373"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>יצירה ועריכה של פרופילי AutoPilot
 
@@ -39,9 +39,9 @@ ms.locfileid: "42560719"
 
 פרופיל חל על מכשיר או על קבוצה של מכשירים
   
-1. במרכז הניהול העסקי של Microsoft 365, בחר **התקנים** \> **טייס אוטומטי**.
+1. במרכז הניהול של Microsoft 365, בחר **התקנים** \> **טייס אוטומטי**.
   
-2. בעמוד **הטייס האוטומטי** , **** בחר בכרטיסיה \> פרופילים **צור פרופיל**.
+2. בעמוד **הטייס האוטומטי** , **Profiles** בחר בכרטיסיה \> פרופילים **צור פרופיל**.
     
 3. בדף **יצירת פרופיל** , הזן שם עבור הפרופיל שמסייע לך לזהות אותו, לדוגמה שיווק. הפעל את ההגדרה הרצויה ולאחר מכן בחר **בשמור**. לקבלת מידע נוסף אודות הגדרות פרופיל טייס אוטומטי, ראה [אודות הגדרות פרופיל טייס אוטומטי](autopilot-profile-settings.md).
     

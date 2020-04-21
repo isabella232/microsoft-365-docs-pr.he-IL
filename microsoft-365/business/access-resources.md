@@ -20,16 +20,16 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: למד כיצד לקבל גישה למשאבים מקומיים כגון שורה של יישומים עסקיים, שיתופי קבצים ומדפסות מתוך מכשיר המצורף ל-Windows 10.
-ms.openlocfilehash: 653b53d29e84bbdc91273cb78b9b8407c0f6a209
-ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
+ms.openlocfilehash: c1e04e5ca0d36c32a55a9819140356db5093e3a1
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "41593232"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627453"
 ---
-# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>גישה למשאבים מקומיים ממכשיר תכלת המצורף לאתר ב-Microsoft 365 Business
+# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>גישה למשאבים מקומיים ממכשיר תכלת מחובר ב-Microsoft 365 עסקים פרימיום
 
-לכל מכשיר של Windows 10 המצורף ל'תכלת הספריות ' יש גישה לכל המשאבים המבוססים על ענן צמתים, כגון יישומי Office 365, וניתן להגן עליהם על-ידי Microsoft 365 Business. כמו כן, באפשרותך לאפשר גישה למשאבים מקומיים כגון יישומים של שורה עסקית, שיתופי קבצים ומדפסות. כדי לאפשר גישה, השתמש [בתכלת והתחבר](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) כדי לסנכרן את הספריה המקומית שלך באמצעות הספריה הפעילה. 
+לכל מכשיר של Windows 10 המצורף ל-"תכלת Active Directory" יש גישה לכל המשאבים המבוססים על ענן צמתים, כגון יישומי Microsoft 365, וניתן להגן עליהם על-ידי Microsoft 365 Business Premium. כמו כן, באפשרותך לאפשר גישה למשאבים מקומיים כגון יישומים של שורה עסקית, שיתופי קבצים ומדפסות. כדי לאפשר גישה, השתמש [בתכלת והתחבר](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) כדי לסנכרן את הספריה המקומית שלך באמצעות הספריה הפעילה. 
 
 לקבלת מידע נוסף, ראה [מבוא לניהול התקנים בתוך הספריה הפעילה](https://docs.microsoft.com/azure/active-directory/device-management-introduction).
 השלבים מסוכמים גם בסעיפים הבאים.
@@ -43,9 +43,9 @@ ms.locfileid: "41593232"
   
 1. כדי לסנכרן את המשתמשים, הקבוצות ואנשי הקשר שלך מתוך Active Directory המקומי לתוך מדריך כחול פעיל, הפעל את אשף סינכרון הספריות והשתמש בתכלת AD כמתואר [בהגדרת סינכרון ספריות עבור Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846).
     
-2. לאחר השלמת סינכרון הספריות, ודא שהתקני Windows 10 של הארגון שלך מצורפים לתכלת. שלב זה נעשה בנפרד בכל התקן של Windows 10. ראה [הגדרת התקני Windows עבור משתמשים עסקיים של Microsoft 365](set-up-windows-devices.md) לפרטים. 
+2. לאחר השלמת סינכרון הספריות, ודא שהתקני Windows 10 של הארגון שלך מצורפים לתכלת. שלב זה נעשה בנפרד בכל התקן של Windows 10. ראה [הגדרת התקני Windows עבור משתמשי Microsoft Business Premium 365](set-up-windows-devices.md) לקבלת פרטים. 
     
-3. לאחר שהתקני Windows 10 הם המצורפים לתכלת, כל משתמש חייב לאתחל את המכשירים שלהם ולהיכנס עם האישורים העסקיים של Microsoft 365 שלהם. לכל ההתקנים יש כעת גישה גם למשאבים מקומיים.
+3. לאחר התקני Windows 10 הם תכלת לספירה הצטרפו, כל משתמש חייב לאתחל את המכשירים שלהם ולהיכנס עם האישורים שלהם מיקרוסופט 365 Business Premium. לכל ההתקנים יש כעת גישה גם למשאבים מקומיים.
     
 אין צורך בצעדים נוספים כדי לקבל גישה למשאבים מקומיים עבור התקנים המצורפים ל-תכלת AD. פונקציונליות זו מוכללת ב-Windows 10. 
 

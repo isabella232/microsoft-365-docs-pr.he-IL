@@ -24,13 +24,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: למד אודות מצבי ההתקנים השונים ברשימה פעולות התקן בבית Admin ב-Microsoft 365 Business.
-ms.openlocfilehash: bed1610814ca0d60adb4b4b3d0018e3e7e6d763f
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: למד אודות מצבי ההתקנים השונים ברשימה פעולות התקן בבית Admin ב-Microsoft 365 עבור עסקים.
+ms.openlocfilehash: 1a66e76dd3a74428923292427b01551db2449e48
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560819"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627245"
 ---
 # <a name="device-states"></a>מצבי המכשיר
 
@@ -40,9 +40,9 @@ ms.locfileid: "42560819"
   
 |**מצב**|**תיאור**|
 |:-----|:-----|
-|מנוהל על-ידי Intune  <br/> |מנוהל על-ידי Microsoft 365 Business.  <br/> |
-|בהמתנה להוצאה משימוש  <br/> |Microsoft 365 Business מתכונן להסרת נתוני החברה מהמכשיר.  <br/> |
-|הוצאה משימוש מתבצעת  <br/> |Microsoft 365 Business מסיר כעת את נתוני החברה מהמכשיר.  <br/> |
+|מנוהל על-ידי Intune  <br/> |מנוהל על ידי מיקרוסופט 365 עסקים פרימיום.  <br/> |
+|בהמתנה להוצאה משימוש  <br/> |מיקרוסופט 365 עסקים Premium מתכונן להסיר את נתוני החברה מהמכשיר.  <br/> |
+|הוצאה משימוש מתבצעת  <br/> |Microsoft 365 Business Premium מסיר כעת נתוני חברה מהמכשיר.  <br/> |
 |הוצאה משימוש נכשלה  <br/> | פעולת הסרת נתוני החברה נכשלה.  <br/> |
 |פרישה בוטלה  <br/> |פעולת הפרישה בוטלה.  <br/> |
 |בהמתנה למחיקה  <br/> |ממתין להתחלת איפוס להדגרות היצרן.  <br/> |
@@ -51,5 +51,5 @@ ms.locfileid: "42560819"
 |ניגוב בוטל  <br/> |. מחיקת המפעל בוטלה  <br/> |
 |לא תקין  <br/> |פעולה ממתינה (או בעיצומה), אך ההתקן לא נרשם במשך 30 + ימים.  <br/> |
 |בהמתנה למחיקה  <br/> |פעולת המחיקה ממתינה.  <br/> |
-|התגלה  <br/> |Microsoft 365 Business זיהה את המכשיר.  <br/> |
+|התגלה  <br/> |מיקרוסופט 365 עסקים Premium זיהה את המכשיר.  <br/> |
    

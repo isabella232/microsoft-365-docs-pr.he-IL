@@ -1,5 +1,5 @@
 ---
-title: כיצד פריטי מדיניות ב- Microsoft 365 Business מגנים על נתוני החברה
+title: כיצד מדיניות ב-Microsoft 365 להגנה עסקית על נתוני חברה
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -26,14 +26,14 @@ search.appverid:
 - MOE150
 ms.assetid: 665485be-2389-4f1d-9ef8-dbef19c6acdf
 description: כדי להגן על נתוני החברה בהתקנים האישיים של המשתמשים, השתמש במדיניות המיועדת להתקנים ולקבוצות אבטחה ספציפיות.
-ms.openlocfilehash: c33d228fef5e138f94810faf1174ea3243277f4d
-ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
+ms.openlocfilehash: aa7447ae4547ba3180d5d5ebbe18e2840947a1d5
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "41593900"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627145"
 ---
-# <a name="how-policies-in-microsoft-365-business-protect-company-data"></a>כיצד פריטי מדיניות ב- Microsoft 365 Business מגנים על נתוני החברה
+# <a name="how-policies-in-microsoft-365-for-business-protect-company-data"></a>כיצד מדיניות ב-Microsoft 365 להגנה עסקית על נתוני חברה
 
 פריטי המדיניות שאתה יוצר הנם ספציפיים לסוג המכשיר וניתן להחיל אותם על קבוצות ספציפיות של משתמשים. פירוש הדבר שניתן ליצור מדיניות אחת שחלה על כל המנהלים שלך, ומדיניות אחרת שחלה על כל האחרים.
   

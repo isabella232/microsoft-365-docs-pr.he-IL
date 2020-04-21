@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: למד כיצד ליצור, לערוך או למחוק מדיניות ניהול יישומים ולהגן על קבצי עבודה בהתקני Android או iOS.
-ms.openlocfilehash: 0adb103ac3bef72e340c1f5daf54a6b8a184d85c
-ms.sourcegitcommit: fce0d5cad32ea60a08ff001b228223284710e2ed
+ms.openlocfilehash: 0d9e901cac94fe7692ffe705c6b0a51df2bc542f
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42894279"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627433"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>קביעת הגדרות הגנה של אפליקציות עבור מכשירי Android או iOS
 
@@ -75,7 +75,7 @@ ms.locfileid: "42894279"
 
 הטבלאות הבאות מאפשרות מידע מפורט אודות הגדרות הזמינות להגנה על קבצי עבודה בהתקנים ועל ההגדרות השולטות באופן שבו משתמשים ניגשים לקבצי Office מההתקנים הניידים שלהם.
   
- לקבלת מידע נוסף, ראה [כיצד תכונות ההגנה של Microsoft 365 Business ממפות להגדרות Intune](map-protection-features-to-intune-settings.md). 
+ לקבלת מידע נוסף, ראה [כיצד ניתן להגן על תכונות ההגנה ב-Microsoft 365 Business Premium ממפה להגדרות Intune](map-protection-features-to-intune-settings.md). 
   
 ### <a name="settings-that-protect-work-files"></a>הגדרות להגנה על קבצי עבודה
 
