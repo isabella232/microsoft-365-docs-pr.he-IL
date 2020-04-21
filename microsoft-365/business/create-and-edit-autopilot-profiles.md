@@ -26,60 +26,60 @@ search.appverid:
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: למד ליצור פרופיל טייס אוטומטי ולהחיל אותו על התקן, כמו גם לערוך או למחוק פרופיל או להסיר פרופיל מהתקן.
-ms.openlocfilehash: 58c16b68c66dce7541a02ecd0d2466babe8cc338
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: a6e02ab56faeb08718a9831657b55cff0356a4ec
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560719"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627373"
 ---
-# <a name="create-and-edit-autopilot-profiles"></a><span data-ttu-id="2db34-103">יצירה ועריכה של פרופילי AutoPilot</span><span class="sxs-lookup"><span data-stu-id="2db34-103">Create and edit AutoPilot profiles</span></span>
+# <a name="create-and-edit-autopilot-profiles"></a><span data-ttu-id="122d9-103">יצירה ועריכה של פרופילי AutoPilot</span><span class="sxs-lookup"><span data-stu-id="122d9-103">Create and edit AutoPilot profiles</span></span>
 
-## <a name="create-a-profile"></a><span data-ttu-id="2db34-104">יצירת פרופיל</span><span class="sxs-lookup"><span data-stu-id="2db34-104">Create a profile</span></span>
+## <a name="create-a-profile"></a><span data-ttu-id="122d9-104">יצירת פרופיל</span><span class="sxs-lookup"><span data-stu-id="122d9-104">Create a profile</span></span>
 
-<span data-ttu-id="2db34-105">פרופיל חל על מכשיר או על קבוצה של מכשירים</span><span class="sxs-lookup"><span data-stu-id="2db34-105">A profile applies to a device, or a group of devices,</span></span>
+<span data-ttu-id="122d9-105">פרופיל חל על מכשיר או על קבוצה של מכשירים</span><span class="sxs-lookup"><span data-stu-id="122d9-105">A profile applies to a device, or a group of devices,</span></span>
   
-1. <span data-ttu-id="2db34-106">במרכז הניהול העסקי של Microsoft 365, בחר **התקנים** \> **טייס אוטומטי**.</span><span class="sxs-lookup"><span data-stu-id="2db34-106">In the Microsoft 365 Business Admin center, choose **Devices** \> **AutoPilot**.</span></span>
+1. <span data-ttu-id="122d9-106">במרכז הניהול של Microsoft 365, בחר **התקנים** \> **טייס אוטומטי**.</span><span class="sxs-lookup"><span data-stu-id="122d9-106">In the Microsoft 365 admin center, choose **Devices** \> **AutoPilot**.</span></span>
   
-2. <span data-ttu-id="2db34-107">בעמוד **הטייס האוטומטי** , \*\*\*\* בחר בכרטיסיה \> פרופילים **צור פרופיל**.</span><span class="sxs-lookup"><span data-stu-id="2db34-107">On the **AutoPilot** page, choose the **Profiles** tab \> **Create profile**.</span></span>
+2. <span data-ttu-id="122d9-107">בעמוד **הטייס האוטומטי** , **Profiles** בחר בכרטיסיה \> פרופילים **צור פרופיל**.</span><span class="sxs-lookup"><span data-stu-id="122d9-107">On the **AutoPilot** page, choose the **Profiles** tab \> **Create profile**.</span></span>
     
-3. <span data-ttu-id="2db34-108">בדף **יצירת פרופיל** , הזן שם עבור הפרופיל שמסייע לך לזהות אותו, לדוגמה שיווק.</span><span class="sxs-lookup"><span data-stu-id="2db34-108">On the **Create profile** page, enter a name for the profile that helps you identify it, for example Marketing.</span></span> <span data-ttu-id="2db34-109">הפעל את ההגדרה הרצויה ולאחר מכן בחר **בשמור**.</span><span class="sxs-lookup"><span data-stu-id="2db34-109">Turn on the setting you want, and then choose **Save**.</span></span> <span data-ttu-id="2db34-110">לקבלת מידע נוסף אודות הגדרות פרופיל טייס אוטומטי, ראה [אודות הגדרות פרופיל טייס אוטומטי](autopilot-profile-settings.md).</span><span class="sxs-lookup"><span data-stu-id="2db34-110">For more information about AutoPilot profile settings, see [About AutoPilot Profile settings](autopilot-profile-settings.md).</span></span>
+3. <span data-ttu-id="122d9-108">בדף **יצירת פרופיל** , הזן שם עבור הפרופיל שמסייע לך לזהות אותו, לדוגמה שיווק.</span><span class="sxs-lookup"><span data-stu-id="122d9-108">On the **Create profile** page, enter a name for the profile that helps you identify it, for example Marketing.</span></span> <span data-ttu-id="122d9-109">הפעל את ההגדרה הרצויה ולאחר מכן בחר **בשמור**.</span><span class="sxs-lookup"><span data-stu-id="122d9-109">Turn on the setting you want, and then choose **Save**.</span></span> <span data-ttu-id="122d9-110">לקבלת מידע נוסף אודות הגדרות פרופיל טייס אוטומטי, ראה [אודות הגדרות פרופיל טייס אוטומטי](autopilot-profile-settings.md).</span><span class="sxs-lookup"><span data-stu-id="122d9-110">For more information about AutoPilot profile settings, see [About AutoPilot Profile settings](autopilot-profile-settings.md).</span></span>
     
     ![Enter name and turn on settings in the Create profile panel.](../media/63b5a00d-6a5d-48d0-9557-e7531e80702a.png)
   
-### <a name="apply-profile-to-a-device"></a><span data-ttu-id="2db34-112">החלת פרופיל על מכשיר</span><span class="sxs-lookup"><span data-stu-id="2db34-112">Apply profile to a device</span></span>
+### <a name="apply-profile-to-a-device"></a><span data-ttu-id="122d9-112">החלת פרופיל על מכשיר</span><span class="sxs-lookup"><span data-stu-id="122d9-112">Apply profile to a device</span></span>
 
-<span data-ttu-id="2db34-113">לאחר יצירת פרופיל, באפשרותך להחילו על התקן או על קבוצת התקנים.</span><span class="sxs-lookup"><span data-stu-id="2db34-113">After you create a profile, you can apply it to a device or a group of devices.</span></span> <span data-ttu-id="2db34-114">באפשרותך לבחור פרופיל קיים [במדריך שלב-אחר-שלב](add-autopilot-devices-and-profile.md) ולהחילו על התקנים חדשים, או להחליף פרופיל קיים עבור התקן או קבוצת התקנים.</span><span class="sxs-lookup"><span data-stu-id="2db34-114">You can pick an existing profile in the [step-by-step guide](add-autopilot-devices-and-profile.md) and apply it to new devices, or replace an existing profile for a device or group of devices.</span></span> 
+<span data-ttu-id="122d9-113">לאחר יצירת פרופיל, באפשרותך להחילו על התקן או על קבוצת התקנים.</span><span class="sxs-lookup"><span data-stu-id="122d9-113">After you create a profile, you can apply it to a device or a group of devices.</span></span> <span data-ttu-id="122d9-114">באפשרותך לבחור פרופיל קיים [במדריך שלב-אחר-שלב](add-autopilot-devices-and-profile.md) ולהחילו על התקנים חדשים, או להחליף פרופיל קיים עבור התקן או קבוצת התקנים.</span><span class="sxs-lookup"><span data-stu-id="122d9-114">You can pick an existing profile in the [step-by-step guide](add-autopilot-devices-and-profile.md) and apply it to new devices, or replace an existing profile for a device or group of devices.</span></span> 
   
-1. <span data-ttu-id="2db34-115">בדף **הכנת Windows**, בחר בכרטיסיה **מכשירים**.</span><span class="sxs-lookup"><span data-stu-id="2db34-115">On the **Prepare Windows** page, choose the **Devices** tab.</span></span> 
+1. <span data-ttu-id="122d9-115">בדף **הכנת Windows**, בחר בכרטיסיה **מכשירים**.</span><span class="sxs-lookup"><span data-stu-id="122d9-115">On the **Prepare Windows** page, choose the **Devices** tab.</span></span> 
     
-2. <span data-ttu-id="2db34-116">בחר בתיבת הסימון שליד שם התקן, ובחלונית **ההתקן** , בחר פרופיל \> מהרשימה הנפתחת **פרופיל שהוקצה** **שמור**.</span><span class="sxs-lookup"><span data-stu-id="2db34-116">Select the check box next to a device name, and in the **Device** panel, choose a profile from the **Assigned profile** drop-down list \> **Save**.</span></span>
+2. <span data-ttu-id="122d9-116">בחר בתיבת הסימון שליד שם התקן, ובחלונית **ההתקן** , בחר פרופיל \> מהרשימה הנפתחת **פרופיל שהוקצה** **שמור**.</span><span class="sxs-lookup"><span data-stu-id="122d9-116">Select the check box next to a device name, and in the **Device** panel, choose a profile from the **Assigned profile** drop-down list \> **Save**.</span></span>
     
     ![In the Device panel, select an Assigned profile to apply it.](../media/ed0ce33f-9241-4403-a5de-2dddffdc6fb9.png)
   
-## <a name="edit-delete-or-remove-a-profile"></a><span data-ttu-id="2db34-118">עריכה, מחיקה או הסרה של פרופיל</span><span class="sxs-lookup"><span data-stu-id="2db34-118">Edit, delete, or remove a profile</span></span>
+## <a name="edit-delete-or-remove-a-profile"></a><span data-ttu-id="122d9-118">עריכה, מחיקה או הסרה של פרופיל</span><span class="sxs-lookup"><span data-stu-id="122d9-118">Edit, delete, or remove a profile</span></span>
 
-<span data-ttu-id="2db34-p103">לאחר שהקצית פרופיל למכשיר, תוכל לעדכן אותו גם אם כבר נתת את המכשיר למשתמש. כאשר המכשיר יתחבר לאינטרנט, הוא יוריד את הגירסה העדכנית ביותר של הפרופיל שלך במהלך תהליך ההתקנה. אם המשתמש משחזר את המכשיר שלו את להגדרות ברירת המחדל של היצרן, המכשיר יוריד שוב את העדכונים האחרונים לפרופיל שלך.</span><span class="sxs-lookup"><span data-stu-id="2db34-p103">Once you've assigned a profile to a device, you can update it, even if you've already given the device to a user. When the device connects to the internet, it downloads the latest version of your profile during the setup process. If the user restores their device to its factory default settings, the device will again download the latest updates to your profile.</span></span> 
+<span data-ttu-id="122d9-p103">לאחר שהקצית פרופיל למכשיר, תוכל לעדכן אותו גם אם כבר נתת את המכשיר למשתמש. כאשר המכשיר יתחבר לאינטרנט, הוא יוריד את הגירסה העדכנית ביותר של הפרופיל שלך במהלך תהליך ההתקנה. אם המשתמש משחזר את המכשיר שלו את להגדרות ברירת המחדל של היצרן, המכשיר יוריד שוב את העדכונים האחרונים לפרופיל שלך.</span><span class="sxs-lookup"><span data-stu-id="122d9-p103">Once you've assigned a profile to a device, you can update it, even if you've already given the device to a user. When the device connects to the internet, it downloads the latest version of your profile during the setup process. If the user restores their device to its factory default settings, the device will again download the latest updates to your profile.</span></span> 
   
-### <a name="edit-a-profile"></a><span data-ttu-id="2db34-122">עריכת פרופיל</span><span class="sxs-lookup"><span data-stu-id="2db34-122">Edit a profile</span></span>
+### <a name="edit-a-profile"></a><span data-ttu-id="122d9-122">עריכת פרופיל</span><span class="sxs-lookup"><span data-stu-id="122d9-122">Edit a profile</span></span>
 
-1. <span data-ttu-id="2db34-123">בדף **הכנת Windows**, בחר בכרטיסיה **פרופילים**.</span><span class="sxs-lookup"><span data-stu-id="2db34-123">On the **Prepare Windows** page, choose the **Profiles** tab.</span></span> 
+1. <span data-ttu-id="122d9-123">בדף **הכנת Windows**, בחר בכרטיסיה **פרופילים**.</span><span class="sxs-lookup"><span data-stu-id="122d9-123">On the **Prepare Windows** page, choose the **Profiles** tab.</span></span> 
     
-2. <span data-ttu-id="2db34-124">בחר בתיבת הסימון לצד שם התקן, ובחלונית **הפרופיל** , עדכן כל אחת מההגדרות \> הזמינות **שמור**.</span><span class="sxs-lookup"><span data-stu-id="2db34-124">Select the check box next to a device name, and in the **Profile** panel, update any of the available settings \> **Save**.</span></span>
+2. <span data-ttu-id="122d9-124">בחר בתיבת הסימון לצד שם התקן, ובחלונית **הפרופיל** , עדכן כל אחת מההגדרות \> הזמינות **שמור**.</span><span class="sxs-lookup"><span data-stu-id="122d9-124">Select the check box next to a device name, and in the **Profile** panel, update any of the available settings \> **Save**.</span></span>
     
-    <span data-ttu-id="2db34-125">אם תבצע פעולות אלה לפני שהמשתמש יחבר את המכשיר לאינטרנט, הפרופיל יוחל על תהליך ההתקנה.</span><span class="sxs-lookup"><span data-stu-id="2db34-125">If you do this before a user connects the device to the internet, then the profile gets applied to the setup process.</span></span>
+    <span data-ttu-id="122d9-125">אם תבצע פעולות אלה לפני שהמשתמש יחבר את המכשיר לאינטרנט, הפרופיל יוחל על תהליך ההתקנה.</span><span class="sxs-lookup"><span data-stu-id="122d9-125">If you do this before a user connects the device to the internet, then the profile gets applied to the setup process.</span></span>
     
-### <a name="delete-a-profile"></a><span data-ttu-id="2db34-126">מחיקת פרופיל</span><span class="sxs-lookup"><span data-stu-id="2db34-126">Delete a profile</span></span>
+### <a name="delete-a-profile"></a><span data-ttu-id="122d9-126">מחיקת פרופיל</span><span class="sxs-lookup"><span data-stu-id="122d9-126">Delete a profile</span></span>
 
-1. <span data-ttu-id="2db34-127">בדף **הכנת Windows**, בחר בכרטיסיה **פרופילים**.</span><span class="sxs-lookup"><span data-stu-id="2db34-127">On the **Prepare Windows** page, choose the **Profiles** tab.</span></span> 
+1. <span data-ttu-id="122d9-127">בדף **הכנת Windows**, בחר בכרטיסיה **פרופילים**.</span><span class="sxs-lookup"><span data-stu-id="122d9-127">On the **Prepare Windows** page, choose the **Profiles** tab.</span></span> 
     
-2. <span data-ttu-id="2db34-128">בחרו בתיבת הסימון שליד שם התקן, ובחלונית ' **פרופיל** ', בחרו ' **מחק** \> **שמור**פרופיל '.</span><span class="sxs-lookup"><span data-stu-id="2db34-128">Select the check box next to a device name, and in the **Profile** panel, select **Delete profile** \> **Save**.</span></span>
+2. <span data-ttu-id="122d9-128">בחרו בתיבת הסימון שליד שם התקן, ובחלונית ' **פרופיל** ', בחרו ' **מחק** \> **שמור**פרופיל '.</span><span class="sxs-lookup"><span data-stu-id="122d9-128">Select the check box next to a device name, and in the **Profile** panel, select **Delete profile** \> **Save**.</span></span>
     
-    <span data-ttu-id="2db34-129">כאשר תמחק פרופיל, הוא יוסר מהכשיר או מקבוצת המכשירים שלהם הוא הוקצה.</span><span class="sxs-lookup"><span data-stu-id="2db34-129">When you delete a profile, it gets removed from a device or a group of devices it was assigned to.</span></span>
+    <span data-ttu-id="122d9-129">כאשר תמחק פרופיל, הוא יוסר מהכשיר או מקבוצת המכשירים שלהם הוא הוקצה.</span><span class="sxs-lookup"><span data-stu-id="122d9-129">When you delete a profile, it gets removed from a device or a group of devices it was assigned to.</span></span>
     
-### <a name="remove-a-profile"></a><span data-ttu-id="2db34-130">הסרת פרופיל</span><span class="sxs-lookup"><span data-stu-id="2db34-130">Remove a profile</span></span>
+### <a name="remove-a-profile"></a><span data-ttu-id="122d9-130">הסרת פרופיל</span><span class="sxs-lookup"><span data-stu-id="122d9-130">Remove a profile</span></span>
 
-1. <span data-ttu-id="2db34-131">בדף **הכנת Windows**, בחר בכרטיסיה **מכשירים**.</span><span class="sxs-lookup"><span data-stu-id="2db34-131">On the **Prepare Windows** page, choose the **Devices** tab.</span></span> 
+1. <span data-ttu-id="122d9-131">בדף **הכנת Windows**, בחר בכרטיסיה **מכשירים**.</span><span class="sxs-lookup"><span data-stu-id="122d9-131">On the **Prepare Windows** page, choose the **Devices** tab.</span></span> 
     
-2. <span data-ttu-id="2db34-132">בחר בתיבת הסימון שליד שם התקן, ובחלונית **ההתקן** , בחר **בללא** מתוך \> **הרשימה**הנפתחת **פרופיל שהוקצתה** .</span><span class="sxs-lookup"><span data-stu-id="2db34-132">Select the check box next to a device name, and in the **Device** panel, choose **None** from the **Assigned profile** drop-down list \> **Save**.</span></span>
+2. <span data-ttu-id="122d9-132">בחר בתיבת הסימון שליד שם התקן, ובחלונית **ההתקן** , בחר **בללא** מתוך \> **הרשימה**הנפתחת **פרופיל שהוקצתה** .</span><span class="sxs-lookup"><span data-stu-id="122d9-132">Select the check box next to a device name, and in the **Device** panel, choose **None** from the **Assigned profile** drop-down list \> **Save**.</span></span>
     
