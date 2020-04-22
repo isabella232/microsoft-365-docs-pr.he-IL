@@ -1,5 +1,5 @@
 ---
-title: הכנה לפריסת לקוח של Office על-ידי Microsoft 365 Business
+title: הכנה לפריסת לקוח Office על-ידי Microsoft 365 לעסקים
 f1.keywords:
 - CSH
 ms.author: sirkkuw
@@ -21,18 +21,18 @@ search.appverid:
 - MET150
 ms.assetid: ed34fff3-2881-4ed4-9906-1ba6bb8dd804
 description: למד כיצד להתקין באופן אוטומטי את יישומי Office 32-bit במחשבי Windows 10 ולעדכן אותם.
-ms.openlocfilehash: 0f8cd7df49ad627b190fad6737ec95a6d64d99d0
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+ms.openlocfilehash: b5f01bc9bb10765929f3c6bdd5908e8b48a51a11
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42065104"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633098"
 ---
-# <a name="prepare-for-office-client-deployment-by-microsoft-365-business"></a>הכנה לפריסת לקוח של Office על-ידי Microsoft 365 Business
+# <a name="prepare-for-office-client-deployment-by-microsoft-365-for-business"></a>הכנה לפריסת לקוח Office על-ידי Microsoft 365 לעסקים
 
 ## <a name="prepare-to-automatically-install-office-apps-to-client-computers"></a>הכנה להתקנה אוטומטית של יישומי Office במחשבי לקוח
 
-באפשרותך להשתמש ב-Microsoft 365 Business כדי להתקין באופן אוטומטי את יישומי Office מסוג 32-bit במחשבי Windows 10 ולשמור אותם עדכניים באמצעות עדכונים.
+באפשרותך להשתמש ב-Microsoft 365 לעסקים כדי להתקין באופן אוטומטי 32 את יישומי Office ב-Windows 10 ולשמור אותם עדכניים באמצעות עדכונים.
   
 ההתקנה האוטומטית פועלת באופן הטוב ביותר אם המחשב של משתמש הקצה הוא ב-Windows 10 Business ו:
   
@@ -50,15 +50,15 @@ ms.locfileid: "42065104"
   
 משתמש קצה שהמחשב שלו:
   
-- **כולל** רשיון משתמש של Windows 10 Business, רשיון פעיל של Microsoft 365 Business, עדכון Windows 10 ליוצרים ושהמחשב שלו מצורף ל- Azure Active Directory. 
+- **כולל** רישיון משתמש עסקי של Windows 10, 365 פעיל של Microsoft עבור רשיון עסקי, Windows 10 יוצרי עדכונים, והוא מצורף לספריית הפעילים התכולים. 
     
-- אין **ברשותך** יישומי Office 64-bit (לדוגמה: Word, Excel, PowerPoint). אם 64-bit apps Office נדרשים, תכונה זו אינה מתאימה בכלל, משום שאין תמיכה בהפעלת גירסה 64-bit 2016 לחץ-להפעלה של Office מתוך מסוף מנהל העסקים של Microsoft 365. 
+- אין **ברשותך** יישומי Office 64-bit (לדוגמה: Word, Excel, PowerPoint). אם 64-bit apps Office נדרשים, תכונה זו אינה מתאימה בכלל, משום שאין תמיכה בהפעלת גירסה 64-bit 2016 לחץ-להפעלה של Office מ-Microsoft 365 עבור מסוף ניהול עסקי. 
     
-- **אינו כולל** יישומים עצמאיים של Windows Installer (MSI) 2016 (לדוגמה, Visio או Project). Microsoft 365 עסקים שדרוגים Office לגירסת הלחיצה-אל-הפעל של Office 2016 ושאינה פועלת עם יישומים עצמאיים של Office 2016 MSI. 
+- **אינו כולל** יישומים עצמאיים של Windows Installer (MSI) 2016 (לדוגמה, Visio או Project). Microsoft 365 עבור שדרוגים עסקיים Office לגירסת הלחיצה-להפעלה של Office 2016 ושאינה פועלת עם יישומים עצמאיים של Office 2016 MSI. 
     
-הטבלה הבאה מציגה את הפעולה שייתכן שמשתמשי הקצה/מנהלים יצטרכו לבצע, בהתאם למצב ההתחלה שלהם, לקבל גירסה מוצלחת של 32 סיביות להפעלה של פריסת Office ממסוף הניהול העסקי של Microsoft 365.
+הטבלה הבאה מציגה את הפעולה שייתכן כי משתמשי הקצה/מנהלים יצטרכו לנקוט, בהתאם למצב ההתחלה שלהם, לקבל גירסה מוצלחת של 32 סיביות להפעלה של פריסת Office מ-Microsoft 365 עבור מסוף ניהול עסקי.
   
-|**הפעלת מצב ההתקנה של Office**|**הפעולה שיש לנקוט לפני התקנת Office עבור Microsoft 365 Business**|**מצב סיום**|
+|**הפעלת מצב ההתקנה של Office**|**פעולה לביצוע לפני Microsoft 365 עבור התקנת Office עסקיים**|**מצב סיום**|
 |:-----|:-----|:-----|
 |לא הותקנה חבילת Office  <br/> |ללא  <br/> |Office 2016 32-bit מותקן באמצעות ' לחץ להפעלה '  <br/> |
 |גירסת 'לחץ והפעל' קיימת של Office מסוג 32 סיביות (2016 או גירסה קודמת) וללא יישומים עצמאיים  <br/> |ללא  <br/> |שדרוג לגירסת 'לחץ והפעל' האחרונה של Office 2016 מסוג 32 סיביות, לפי הצורך **\*** <br/> |

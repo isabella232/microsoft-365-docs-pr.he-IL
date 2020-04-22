@@ -1,5 +1,5 @@
 ---
-title: הירשם ל365 עסקים של Microsoft
+title: הירשם עבור מיקרוסופט 365 עסקים פרימיום
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -24,27 +24,27 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: למד מה מיקרוסופט 365 Business כולל, וקבל הדרכה צעד אחר צעד בהרשמה עבור Microsoft 365 Business.
-ms.openlocfilehash: 85e9ff3585e1e4bbadc6c34699f75d77486f58ea
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: למד מה Microsoft 365 Business Premium כולל, וקבל הדרכה צעד-אחר-צעד בהרשמה עבור Microsoft 365 Business Premium.
+ms.openlocfilehash: 443363fa673a112ae13eb5b63308115724d9bd00
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560747"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635103"
 ---
-# <a name="sign-up-for-microsoft-365-business"></a>הירשם ל365 עסקים של Microsoft
+# <a name="sign-up-for-microsoft-365-business-premium"></a>הירשם עבור מיקרוסופט 365 עסקים פרימיום
 
-כדי לגלות מה Microsoft 365 Business כולל, צפה [בסרטון וידאו קצר](https://go.microsoft.com/fwlink/?linkid=2109651) וראה את [הסקירה](microsoft-365-business-overview.md).
+כדי לגלות מה Microsoft 365 Business Premium כולל, צפה [בסרטון וידאו קצר](https://go.microsoft.com/fwlink/?linkid=2109651) וראה את [הסקירה](microsoft-365-business-overview.md).
 
-קיימות שלוש דרכים להשיג את Microsoft 365 Business:
-- **לקנות מיקרוסופט 365 עסקים ולהשלים את ההתקנה שלך**: כדי לרכוש מיקרוסופט 365 עסקים באינטרנט, [בצע את השלבים הבאים](#sign-up-steps).
-- **עבור שותפים של microsoft**: אם אתה שותף, ראה [השגת microsoft 365 Business ממרכז השותפים של microsoft](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
+ישנן שלוש דרכים לקבל מיקרוסופט 365 עסקים פרימיום:
+- **לקנות מיקרוסופט 365 עסקים Premium ולהשלים את ההתקנה שלך**: כדי לרכוש מיקרוסופט 365 עסקים פרימיום באינטרנט, [בצע את השלבים הבאים](#sign-up-steps).
+- **עבור שותפי microsoft**: אם אתה שותף, ראה [השגת Microsoft 365 Business Premium ממרכז השותפים של microsoft](get-microsoft-365-business.md).
 - **קבל עזרה בחנות של microsoft**: מראש [לחנות microsoft](https://go.microsoft.com/fwlink/?linkid=2109652). חנויות של Microsoft יכולות לסייע לך בשאלות אודות תוכניות, לסייע לך לרכוש תוכנית המתאימה לצרכיך העסקיים ולסייע לך להשלים את ההתקנה.
 
 **? צריך משהו שונה** אתה יכול:
-- [לשדרג את Office 365 תוכנית ל-Microsoft 365 Business](migrate-to-microsoft-365-business.md).
-- [קבל משפט חינם](https://go.microsoft.com/fwlink/p/?linkid=2102309) של Microsoft 365 Business למשך חודש אחד.
-- [הירשם ל-Office 365 Business Premium](https://go.microsoft.com/fwlink/p/?LinkID=510935) אם דרושה לך תוכנית עם פחות תכונות. גלה מה כל תוכנית עסקית כוללת ב [products.office.com](https://go.microsoft.com/fwlink/?linkid=2109397).
+- [לשדרג את Office 365 תוכנית Premium למיקרוסופט 365 עסקים](migrate-to-microsoft-365-business.md).
+- [קבל משפט חינם](https://go.microsoft.com/fwlink/p/?linkid=2102309) של מיקרוסופט 365 עסקים Premium עבור חודש אחד.
+- [הירשם לתקן העסקים של Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkID=510935) אם דרושה לך תוכנית עם פחות תכונות. גלה מה כל תוכנית עסקית כוללת ב [products.office.com](https://go.microsoft.com/fwlink/?linkid=2109397).
 - [הירשמו לתוכנית ביתית או משפחתית](https://go.microsoft.com/fwlink/?linkid=2109398) אם אתם לא קונים לעסק. 
 
 ## <a name="sign-up-steps"></a>שלבי הצטרפות
@@ -58,8 +58,8 @@ ms.locfileid: "42560747"
 כדי להירשם ולרכוש את Microsoft 365 עבור העסק שלך, השלם את השלבים הבאים:
 
 1. [בדף העסקי של Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2109654), בחר **ראה תוכניות _ amp_ תמחור**. 
-2. בעמוד הבא, גלה את העלות החודשית ולאחר מכן גלול למטה בעמוד כדי לברר פרטים נוספים אודות מה שנכלל ב-Microsoft 365 Business. תחת Microsoft 365 Business, בחר באפשרות **קנה כעת**.
-3. על **תודה על בחירת דף העסקים של Microsoft 365** , הזן את המידע שלך כדי להתחיל.
+2. בעמוד הבא, גלה את העלות החודשית ולאחר מכן גלול למטה בעמוד כדי לברר פרטים נוספים אודות מה שנכלל ב-Microsoft 365. תחת Microsoft 365 Business Premium, בחר באפשרות **קנה כעת**.
+3. על **תודה על בחירת מיקרוסופט 365 עסקים פרימיום** בדף, הזן את המידע שלך כדי להתחיל.
 4. **בשלב 1**, הזן כתובת דואר אלקטרוני בה אתה משתמש כבר. זו יכולה להיות כתובת הדואר האלקטרוני של העבודה הנוכחית או כל כתובת שבה ברצונך ש-Microsoft תשתמש כדי לתקשר עמך במהלך ההתקנה. זוהי גם הכתובת שבה נשלח לך מידע אודות הצעת החוק והחידושים שלך. לאחר מכן בחר באפשרות **הגדרת חשבון**.
 5. **בשלב 2**, הזן את שמך, מספר הטלפון העסקי, שם החברה ומיקומם. המדינה או האזור שלך קובעים את השירותים המדויקים שאתה מקבל מ-Microsoft, ואין אפשרות לשנות אותם לאחר השלמת שלב זה. בחר באפשרות **הבא**.
     > [!NOTE]
@@ -96,4 +96,4 @@ ms.locfileid: "42560747"
 
 ## <a name="see-also"></a>למידע נוסף
 
-[סרטוני הדרכה בנושא Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[מיקרוסופט 365 עבור סרטוני הדרכה עסקית](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

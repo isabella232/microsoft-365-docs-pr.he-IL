@@ -24,13 +24,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: למד כיצד לוודא שהגדרות ההגנה של היישום Business 365 של Microsoft השפעתם על התקני Windows 10 של המשתמשים שלך.
-ms.openlocfilehash: 47977f8d79eb6dbb2f4d087af8f8ad7da4313c61
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: למד כיצד לוודא ש-Microsoft 365 עבור הגדרות של הגנת יישומים עסקיים השפיעה על התקני Windows 10 של המשתמשים שלך.
+ms.openlocfilehash: b63681f040b0fe49127693e9cb7aac7ba6c41af6
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560679"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635703"
 ---
 # <a name="validate-device-protection-settings-on-windows-10-pcs"></a>אימות הגדרות הגנת התקן במחשבי Windows 10
 
@@ -60,11 +60,11 @@ ms.locfileid: "42560679"
   
 ## <a name="related-topics"></a>נושאים קרובים
 
-[תיעוד ומשאבים עבור Microsoft 365 Business](https://go.microsoft.com/fwlink/p/?linkid=853701)
+[מיקרוסופט 365 עבור תיעוד עסקי ומשאבים](https://go.microsoft.com/fwlink/p/?linkid=853701)
   
-[תחילת העבודה עם Microsoft 365 Business](microsoft-365-business-overview.md)
+[התחל לעבוד עם Microsoft 365 לעסקים](microsoft-365-business-overview.md)
   
-[ניהול של Microsoft 365 Business](manage.md)
+[ניהול מיקרוסופט 365 לעסקים](manage.md)
   
 [קביעת תצורות של מכשירים עבור מחשבי Windows 10](protection-settings-for-windows-10-pcs.md)
   

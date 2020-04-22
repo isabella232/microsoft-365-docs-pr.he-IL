@@ -21,13 +21,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: אמת את הגדרות ההגנה של היישום העסקי של Microsoft 365 בהתקני Windows 10 וודא שלמשתמשים אין אפשרות להעתיק נתוני חברה לקבצים אישיים או ליישומים שאינם מנוהלים.
-ms.openlocfilehash: 5b798e0335188543fc308553f71085bcde8b7752
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: אמת את הגדרות ההגנה העסקית של Microsoft 365 Business Premium בהתקנים של Windows 10 וודא שלמשתמשים אין אפשרות להעתיק נתוני חברה לקבצים אישיים או ליישומים שאינם מנוהלים.
+ms.openlocfilehash: 20b2e43ae53486c046440ff1066d241ec9661888
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560839"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635743"
 ---
 # <a name="validate-app-protection-settings-on-windows-10-pcs"></a>אימות הגדרות הגנה של אפליקציות במחשבי Windows 10
 
@@ -37,7 +37,7 @@ ms.locfileid: "42560839"
   
  **אימות הגדרות חיבור**
   
-1. After you sign in with Microsoft 365 Business credentials and connect to Azure AD as described in [Set up Windows devices for Microsoft 365 Business users](set-up-windows-devices.md), go to **Windows Settings** \> **Accounts** \> **Access work or school**. Choose **Connected to \<tenant name\> Azure AD**, and then choose **Info**.
+1. לאחר שתתחבר עם האישורים של microsoft 365 הפרמיה העסקית ותתחבר לתכלת כמתואר [בהגדרת windows התקנים עבור משתמשי Premium של משתמשים עסקיים של microsoft 365](set-up-windows-devices.md), עבור **לחשבונות** \> **של windows הגדרות** \> **גישה לעבודה או לבית הספר**. Choose **Connected to \<tenant name\> Azure AD**, and then choose **Info**.
     
     ![Click or tap Info on the Connected to Azure AD dialog.](../media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
   
@@ -47,7 +47,7 @@ ms.locfileid: "42560839"
   
  **ודא שלא ניתן להדביק נתוני חברה ביישום שאינו מנוהל**
   
-1. פתח את Outlook 2016 שהותקן על-ידי Microsoft 365 Business.
+1. פתח את Outlook 2016 שהותקן על ידי מיקרוסופט 365 עסקים Premium.
     
 2. פתח הודעת דואר אלקטרוני והעתק חלק מהתוכן שלה.
     
@@ -67,7 +67,7 @@ ms.locfileid: "42560839"
     
 2. תחת **גישה לחשבון בעבודה או בבית ספר**, בחר **התחבר**.
     
-3. הזן את אישור Microsoft 365 Business שלך בתיבת הדו-שיח **הגדר חשבון בעבודה או בבית ספר** \> **כניסה**.
+3. הזן את אישור הפרמיה העסקי שלך ב-Microsoft 365 לתוך הגדרת \> **כניסה** **לעבודה או לחשבון בית ספר** .
     
 4. בדף **גישה לחשבון בעבודה או בבית ספר**, בחר את ה **חשבון בעבודה או בבית ספר** ולאחר מכן בחר **פרטים**.
     
@@ -79,7 +79,7 @@ ms.locfileid: "42560839"
   
  **ודא שלא ניתן להדביק נתוני חברה ביישום שאינו מנוהל**
   
-1. פתח את Outlook 2016 והוסף את חשבון Microsoft 365 Business שלך, אם נדרש; לאחר מכן, היכנס עם אישורי Microsoft 365 Business שלך.
+1. פתח את Outlook 2016 והוסף את חשבון Premium לעסקים של Microsoft 365 במידת הצורך והיכנס באמצעות האישורים העסקיים של Microsoft 365 Premium.
     
 2. פתח הודעת דואר אלקטרוני והעתק חלק מהתוכן שלה.
     

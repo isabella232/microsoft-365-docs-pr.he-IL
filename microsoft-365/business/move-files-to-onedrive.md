@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
 description: למד כיצד באפשרותך להעביר את קבצי העבודה האישיים וקבצי החברה הרגישים ל-OneDrive עבור עסקים בצעדים פשוטים בלבד.
-ms.openlocfilehash: 7c36eb272983f86ee42361478ff63dfca252f0ce
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: 4c41928ac51950a5a8c372ef0a170a76ff48ed2e
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561679"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633138"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>העברת קבצים אל OneDrive for Business
 
@@ -43,14 +43,14 @@ ms.locfileid: "42561679"
 
 אם למשתמש יש מחשב הכולל קבצים אישיים רבים, תחילה עליך להעביר קבצים אלה אל OneDrive for Business:
   
-1. עבור אל portal.office.com והיכנס באמצעות אישורי Microsoft 365 Business של המשתמש.
-    
+1. עבור אל portal.office.com והיכנס עם Microsoft 365 של המשתמש עבור אישורים עסקיים.
+
 2. לחץ על מפעיל היישומים ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) ועבור אל OneDrive. 
     
 3. בחר **העלה**![Upload](../media/d9b963b8-10af-42e2-953d-360301b83d3c.png) בשורת התפריטים ונווט אל הקבצים שברצונך לשמור. 
     
 כדי להעביר את פרופיל המשתמש וקבצים חשובים, ניתן גם להשתמש בכלי של ספק חיצוני, כגון ForensiT. עליך להעלות את הקבצים שנוצרו גם ב- OneDrive for Business.
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a>לקבלת פרטים נוספים על הגדרה ושימוש ב-Microsoft 365 Business
+## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>לקבלת פרטים נוספים על הגדרה ושימוש ב-Microsoft 365 לעסקים
 
-[סרטוני הדרכה בנושא Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[מיקרוסופט 365 עבור סרטוני הדרכה עסקית](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

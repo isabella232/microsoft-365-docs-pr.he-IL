@@ -21,25 +21,25 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: bd66c26c-73a4-45a8-8642-3ea4ee7cd89d
-description: למד אודות ברירת המחדל והגדרות אחרות הזמינות ב-Microsoft 365 Business כדי לאבטח התקני Windows 10.
-ms.openlocfilehash: 1b424fe6a85ad23b2914ea29f47d1dc16b333c94
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: למד אודות ברירת מחדל והגדרות אחרות הזמינות ב-Microsoft 365 עבור עסקים כדי לאבטח התקני Windows 10.
+ms.openlocfilehash: a3b7f0a8572a215491b32101a30c306b54571b6f
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42064962"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633016"
 ---
 # <a name="set-device-protection-settings-for-windows-10-pcs"></a>קביעת הגדרות הגנה על מכשירים עבור מחשבי PC של Windows 10
 
 ## <a name="secure-windows-10-devices"></a>אבטחת מכשירים של Windows 10
 
-צפה בסרטון וידאו המסביר כיצד לאבטח מכשירי Windows 10 עם Microsoft 365 Business:
+הצג וידאו כיצד לאבטח התקני Windows 10 באמצעות Microsoft 365 לעסקים:
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/a5734146-620a-4cec-8618-536b3ca37972?autoplay=false]
   
 1. <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. לך למרכז המנהלה 
     
-2. בניווט השמאלי, בחר באפשרות **מדיניות** \> **** **התקנים** \> .
+2. בניווט השמאלי, בחר באפשרות **מדיניות** \> **Add** **התקנים** \> .
   
 3. בחלונית **הוסף מדיניות**, הזן שם ייחודי עבור מדיניות זו. 
     
@@ -59,7 +59,7 @@ ms.locfileid: "42064962"
 
 כברירת מחדל כל ההגדרות מוגדרות ל **פעיל**. ההגדרות הבאות זמינות.
   
-לקבלת מידע נוסף, ראה [כיצד תכונות ההגנה של Microsoft 365 Business ממפות להגדרות Intune](map-protection-features-to-intune-settings.md). 
+לקבלת מידע נוסף, ראה [כיצד ניתן להגן על תכונות ההגנה ב-Microsoft 365 Premium להגדרות Intune](map-protection-features-to-intune-settings.md). 
   
 |||
 |:-----|:-----|

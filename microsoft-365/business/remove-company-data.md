@@ -22,13 +22,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
-description: גלה כיצד להשתמש ב-Microsoft 365 Business כדי להסיר נתוני חברה שיש למשתמשים בהתקנים או במחשבי Windows שלהם.
-ms.openlocfilehash: 1cfcf836f71cb81015d28a848611678252731b9c
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: גלה כיצד להשתמש ב-Microsoft 365 לצורך עסקים כדי להסיר נתוני חברה שיש למשתמשים בהתקנים או במחשבי Windows שלהם.
+ms.openlocfilehash: 80997a48bb3924ab20f16a454120d24caf76e1e7
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561319"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43634847"
 ---
 # <a name="remove-company-data-from-devices"></a>הסרת נתוני חברה ממכשירים
 
@@ -36,7 +36,7 @@ ms.locfileid: "42561319"
 
 ## <a name="remove-company-data"></a>הסרת נתוני חברה
 
-ניתן להשתמש ב- Microsoft 365 Business כדי להסיר נתוני חברה שהמשתמשים שלך התקינו ב[מכשירים](app-protection-settings-for-android-and-ios.md) או ב [מחשבי Windows](protection-settings-for-windows-10-devices.md) שלהם, המוגנים על-ידי Microsoft 365. **אם תסיר נתוני חברה ממכשיר, לא תוכל לשחזר אותם לאחר מכן**. 
+באפשרותך להשתמש ב-Microsoft 365 עבור עסקים כדי להסיר נתוני חברה שיש למשתמשים שלך [בהתקנים](app-protection-settings-for-android-and-ios.md) או [במחשבי Windows](protection-settings-for-windows-10-devices.md) המוגנים על-ידי microsoft 365. **אם תסיר נתוני חברה ממכשיר, לא תוכל לשחזר אותם לאחר מכן**. 
   
 1. <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. לך למרכז המנהלה
     

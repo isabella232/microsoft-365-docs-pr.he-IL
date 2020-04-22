@@ -17,14 +17,14 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: קבע אם Office 365 E3, Office 365 Business Premium או Microsoft 365 Business מהווה את הזכות לעסק שלך.
-ms.openlocfilehash: 44d8b6c64882b0357674793e8430423802b0fc1a
-ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
+description: קבע אם Office 365 E3, Microsoft 365 Business Standard, או Microsoft 365 עסקים Premium הוא המתאים לעסק שלך.
+ms.openlocfilehash: 480129ad8251770a4153b7ecc0777bdf03759012
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "41594934"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635663"
 ---
 # <a name="what-subscription-is-right-for-your-small-business"></a>מהו המנוי המתאים לעסק הקטן שלך?
 
-Microsoft מציעה מספר תוכניות לעסקים קטנים. המנויים המומלצים הם או Office 365 Business Premium או Microsoft 365 Business עם עד 300 משתמשים. מיקרוסופט 365 עסקים מציע תכונות אבטחה יותר מ-Office 365 Business Premium עבור עלות נוספת.
+Microsoft מציעה מספר תוכניות לעסקים קטנים. המנויים המומלצים הם או Microsoft 365 Business Standard או Microsoft 365 Business Premium עם עד 300 משתמשים. מיקרוסופט 365 Business Premium מציע תכונות אבטחה יותר מאשר Microsoft 365 העסק תקן עבור עלות נוספת.

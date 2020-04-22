@@ -1,5 +1,5 @@
 ---
-title: שדרג ל-Microsoft 365 עסקים מ-Office 365 Business Premium
+title: שדרג ל-Microsoft Business Premium 365 מחברת מיקרוסופט 365 עסקים סטנדרטית
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -22,35 +22,35 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
-description: למד את ההבדל בין Office 365 Business Premium ו-Microsoft 365 Business וכיצד באפשרותך לשדרג ל-Microsoft 365 Business.
-ms.openlocfilehash: 2ec77d96bef288bd33e4f67b74f91550f388a2c1
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: למד את ההבדל בין Microsoft 365 Business Standard ו-Microsoft 365 Business Premium וכיצד באפשרותך לשדרג ל-Microsoft 365 Business Premium.
+ms.openlocfilehash: 83bdf3a770acae222dd80c5798228e67cce56e57
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561419"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633158"
 ---
-# <a name="upgrade-to-microsoft-365-business-from-office-365-business-premium"></a>שדרג ל-Microsoft 365 עסקים מ-Office 365 Business Premium
+# <a name="upgrade-to-microsoft-365-business-premium-from-microsoft-365-business-standard"></a>שדרג ל-Microsoft Business Premium 365 מחברת מיקרוסופט 365 עסקים סטנדרטית
 
-אם יש לך [365 של office עבור מנוי עסקי](https://products.office.com/compare-all-microsoft-office-products-4-column?activetab=tab:primaryr2), לדוגמה, Office 365 business Premium, באפשרותך לשדרג בקלות ל-Microsoft 365 business. שדרג ל-Microsoft 365 Business אם ברצונך להוסיף: 
+אם יש לך [365 של microsoft עבור מנוי עסקי](https://products.office.com/compare-all-microsoft-office-products-4-column?activetab=tab:primaryr2), לדוגמה, Microsoft 365 business Standard, באפשרותך לשדרג בקלות ל-Microsoft 365 business Premium. שדרג ל-Microsoft Business Premium 365 אם ברצונך להוסיף: 
 - Windows 10 Pro (למחשבים שבהם פועל Windows 8 ואילך)
 - פקדים פשוטים המנהלים נתונים עסקיים בהתקנים
 - יכולות אבטחה מתקדמות.
-גלה עוד אודות Microsoft 365 עסקים ב- [Microsoft.com](https://www.microsoft.com/microsoft-365/business)
+גלה עוד אודות מיקרוסופט 365 עסקים פרימיום ב [Microsoft.com](https://www.microsoft.com/microsoft-365/business)
 
-## <a name="whats-the-difference-between-office-365-business-premium-and-microsoft-365-business"></a>מה ההבדל בין Office 365 עסקים Premium ו-Microsoft 365 Business?
-הוספנו זה לצד זה השוואה של שתי תוכניות אלה [לתיאור שירות העסקים של Microsoft 365](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description). 
+## <a name="whats-the-difference-between-microsoft-365-business-standard-and-microsoft-365-business-premium"></a>מה ההבדל בין מיקרוסופט 365 עסקים Standard ו-Microsoft 365 עסקים פרימיום?
+הוספנו זה לצד זה השוואה של שתי התוכניות האלה ל- [Microsoft 365 Business שירות הפרמיה תיאור](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description). 
 
 ## <a name="before-you-get-started"></a>לפני שתתחילו
 
-- **מתי כדאי לבחור לשדרג?** שדרוג הוא הבחירה הנכונה כאשר ברצונך לשדרג **את כל המשתמשים** המוקצים לתוכנית יחידה. בעת בחירה בשדרוג, כל התוכניות של משתמשי התוכנית מוחלפות לתוכנית אחרת בעת ובעונה אחת. אם אין ברצונך לשדרג את כל המוקצים לתוכנית בודדת, קנה רשיונות עבור התוכנית החדשה (במקרה זה Microsoft 365 Business) [והקצה רשיונות אלה בנפרד](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) לכל משתמש שברצונך לשדרג. 
+- **מתי כדאי לבחור לשדרג?** שדרוג הוא הבחירה הנכונה כאשר ברצונך לשדרג **את כל המשתמשים** המוקצים לתוכנית יחידה. בעת בחירה בשדרוג, כל התוכניות של משתמשי התוכנית מוחלפות לתוכנית אחרת בעת ובעונה אחת. אם אין ברצונך לשדרג את כל המוקצים לתוכנית בודדת, קנה רשיונות עבור התוכנית החדשה (במקרה זה מיקרוסופט 365 Business Premium), [והקצה רשיונות אלה בנפרד](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) לכל משתמש שברצונך לשדרג. 
 - **הרחבות מסוימות עשויות למנוע את השדרוג** אם תנסה להפעיל שדרוג ותהיה לך הרחבה המונעת ממך להמשיך, באפשרותך להסיר תחילה את ההרחבה ולאחר מכן להוסיף אותה בחזרה מאוחר יותר אם עדיין תזדקק לה. 
 - **אם אתה משלם מראש את התוכנית** אין נתיב שדרוג פשוט לתוכניות ששולמו מראש. תוכל לדעת אם יש לך תוכנית משולמת מראש מאחר שהגדרת את התוכנית באמצעות מזהה מוצר שייתכן שרכשת בחנות. פנה לשותף, עבור אל החנות של Microsoft, או המתן עד שפג תוקפה של התוכנית ששולמו מראש כדי לעבור לתוכנית חדשה.
 
-## <a name="upgrade-to-microsoft-365-business"></a>שדרג ל-Microsoft 365 Business
+## <a name="upgrade-to-microsoft-365-business-premium"></a>שדרג ל-Microsoft Business Premium 365
 קנה את הרישיונות שלך על-ידי ביצוע השלבים הבאים [במרכז הניהול החדש](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview):
 1. היכנס למרכז המנהלה <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
-2. עבור אל חלונית הניווט ובחר מוצרי **חיוב** \> **_ amp_ Services**. מצא את מנוי ה-Office 365 שלך ובחר אותו כדי להציג את הפרטים. 
+2. עבור אל חלונית הניווט ובחר מוצרי **חיוב** \> **_ amp_ Services**. מצא את המנוי שלך ובחר אותו כדי להציג את הפרטים. 
 
     ![צילום מסך מראה כיצד לאתר ולבחור את המנוי שלך במרכז המנהלה.](../media/FindYourSubscription.png)
 
@@ -61,7 +61,7 @@ ms.locfileid: "42561419"
   > [!NOTE]
   > אם אתה רואה הודעה המציינת **ששדרוג המנוי שלך אינו נתמך ברישוי מבוסס-קבוצות ב-תכלת Active Directory**, באפשרותך להתעלם ממנה בביטחה אלא אם יש לך ארגון גדול מאוד. ארגונים שבחרו באפשרות זו יהיו מודעים לכך שהם משתמשים ברישוי מבוסס-קבוצות.
 
-4. לאחר מכן, באפשרותך להציג רשימה של תוכניות Office שבהן באפשרותך לשדרג. במקרה זה, אתר את התוכנית העסקית של Microsoft 365. באפשרותך לגלול מטה אם ברצונך לראות את כל היישומים והשירותים של Office הכלולים בתוכנית זו. תחת **microsoft 365 business**, בחר באפשרות **שדרג** כדי להוסיף את microsoft 365 Business לעגלה שלך.
+4. לאחר מכן, באפשרותך להציג רשימה של תוכניות Office שבהן באפשרותך לשדרג. במקרה זה, אתר את תוכנית הפרימיום של Microsoft 365 Business. באפשרותך לגלול מטה אם ברצונך לראות את כל היישומים והשירותים של Office הכלולים בתוכנית זו. תחת **microsoft 365 Business premium**, בחר באפשרות **שדרג** כדי להוסיף את הפרמיה העסקית של microsoft 365 לעגלה שלך.
 5. בעגלה:
     1. אנו כוללים באופן אוטומטי רשיונות עבור כל המשתמשים הנוכחיים שלך. אם אתה זקוק לרשיונות נוספים או פחות, עליך [לרכוש ולהקצות רשיונות אלה בנפרד](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users).  
     2. באפשרותך לכוונן את האופן בו ברצונך לשלם: חודשי או שנתי. בחר בתפריט הנפתח כדי לבצע את הבחירה.
@@ -71,11 +71,11 @@ ms.locfileid: "42561419"
 1. לאחר שהתוכנית שלך מוכנה, ייתכן שיהיה עליך להשלים כמה שלבי התקנה נוספים במרכז הניהול. בחלונית הניווט, בחר **בבית** כדי להשלים את כל שלבי ההתקנה הנוספים.
 
 > [!NOTE]
-> תקבל החזר יחסי עבור הרשיונות של Office 365 שאינך זקוק להם עוד. חשבון הבנק שלך או כרטיס האשראי שלך יחויבו כעבור יומיים לאחר הגדרת התוכנית החדשה.
+> תקבל החזר יחסי עבור רשיונות 365 של Microsoft שאינך זקוק להם עוד. חשבון הבנק שלך או כרטיס האשראי שלך יחויבו כעבור יומיים לאחר הגדרת התוכנית החדשה.
   
 ## <a name="protect-user-devices-and-files"></a>הגנה על התקני משתמש וקבצים
 
-כעת, כאשר מיקרוסופט 365 רשיונות עסקיים הוקצו, שלבים מלאים כדי להתחיל להגן על התקנים וקבצים. תשתמש בכמה אפשרויות חדשות הכלולות בחלונית הניווט של מרכז הניהול.
+כעת, לאחר ש-Microsoft 365 מוקצית לרשיונות עסקיים של מיקרוסופט, שלבים מלאים כדי להתחיל להגן על התקנים וקבצים. תשתמש בכמה אפשרויות חדשות הכלולות בחלונית הניווט של מרכז הניהול.
   
 1. במרכז הניהול, בחלונית הניווט, עבור אל **מדיניות** **התקנים** \> .
     
@@ -96,6 +96,6 @@ ms.locfileid: "42561419"
     
   - אם התקני Windows שלך כבר לא משתמשים בעדכון של Windows Pro Creator, יהיה עליך [לשדרג אותם לעדכון יוצרי Windows pro](upgrade-to-windows-pro-creators-update.md).
     
-  - ראה [הגדרת התקני windows עבור משתמשים עסקיים של Microsoft 365](set-up-windows-devices.md) עבור שלבים עבור התקני windows. 
+  - ראה [הגדרת התקני windows עבור משתמשי Microsoft Business Premium 365](set-up-windows-devices.md) עבור שלבים עבור התקני windows. 
     
-  - ראה [הגדרת מכשירים ניידים עבור משתמשים עסקיים של Microsoft 365](set-up-mobile-devices.md) עבור שלבים עבור טלפונים אנדרואיד ו-iphone. 
+  - ראה [הגדרת התקנים ניידים עבור Microsoft 365 Business Premium משתמשים](set-up-mobile-devices.md) עבור שלבים עבור טלפונים אנדרואיד ו-iphone. 

@@ -22,19 +22,19 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
-description: למד כיצד להשתמש ב-Microsoft 365 Business כדי לאפס התקנים של Windows 10 שאתה מנהל, ומחזיר אותם להגדרות המקוריות שלהם בקנייה.
-ms.openlocfilehash: 3705448602cdc22e9fb5843c46d5bdc1c4dbdb2e
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: למד כיצד להשתמש ב-Microsoft 365 עבור עסקים כדי לאפס התקנים של Windows 10 שאתה מנהל, ומחזיר אותם להגדרות המקוריות שלהם בקנייה.
+ms.openlocfilehash: 7cf5619cb1b6f5f847690d723381614d4b7afc3c
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561299"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43634791"
 ---
 # <a name="reset-windows-10-devices-to-their-factory-settings"></a>איפוס מכשירי Windows 10 להגדרות היצרן שלהם
 
 [![תווית המיידעת אותך שמרכז הניהול משתנה ושניתן למצוא פרטים נוספים ב- aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
-איפוס להגדרות יצרן מחזיר מכשיר להגדרות המקוריות שהופיעו במכשיר בעת רכישתו. כל האפליקציות והנתונים במכשיר שהותקנו לאחר הרכישה יוסרו. באפשרותך להשתמש ב- Microsoft 365 Business לצורך איפוס להגדרות יצרן של מכשירי Windows 10 שאתה מנהל.
+איפוס להגדרות יצרן מחזיר מכשיר להגדרות המקוריות שהופיעו במכשיר בעת רכישתו. כל האפליקציות והנתונים במכשיר שהותקנו לאחר הרכישה יוסרו. באפשרותך להשתמש ב-Microsoft 365 עבור עסקים כדי לאפס התקני Windows 10 שאתה מנהל.
   
 1. <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. לך למרכז המנהלה
     

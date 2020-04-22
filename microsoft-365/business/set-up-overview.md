@@ -25,17 +25,17 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: למד את שלבי ההתקנה עבור Microsoft 365 Business, החל מהרשמה מנוי, כדי להוסיף תחום ומשתמשים, כדי להגדיר מדיניות אבטחה ועוד.
-ms.openlocfilehash: 9bb536b52981966f6c4c487f8400577b896261e0
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: למד את שלבי ההתקנה עבור Microsoft 365 Business Premium, מהרשמה מנוי, כדי להוסיף קבוצת מחשבים ומשתמשים, כדי להגדיר מדיניות אבטחה ועוד.
+ms.openlocfilehash: 8b26d423d4f62ee8f9ea4a61eb8f7efa72ee26cb
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561187"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633354"
 ---
 # <a name="overview-of-setup"></a>מבט כולל על הכיוונון
 
-צפה בסרטון וידאו קצר אודות ההתקנה העסקית של Microsoft 365.<br><br>
+צפה בסרטון וידאו קצר אודות התקנת הפרמיה של Microsoft Business 365.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4jZwg] 
 
@@ -48,7 +48,7 @@ ms.locfileid: "42561187"
    - **[הוסף את התחום שלך](set-up.md#add-your-domain-to-personalize-sign-in)** (אם רכשת את התחום שלך במהלך [ההרשמה](sign-up.md), שלב זה כבר נעשה.)
 
     - **הוסיף משתמשים**. באפשרותך להוסיף משתמשים בכל אחת משלוש הדרכים:
-        - באשף [](set-up.md#add-users-in-the-wizard).
+        - באשף [wizard](set-up.md#add-users-in-the-wizard).
         - השתמש בסינכרון ספריות כדי [להוסיף משתמשים על-ידי שימוש בתכלת AD להתקשרות](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) אם ברשותך ספריה פעילה מקומית.
         - באפשרותך גם [להוסיף משתמשים בהמשך](add-users-m365b.md) מרכז הניהול.
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>שלב 2: הגדרת מדיניות אבטחה וקביעת תצורה של התקנים 
@@ -66,18 +66,18 @@ ms.locfileid: "42561187"
 
 כדי להתחיל, ראה [הגברת הגנת האיום](increase-threat-protection.md) [והגדרת תכונות תאימות](set-up-compliance.md).
 
-ראה גם [top 10 דרכים לאבטח את Microsoft 365 Business](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) עבור מפת הדרכים של נוהלי האבטחה הטובה ביותר.
+ראה גם [top 10 דרכים לאבטח את הפרמיה העסקית של Microsoft 365](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) למפת דרכים של נוהלי אבטחה מיטביים.
 
 ## <a name="step-3-set-up-and-manage-windows-10-devices"></a>שלב 3: הגדרת וניהול של התקני Windows 10
 
 לאחר שתפעיל את אשף ההגדרה, תרצה להתקין את כל מחשבי Windwos 10 בארגון שלך.
   
-- Windows 10 Pro הוא [תנאי מוקדם](pre-requisites-for-data-protection.md) עבור Microsoft 365 Business, אבל אם יש לך Windows 7 Pro, Windows 8 pro, או Windows 8.1 pro, המנוי שלך מזכה אותך [לשדרוג ל-Windows 10 Pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
+- Windows 10 Pro הוא [תנאי מוקדם](pre-requisites-for-data-protection.md) עבור מיקרוסופט 365 עסקים Premium, אבל אם יש לך Windows 7 Pro, Windows 8 pro, או Windows 8.1 pro, המנוי שלך מזכה אותך [לשדרוג ל-Windows 10 pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
 - בצע את השלבים [במחשבים מאובטחים של windows 10](secure-win-10-pcs.md) כדי להגדיר מדיניות עבור התקני windows 10.
 
-כאשר אתה מצטרף להתקן של Windows 10 לתכלת, מדיניות המדיניות שקבעת עבור מחשבי Windows 10 מוחלת עליו. לקבלת מידע נוסף, ראה [הגדרת התקני Windows עבור משתמשים עסקיים של Microsoft 365](set-up-windows-devices.md).
+כאשר אתה מצטרף להתקן של Windows 10 לתכלת, מדיניות המדיניות שקבעת עבור מחשבי Windows 10 מוחלת עליו. לקבלת מידע נוסף, ראה [הגדרת התקני Windows עבור משתמשי Microsoft 365](set-up-windows-devices.md).
 
-## <a name="step-4-install-office-365-business"></a>שלב 4: התקנת Office 365 עסקים
+## <a name="step-4-install-microsoft-365-apps-for-business"></a>שלב 4: התקנת Microsoft 365 Apps לעסקים
 - באפשרותך להתקין את Office באופן אוטומטי בהתקני Windows באמצעות [אשף ההתקנה](set-up.md#deploy-office-365-client-apps).
 - אפשר למשתמשים [להתקין יישומי Office](https://docs.microsoft.com/office365/admin/setup/install-applications) עבור Windows והתקנים.
      
@@ -88,10 +88,10 @@ ms.locfileid: "42561187"
 
 - **גישה למשאבים מקומיים**
 
-     - אם הארגון שלך משתמש ב-Windows Server Active Directory מקומי, באפשרותך להגדיר את Microsoft 365 Business כדי להגן על התקני Windows 10 שלך, תוך שמירה על גישה למשאבים מקומיים המחייבים אימות מקומי. בצע את השלבים [בהפעלת התקני Windows 10 המצורפים לתחום כדי שיוכלו להיות מנוהלים על-ידי Microsoft 365 Business](manage-windows-devices.md) כדי להגדיר זאת. זוהי השיטה המועדפת, והתקנים במצב זה נקראים "היברידית תכלת" התקנים המצורפים.
+     - אם הארגון שלך משתמש ב-Windows Server Active Directory מקומי, באפשרותך להגדיר את Microsoft 365 Business Premium כדי להגן על התקני Windows 10 שלך, תוך שמירה על גישה למשאבים מקומיים המחייבים אימות מקומי. בצע את השלבים [בהפעלת התקנים של Windows 10 המצורפים לתחום כדי שינוהל על-ידי Microsoft 365 Business Premium](manage-windows-devices.md) כדי להגדיר זאת. זוהי השיטה המועדפת, והתקנים במצב זה נקראים "היברידית תכלת" התקנים המצורפים.
 
-    - אם לעסק שלך יש Active Directory מקומי המכיל משאבים מסוימים מקומיים (כגון שיתופי קבצים ומדפסות), באפשרותך להעניק להתקנים המצורפים למשאבים אלה גישה אל משאבים אלה על-ידי ביצוע השלבים כאן: [גישה למשאבים מקומיים מהתקן תכלת-הצטרף ב-Microsoft 365 business](access-resources.md).
+    - אם לעסק שלך יש Active Directory מקומי המכיל משאבים מסוימים מקומיים (כגון שיתופי קבצים ומדפסות), באפשרותך להעניק להתקנים המצורפים למשאבים אלה גישה אל משאבים אלה על-ידי ביצוע השלבים כאן: [גישה למשאבים מקומיים מהתקן תכלת-הצטרף ב-Microsoft 365 Business Premium](access-resources.md).
 
 ## <a name="see-also"></a>למידע נוסף
 
-[סרטוני הדרכה בנושא Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[מיקרוסופט 365 עבור סרטוני הדרכה עסקית](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

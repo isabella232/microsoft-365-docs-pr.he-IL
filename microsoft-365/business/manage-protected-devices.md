@@ -1,5 +1,5 @@
 ---
-title: ניהול מכשירים מוגנים באמצעות Microsoft 365 Business
+title: ניהול התקנים מוגנים באמצעות Microsoft 365 לעסקים
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -27,14 +27,14 @@ search.appverid:
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
 description: למד להסיר נתוני חברה מהתקנים המנוהלים באמצעות מדיניות הגנה וכן לאפס התקני Windows 10 להגדרות היצרן שלהם.
-ms.openlocfilehash: 97c9751d020d7f2aecb1e64718721c1ca25189e1
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: 180887dca3226512ab558e98d2b5a78da3521e53
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561519"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43634287"
 ---
-# <a name="manage-protected-devices-with-microsoft-365-business"></a>ניהול מכשירים מוגנים באמצעות Microsoft 365 Business
+# <a name="manage-protected-devices-with-microsoft-365-for-business"></a>ניהול התקנים מוגנים באמצעות Microsoft 365 לעסקים
 
 לאחר שמשתמש מחבר את המכשיר לארגון שלך על-ידי התחברות עם חשבון העבודה שלהם להתקן או ליישומי Office בהתקן, באפשרותך להגן על ההתקן באמצעות פריטי המדיניות שהגדרת. התקנים מחוברים מפורטים בדף ' **התקנים** '. במקרה של אובדן או גניבה של מכשיר, באפשרותך לנהל אותו מתוך דף זה כדי להסיר את נתוני החברה. ניתן גם לאפס מכשירי Windows 10 להגדרות היצרן שלהם כדי למחוק הגדרות מותאמות אישית. 
 

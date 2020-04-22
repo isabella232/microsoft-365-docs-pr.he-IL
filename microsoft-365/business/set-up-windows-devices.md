@@ -1,5 +1,5 @@
 ---
-title: הגדרת מכשירי Windows עבור משתמשים של Microsoft 365 Business
+title: הגדרת התקני Windows עבור משתמשי Microsoft Business Premium 365
 f1.keywords:
 - CSH
 ms.author: sirkkuw
@@ -24,21 +24,21 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
-description: למד כיצד להגדיר התקני Windows שבהם פועל Windows 10 Pro עבור משתמשים עסקיים של Microsoft 365, המאפשרים ניהול מרוכז ובקרת אבטחה.
-ms.openlocfilehash: 6ecc45f825a783d9d47c4b069a6021143d96597c
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: למד כיצד להגדיר התקני Windows שבהם פועל Windows 10 Pro עבור משתמשי Microsoft Business Premium 365, המאפשרים ניהול מרוכז ובקרת אבטחה.
+ms.openlocfilehash: efe81a5547496f502232e1db2f3f092165475641
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561159"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635451"
 ---
-# <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>הגדרת מכשירי Windows עבור משתמשים של Microsoft 365 Business
+# <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>הגדרת התקני Windows עבור משתמשי Microsoft Business Premium 365
 
-## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-users"></a>דרישות מוקדמות להגדרת התקני Windows עבור משתמשים עסקיים של Microsoft 365
+## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-premium-users"></a>דרישות מוקדמות להתקנת התקני Windows עבור משתמשי פרימיום של Microsoft 365
 
-לפני שתוכל להגדיר מכשירי Windows עבור משתמשי Microsoft 365 Business, ודא שבכל מכשירי Windows פועלת מהדורה 1703 של Windows 10 Pro (העדכון ליוצרים). Windows 10 Pro מהווה דרישה מוקדמת לפריסת Windows 10 Business, שהוא קבוצה של שירותי ענן ויכולות ניהול מכשירים שמשלימות את Windows 10 Pro ומאפשרות את ההפעלה של הניהול המרכזי ובקרות האבטחה של Microsoft 365 Business.
+לפני שתוכל להגדיר התקני Windows עבור Microsoft 365 Business Premium משתמשים, ודא שכל ההתקנים של Windows פועלים ב-Windows 10 Pro, גירסה 1703 (יוצרי עדכונים). Windows 10 Pro הוא תנאי מוקדם לפריסת Windows 10 Business, שהיא קבוצה של שירותי ענן ויכולות ניהול התקנים המשלימים את Windows 10 Pro ולאפשר בקרת ניהול ואבטחה מרוכזת של Microsoft 365 Business Premium.
   
-אם יש לך מכשיר Windows עם Windows 7 Pro, ‏Windows 8 Pro או Windows 8.1 Pro, מנוי Microsoft 365 Business שלך מזכה אותך בשדרוג ל- Windows 10.
+אם ברשותך התקני Windows הפועלים באמצעות Windows 7 Pro, Windows 8 Pro או Windows 8.1 Pro, מנוי הפרמיה של 365 Microsoft Business Premium מקנה לך את שדרוג Windows 10.
   
 לקבלת מידע נוסף על שדרוג מכשירי Windows לעדכון Windows 10 ליוצרים, פעל לפי השלבים בנושא זה: [שדרוג מכשירי Windows לעדכון Windows Pro ליוצרים](upgrade-to-windows-pro-creators-update.md).
   
@@ -52,7 +52,7 @@ ms.locfileid: "42561159"
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>צירוף מכשירי Windows 10 ל- Azure AD של הארגון שלך
 
-כאשר כל התקני Windows בארגון שלך שודרגו ל-Windows 10 Pro יוצרי עדכון או שכבר פועל Windows 10 Pro יוצרי עדכון, אתה יכול להצטרף התקנים אלה לתוך הארגון שלך הפעיל הספריה. לאחר הצירוף של המכשירים, הם ישודרגו באופן אוטומטי ל-Windows 10 Business, המהווה חלק ממנוי העסקי של Microsoft 365.
+כאשר כל התקני Windows בארגון שלך שודרגו ל-Windows 10 Pro יוצרי עדכון או שכבר פועל Windows 10 Pro יוצרי עדכון, אתה יכול להצטרף התקנים אלה לתוך הארגון שלך הפעיל הספריה. לאחר הצירוף של המכשירים, הם ישודרגו באופן אוטומטי ל-Windows 10 Business, המהווה חלק מהמנוי שלך ל-Microsoft Business Premium 365.
   
 ### <a name="for-a-brand-new-or-newly-upgraded-windows-10-pro-device"></a>עבור מכשיר Windows 10 Pro חדש לגמרי או ששודרג לאחרונה
 
@@ -62,7 +62,7 @@ ms.locfileid: "42561159"
     
     ![On the How would you like to set up page, choose Set up for an organization](../media/1b0b2dba-00bb-4a99-a729-441479220cb7.png)
   
-2. כאן, בחר **הגדרה עבור ארגון** ולאחר מכן הזן את שם המשתמש והסיסמה שלך עבור Microsoft 365 Business. 
+2. כאן, בחר **בהגדרה עבור ארגון** ולאחר מכן הזן את שם המשתמש והסיסמה שלך עבור Microsoft 365 Business Premium. 
     
 3. סיים את הגדרת מכשיר Windows 10.
     
@@ -108,13 +108,13 @@ ms.locfileid: "42561159"
   
 בדף 'מצב סינכרון', לחץ על 'סינכרון' כדי לקבל את פריטי מדיניות הניהול העדכניים ביותר של המכשיר הנייד במחשב ה- PC.
   
-כדי להתחיל להשתמש בחשבון העסקי של Microsoft 365, עבור ללחצן **התחל** של Windows, לחץ לחיצה ימנית על תמונת החשבון הנוכחית שלך ולאחר מכן **החלף חשבון**. היכנס באמצעות הדואר האלקטרוני והסיסמה של הארגון שלך.
+כדי להתחיל להשתמש בחשבון הפרמיה של Microsoft 365 Business, עבור אל לחצן **התחל** של Windows, לחץ לחיצה ימנית על תמונת החשבון הנוכחית שלך ולאחר מכן **החלף חשבון**. היכנס באמצעות הדואר האלקטרוני והסיסמה של הארגון שלך.
   
 ![Click Info button to view synchronization status](../media/818f7043-adbf-402a-844a-59d50034911d.png)
   
 ## <a name="verify-the-device-is-upgraded-to-windows-10-business"></a>אימות שהמכשיר משודרג ל- Windows 10 Business
 
-ודא שמכשירי Windows 10 שהצטרפו ל- Azure AD שודרגו ל- Windows 10 Business כחלק מהמנוי ל- Microsoft 365 Business.
+ודא שה "שלך הצטרף ל-Windows 10 התקנים שודרגו ל-Windows 10 Business כחלק מהמנוי שלך ל-Microsoft Business Premium 365.
   
 1. עבור אל **הגדרות** \> **מערכת** \> **אודות**.
     
@@ -124,8 +124,8 @@ ms.locfileid: "42561159"
   
 ## <a name="next-steps"></a>השלבים הבאים
 
-כדי להגדיר את המכשירים הניידים שלך, ראה [הגדרת מכשירים ניידים עבור משתמשי Microsoft 365 Business](set-up-mobile-devices.md). כדי להגדיר כללי מדיניות הגנה למכשירים או ליישומים, ראה [ניהול Microsoft 365 Business](manage.md).
+כדי להגדיר את המכשירים הניידים שלך, ראה [הגדרת התקנים ניידים עבור משתמשי Microsoft Business Premium 365](set-up-mobile-devices.md), כדי להגדיר מדיניות הגנת התקנים או הגנה על יישומים, ראה [ניהול Microsoft 365 לעסקים](manage.md).
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a>לקבלת פרטים נוספים על הגדרה ושימוש ב-Microsoft 365 Business
+## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>לקבלת פרטים נוספים על הגדרה ושימוש ב-Microsoft 365 Business Premium
 
-[סרטוני הדרכה בנושא Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[מיקרוסופט 365 עבור סרטוני הדרכה עסקית](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

@@ -1,5 +1,5 @@
 ---
-title: מיקרוסופט 365 תכונות אבטחה ותאימות של העסק
+title: מיקרוסופט 365 עסקים פרמיה תכונות אבטחה ותאימות
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -22,23 +22,23 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
-description: למד אודות תכונות האבטחה הנמצאות עם Microsoft 365 Business כדי לסייע בהגנה על הנתונים שלך במחשבים, בטלפונים ובטבליות.
-ms.openlocfilehash: 3f638a3287c06ded7bf4c29c647e62cbf3fca969
-ms.sourcegitcommit: e525bcf073a61e1350484719a0c3ceb6ff0d8db1
+description: למד אודות תכונות האבטחה הנמצאות עם Microsoft 365 Business Premium כדי לסייע בהגנה על הנתונים שלך במחשבים, בטלפונים ובטבליות.
+ms.openlocfilehash: 35eb0ac1dce216ccc557fc629ddb5d2df50e7134
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43153797"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635143"
 ---
-# <a name="microsoft-365-business-security-and-compliance-features"></a>מיקרוסופט 365 תכונות אבטחה ותאימות של העסק
+# <a name="microsoft-365-business-premium-security-and-compliance-features"></a>מיקרוסופט 365 עסקים פרמיה תכונות אבטחה ותאימות
 
-Microsoft 365 Business מציע תכונות אבטחה פשוטות יותר כדי לסייע בהגנה על הנתונים שלך במחשבים, בטלפונים ובטבליות.
+מיקרוסופט 365 Business Premium מציעה תכונות אבטחה מפושטת כדי לסייע בהגנה על הנתונים שלך על מחשבים אישיים, טלפונים וטבליות.
     
-## <a name="microsoft-365-business-admin-center-security-features"></a>מיקרוסופט 365 מרכז עסקים ניהול תכונות אבטחה
+## <a name="microsoft-365-admin-center-security-features"></a>מיקרוסופט 365 מרכז ניהול תכונות אבטחה
 
 [![תווית המיידעת אותך שמרכז הניהול משתנה ושניתן למצוא פרטים נוספים ב- aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
-באפשרותך לנהל רבות מתכונות האבטחה העסקיות של Microsoft 365 במרכז הניהול, המעניקה לך דרך פשוטה להפעיל או לבטל תכונות אלה. במרכז הניהול, באפשרותך לבצע את הפעולות הבאות:
+באפשרותך לנהל רבים מהתכונות האבטחה של Microsoft 365 Business Premium במרכז הניהול, המעניקה לך דרך פשוטה יותר להפעיל או לבטל תכונות אלה. במרכז הניהול, באפשרותך לבצע את הפעולות הבאות:
   
 - [קביעת הגדרות ניהול יישומים עבור מכשירי Android או iOS](app-protection-settings-for-android-and-ios.md) . 
     
@@ -62,7 +62,7 @@ Microsoft 365 Business מציע תכונות אבטחה פשוטות יותר כ
     
 ## <a name="additional-security-features"></a>תכונות אבטחה נוספת 
 
-תכונות מתקדמות ב-Microsoft 365 Business זמינות כדי לסייע לך להגן על העסק שלך מפני איומי סייבר ולהגן על מידע רגיש.
+תכונות מתקדמות ב-Microsoft 365 Business Premium זמינים כדי לסייע לך להגן על העסק שלך מפני איומי סייבר ולהגן על מידע רגיש.
   
 - **[הגנת האיום המתקדם של Office 365](https://support.office.com/article/e100fe7c-f2a1-4b7d-9e08-622330b83653)**
     
@@ -74,13 +74,13 @@ Microsoft 365 Business מציע תכונות אבטחה פשוטות יותר כ
 
 - **[היכולות המלאות של Intune בפורטל התכלת](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
-    גישה למרכז admin Intune בפורטל תכלת מאפשר לך להגדיר תכונות אבטחה נוספות, כגון ניהול של התקני MacOS, iPhone, והתקנים אנדרואיד, יחד עם ניהול התקנים מתקדמים עבור Windows, כי אינם זמינים דרך מרכז העסקים של מיקרוסופט 365.
+    גישה למרכז admin Intune בפורטל תכלת מאפשר לך להגדיר תכונות אבטחה נוספות, כגון ניהול של התקני MacOS, iPhone, והתקנים אנדרואיד, יחד עם ניהול התקנים מתקדמים עבור Windows, כי אינם זמינים באמצעות Microsoft 365 admin מרכז.
 - **[גישה מותנית](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) זהה לתוכנית תכלת לספירה Premium P1**
 
 
     ' גישה מותנית ' יכולה לסייע בהגנה על הארגון שלך מפני סיכוני כניסה, גישה לנסיונות מרשת או אזור לא צפויים, access מנסה לקבל מסוגי התקנים מסוכנים וכן הלאה. מדיניות גישה מותנית נאכפת לאחר השלמת האימות הראשון, והיא משתמשת באותות מאירוע האימות הראשון כדי לקבוע אם יש לקבל את הגישה לאישור, נדחתה או אם יש צורך בהוכחה נוספת (כגון סוג הזיהוי השני).
 
-    התכונות של ' גישה מותנית ' כלולות:
+    תכונות הגישה המותנה הכלולות הן:
 
     - גישה בהתבסס על שם משתמש, קבוצה ותפקיד
     - גישה [בהתבסס על אפליקציה](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) 
@@ -95,7 +95,7 @@ Microsoft 365 Business מציע תכונות אבטחה פשוטות יותר כ
     
 ## <a name="compliance-features"></a>מאפייני תאימות
 
-המנוי העסקי שלך ב-Microsoft 365 כולל תכונות המסייעות לך לשמור על תאימות ותקני רגולציה.
+המנוי שלך ל-Microsoft Business Premium 365 כולל תכונות המסייעות לך לשמור על תאימות וסטנדרטים רגולציה.
 
 - **[סקירה של מדיניות מניעת אובדן נתונים](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
     
@@ -107,20 +107,20 @@ Microsoft 365 Business מציע תכונות אבטחה פשוטות יותר כ
     
 - **[תוויות רגישות](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)**
 
-   העסק של Microsoft 365 כולל את כל התכונות של [תוכנית הגנת מידע תכלת 1](https://go.microsoft.com/fwlink/p/?linkid=871407). באמצעות תוכנית זו, באפשרותך ליצור **תוויות רגישות** המאפשרות לך לשלוט בגישה למידע רגיש בדואר אלקטרוני ובמסמכים, עם פקדים כגון "אל תעביר" ו-"אל תעתיק". באפשרותך גם לסווג מידע רגיש כ-"סודי" ולציין כיצד ניתן לשתף מידע מסווג בחוץ ובתוך העסק. הצפנה ברמה ארגונית קלה להחלה על דואר אלקטרוני ומסמכים כדי לשמור על פרטי המידע שלך. באפשרותך גם להתקין את התוספת של לקוח הגנת מידע תכלת עבור יישומי Office. לקבלת מידע נוסף, ראה [לקוח מאוחד לתיוג מידע בתכלת](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). בתוויות רגישות, התקן את ה- **AzInfoProtection_UL. exe**.
+   מיקרוסופט 365 עסקים Premium כולל את כל התכונות של [התוכנית הגנת מידע תכלת 1](https://go.microsoft.com/fwlink/p/?linkid=871407). באמצעות תוכנית זו, באפשרותך ליצור **תוויות רגישות** המאפשרות לך לשלוט בגישה למידע רגיש בדואר אלקטרוני ובמסמכים, עם פקדים כגון "אל תעביר" ו-"אל תעתיק". באפשרותך גם לסווג מידע רגיש כ-"סודי" ולציין כיצד ניתן לשתף מידע מסווג בחוץ ובתוך העסק. הצפנה ברמה ארגונית קלה להחלה על דואר אלקטרוני ומסמכים כדי לשמור על פרטי המידע שלך. באפשרותך גם להתקין את התוספת של לקוח הגנת מידע תכלת עבור יישומי Office. לקבלת מידע נוסף, ראה [לקוח מאוחד לתיוג מידע בתכלת](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). בתוויות רגישות, התקן את ה- **AzInfoProtection_UL. exe**.
 
-באפשרותך לנהל תכונות אלה במרכז &amp; תאימות האבטחה ובמרכז הניהול של Intune. עם הזמן, הפקדים הפשוטים יתווספו למרכז הניהול העסקי של Microsoft 365.
+באפשרותך לנהל תכונות אלה במרכז &amp; תאימות האבטחה ובמרכז הניהול של Intune. עם הזמן, הפקדים הפשוטים יתווספו למרכז הניהול של Microsoft 365.
   
     
 ## <a name="faq"></a>שאלות נפוצות
 
  ### <a name="are-these-security-features-available-in-all-markets"></a>האם תכונות אבטחה אלה זמינות בכל השווקים?
   
-כן, תכונות אלה זמינות בכל השווקים שבו Microsoft 365 עסקים נמכרים.
+כן, תכונות אלה זמינות בכל השווקים שבו Microsoft 365 Business Premium נמכר.
   
 ### <a name="how-do-i-find-the-security-amp-compliance-center"></a>כיצד ניתן לאתר את &amp; מרכז תאימות האבטחה?
   
-1. [היכנס ל-Microsoft 365 Business](https://portal.microsoft.com/) באמצעות אישורי המנהל שלך. 
+1. [היכנס ל-Microsoft Business Premium 365](https://portal.microsoft.com/) באמצעות אישורי המנהל שלך. 
     
 2. בניווט השמאלי, אתר **מרכזי ניהול** והרחב אותו. 
     
