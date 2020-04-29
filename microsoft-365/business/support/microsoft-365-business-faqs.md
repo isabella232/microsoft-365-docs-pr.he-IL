@@ -12,12 +12,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business Premium,‏ Microsoft 365,‏ עסקים קטנים ובינוניים, שאלות נפוצות, תשובות, עסקים
 ms.date: 06/08/2018
-ms.openlocfilehash: e456719d393dc911a6f28455e530c90e8ab9ff5a
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 2ace43e0a3bab466d102740434b2a126fb8e099d
+ms.sourcegitcommit: b6c4b514b2cb6739af949780d7e2a5a5c8dcc161
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635083"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43900689"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>שאלות נפוצות אודות Microsoft 365 Business Premium
 
@@ -171,9 +171,9 @@ Microsoft 365 Business Premium יסייע לשותפים לצמצם את העל�
 
 במסגרת מחקר TEI, השותפים דיווחו כי עם Microsoft 365 Business Premium הם מצפים: 
 
-- לגידול של 20% בהכנסות מהענקת שירותי פריסה וייעוץ חד פעמיים\] 
+- לגידול של 20% בהכנסות מהענקת שירותי פריסה וייעוץ \[חד פעמיים\] 
 - לגידול של 10% בשיעור המכירות המשניות (Attach Rate) של שירותים מנוהלים
-- לגידול של 8% בשולי הרווח מייעוץ ומשירותים מנוהלים \[מתמשכים (כתוצאה מהקיטון בעלויות)
+- לגידול של 8% בשולי הרווח מייעוץ ומשירותים מנוהלים \[מתמשכים\] (כתוצאה מהקיטון בעלויות)
 
 ### <a name="what-resources-are-available-to-partners-to-sell-deploy-and-support-microsoft-365-business-premium"></a>אילו משאבים זמינים לשותפים לצורך מכירה, פריסה ומתן תמיכה ל- Microsoft 365 Business Premium?
 Microsoft מספקת מגוון רחב של משאבים עבור שותפי CSP כדי לשווק, למכור ולספק תמיכה עבור Microsoft 365 Business Premium. ניתן למצוא אותם ב- [https://partners.office.com/microsoft365business](https://partners.office.com/microsoft365business).
