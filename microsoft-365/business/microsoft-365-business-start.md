@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: למד אודות Microsoft 365 עבור עסקים, כיצד להגדיר אותו וכיצד להכין את ההתקנים והמחשבים האישיים של המשתמשים כדי לוודא שהם מוגנים על-ידי Microsoft 365 לעסקים.
-ms.openlocfilehash: 17b142fb704d1b0be088a649490e751effb19517
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 8754c470cb6369f0814f953288be130fa49cea86
+ms.sourcegitcommit: 5476c2578400894640ae74bfe8e93c3319f685bd
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43633202"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44048084"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>התחל לעבוד עם Microsoft 365 לעסקים
 
@@ -44,7 +44,7 @@ Microsoft 365 לעסקים היא קבוצה מקיפה של כלים לפרוד
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Microsoft 365 לעסקים מיועדת לרשיונות של עד 300. אם אתה זקוק לרשיונות נוספים, עיין בתיעוד [הארגוני של Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=860986) לקבלת מידע נוסף. 
+Microsoft 365 לעסקים מיועדת לרשיונות של עד 300. אם אתה זקוק לרשיונות נוספים, עיין בתיעוד של [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) לקבלת מידע נוסף. 
   
 ## <a name="get-microsoft-365-for-business"></a>קבל את Microsoft 365 עבור עסקים
 
@@ -83,7 +83,7 @@ Microsoft 365 לעסקים מיועדת לרשיונות של עד 300. אם א�
     
     - השתמש באשף סינכרון הספריות כדי לסנכרן את המשתמשים לענן הצמתים. בצע את השלבים [בהגדרת סינכרון ספריות עבור Microsoft 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) כדי להשלים תהליך זה. לאחר סינכרון המשתמשים לענן הצמתים, יהיה עליך [לבטל סינכרון ספריות עבור Office 365](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d).
     
-    תצטרך גם לתת לכל משתמש שנוסף בדרך זו רשיון ל-Microsoft 365 לעסקים. באפשרותך לעשות זאת [באשף ההתקנה](set-up.md) או [להקצות רשיונות למשתמשים ב-Microsoft 365 עבור עסקים](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC).
+    תצטרך גם לתת לכל משתמש שנוסף בדרך זו רשיון ל-Microsoft 365 לעסקים. באפשרותך לעשות זאת [באשף ההתקנה](set-up.md) או [להקצות רשיונות למשתמשים ב-Microsoft 365 עבור עסקים](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
     
 ### <a name="2-prepare-mobile-devices"></a>2: הכנת מכשירים ניידים
 
