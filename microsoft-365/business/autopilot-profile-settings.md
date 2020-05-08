@@ -29,12 +29,12 @@ search.appverid:
 - MOE150
 ms.assetid: 99bfbf81-e719-4630-9b0f-c187edfa1f8a
 description: פרופילי טייס אוטומטי מסייעים לך לשלוט באופן שבו Windows מקבל התקנה בהתקני משתמש. הפרופילים מכילים הגדרות ברירת מחדל ואופציונליות כמו התקנת Cortana.
-ms.openlocfilehash: 5c2ec3f4c3e0ebc4ea545d11f819c897f414ad52
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 0c706d12ba262856ff40ea3bee57c64234fd77f7
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43627413"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165840"
 ---
 # <a name="about-autopilot-profile-settings"></a>אודות ההגדרות של פרופיל AutoPilot
 
@@ -47,7 +47,7 @@ ms.locfileid: "43627413"
 |**הגדרה**|**תיאור**|
 |:-----|:-----|
 |דלג קורטנה, OneDrive ורישום OEM  <br/> |דילוג על ההתקנה של יישומי הצרכן כמו Cortana ו OneDrive אישי. משתמש ההתקן יכול להתקין אותם מאוחר יותר, כל עוד המשתמש הוא מנהל מקומי בהתקן. המערכת תדלג על רישום היצרן המקורי מכיוון שההתקן ינוהל על-ידי Microsoft 365 Business Premium.  <br/> |
-|הירשם בניסיון עם מותג החברה שלך  <br/> |אם לחברה שלך יש [הוסף את מיתוג החברה שלך ל-Microsoft 365 לדף הכניסה](https://support.office.com/article/a1229cdb-ce19-4da5-90c7-2b9b146aef0a), משתמש ההתקן יקבל את החוויה הזאת בעת הכניסה.  <br/> |
+|הירשם בניסיון עם מותג החברה שלך  <br/> |אם לחברה שלך יש [הוסף את מיתוג החברה שלך ל-Microsoft 365 לדף הכניסה](https://docs.microsoft.com/microsoft-365/admin/setup/customize-sign-in-page), משתמש ההתקן יקבל את החוויה הזאת בעת הכניסה.  <br/> |
 |הרשמה אוטומטית של MDM עם חשבונות אד-מוגדרים שתצורתם נקבעה.  <br/> |זהות המשתמש תנוהל על-ידי החברה הפעילה של מיקרוסופט, והמשתמשים יוכלו להיכנס ל-Windows ו-Microsoft 365 עם האישורים העסקיים שלהם ב-Microsoft 365 Business Premium.  <br/> |
    
  **הגדרות אופציונליות:**

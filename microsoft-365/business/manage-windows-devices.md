@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: למד כיצד לאפשר ל-Microsoft 365 להגן על התקנים מקומיים המצורפים ל-Windows 10 באמצעות ספריות בתוך מספר צעדים בלבד.
-ms.openlocfilehash: 431c1be74723e156befb13ffe1ed98b48b9a23cb
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: adc125c32fe5aa56be8c17c07f28316602a36594
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43633282"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165808"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-for-business"></a>הפעל התקנים של Windows 10 המצורפים לתחום לניהול באמצעות Microsoft 365 עבור עסקים
 
@@ -53,7 +53,7 @@ ms.locfileid: "43633282"
 
 ## <a name="2-install-and-configure-azure-ad-connect"></a>2. התקנה והגדרה של התחברות תכלת
 
-כדי לסנכרן את המשתמשים, הקבוצות ואנשי הקשר שלך מ-Active Directory המקומי לתוך מדריך כחול פעיל, התקן את האפשרות התחבר לספריית המשימות הפעילה והגדר סינכרון ספריות. ראה [הגדרת סינכרון ספריות עבור Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) כדי ללמוד עוד.
+כדי לסנכרן את המשתמשים, הקבוצות ואנשי הקשר שלך מ-Active Directory המקומי לתוך מדריך כחול פעיל, התקן את האפשרות התחבר לספריית המשימות הפעילה והגדר סינכרון ספריות. ראה [הגדרת סינכרון ספריות עבור Office 365](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) כדי ללמוד עוד.
 
 > [!NOTE]
 > השלבים זהים בדיוק עבור Microsoft 365 עבור עסקים. 

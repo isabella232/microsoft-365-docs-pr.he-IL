@@ -21,12 +21,12 @@ search.appverid:
 - BCS160
 - MET150
 description: כוונן תכונות תאימות כדי למנוע אובדן נתונים ולסייע באבטחת המידע הרגיש שלך ושל הלקוחות שלך.
-ms.openlocfilehash: 523d020587bcf16e46263b88ee7654b9c786e7a2
-ms.sourcegitcommit: 5476c2578400894640ae74bfe8e93c3319f685bd
+ms.openlocfilehash: a3405207cd7d2d6565807ef0f3a51acbcb80409a
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44048064"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165736"
 ---
 # <a name="set-up-compliance-features"></a>כוונן תכונות תאימות
 
@@ -34,9 +34,9 @@ ms.locfileid: "44048064"
 
 ## <a name="set-up-dlp-features"></a>כוונן תכונות של DLP
 
-ראה [יצירת מדיניות DLP של מתבנית](https://support.office.com/article/59414438-99f5-488b-975c-5023f2254369) לדוגמה, כיצד להגדיר מדיניות להגנה מפני מידע המאפשר זיהוי אישי (PII). 
+ראה [יצירת מדיניות DLP של מתבנית](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template) לדוגמה, כיצד להגדיר מדיניות להגנה מפני מידע המאפשר זיהוי אישי (PII). 
   
-טכנולוגיית DLP מגיעה עם תבניות מדיניות רבות ומוכנות לשימוש עבור אזורים רבים ושונים. לדוגמה, הנתונים הפיננסיים של אוסטרליה, חוק המידע האישי של קנדה, הנתונים הפיננסיים של ארה ב, וכן הלאה. ראה [מה תבניות מדיניות ה-DLP כוללות](https://support.office.com/article/c2e588d3-8f4f-4937-a286-8c399f28953a) עבור רשימה מלאה. ניתן להפעיל את כל התבניות הללו בדומה לדוגמת התבנית PII. 
+טכנולוגיית DLP מגיעה עם תבניות מדיניות רבות ומוכנות לשימוש עבור אזורים רבים ושונים. לדוגמה, הנתונים הפיננסיים של אוסטרליה, חוק המידע האישי של קנדה, הנתונים הפיננסיים של ארה ב, וכן הלאה. ראה [מה תבניות מדיניות ה-DLP כוללות](https://docs.microsoft.com/microsoft-365/compliance/what-the-dlp-policy-templates-include) עבור רשימה מלאה. ניתן להפעיל את כל התבניות הללו בדומה לדוגמת התבנית PII. 
   
 ## <a name="set-up-email-retention-with-exchange-online-archiving"></a>הגדרת שמירת דואר אלקטרוני באמצעות ' ארכיון מקוון של Exchange '
 
