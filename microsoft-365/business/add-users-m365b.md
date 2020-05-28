@@ -21,17 +21,18 @@ ms.custom:
 - TRN_M365B
 - OKR_SMB_Videos
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
 description: למד את השלבים הבאים כדי להוסיף בקלות משתמשים חדשים, לאבטח את ההתקנים שלהם ולהקצות תפקידים ב-Microsoft 365 Business Premium.
-ms.openlocfilehash: d57f7470d53a6c80e04872726c634f67f091fb0d
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 9d2efe62ed1c48df5c10a765b8d3499934e6aebd
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43627473"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401073"
 ---
 # <a name="add-more-users"></a>הוספת משתמשים נוספים
 
@@ -45,8 +46,8 @@ ms.locfileid: "43627473"
 
 כדי להוסיף משתמש:
 
-1. <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. לך למרכז המנהלה 
-2. בחלונית הניווט השמאלית, **בחר** \> באפשרות משתמשים **פעילים**.
+1. . לך למרכז המנהלה https://admin.microsoft.com 
+2. בחלונית הניווט השמאלית, **בחר באפשרות משתמשים** \> **פעילים**.
 3. בדף ' **משתמשים פעילים** ', בחר **באפשרות ' הוסף משתמש**'.
 4. בחלונית **המשתמש החדשה** , הקלד את המידע הדרוש. 
   

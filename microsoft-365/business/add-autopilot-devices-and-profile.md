@@ -18,18 +18,19 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: למד כיצד להשתמש בטייס אוטומטי של Windows כדי להגדיר התקנים חדשים של Windows 10 עבור העסק שלך כך שהם מוכנים לשימוש בעובדים.
-ms.openlocfilehash: de14012ebf9e7cdd22e41505f316ab665773c670
-ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
+ms.openlocfilehash: efcb5442b34d2d42275cedc30e71ac98c7ea1266
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44165880"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401093"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>שימוש במדריך שלב אחר שלב להוספת מכשירים ופרופיל של Autopilot
 
@@ -49,7 +50,7 @@ ms.locfileid: "44165880"
 
 אם עדיין לא יצרת קבוצות או פרופילים של התקנים, הדרך הטובה ביותר להתחיל היא באמצעות המדריך צעד-אחר-צעד. באפשרותך גם [להוסיף התקנים](create-and-edit-autopilot-devices.md) [ולהקצות אליהם פרופילים](create-and-edit-autopilot-profiles.md) מבלי להשתמש במדריך. 
   
-1. <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. לך למרכז המנהלה
+1. . לך למרכז המנהלה https://admin.microsoft.com
 
 2. בחלונית הניווט השמאלית, בחר באפשרות **התקנים** \> **טייס אוטומטי**.
 

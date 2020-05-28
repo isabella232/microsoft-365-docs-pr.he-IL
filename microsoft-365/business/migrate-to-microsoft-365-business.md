@@ -18,17 +18,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: למד את ההבדל בין Microsoft 365 Business Standard ו-Microsoft 365 Business Premium וכיצד באפשרותך לשדרג ל-Microsoft 365 Business Premium.
-ms.openlocfilehash: 20a4162f74a9cb0e943195a589fd2d964f773f48
-ms.sourcegitcommit: eb3c7f473e8fe62624f52c9bb38dcd6a96fa58a3
+ms.openlocfilehash: bdab8165623170926b17efa4cae9408b78a2f5f5
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045979"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401381"
 ---
 # <a name="upgrade-to-microsoft-365-business-premium-from-microsoft-365-business-standard"></a>שדרג ל-Microsoft Business Premium 365 מחברת מיקרוסופט 365 עסקים סטנדרטית
 
@@ -55,9 +56,9 @@ ms.locfileid: "44045979"
 
 ## <a name="upgrade-to-microsoft-365-business-premium"></a>שדרג ל-Microsoft Business Premium 365
 
-1. היכנס למרכז המנהלה <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+1. היכנס למרכז המנהלה https://admin.microsoft.com .
 
-2. עבור אל חלונית הניווט ובחר **חיוב** \> **את המוצרים שלך**. מצא את המנוי הנוכחי שלך ובחר אותו כדי להציג את הפרטים.
+2. עבור אל חלונית הניווט ובחר **בחיוב** \> **המוצרים שלך**. מצא את המנוי הנוכחי שלך ובחר אותו כדי להציג את הפרטים.
 
 3. בעמוד הבא, בחר באפשרות **שדרג**.
 
@@ -85,7 +86,7 @@ ms.locfileid: "44045979"
 
 כעת, לאחר ש-Microsoft 365 מוקצית לרשיונות עסקיים של מיקרוסופט, שלבים מלאים כדי להתחיל להגן על התקנים וקבצים. תשתמש בכמה אפשרויות חדשות הכלולות בחלונית הניווט של מרכז הניהול.
   
-1. במרכז הניהול, בחלונית הניווט, עבור אל **מדיניות** **התקנים** \> .
+1. במרכז הניהול, בחלונית הניווט, עבור אל **Devices** \> **מדיניות**התקנים.
 
 2. בדף ' **מדיניות התקן** ', בחר באפשרות ' **הוסף**'.
 
