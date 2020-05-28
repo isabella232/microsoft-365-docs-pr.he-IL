@@ -18,17 +18,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
 description: גלה כיצד להשתמש ב-Microsoft 365 לצורך עסקים כדי להסיר נתוני חברה שיש למשתמשים בהתקנים או במחשבי Windows שלהם.
-ms.openlocfilehash: 80997a48bb3924ab20f16a454120d24caf76e1e7
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 42784149fcf6b850e7d0483c17dd605e7ecb7cf0
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43634847"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402785"
 ---
 # <a name="remove-company-data-from-devices"></a>הסרת נתוני חברה ממכשירים
 
@@ -38,9 +39,9 @@ ms.locfileid: "43634847"
 
 באפשרותך להשתמש ב-Microsoft 365 עבור עסקים כדי להסיר נתוני חברה שיש למשתמשים שלך [בהתקנים](app-protection-settings-for-android-and-ios.md) או [במחשבי Windows](protection-settings-for-windows-10-devices.md) המוגנים על-ידי microsoft 365. **אם תסיר נתוני חברה ממכשיר, לא תוכל לשחזר אותם לאחר מכן**. 
   
-1. <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. לך למרכז המנהלה
+1. . לך למרכז המנהלה https://admin.microsoft.com
     
-2. בניווט השמאלי, בחר באפשרות ' **התקנים** \> **'.**  
+2. בניווט השמאלי, בחר באפשרות ' **התקנים** ' \> **Manage**.  
   
 3. בדף **ניהול** , בחר או חפש משתמש הנתונים שברצונך להסיר ובחר את השם. 
     
@@ -48,7 +49,7 @@ ms.locfileid: "43634847"
     
     ![בחלונית הנתונים הסרת החברה, בחר את ההתקן שממנו ברצונך להסיר את הנתונים.](../media/resetorremove.png)
   
-5. בחלונית האישור, בחר ' **אשר** \> **סגירה**'.
+5. בחלונית האישור, בחר באפשרות ' **אשר** \> **סגירה**'.
     
 
 

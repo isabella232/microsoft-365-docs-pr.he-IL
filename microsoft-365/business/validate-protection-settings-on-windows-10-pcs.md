@@ -17,17 +17,18 @@ ms.custom:
 - Core_O365Admin_Migration
 - MSB365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
 description: אמת את הגדרות ההגנה העסקית של Microsoft 365 Business Premium בהתקנים של Windows 10 וודא שלמשתמשים אין אפשרות להעתיק נתוני חברה לקבצים אישיים או ליישומים שאינם מנוהלים.
-ms.openlocfilehash: 20b2e43ae53486c046440ff1066d241ec9661888
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 589d2fc25cc1425a775523595881660cc03e152e
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635743"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403389"
 ---
 # <a name="validate-app-protection-settings-on-windows-10-pcs"></a>אימות הגדרות הגנה של אפליקציות במחשבי Windows 10
 
@@ -37,11 +38,11 @@ ms.locfileid: "43635743"
   
  **אימות הגדרות חיבור**
   
-1. לאחר שתתחבר עם האישורים של microsoft 365 הפרמיה העסקית ותתחבר לתכלת כמתואר [בהגדרת windows התקנים עבור משתמשי Premium של משתמשים עסקיים של microsoft 365](set-up-windows-devices.md), עבור **לחשבונות** \> **של windows הגדרות** \> **גישה לעבודה או לבית הספר**. Choose **Connected to \<tenant name\> Azure AD**, and then choose **Info**.
+1. לאחר שתתחבר עם האישורים של microsoft 365 הפרמיה העסקית ותתחבר לתכלת כמתואר [בהגדרת windows התקנים עבור משתמשי Premium של משתמשים עסקיים של microsoft 365](set-up-windows-devices.md), עבור לחשבונות **של windows הגדרות** \> **Accounts** \> **גישה לעבודה או לבית הספר**. בחר \<tenant name\>ולאחר מכן בחר **מידע**.
     
     ![Click or tap Info on the Connected to Azure AD dialog.](../media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
   
-2. בדף ' **מנוהל על-ידי** \<שם\> דייר ', באפשרותך לראות את **מידע החיבור** הכולל **כתובת שרת ניהול** כמו זו המוצגת באיור הבא. 
+2. בעמוד **מנוהל על-ידי** \<tenant name\> , באפשרותך לראות את **מידע החיבור** הכולל **כתובת שרת ניהול** כמו האפשרות המוצגת באיור הבא. 
     
     ![Managed by page shows connection info of the device manager URL.](../media/47515a8e-2d0c-4bea-99f0-6b2545b88a11.png)
   
@@ -63,11 +64,11 @@ ms.locfileid: "43635743"
 
  **אימות הגדרות חיבור**
   
-1. בהתקן האישי של windows 10 שבו אתה מחובר כמשתמש מקומי, עבור אל **הגדרות Windows**ולחץ או הקש על **חשבון** \> **גישה לעבודה או בית ספר**.
+1. בהתקן האישי של windows 10 שבו אתה מחובר כמשתמש מקומי, עבור אל ' **הגדרות Windows**' ולחץ על הלחצן עבודה או על הקשה על **חשבונות** \> **גישה**.
     
 2. תחת **גישה לחשבון בעבודה או בבית ספר**, בחר **התחבר**.
     
-3. הזן את אישור הפרמיה העסקי שלך ב-Microsoft 365 לתוך הגדרת \> **כניסה** **לעבודה או לחשבון בית ספר** .
+3. הזן את האישור שלך ב-Microsoft 365 Business Premium לתוך **הגדרת כניסה לעבודה או לחשבון בית ספר** \> **Sign in**.
     
 4. בדף **גישה לחשבון בעבודה או בבית ספר**, בחר את ה **חשבון בעבודה או בבית ספר** ולאחר מכן בחר **פרטים**.
     

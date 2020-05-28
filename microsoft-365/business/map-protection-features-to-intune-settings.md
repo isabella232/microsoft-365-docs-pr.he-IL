@@ -20,17 +20,18 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: aad21b1a-c775-469a-b89c-c5d1d59d27db
 description: למד כיצד תכונות הגנה ב-Microsoft 365 Business Premium ממפה להגדרות Intune. המנוי מספק רשיון לשינוי הגדרות Intune.
-ms.openlocfilehash: 572d3364e465067536e8369b49404d3d1de1bb5b
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: ce75073f748f6005a843e31f7c38d06b38a3c706
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43633242"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401577"
 ---
 # <a name="how-do-protection-features-in-microsoft-365-business-premium-map-to-intune-settings"></a>כיצד לבצע תכונות הגנה ב-Microsoft 365 Business Premium מפה להגדרות Intune
 
@@ -44,7 +45,7 @@ ms.locfileid: "43633242"
  > 
  > מנוי של מיקרוסופט 365 Business Premium מעניק לך רישיון לשינוי כל הגדרות Intune. ראה [מבוא לIntune כדי להתחיל.](https://docs.microsoft.com/intune/introduction-intune)
   
-בחר את שם המדיניות הרצוי &mdash; לדוגמה, מדיניות יישום &mdash; עבור Android ולאחר מכן בחר **הגדרות מדיניות**.
+בחר את שם המדיניות הרצוי &mdash; לדוגמה, מדיניות יישום עבור Android &mdash; ולאחר מכן בחר **הגדרות מדיניות**.
   
 תחת **הגן על קבצי עבודה כאשר מכשירים אובדים או נגנבים**
   
@@ -95,7 +96,7 @@ ms.locfileid: "43633242"
 
 הטבלה הבאה מפרטת כיצד הגדרות תצורת המכשיר של Windows 10 ממופות להגדרות Intune.
   
-כדי למצוא את ההגדרה Intune, היכנס באמצעות אישורי ניהול פרימיום של Microsoft 365, ועבור [לפורטל התכלת](https://portal.azure.com), בחר **שירותים נוספים**והקלד ב-Intune לתוך **המסנן**, בחר באפשרות **Intune** \> \> **פרופילי** **תצורת התקן** . Then select **Device policy for Windows 10** \> **Properties** \> **Settings**.
+כדי למצוא את ההגדרה Intune, היכנס באמצעות אישורי ניהול פרימיום של Microsoft 365, ועבור [לפורטל התכלת](https://portal.azure.com), בחר **שירותים נוספים**והקלד ב-Intune לתוך **המסנן**, בחר באפשרות **Intune** \> **פרופילי תצורת התקן** \> **Profiles**. Then select **Device policy for Windows 10** \> **Properties** \> **Settings**.
   
 |**הגדרת מדיניות מכשיר של Windows 10**|**הגדרות Intune**|
 |:-----|:-----|
@@ -103,9 +104,9 @@ ms.locfileid: "43633242"
 |עזור להגן על מחשבי PC מפני איומים מבוססי אינטרנט ב- Microsoft Edge  <br/> |**SmartScreen** ב **הגדרות דפדפן Microsoft Edge** מוגדר כ **נדרש**.  <br/> |
 |כבה את מסך המכשיר כאשר הוא לא פעיל במשך (דקות)  <br/> |מספר מקסימלי של דקות של חוסר פעילות עד שהמסך ננעל (דקות)  <br/> |
 |אפשר למשתמשים להוריד אפליקציות מ- Microsoft Store  <br/> |מדיניות URI מותאמת אישית  <br/> |
-|אפשר למשתמשים לגשת ל- Cortana  <br/> |**כללי** \> **cortana** מוגדר **לחסום** ב Intune כאשר מוגדר **לבטל** ב-Microsoft 365 עסקים פרימיום.  <br/> |
+|אפשר למשתמשים לגשת ל- Cortana  <br/> |**כלליות** \> **Cortana** מוגדר **לחסום** ב Intune כאשר מוגדר **לבטל** ב-Microsoft 365 עסקים פרימיום.  <br/> |
 |אפשר למשתמשים לקבל עצות ופרסומות בנושא Windows מ- Microsoft  <br/> |**זרקור של חלונות**, כולם חסומים אם זה מוגדר **לבטל** ב-Microsoft 365 Business Premium.  <br/> |
-|עדכן מכשירים של Windows 10 באופן אוטומטי  <br/> | הגדרה זו נמצאת בעדכוני השירות של **Microsoft Intune** \> **-Windows 10 Update צלצולים**, בחר **מדיניות עדכון עבור התקני Windows 10**ולאחר מכן **הגדרות** **מאפיינים** \> .  <br/>  כאשר ההגדרה העסקית Premium של Microsoft 365 Business מוגדרת **כ-, כל**ההגדרות הבאות מוגדרות:  <br/> **ענף השירות** מוגדר כ- **CB** (cbb כאשר הדבר מכובה ב-Microsoft 365 Business Premium).  <br/> **עדכוני מוצר של Microsoft** מוגדר ל **אפשר**.  <br/> **מנהלי התקן של Windows** מוגדר ל **אפשר**.  <br/> **אופן פעולה של עדכון אוטומטי** מוגדר ל **התקנה אוטומטית במועד התחזוקה** עם:  <br/> **התחלה לאחר שעות הפעילות** מוגדר ל- **06:00**.  <br/> **סיום בשעות הפעילות** מוגדר ל- **22:00**.  <br/> **תקופת דחייה של עדכון איכות (ימים)** מוגדר ל- **0**.  <br/> **תקופת דחייה של עדכון תכונות (ימים)** מוגדר ל- **0**.  <br/> **מצב הורדה של מיטוב מסירה** מוגדר ל- **HTTP משולב עם מחשבים עמיתים מאחורי אותו NAT**.  <br/> |
+|עדכן מכשירים של Windows 10 באופן אוטומטי  <br/> | הגדרה זו נמצאת **Microsoft Intune** \> **בעדכוני השירות של Microsoft Intune-Windows 10 Update צלצולים**, בחר **מדיניות עדכון עבור התקני Windows 10**ולאחר מכן **Properties** \> **הגדרות**מאפיינים.  <br/>  כאשר ההגדרה העסקית Premium של Microsoft 365 Business מוגדרת **כ-, כל**ההגדרות הבאות מוגדרות:  <br/> **ענף השירות** מוגדר כ- **CB** (cbb כאשר הדבר מכובה ב-Microsoft 365 Business Premium).  <br/> **עדכוני מוצר של Microsoft** מוגדר ל **אפשר**.  <br/> **מנהלי התקן של Windows** מוגדר ל **אפשר**.  <br/> **אופן פעולה של עדכון אוטומטי** מוגדר ל **התקנה אוטומטית במועד התחזוקה** עם:  <br/> **התחלה לאחר שעות הפעילות** מוגדר ל- **06:00**.  <br/> **סיום בשעות הפעילות** מוגדר ל- **22:00**.  <br/> **תקופת דחייה של עדכון איכות (ימים)** מוגדר ל- **0**.  <br/> **תקופת דחייה של עדכון תכונות (ימים)** מוגדר ל- **0**.  <br/> **מצב הורדה של מיטוב מסירה** מוגדר ל- **HTTP משולב עם מחשבים עמיתים מאחורי אותו NAT**.  <br/> |
 |||
    
 

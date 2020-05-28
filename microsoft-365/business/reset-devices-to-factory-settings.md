@@ -18,17 +18,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
 description: למד כיצד להשתמש ב-Microsoft 365 עבור עסקים כדי לאפס התקנים של Windows 10 שאתה מנהל, ומחזיר אותם להגדרות המקוריות שלהם בקנייה.
-ms.openlocfilehash: 7cf5619cb1b6f5f847690d723381614d4b7afc3c
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 62585828274652e48b6c6d3654faa8c20fb4caba
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43634791"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402765"
 ---
 # <a name="reset-windows-10-devices-to-their-factory-settings"></a>איפוס מכשירי Windows 10 להגדרות היצרן שלהם
 
@@ -36,9 +37,9 @@ ms.locfileid: "43634791"
 
 איפוס להגדרות יצרן מחזיר מכשיר להגדרות המקוריות שהופיעו במכשיר בעת רכישתו. כל האפליקציות והנתונים במכשיר שהותקנו לאחר הרכישה יוסרו. באפשרותך להשתמש ב-Microsoft 365 עבור עסקים כדי לאפס התקני Windows 10 שאתה מנהל.
   
-1. <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. לך למרכז המנהלה
+1. . לך למרכז המנהלה https://admin.microsoft.com
     
-2. בניווט השמאלי, בחר באפשרות ' **התקנים** \> **'.**
+2. בניווט השמאלי, בחר באפשרות ' **התקנים** ' \> **Manage**.
 
 3. בדף **ניהול** , בדוק את תיבת הסימון לצד ההתקן שממנו ברצונך להסיר נתונים ולאחר מכן, **באיפוס**הרשימה הנפתחת של **ניהול** בחירה.
     

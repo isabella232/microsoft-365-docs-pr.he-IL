@@ -17,17 +17,18 @@ ms.custom:
 - Core_O365Admin_Migration
 - MSB365
 - OKR_SMB_M365
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: f3433b6b-02f7-447f-9d62-306bf03638b0
 description: למד כיצד לאמת את מיקרוסופט 365 עסקים Premium app הגדרות הגנה באמצעות אנדרואיד או iOS התקנים.
-ms.openlocfilehash: d25a23bc8eb56e05bd74f7bf4658ee9e18dc41f8
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: d4b8ec3ff3a15c25133b20d437249611530977a5
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635723"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403369"
 ---
 # <a name="validate-app-protection-settings-on-android-or-ios-devices"></a>אימות הגדרות הגנה app על אנדרואיד או מכשירי iOS
 
@@ -41,7 +42,7 @@ ms.locfileid: "43635723"
   
 ראשית, ודא שהמדיניות חלה על היישום שבו אתה עומד לאמת אותו.
   
-1. [במרכז הניהול](https://portal.office.com)פרימיום של Microsoft 365, **עבור אל מדיניות** \> **עריכת מדיניות**.
+1. [במרכז הניהול](https://portal.office.com)Premium של Microsoft 365 Business, עבור **אל מדיניות** \> **עריכת מדיניות**.
     
 2. בחר **מדיניות יישום עבור Android** עבור ההגדרות שיצרת בתוכנית ההתקנה, או מדיניות אחרת שיצרת וודא שהיא נאכפת עבור Outlook, לדוגמה. 
     
@@ -130,7 +131,7 @@ ms.locfileid: "43635723"
   
 ראשית, ודא שהמדיניות חלה על היישום שבו אתה עומד לאמת אותו.
   
-1. [במרכז הניהול](https://portal.office.com)פרימיום של Microsoft 365, **עבור אל מדיניות** \> **עריכת מדיניות**.
+1. [במרכז הניהול](https://portal.office.com)Premium של Microsoft 365 Business, עבור **אל מדיניות** \> **עריכת מדיניות**.
     
 2. בחר **מדיניות יישום עבור iOS** עבור ההגדרות שיצרת בתוכנית ההתקנה, או מדיניות אחרת שיצרת וודא שהיא נאכפת עבור Outlook לדוגמה. 
     

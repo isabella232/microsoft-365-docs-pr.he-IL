@@ -17,16 +17,17 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 description: כוונן תכונות תאימות כדי למנוע אובדן נתונים ולסייע באבטחת המידע הרגיש שלך ושל הלקוחות שלך.
-ms.openlocfilehash: a3405207cd7d2d6565807ef0f3a51acbcb80409a
-ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
+ms.openlocfilehash: 9b900367c22ec5bb5c2719af63049045ecd5e466
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44165736"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402693"
 ---
 # <a name="set-up-compliance-features"></a>כוונן תכונות תאימות
 
@@ -46,7 +47,7 @@ ms.locfileid: "44165736"
     
 כדי למקם תיבת דואר בחסימה ליטיגציה, במרכז הניהול:
     
-1. בניווט השמאלי, עבור אל **המשתמשים** \> **הפעילים**של המשתמשים.
+1. בניווט השמאלי, עבור אל **משתמשים** \> **פעילים**של המשתמשים.
     
 2. בחר משתמש שאת תיבת הדואר שלו ברצונך למקם בחסימה לתביעה משפטית. בחלונית המשתמש, הרחב את **הגדרות הדואר**ולאחר מכן **הגדרות נוספות**, בחר באפשרות ' **ערוך מאפייני Exchange**'.
     

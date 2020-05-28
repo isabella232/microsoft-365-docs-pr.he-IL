@@ -18,17 +18,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: למד אודות תכונות האבטחה הנמצאות עם Microsoft 365 Business Premium כדי לסייע בהגנה על הנתונים שלך במחשבים, בטלפונים ובטבליות.
-ms.openlocfilehash: f6aef84afc76217161dee6b68d626128e0cc15b2
-ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
+ms.openlocfilehash: 839b5481e27591e1762a0d8eb5623f279d6d22dd
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44165756"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402713"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>מיקרוסופט 365 עסקים פרמיה תכונות אבטחה ותאימות
 
@@ -64,7 +65,7 @@ ms.locfileid: "44165756"
 
 תכונות מתקדמות ב-Microsoft 365 Business Premium זמינים כדי לסייע לך להגן על העסק שלך מפני איומי סייבר ולהגן על מידע רגיש.
   
-- **[הגנת האיום המתקדם של Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)**
+- [**הגנת האיום המתקדם של Office 365**](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)
     
     הגנת האיומים המתקדמת (ATP) מסייעת לשמור על העסק שלך מפני התקפות דיוג וransomware מתוחכמות המיועדות לפגוע בפרטי העובד או הלקוח. התכונות כוללות:
     
@@ -72,10 +73,10 @@ ms.locfileid: "44165756"
     
   - בדיקות אוטומטיות של קישורים בדואר אלקטרוני כדי להעריך אם הם מהווים חלק ממזימת דיוג. פעולה זו שומרת עליך מפני גישה לאתרים לא בטוחים.
 
-- **[היכולות המלאות של Intune בפורטל התכלת](https://go.microsoft.com/fwlink/p/?linkid=871403)**
+- [**היכולות המלאות של Intune בפורטל התכלת**](https://go.microsoft.com/fwlink/p/?linkid=871403)
     
     גישה למרכז admin Intune בפורטל תכלת מאפשר לך להגדיר תכונות אבטחה נוספות, כגון ניהול של התקני MacOS, iPhone, והתקנים אנדרואיד, יחד עם ניהול התקנים מתקדמים עבור Windows, כי אינם זמינים באמצעות Microsoft 365 admin מרכז.
-- **[גישה מותנית](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) זהה לתוכנית תכלת לספירה Premium P1**
+- [**גישה מותנית** זהה לתוכנית תכלת לספירה Premium P1](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)
 
 
     ' גישה מותנית ' יכולה לסייע בהגנה על הארגון שלך מפני סיכוני כניסה, גישה לנסיונות מרשת או אזור לא צפויים, access מנסה לקבל מסוגי התקנים מסוכנים וכן הלאה. מדיניות גישה מותנית נאכפת לאחר השלמת האימות הראשון, והיא משתמשת באותות מאירוע האימות הראשון כדי לקבוע אם יש לקבל את הגישה לאישור, נדחתה או אם יש צורך בהוכחה נוספת (כגון סוג הזיהוי השני).
@@ -97,7 +98,7 @@ ms.locfileid: "44165756"
 
 המנוי שלך ל-Microsoft Business Premium 365 כולל תכונות המסייעות לך לשמור על תאימות וסטנדרטים רגולציה.
 
-- **[סקירה של מדיניות מניעת אובדן נתונים](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)** (DLP). 
+- [**סקירה של מדיניות מניעת אובדן נתונים**](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies) (DLP). 
     
     באפשרותך להגדיר את טכנולוגיית DLP כך שתאתר באופן אוטומטי מידע רגיש, כגון מספרי כרטיסי אשראי, מספרי ביטוח לאומי וכן הלאה, כדי למנוע את השיתוף היוצא מגדר שלהם מחוץ לחברה שלך.
     
@@ -109,7 +110,7 @@ ms.locfileid: "44165756"
 
    מיקרוסופט 365 עסקים Premium כולל את כל התכונות של [התוכנית הגנת מידע תכלת 1](https://go.microsoft.com/fwlink/p/?linkid=871407). באמצעות תוכנית זו, באפשרותך ליצור **תוויות רגישות** המאפשרות לך לשלוט בגישה למידע רגיש בדואר אלקטרוני ובמסמכים, עם פקדים כגון "אל תעביר" ו-"אל תעתיק". באפשרותך גם לסווג מידע רגיש כ-"סודי" ולציין כיצד ניתן לשתף מידע מסווג בחוץ ובתוך העסק. הצפנה ברמה ארגונית קלה להחלה על דואר אלקטרוני ומסמכים כדי לשמור על פרטי המידע שלך. באפשרותך גם להתקין את התוספת של לקוח הגנת מידע תכלת עבור יישומי Office. לקבלת מידע נוסף, ראה [לקוח מאוחד לתיוג מידע בתכלת](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). בתוויות רגישות, התקן את ה- **AzInfoProtection_UL. exe**.
 
-באפשרותך לנהל תכונות אלה במרכז &amp; תאימות האבטחה ובמרכז הניהול של Intune. עם הזמן, הפקדים הפשוטים יתווספו למרכז הניהול של Microsoft 365.
+באפשרותך לנהל תכונות אלה &amp; במרכז תאימות האבטחה ובמרכז הניהול של Intune. עם הזמן, הפקדים הפשוטים יתווספו למרכז הניהול של Microsoft 365.
   
     
 ## <a name="faq"></a>שאלות נפוצות
@@ -126,4 +127,4 @@ ms.locfileid: "44165756"
     
     ![בניווט השמאלי במרכז הניהול של Microsoft 365, בחר במרכזי ניהול.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
-3. בחר **בתאימות אבטחה &amp; ** כדי לעבור &amp; אל מרכז תאימות אבטחה.
+3. בחר &amp; כדי לעבור אל &amp; מרכז תאימות אבטחה.

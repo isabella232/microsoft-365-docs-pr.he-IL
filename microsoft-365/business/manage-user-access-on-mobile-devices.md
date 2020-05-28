@@ -20,18 +20,19 @@ ms.custom:
 - MiniMaven
 - MSB365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: aa31319c-9196-48c9-a90b-4057e0494c7a
 description: למד אודות מדיניות הגנה המאפשרת לך לנהל את אופן הגישה של משתמשים ליישומי Office ולקבצי עבודה ממכשירים ניידים.
-ms.openlocfilehash: 870706103a6c05e2e193c80f7a586eab529bb1e7
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: f613e518c3607010cae55443456be9d3ddc3d689
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561499"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403077"
 ---
 # <a name="manage-how-users-access-office-documents-on-mobile-devices"></a>נהל את האופן שבו המשתמשים ניגשים למסמכי Office במכשירים ניידים
 

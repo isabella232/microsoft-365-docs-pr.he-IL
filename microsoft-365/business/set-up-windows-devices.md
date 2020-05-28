@@ -20,17 +20,18 @@ ms.custom:
 - TRN_M365B
 - OKR_SMB_Videos
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: למד כיצד להגדיר התקני Windows שבהם פועל Windows 10 Pro עבור משתמשי Microsoft Business Premium 365, המאפשרים ניהול מרוכז ובקרת אבטחה.
-ms.openlocfilehash: efe81a5547496f502232e1db2f3f092165475641
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: ecd9f5aa348d29d34e77061657619c015b09c41a
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635451"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402957"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>הגדרת התקני Windows עבור משתמשי Microsoft Business Premium 365
 
@@ -104,7 +105,7 @@ ms.locfileid: "43635451"
   
 ## <a name="verify-the-device-is-connected-to-azure-ad"></a>אימות שהמכשיר מחובר ל- Azure AD
 
-כדי לאמת את מצב הסינכרון שלך, בדף **גישה לחשבון עבודה או בית ספר** ב **הגדרות**, לחץ באזור **מחובר ל** _ \<organization name\> _ כדי לחשוף את הלחצנים **מידע** ו **התנתק**. לחץ על **מידע** כדי לקבל את מצב הסינכרון. 
+כדי לאמת את מצב הסינכרון, בדף **עבודה או בית ספר** **בהגדרות**של Access, לחץ באזור **המחובר אל** _ \<organization name\> _ כדי לחשוף את **פרטי** הלחצנים **והתנתק**. לחץ על **מידע** כדי לקבל את מצב הסינכרון. 
   
 בדף 'מצב סינכרון', לחץ על 'סינכרון' כדי לקבל את פריטי מדיניות הניהול העדכניים ביותר של המכשיר הנייד במחשב ה- PC.
   

@@ -17,17 +17,18 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: bd66c26c-73a4-45a8-8642-3ea4ee7cd89d
 description: למד אודות ברירת מחדל והגדרות אחרות הזמינות ב-Microsoft 365 עבור עסקים כדי לאבטח התקני Windows 10.
-ms.openlocfilehash: 9096fb6a8fc790d9a9432578cfd8623f9cb69c7a
-ms.sourcegitcommit: bd8d55f82ca008af1b93a9bb4d1545f68e8188ad
+ms.openlocfilehash: 0403ea2c30221dd5693b7f3e9b4921ad175399a1
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44011566"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402805"
 ---
 # <a name="set-device-protection-settings-for-windows-10-pcs"></a>קביעת הגדרות הגנה על מכשירים עבור מחשבי PC של Windows 10
 
@@ -37,9 +38,9 @@ ms.locfileid: "44011566"
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/a5734146-620a-4cec-8618-536b3ca37972?autoplay=false]
   
-1. <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. לך למרכז המנהלה 
+1. . לך למרכז המנהלה https://admin.microsoft.com 
     
-2. בניווט השמאלי, בחר באפשרות **מדיניות** \> **Add** **התקנים** \> .
+2. בניווט השמאלי, בחר **Devices** באפשרות \> **מדיניות** התקנים \> **Add**.
   
 3. בחלונית **הוסף מדיניות**, הזן שם ייחודי עבור מדיניות זו. 
     

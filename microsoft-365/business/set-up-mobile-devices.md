@@ -19,17 +19,18 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: התקנת Office ב-iPhone או טלפון אנדרואיד, וקבצי העבודה שלך ב-Office apps יהיה מוגן על ידי Microsoft 365 עבור עסקים.
-ms.openlocfilehash: 1263a922ba41083511fec8030634ed6cfaf70f00
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: e96e2edc0fc2bc25449d8f50239fa25179b345bd
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43632566"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402997"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>הגדרת התקנים ניידים עבור Microsoft 365 עבור משתמשים עסקיים
 
@@ -59,7 +60,7 @@ ms.locfileid: "43632566"
   
 ![Screenshot of Outlook with Get Started button](../media/005bedec-ae50-4d75-b3bb-e7cef9e2561c.png)
   
-הזן את כתובת הדואר האלקטרוני שלך בעבודה \> **בחשבון**הוספת המסך של \> **חשבון הדואר האלקטרוני** ולאחר מכן הזן את Microsoft 365 עבור **הכניסה**לאישורים עסקיים.
+הזן את כתובת הדואר האלקטרוני שלך בעבודה בחשבון הוספת המסך של **חשבון הדואר האלקטרוני** \> **Add Account**ולאחר מכן הזן את Microsoft 365 עבור \> **הכניסה**לאישורים עסקיים.
   
 ![Sign in to your work account](../media/3cef1fb5-7bec-4d3d-8542-872b731ce19f.png)
   
@@ -87,7 +88,7 @@ ms.locfileid: "43632566"
   
 ![Tap Open to open Outlook app](../media/8b4c5937-8875-4b5a-a5b6-b8c6c9cd6240.png)
   
-ביישום Outlook, הקש על **תחילת**העבודה ולאחר מכן הוסף את ה- \> Microsoft 365 שלך לחשבון דואר אלקטרוני עסקי **המשך**, והיכנס עם האישורים של הארגון שלך.
+ביישום Outlook, הקש על **תחילת**העבודה ולאחר מכן הוסף את מיקרוסופט 365 עבור חשבון הדואר האלקטרוני העסקי שלך \> **להמשיך**, והיכנס עם אישורי הארגון שלך.
   
 ![Sign in to your organizational account in Outlook](../media/18f67c66-4bab-4b99-94bd-080839312e29.png)
   
