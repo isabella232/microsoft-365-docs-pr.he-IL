@@ -20,17 +20,18 @@ ms.custom:
 - TRN_M365B
 - OKR_SMB_Videos
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: גלה דרכים שבהן באפשרותך לשדרג את התקני Windows שלך ל-Windows 10 Pro כדי לנצל תכונות מתקדמות יותר של אבטחה ורשתות עסקיות.
-ms.openlocfilehash: f0cedda49dbff2a8c2884bb52e240fabfbeb4537
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: c982f59ded0b0d2e1cd321f5856b38bd792eebed
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43632050"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403529"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>שדרג את התקני Windows ל-Windows 10 Pro
 
@@ -44,11 +45,11 @@ ms.locfileid: "43632050"
   
 כדי לשדרג ל-Windows 10 Pro, יש לך מספר אפשרויות. אתה יכול:
     
-- התקן את &ndash; השדרוג [מאתר הורדת התוכנה של Microsoft](https://go.microsoft.com/fwlink/?LinkID=836951 ) בחר באפשרות זו אם ההתקן שאתה מחובר אליו נמצא באותו התקן שבו ברצונך לעדכן. 
+- התקן את השדרוג [מאתר הורדת התוכנה של Microsoft](https://go.microsoft.com/fwlink/?LinkID=836951 ) &ndash; בחר באפשרות זו אם ההתקן שאתה מחובר אליו נמצא באותו התקן שבו ברצונך לעדכן. 
 
     - מאתר ההורדות של התוכנה, לחץ על **עדכון כעת** כדי להתחיל לשדרג את המכשיר ל-Windows 10 היוצרים Pro עדכון. 
     
-- צור מדיית התקנה באמצעות &ndash; [כלי יצירת המדיה](https://go.microsoft.com/fwlink/?LinkID=836960) בחר באפשרות זו כדי ליצור windows 10 יוצרי Pro עדכון מדיית התקנה (כונן הבזק מסוג USB או קובץ ISO) כדי להתקין את windows 10 במחשב שונה מזה שבו אתה משתמש.
+- צור מדיית התקנה באמצעות [הכלי יצירת מדיה](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; בחר באפשרות זו כדי ליצור Windows 10 יוצרי Pro עדכון מדיית ההתקנה (כונן הבזק מסוג USB או קובץ ISO) כדי להתקין את WINDOWS 10 במחשב שונה מזה שבו אתה משתמש.
 
     - קרא את ההוראות לגבי אופן השימוש בכלי וצור את מדיית ההתקנה. 
 

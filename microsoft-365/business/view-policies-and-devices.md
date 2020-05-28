@@ -17,17 +17,18 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
 description: הצגת מדיניות ופעולות של התקן על-ידי כניסה ל-Microsoft 365 עבור עסקים עם אישורי מנהל כללי.
-ms.openlocfilehash: e514b48c17de492bd1eaa75b48418ce0f2ff493e
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: f65365584d8b05f4df012d9f5727a74c33c06ae8
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635683"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403569"
 ---
 # <a name="view-and-manage-policies-and-devices"></a>הצגה וניהול של מדיניות והתקנים
 
@@ -35,8 +36,8 @@ ms.locfileid: "43635683"
 
 ## <a name="view-and-edit-device-policies"></a>הצגה ועריכה של מדיניות התקנים
 
-1.  <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. לך למרכז המנהלה
-2. בניווט השמאלי, בחרו ' **מדיניות** **התקנים** \> '.
+1.  . לך למרכז המנהלה https://admin.microsoft.com
+2. בניווט השמאלי, בחר **Devices** \> **בפריטי מדיניות**של התקנים.
 
     בדף זה, באפשרותך ליצור, לערוך, לשנות קבוצת יעד או למחוק מדיניות.
 
@@ -44,7 +45,7 @@ ms.locfileid: "43635683"
   
 ## <a name="view-and-manage-devices"></a>הצג ונהל התקנים
 
-1. בניווט השמאלי, בחר באפשרות ' **התקנים** \> **'.** 
+1. בניווט השמאלי, בחר באפשרות ' **התקנים** ' \> **Manage**. 
     
     בדף זה, באפשרותך לבחור התקן אחד או יותר ולהסיר נתוני חברה. עבור מכשירי Windows 10 שקבעת עבורם הגדרות של הגנה על מכשיר, באפשרותך גם לאפס את המכשיר להגדרות היצרן.
   
