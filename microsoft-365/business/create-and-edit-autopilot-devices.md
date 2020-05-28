@@ -19,46 +19,47 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
 description: למד כיצד להעלות התקנים באמצעות טייס אוטומטי ב-Microsoft 365 Business Premium. באפשרותך להקצות פרופיל להתקן או לקבוצת התקנים.
-ms.openlocfilehash: 83c027cfe019e037518c4ca13eb331e5300fc2c1
-ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
+ms.openlocfilehash: 8c3d029d682ae30444bdc7d30a4790a8f982e0e0
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44165860"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44400993"
 ---
-# <a name="create-and-edit-autopilot-devices"></a><span data-ttu-id="11809-104">יצירה ועריכה של מכשירי AutoPilot</span><span class="sxs-lookup"><span data-stu-id="11809-104">Create and edit AutoPilot devices</span></span>
+# <a name="create-and-edit-autopilot-devices"></a><span data-ttu-id="f6b85-104">יצירה ועריכה של מכשירי AutoPilot</span><span class="sxs-lookup"><span data-stu-id="f6b85-104">Create and edit AutoPilot devices</span></span>
 
-## <a name="upload-a-list-of-devices"></a><span data-ttu-id="11809-105">העלאת רשימה של מכשירים</span><span class="sxs-lookup"><span data-stu-id="11809-105">Upload a list of devices</span></span>
+## <a name="upload-a-list-of-devices"></a><span data-ttu-id="f6b85-105">העלאת רשימה של מכשירים</span><span class="sxs-lookup"><span data-stu-id="f6b85-105">Upload a list of devices</span></span>
 
-<span data-ttu-id="11809-106">באפשרותך להשתמש [במדריך שלב-אחר-שלב](add-autopilot-devices-and-profile.md) כדי לטעון התקנים, אך באפשרותך גם להעלות התקנים בכרטיסיה ' **התקנים** '.</span><span class="sxs-lookup"><span data-stu-id="11809-106">You can use the [Step-by-step guide](add-autopilot-devices-and-profile.md) to upload devices, but you can also upload devices in the **Devices** tab.</span></span> 
+<span data-ttu-id="f6b85-106">באפשרותך להשתמש [במדריך שלב-אחר-שלב](add-autopilot-devices-and-profile.md) כדי לטעון התקנים, אך באפשרותך גם להעלות התקנים בכרטיסיה ' **התקנים** '.</span><span class="sxs-lookup"><span data-stu-id="f6b85-106">You can use the [Step-by-step guide](add-autopilot-devices-and-profile.md) to upload devices, but you can also upload devices in the **Devices** tab.</span></span> 
   
-<span data-ttu-id="11809-107">על התקנים לעמוד בדרישות הבאות:</span><span class="sxs-lookup"><span data-stu-id="11809-107">Devices must meet these requirements:</span></span>
+<span data-ttu-id="f6b85-107">על התקנים לעמוד בדרישות הבאות:</span><span class="sxs-lookup"><span data-stu-id="f6b85-107">Devices must meet these requirements:</span></span>
   
-- <span data-ttu-id="11809-108">Windows 10, גירסה 1703 ואילך</span><span class="sxs-lookup"><span data-stu-id="11809-108">Windows 10, version 1703 or later</span></span>
+- <span data-ttu-id="f6b85-108">Windows 10, גירסה 1703 ואילך</span><span class="sxs-lookup"><span data-stu-id="f6b85-108">Windows 10, version 1703 or later</span></span>
     
-- <span data-ttu-id="11809-109">מכשירים חדשים שלא עברו חוויה מחוץ לקופסא של Windows</span><span class="sxs-lookup"><span data-stu-id="11809-109">New devices that haven't been through Windows out-of-box experience</span></span>
+- <span data-ttu-id="f6b85-109">מכשירים חדשים שלא עברו חוויה מחוץ לקופסא של Windows</span><span class="sxs-lookup"><span data-stu-id="f6b85-109">New devices that haven't been through Windows out-of-box experience</span></span>
 
-1. <span data-ttu-id="11809-110">במרכז הניהול של Microsoft 365, בחר **התקנים** \> **טייס אוטומטי**.</span><span class="sxs-lookup"><span data-stu-id="11809-110">In the Microsoft 365 admin center, choose **Devices** \> **AutoPilot**.</span></span>
+1. <span data-ttu-id="f6b85-110">במרכז הניהול של Microsoft 365, בחר **התקנים** \> **טייס אוטומטי**.</span><span class="sxs-lookup"><span data-stu-id="f6b85-110">In the Microsoft 365 admin center, choose **Devices** \> **AutoPilot**.</span></span>
   
-2. <span data-ttu-id="11809-111">בעמוד **הטייס האוטומטי** , בחר \> בכרטיסיה **התקנים** **הוספת התקנים**.</span><span class="sxs-lookup"><span data-stu-id="11809-111">On the **AutoPilot** page, choose the **Devices** tab \> **Add devices**.</span></span>
+2. <span data-ttu-id="f6b85-111">בעמוד **הטייס האוטומטי** , בחר בכרטיסיה **התקנים** \> **הוסף התקנים**.</span><span class="sxs-lookup"><span data-stu-id="f6b85-111">On the **AutoPilot** page, choose the **Devices** tab \> **Add devices**.</span></span>
     
     ![In the Devices tab, choose Add devices.](../media/6ba81e22-c873-40ad-8a72-ce64d15ea6ba.png)
   
-3. <span data-ttu-id="11809-113">בחלונית **' הוספת התקנים** ', דפדף [לקובץ CSV של רשימת ההתקנים](https://docs.microsoft.com/microsoft-365/admin/misc/device-list) שהכנת \> **לשמירת** \> **הסגירה**.</span><span class="sxs-lookup"><span data-stu-id="11809-113">On the **Add devices** panel, browse to a [Device list CSV file](https://docs.microsoft.com/microsoft-365/admin/misc/device-list) that you prepared \> **Save** \> **Close**.</span></span>
+3. <span data-ttu-id="f6b85-113">בחלונית ' **הוספת התקנים** ', דפדף [לקובץ CSV של רשימת ההתקנים](https://docs.microsoft.com/microsoft-365/admin/misc/device-list) שהכנת \> **לשמירת** \> **הסגירה**.</span><span class="sxs-lookup"><span data-stu-id="f6b85-113">On the **Add devices** panel, browse to a [Device list CSV file](https://docs.microsoft.com/microsoft-365/admin/misc/device-list) that you prepared \> **Save** \> **Close**.</span></span>
     
-    <span data-ttu-id="11809-114">אתה יכול לקבל את המידע הזה מספק החומרה שלך, או שאתה יכול להשתמש [בסקריפט לקבל-Windowsautopilinfo PowerShell](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) כדי ליצור קובץ CSV.</span><span class="sxs-lookup"><span data-stu-id="11809-114">You can get this information from your hardware vendor, or you can use the [Get-WindowsAutoPilotInfo PowerShell script](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) to generate a CSV file.</span></span> 
+    <span data-ttu-id="f6b85-114">אתה יכול לקבל את המידע הזה מספק החומרה שלך, או שאתה יכול להשתמש [בסקריפט לקבל-Windowsautopilinfo PowerShell](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) כדי ליצור קובץ CSV.</span><span class="sxs-lookup"><span data-stu-id="f6b85-114">You can get this information from your hardware vendor, or you can use the [Get-WindowsAutoPilotInfo PowerShell script](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) to generate a CSV file.</span></span> 
     
-## <a name="assign-a-profile-to-a-device-or-a-group-of-devices"></a><span data-ttu-id="11809-115">הקצאת פרופיל למכשיר או לקבוצה של מכשירים</span><span class="sxs-lookup"><span data-stu-id="11809-115">Assign a profile to a device or a group of devices</span></span>
+## <a name="assign-a-profile-to-a-device-or-a-group-of-devices"></a><span data-ttu-id="f6b85-115">הקצאת פרופיל למכשיר או לקבוצה של מכשירים</span><span class="sxs-lookup"><span data-stu-id="f6b85-115">Assign a profile to a device or a group of devices</span></span>
 
-1. <span data-ttu-id="11809-116">בדף ' **הכנת Windows** ', בחר בכרטיסיה ' **התקנים** ' ובחר בתיבת הסימון שליד התקן אחד או יותר.</span><span class="sxs-lookup"><span data-stu-id="11809-116">On the **Prepare Windows** page, choose the **Devices** tab, and select the check box next to one or more devices.</span></span> 
+1. <span data-ttu-id="f6b85-116">בדף ' **הכנת Windows** ', בחר בכרטיסיה ' **התקנים** ' ובחר בתיבת הסימון שליד התקן אחד או יותר.</span><span class="sxs-lookup"><span data-stu-id="f6b85-116">On the **Prepare Windows** page, choose the **Devices** tab, and select the check box next to one or more devices.</span></span> 
     
-2. <span data-ttu-id="11809-117">בלוח **מכשיר**, בחר פרופיל מהתפריט הנפתח **פרופיל שהוקצה**.</span><span class="sxs-lookup"><span data-stu-id="11809-117">On the **Device** panel, select a profile from the **Assigned profile** drop-down.</span></span> 
+2. <span data-ttu-id="f6b85-117">בלוח **מכשיר**, בחר פרופיל מהתפריט הנפתח **פרופיל שהוקצה**.</span><span class="sxs-lookup"><span data-stu-id="f6b85-117">On the **Device** panel, select a profile from the **Assigned profile** drop-down.</span></span> 
     
-    <span data-ttu-id="11809-118">אם עדיין אין לך פרופילים, ראה [יצירה ועריכה של פרופילי AutoPilot](create-and-edit-autopilot-profiles.md) לקבלת הוראות.</span><span class="sxs-lookup"><span data-stu-id="11809-118">If you don't have any profiles yet, see [Create and edit AutoPilot profiles](create-and-edit-autopilot-profiles.md) for instructions.</span></span> 
+    <span data-ttu-id="f6b85-118">אם עדיין אין לך פרופילים, ראה [יצירה ועריכה של פרופילי AutoPilot](create-and-edit-autopilot-profiles.md) לקבלת הוראות.</span><span class="sxs-lookup"><span data-stu-id="f6b85-118">If you don't have any profiles yet, see [Create and edit AutoPilot profiles](create-and-edit-autopilot-profiles.md) for instructions.</span></span> 
     
