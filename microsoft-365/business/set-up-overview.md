@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: למד את שלבי ההתקנה עבור Microsoft 365 Business Premium, מהרשמה מנוי, כדי להוסיף קבוצת מחשבים ומשתמשים, כדי להגדיר מדיניות אבטחה ועוד.
-ms.openlocfilehash: 80243fac6ca2efcfca030b6ee1c1113c026a80ce
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 4670344263ceb64a32962dfa6eb9c1644e61541d
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402977"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470524"
 ---
 # <a name="overview-of-setup"></a>מבט כולל על הכיוונון
 
@@ -48,7 +48,7 @@ ms.locfileid: "44402977"
 
    - [**הוסף את התחום שלך**](set-up.md#add-your-domain-to-personalize-sign-in) (אם רכשת את התחום שלך במהלך [ההרשמה](sign-up.md), שלב זה כבר נעשה.)
 
-    - **הוסיף משתמשים**. באפשרותך להוסיף משתמשים בכל אחת משלוש הדרכים:
+   - **הוסיף משתמשים**. באפשרותך להוסיף משתמשים בכל אחת משלוש הדרכים:
         - באשף [wizard](set-up.md#add-users-in-the-wizard).
         - השתמש בסינכרון ספריות כדי [להוסיף משתמשים על-ידי שימוש בתכלת AD להתקשרות](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) אם ברשותך ספריה פעילה מקומית.
         - באפשרותך גם [להוסיף משתמשים בהמשך](add-users-m365b.md) מרכז הניהול.

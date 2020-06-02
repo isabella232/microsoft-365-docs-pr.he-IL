@@ -27,16 +27,18 @@ search.appverid:
 - MOE150
 ms.assetid: aa31319c-9196-48c9-a90b-4057e0494c7a
 description: למד אודות מדיניות הגנה המאפשרת לך לנהל את אופן הגישה של משתמשים ליישומי Office ולקבצי עבודה ממכשירים ניידים.
-ms.openlocfilehash: f613e518c3607010cae55443456be9d3ddc3d689
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: b2b828cf2e201360f12b8fadcb395e72958230f6
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403077"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44471066"
 ---
 # <a name="manage-how-users-access-office-documents-on-mobile-devices"></a>נהל את האופן שבו המשתמשים ניגשים למסמכי Office במכשירים ניידים
 
- הגדרות מדיניות שקובעות כיצד משתמשים ניגשים לקבצי Office מתוך המכשירים הניידים שלהם מוגדרות למצב **כבוי** כברירת מחדל. מומלץ לקבל את ערכי ברירת המחדל במהלך ההתקנה כדי ליצור מדיניות יישומים עבור אנדרואיד, iOS ו-Windows 10 החלים על כל המשתמשים. ניתן ליצור פריטי מדיניות נוספים לאחר השלמת ההתקנה. 
+מאמר זה חל על 365 עסקים Premium של Microsoft.
+
+הגדרות מדיניות שקובעות כיצד משתמשים ניגשים לקבצי Office מתוך המכשירים הניידים שלהם מוגדרות למצב **כבוי** כברירת מחדל. מומלץ לקבל את ערכי ברירת המחדל במהלך ההתקנה כדי ליצור מדיניות יישומים עבור אנדרואיד, iOS ו-Windows 10 החלים על כל המשתמשים. ניתן ליצור פריטי מדיניות נוספים לאחר השלמת ההתקנה. 
   
 ## <a name="settings-that-control-how-users-access-office-files-on-mobile-devices"></a>הגדרות שקובעות כיצד משתמשים ניגשים לקבצי Office במכשירים ניידים
 

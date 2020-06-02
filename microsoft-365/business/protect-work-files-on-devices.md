@@ -28,14 +28,16 @@ search.appverid:
 - MOE150
 ms.assetid: 52089919-9a5e-475f-a49a-f65369487861
 description: 'למד אודות קביעת תצורה של ברירת מחדל והוספת מדיניות ניהול יישומים כדי להגן על נתוני החברה במכשירים הניידים האישיים של המשתמשים. '
-ms.openlocfilehash: 1d76b8fde6db4cf99d29fcfff000c20f0e7c18fe
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 6dd6bc5c16ffbbd6ed62f16ad11e1eeb8e06a193
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401281"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470906"
 ---
 # <a name="protect-work-files-on-devices"></a>הגנה על קבצי עבודה במכשירים
+
+מאמר זה חל על 365 עסקים Premium של Microsoft.
 
 בעולם של היום, משתמשים קשורים המכשירים שלהם, וכמו חיי האישי והעבודה מתנגשים, הנתונים של החברה שלך יכול להיות בסופו של דבר על המכשיר האישי של העובד. ההגדרה שתקבע כאן יכולה לעזור לך להשיב את השליטה לידיך ולהגן על קבצי עבודה, מבלי להשפיע על ההגדרות האישיות או הנתונים של המשתמש.
   

@@ -27,14 +27,16 @@ search.appverid:
 - MOE150
 ms.assetid: 21e5551f-fa35-4f13-9418-f80d668b6a2b
 description: למד אודות קביעת התצורה של ההגדרות של מדיניות ההתקן המוגדרת כברירת מחדל שהתקן של Windows 10 יקבל בעת הכניסה לעבודתם או לחשבון בית הספר.
-ms.openlocfilehash: 7714a6e47de8a254d836ca2e158b92907b87f8c3
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 03ae86861ddb0cb83cd39b7834f19e01bf3e99e2
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402733"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470626"
 ---
 # <a name="secure-windows-10-devices"></a>אבטחת מכשירים של Windows 10
+
+מאמר זה חל על 365 עסקים Premium של Microsoft.
 
 ההגדרות שאתה קובע כאן הן חלק ממדיניות ברירת המחדל של המכשיר עבור Windows 10. כל המשתמשים המחברים התקן Windows 10, כולל מכשירים ניידים ומחשבים אישיים, על-ידי כניסה באמצעות חשבון העבודה שלהם יקבלו באופן אוטומטי הגדרות אלה. אנו ממליצים לקבל את מדיניות ברירת המחדל במהלך ההתקנה ולהוסיף פריטי מדיניות המתמקדים בקבוצות משתמשים ספציפיות במועד מאוחר יותר.
   
