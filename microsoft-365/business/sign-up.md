@@ -26,12 +26,12 @@ search.appverid:
 - BCS160
 - MET150
 description: למד מה Microsoft 365 Business Premium כולל, וקבל הדרכה צעד-אחר-צעד בהרשמה עבור Microsoft 365 Business Premium.
-ms.openlocfilehash: 50662149ae2faa99c567080d5e914c3300ac3494
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 5cee380998b188e7d5845becacfa46383905737f
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401557"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44785671"
 ---
 # <a name="sign-up-for-microsoft-365-business-premium"></a>הירשם עבור מיקרוסופט 365 עסקים פרימיום
 
@@ -54,7 +54,7 @@ ms.locfileid: "44401557"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3znhX] 
 
-אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 כדי להירשם ולרכוש את Microsoft 365 עבור העסק שלך, השלם את השלבים הבאים:
 
@@ -97,4 +97,4 @@ ms.locfileid: "44401557"
 
 ## <a name="see-also"></a>למידע נוסף
 
-[מיקרוסופט 365 עבור סרטוני הדרכה עסקית](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[מיקרוסופט 365 עבור סרטוני הדרכה עסקית](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
 description: למד כיצד באפשרותך להעביר את קבצי העבודה האישיים וקבצי החברה הרגישים ל-OneDrive עבור עסקים בצעדים פשוטים בלבד.
-ms.openlocfilehash: ec225eb43d79bebaa7035178d4d1751c58149e7a
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 561c9dee1080a50dea695f136df10be8e5d52959
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401361"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44785911"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>העברת קבצים אל OneDrive for Business
 
@@ -37,7 +37,7 @@ ms.locfileid: "44401361"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/d74b083c-1f44-43ea-8a14-2e1fc600b341] 
 
-אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 
 ## <a name="move-files-to-onedrive-for-business"></a>העברת קבצים אל OneDrive for Business
@@ -50,8 +50,8 @@ ms.locfileid: "44401361"
     
 3. בחר **העלה**![Upload](../media/d9b963b8-10af-42e2-953d-360301b83d3c.png) בשורת התפריטים ונווט אל הקבצים שברצונך לשמור. 
     
-כדי להעביר את פרופיל המשתמש וקבצים חשובים, ניתן גם להשתמש בכלי של ספק חיצוני, כגון ForensiT. עליך להעלות את הקבצים שנוצרו גם ב- OneDrive for Business.
+To transfer the user profile and important files, you can also use a third-party tool, such as ForensiT. You should upload the resulting files in OneDrive for Business also.
   
 ## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>לקבלת פרטים נוספים על הגדרה ושימוש ב-Microsoft 365 לעסקים
 
-[מיקרוסופט 365 עבור סרטוני הדרכה עסקית](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[מיקרוסופט 365 עבור סרטוני הדרכה עסקית](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: כוונן תכונות תאימות כדי למנוע אובדן נתונים ולסייע באבטחת המידע הרגיש שלך ושל הלקוחות שלך.
-ms.openlocfilehash: 9b900367c22ec5bb5c2719af63049045ecd5e466
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 18886ff3a0ba5e99e63c70ef083d7a69c75bac91
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402693"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44785831"
 ---
 # <a name="set-up-compliance-features"></a>כוונן תכונות תאימות
 
@@ -61,7 +61,7 @@ ms.locfileid: "44402693"
 
 תוויות רגישות מגיעות עם הגנה מפני מידע תכלת (AIP) תוכנית 1, ולעזור לך לסווג, ובאופן אופציונלי להגן על המסמכים שלך דוא ל, על ידי החלת תוויות. ניתן להחיל תוויות באופן אוטומטי על-ידי מנהלי מערכת המגדירים כללים ותנאים, באופן ידני על-ידי משתמשים, או באמצעות שילוב שבו ניתנות למשתמשים המלצות.
 
-כדי להגדיר תוויות רגישות, הצג [יצירה וניהול של תוויות רגישות וידאו](https://support.office.com/article/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) .
+כדי להגדיר תוויות רגישות, הצג [יצירה וניהול של תוויות רגישות וידאו](https://support.microsoft.com/office/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) .
 
 
 
@@ -69,7 +69,7 @@ ms.locfileid: "44402693"
 
 כדי להתקין ידנית את לקוח AIP:
 
-1. הורד את **AzinfoProtection_UL. exe** [ממרכז ההורדות של Microsoft](https://www.microsoft.com/download/details.aspx?id=53018).
+1. הורד **AzinfoProtection_UL.exe** [ממרכז ההורדות של Microsoft](https://www.microsoft.com/download/details.aspx?id=53018).
  
 2. באפשרותך לוודא שההתקנה פעלה על-ידי הצגת מסמך Word ולוודא שהאפשרות **רגישות** זמינה בכרטיסיה **בית** .
 <br/>![הכרטיסייה ' הגנה ' נפתחת במסמך Word.](../media/word-sensitivity.png)

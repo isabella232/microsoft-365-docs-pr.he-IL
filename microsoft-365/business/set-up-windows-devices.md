@@ -26,12 +26,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: למד כיצד להגדיר התקני Windows שבהם פועל Windows 10 Pro עבור משתמשי Microsoft Business Premium 365, המאפשרים ניהול מרוכז ובקרת אבטחה.
-ms.openlocfilehash: ecd9f5aa348d29d34e77061657619c015b09c41a
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 85ac3c964792a132d5699703e543289020e38f57
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402957"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44785851"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>הגדרת התקני Windows עבור משתמשי Microsoft Business Premium 365
 
@@ -49,7 +49,7 @@ ms.locfileid: "44402957"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3yXh3] 
 
-אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>צירוף מכשירי Windows 10 ל- Azure AD של הארגון שלך
 
@@ -67,7 +67,7 @@ ms.locfileid: "44402957"
     
 3. סיים את הגדרת מכשיר Windows 10.
     
-   כשתסיים, המשתמש יהיה מחובר ל- Azure AD של הארגון שלך. ראה [אימות שהמכשיר מחובר ל- Azure AD](#verify-the-device-is-connected-to-azure-ad) כדי לוודא. 
+   Once you're done, the user will be connected to your organization's Azure AD. See [Verify the device is connected to Azure AD](#verify-the-device-is-connected-to-azure-ad) to make sure. 
   
 ### <a name="for-a-device-already-set-up-and-running-windows-10-pro"></a>עבור מכשיר שכבר מוגדר וש- Windows 10 Pro פועל בו
 
@@ -97,7 +97,7 @@ ms.locfileid: "44402957"
   
 6. ב-ודא שזהו דף **הארגון שלך** , ודא שהמידע נכון ולחץ על **הצטרף**.
   
-   בדף **הכל מוכן!**, לחץ על **סיום**.
+   On the **You're all set!** page, click **Done**.
   
    ![On the Make sure this is your organization screen, click Join](../media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
   
@@ -129,4 +129,4 @@ ms.locfileid: "44402957"
   
 ## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>לקבלת פרטים נוספים על הגדרה ושימוש ב-Microsoft 365 Business Premium
 
-[מיקרוסופט 365 עבור סרטוני הדרכה עסקית](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[מיקרוסופט 365 עבור סרטוני הדרכה עסקית](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: למד את שלבי ההתקנה עבור Microsoft 365 Business Premium, מהרשמה מנוי, כדי להוסיף קבוצת מחשבים ומשתמשים, כדי להגדיר מדיניות אבטחה ועוד.
-ms.openlocfilehash: 4670344263ceb64a32962dfa6eb9c1644e61541d
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+ms.openlocfilehash: a808ae5761c1bc5706966a3f7de95f96f8f7c8c8
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44470524"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44785811"
 ---
 # <a name="overview-of-setup"></a>מבט כולל על הכיוונון
 
@@ -40,13 +40,13 @@ ms.locfileid: "44470524"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4jZwg] 
 
-אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 ניתן לבצע את רוב שלבי ההתקנה באשף ההתקנה, אך גם האפשרויות האחרות מפורטות.
 
 ## <a name="step-1-add-your-domain-and-users"></a>שלב 1: הוספת התחום שלך והמשתמשים
 
-   - [**הוסף את התחום שלך**](set-up.md#add-your-domain-to-personalize-sign-in) (אם רכשת את התחום שלך במהלך [ההרשמה](sign-up.md), שלב זה כבר נעשה.)
+   - **[הוסף את התחום שלך](set-up.md#add-your-domain-to-personalize-sign-in)** (אם רכשת את התחום שלך במהלך [ההרשמה](sign-up.md), שלב זה כבר נעשה.)
 
    - **הוסיף משתמשים**. באפשרותך להוסיף משתמשים בכל אחת משלוש הדרכים:
         - באשף [wizard](set-up.md#add-users-in-the-wizard).
@@ -95,4 +95,4 @@ ms.locfileid: "44470524"
 
 ## <a name="see-also"></a>למידע נוסף
 
-[מיקרוסופט 365 עבור סרטוני הדרכה עסקית](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[מיקרוסופט 365 עבור סרטוני הדרכה עסקית](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
