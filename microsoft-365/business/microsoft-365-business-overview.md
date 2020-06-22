@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: קבל מידע נוסף על Microsoft 365 Business Premium, שירות למנויים הכולל יישומי פרודוקטיביות של Office והגנה מתקדמת על העסק שלך מפני איומי סייבר.
-ms.openlocfilehash: 61f4c34ade180717486ce889162947afe9be7ba6
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 6cff2fe62111e0d3ee99f406d0be83db0a119b09
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402253"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44786173"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>מבט כולל על Microsoft 365 Business Premium
 
@@ -46,7 +46,7 @@ Microsoft 365 Business Premium (לשעבר Microsoft 365 Business) הוא שיר
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
+אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
 
 Microsoft 365 Business Premium מיועד ל- 300 רשיונות לכל היותר. אם אתה זקוק לרשיונות נוספים, עיין בתיעוד של [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) לקבלת מידע נוסף.
 
@@ -111,11 +111,11 @@ Microsoft 365 Business Premium עוזר **להתגונן מפני איומים**
 
 - אם אין לך שותף וברצונך לקבל את Microsoft 365 Business Premium, באפשרותך [לקנות אותו כאן](https://www.microsoft.com/microsoft-365/business) ולאחר מכן לפעול בהתאם להוראות [ההרשמה](sign-up.md).
 
-- באפשרותך גם לעבור אל [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer) כדי לקנות את Microsoft 365 Business Premium ולקבל עזרה בנושא ההגדרה.
+- באפשרותך גם לעבור אל [Microsoft Store](https://www.microsoft.com/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer) כדי לקנות את Microsoft 365 Business Premium ולקבל עזרה בנושא ההגדרה.
 
     > [!NOTE]
     > קישור זה מיועד לחנויות בארצות הברית בלבד
 
 ## <a name="see-also"></a>למידע נוסף
 
-[סרטוני הדרכה של Microsoft 365 Business Premium](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[סרטוני הדרכה של Microsoft 365 Business Premium](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
