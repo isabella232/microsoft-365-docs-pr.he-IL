@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: למד אודות Microsoft 365 עבור עסקים, כיצד להגדיר אותו וכיצד להכין את ההתקנים והמחשבים האישיים של המשתמשים כדי לוודא שהם מוגנים על-ידי Microsoft 365 לעסקים.
-ms.openlocfilehash: 48a103333e101d545d562e7f2e9dd7329686f107
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+ms.openlocfilehash: 08a956cc7e68bbba74d29bafaab77065be1321ce
+ms.sourcegitcommit: 3ddcf08e8deec087df1fe524147313f1cb12a26d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44786153"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45022116"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>התחל לעבוד עם Microsoft 365 לעסקים
 
@@ -84,7 +84,7 @@ Microsoft 365 לעסקים מיועדת לרשיונות של עד 300. אם א�
     
     - השתמש באשף סינכרון הספריות כדי לסנכרן את המשתמשים לענן הצמתים. בצע את השלבים [בהגדרת סינכרון ספריות עבור Microsoft 365](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) כדי להשלים תהליך זה. לאחר סינכרון המשתמשים לענן הצמתים, יהיה עליך [לבטל סינכרון ספריות עבור Office 365](https://docs.microsoft.com/office365/enterprise/turn-off-directory-synchronization).
     
-    תצטרך גם לתת לכל משתמש שנוסף בדרך זו רשיון ל-Microsoft 365 לעסקים. באפשרותך לעשות זאת [באשף ההתקנה](set-up.md) או [להקצות רשיונות למשתמשים ב-Microsoft 365 עבור עסקים](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+    תצטרך גם לתת לכל משתמש שנוסף בדרך זו רשיון ל-Microsoft 365 לעסקים. באפשרותך לעשות זאת [באשף ההתקנה](set-up.md) או [להקצות רשיונות למשתמשים](../admin/manage/assign-licenses-to-users.md).
     
 ### <a name="2-prepare-mobile-devices"></a>2: הכנת מכשירים ניידים
 
