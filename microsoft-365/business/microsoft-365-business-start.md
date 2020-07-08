@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: למד אודות Microsoft 365 עבור עסקים, כיצד להגדיר אותו וכיצד להכין את ההתקנים והמחשבים האישיים של המשתמשים כדי לוודא שהם מוגנים על-ידי Microsoft 365 לעסקים.
-ms.openlocfilehash: 08a956cc7e68bbba74d29bafaab77065be1321ce
-ms.sourcegitcommit: 3ddcf08e8deec087df1fe524147313f1cb12a26d
+ms.openlocfilehash: aedcf78f10707dbe6a1d1527effea7d56283dce0
+ms.sourcegitcommit: 5b769f74bcc76ac8d38aad815d1728824783cd9f
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45022116"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45080042"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>התחל לעבוד עם Microsoft 365 לעסקים
 
@@ -80,9 +80,9 @@ Microsoft 365 לעסקים מיועדת לרשיונות של עד 300. אם א�
     
     אם אתה **עובר לצמיתות מתוך Active Directory מקומי אל ענן הצמתים**, באפשרותך לעבור אל מרכז הניהול של Microsoft 365 ולהשתמש באשף ההתקנה כדי להוסיף את המשתמשים שלך באופן ידני, או לבצע סינכרון חד פעמי עם ' התחברות למטה-התכלת '. ניתן לעשות זאת בשתי דרכים: 
     
-    - אם יש לך גם שרת Exchange 2010, Exchange 2013 או Exchange 2016, [באפשרותך להשתמש באפשרות ' היברידית מינימלית ' כדי להעביר במהירות תיבות דואר של exchange ל-Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate). השלבים ההיברידיים המינימליים כוללים סינכרון חד פעמי של משתמשים לתכלת, והעברת דואר אלקטרוני מקומית לענן. לאחר השלמת העברת הדואר האלקטרוני, סינכרון הספריות מבוטל באופן אוטומטי בעת שימוש בשיטה זו.
+    - אם יש לך גם שרת Exchange 2010, Exchange 2013 או Exchange 2016, [באפשרותך להשתמש באפשרות ' היברידית מינימלית ' כדי להעביר במהירות תיבות דואר של exchange ל-Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate). השלבים ההיברידיים המינימליים כוללים סינכרון חד פעמי של משתמשים לתכלת, והעברת דואר אלקטרוני מקומית לענן. לאחר השלמת העברת הדואר האלקטרוני, סינכרון הספריות מבוטל באופן אוטומטי בעת שימוש בשיטה זו.
     
-    - השתמש באשף סינכרון הספריות כדי לסנכרן את המשתמשים לענן הצמתים. בצע את השלבים [בהגדרת סינכרון ספריות עבור Microsoft 365](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) כדי להשלים תהליך זה. לאחר סינכרון המשתמשים לענן הצמתים, יהיה עליך [לבטל סינכרון ספריות עבור Office 365](https://docs.microsoft.com/office365/enterprise/turn-off-directory-synchronization).
+    - השתמש באשף סינכרון הספריות כדי לסנכרן את המשתמשים לענן הצמתים. בצע את השלבים [בהגדרת סינכרון ספריות עבור Microsoft 365](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) כדי להשלים תהליך זה. לאחר סינכרון המשתמשים לענן הצמתים, יהיה עליך [לבטל סינכרון ספריות עבור Microsoft 365](https://docs.microsoft.com/office365/enterprise/turn-off-directory-synchronization).
     
     תצטרך גם לתת לכל משתמש שנוסף בדרך זו רשיון ל-Microsoft 365 לעסקים. באפשרותך לעשות זאת [באשף ההתקנה](set-up.md) או [להקצות רשיונות למשתמשים](../admin/manage/assign-licenses-to-users.md).
     
