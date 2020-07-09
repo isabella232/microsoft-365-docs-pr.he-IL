@@ -1,5 +1,5 @@
 ---
-title: קבל את Microsoft 365 Business מהמרכז השותף
+title: קבל את מיקרוסופט 365 עסקים פרימיום מהמרכז השותף
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -19,37 +19,38 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
-description: גלה את האפשרויות שלך לרכישת מיקרוסופט 365 עסקים והוראות צעד-אחר-צעד לרכישת אותו ממרכז השותפים של Microsoft.
-ms.openlocfilehash: ccbdb928c0f1268fb7019793b6246eef386daa45
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: גלה את האפשרויות לרכישת Microsoft 365 Business Premium והוראות צעד-אחר-צעד לרכישת אותו ממרכז השותפים של Microsoft.
+ms.openlocfilehash: 550ab62b46ffc09f8c4822a2e1741ee51b4579ca
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560742"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "45081827"
 ---
-# <a name="get-microsoft-365-business"></a>השג את Microsoft 365 Business
+# <a name="get-microsoft-365-business-premium"></a>קבל את Microsoft 365 Business Premium
 
-## <a name="get-microsoft-365-business-from-microsoft"></a>השגת Microsoft 365 Business מ- Microsoft
+## <a name="get-microsoft-365-business-premium-from-microsoft"></a>קבל את מיקרוסופט 365 עסקים פרימיום מ-Microsoft
 
-אם אין לך שותף ואתה מעוניין להשיג את Microsoft 365 Business, באפשרותך [לקנות אותו כאן](https://www.microsoft.com/en-US/microsoft-365/business).
+אם אין לך שותף וברצונך לקבל את מיקרוסופט 365 Business Premium, אתה יכול [לקנות אותו כאן](https://www.microsoft.com/en-US/microsoft-365/business).
 
-ראה [הירשם עבור Microsoft 365 Business](sign-up.md) לקבלת הוראות מפורטות.
+ראה [הירשם עבור מיקרוסופט 365 עסקים Premium](sign-up.md) לקבלת הוראות מפורטות.
 
-באפשרותך גם לגשת [למאגר של microsoft](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) כדי לרכוש את Microsoft 365 Business ולקבל עזרה מתוכנית ההתקנה.
+באפשרותך גם לגשת [למאגר של microsoft](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) כדי לרכוש את מיקרוסופט 365 Business Premium ולקבל עזרה בהתקנה.
   
-## <a name="get-microsoft-365-business-from-microsoft-partner-center"></a>השגת Microsoft 365 Business ממרכז השותפים של Microsoft
+## <a name="get-microsoft-365-business-premium-from-microsoft-partner-center"></a>קבל את Microsoft 365 עסקים פרימיום ממרכז השותפים של Microsoft
 
 1. היכנס אל [מרכז השותפים של Microsoft](https://go.microsoft.com/fwlink/p/?linkid=849910) באמצעות האישורים שיצרת בעת הרישום לתוכנית ספק שירותי הענן (CSP). 
     
-2. בלוח המחוונים של השותף, בחר **לקוחות**ולאחר מכן בחר את הלקוח שלך או הוסף לקוח חדש לפני שתקבל את Microsoft 365 Business.
+2. בלוח המחוונים של השותף, בחר **לקוחות**ולאחר מכן בחר את הלקוח שלך או הוסף לקוח חדש לפני שתקבל את Microsoft 365 Business Premium.
     
     ![במרכז השותפים של Microsoft, הוסף לקוח.](../media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
   
-3. בדף **המנוי** של הלקוח, בחר **בהוסף מנוי**, בחר באפשרות עסק קטן תחת קטלוג ולאחר מכן בחר ב- **Microsoft 365 business**.
+3. בדף **המנוי** של הלקוח, בחר **בהוסף מנוי**, בחר באפשרות עסק קטן תחת קטלוג ולאחר מכן בחר ב- **Microsoft 365 business Premium**.
     
     בחר את מספר הרשיונות הדרושים לך (עד 300). אם יש לך יותר מ- 300 משתמשים, ראה [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=862316) במקום זאת. 
     
