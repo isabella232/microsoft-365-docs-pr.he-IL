@@ -50,7 +50,7 @@ ms.locfileid: "44785911"
     
 3. בחר **העלה**![Upload](../media/d9b963b8-10af-42e2-953d-360301b83d3c.png) בשורת התפריטים ונווט אל הקבצים שברצונך לשמור. 
     
-To transfer the user profile and important files, you can also use a third-party tool, such as ForensiT. You should upload the resulting files in OneDrive for Business also.
+כדי להעביר את פרופיל המשתמש וקבצים חשובים, ניתן גם להשתמש בכלי של ספק חיצוני, כגון ForensiT. עליך להעלות את הקבצים שנוצרו גם ב- OneDrive for Business.
   
 ## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>לקבלת פרטים נוספים על הגדרה ושימוש ב-Microsoft 365 לעסקים
 
