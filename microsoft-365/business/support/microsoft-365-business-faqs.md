@@ -13,12 +13,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business Premium,‏ Microsoft 365,‏ עסקים קטנים ובינוניים, שאלות נפוצות, תשובות, עסקים
 ms.date: 06/08/2018
-ms.openlocfilehash: a2feb91ddcd2d95da28c3363d983b382cf2aa6dc
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 30437825a896acb470b23cb8f68ea36235ee80c8
+ms.sourcegitcommit: 5f980a9eb5aca61cf3662ef0bc65dec215e21656
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403449"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "45185975"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>שאלות נפוצות אודות Microsoft 365 Business Premium
 
@@ -137,9 +137,9 @@ Microsoft 365 Business Premium זמין לכל השותפים והלקוחות �
 כן, למנויי Microsoft 365 Business Premium יש רישיון להשתמש ביכולות המלאות של Intune עבור iOS,‏ Android,‏ MacOS ואמצעי ניהול מכשירים חוצי פלטפורמות אחרים. תכונות שאינן זמינות במסוף הניהול הפשוט של Microsoft 365 Business Premium, כגון ניהול יישומים של ספקים חיצוניים וקביעת תצורה של פרופילי WiFi, ואישורי VPN, ניתנות לניהול באמצעות מסוף Intune המלא. 
   
 
-### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business"></a>האם Azure Active Directory (Azure AD) Premium P1 מגיע עם Microsoft 365 Business? 
+### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business-premium"></a>האם כחול פעיל מדריך (תכלת AD) פרימיום P1 לבוא עם מיקרוסופט 365 עסקים פרימיום? 
 
-בעבר, Microsoft 365 Business כלל אוסף חלקי של יכולות של Azure AD Premium Plan 1, כולל גישה מותנית, איפוס סיסמה בשירות עצמי ואימות רב-גורמי. כעת אנו מפיצים את הרשיון המלא של Azure AD Premium P1 למנויי Microsoft 365 Business, קודם ללקוחות חדשים ולאחר מכן למנויים הנוכחיים. לקבלת מידע נוסף, ראה [תיאור השירות של Microsoft 365 Business](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) ועיין גם ב[בלוג זה](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/azure-active-directory-premium-p1-is-coming-to-microsoft-365/ba-p/1275496).
+כן, התכלת לספירה Premium P1 כלולה ב-Microsoft Business Premium.
  
  
 ### <a name="does-microsoft-365-business-premium-allow-customers-to-manage-macs"></a>האם Microsoft 365 Business Premium מאפשר ללקוחות לנהל מחשבי Mac? 
