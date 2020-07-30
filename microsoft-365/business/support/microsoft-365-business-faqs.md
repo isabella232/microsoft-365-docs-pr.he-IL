@@ -12,13 +12,13 @@ ms.custom: AdminSurgePortfolio
 localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business Premium,‏ Microsoft 365,‏ עסקים קטנים ובינוניים, שאלות נפוצות, תשובות, עסקים
-ms.date: 06/08/2018
-ms.openlocfilehash: 30437825a896acb470b23cb8f68ea36235ee80c8
-ms.sourcegitcommit: 5f980a9eb5aca61cf3662ef0bc65dec215e21656
+ms.date: 07/21/2020
+ms.openlocfilehash: 520009d26d0133a2c53c6149fe4938bea9db5a32
+ms.sourcegitcommit: 1b83b6bcacb997324bc4be355deba6daf319591d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45185975"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46502998"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>שאלות נפוצות אודות Microsoft 365 Business Premium
 
@@ -33,13 +33,13 @@ Microsoft 365 הוא פתרון כולל, המשלב את כלי הפרודוק�
 * האפליקציות העסקיות של Office (Bookings,‏ MileIQ<sup>[1](#footnote1)</sup>). 
  
 **יכולות ברמה ארגונית של ניהול מכשירים ואבטחה** 
-- עוזר לספק הגנה מפני איומים חיצוניים, כגון דיוג ותוכנות זדוניות מתוחכמות, באמצעות Office 365 Advanced Threat Protection Plan 1‏ ו- Windows Defender Exploit Guard. 
+- מסייע לספק הגנה מפני איומים חיצוניים כגון דיוג ותוכנות זדוניות מתוחכמות עם Office 365 מתקדמים איום תוכנית הגנה 1 ו-Microsoft Defender ניצול המשמר. 
 -  עוזר בשליטה ובניהול של אופני הגישה למידע הרגיש ושידורו, באמצעות פריטי מדיניות של מניעת אובדן נתונים ו- Azure Information Protection Plan 1. 
 -  עוזר להגן על הנתונים, לשמור ולגבות אותם באמצעות אחסון בארכיון של Exchange Online.  
 -   הגנה על אפליקציות עבור Office ואפליקציות נוספות למכשירים ניידים באמצעות ההגנה על יישומים של Intune. 
--  ניהול מכשירים עבור מחשבי של Windows 10,‏ MacOS ומכשירים ניידים באמצעות ניהול המכשירים של Intune. 
+-  ניהול התקנים עבור מחשבי Windows 10, macOS ומכשירים ניידים עם ניהול התקן Intune. 
 -  הגנה על זהות באמצעות אימות רב-גורמי, איפוס סיסמה בשירות עצמי וגישה מותנית.
--  תצורת אבטחה עקבית בין מכשירים&mdash;הגנה על נתוני החברה במכשירים שונים; Windows Defender, שהוא תמיד מופעל ומעודכן. 
+-  תצורת אבטחה עקבית בין &mdash; התקנים הגנה על נתוני חברה באמצעות התקנים; תוכנת אנטי-וירוס של Microsoft Defender, שהיא תמיד מופעלת ועדכנית. 
  
  
 **פישוט התהליך של פריסת מכשירים והגדרת משתמשים** 
@@ -98,14 +98,14 @@ Windows 10 Business מגיע גם עם מספר תכונות מתקדמות של
 Microsoft 365 Business Premium מציע ללקוחות דרך פשוטה אך רבת-עוצמה המאפשרת לעובדים להשתמש במכשירים האישיים שלהם לצרכי עבודה, ויחד עם זאת מאפשרת לעסק למנוע ממכשירים אלו את הגישה למידע העסקי, שמירתו ו/או שיתופו. וביתר פירוט: 
 * **הגנה על אפליקציות עבור אפליקציות למכשירים ניידים של Office** עוזרת להגן על נתוני Office, כולל דואר אלקטרוני, לוח שנה, אנשי קשר ומסמכים במכשירים ניידים של iOS ו- Android, על-ידי אכיפת פריטי מדיניות, כגון מחיקת נתונים עסקיים באופן אוטומטי לאחר פרק זמן שנקבע מראש של העדר התחברות לשירות; מחייבת כי מידע זה יאוחסן אך ורק ב- OneDrive for Business; מחייבת אימות קוד PIN או טביעת אצבע כדי לגשת ליישומי Office; ומונעת העתקה של נתוני החברה מיישום Office ליישומים אישיים. ניהול אפליקציות למכשירים ניידים עבור אפליקציות למכשירים ניידים אחרות דרך Intune זמין גם עבור מנויי Microsoft 365 Business Premium. 
   
-* **ניהול מכשירים עבור מחשבי Windows 10** מאפשר לעסקים לבחור להגדיר ולאכוף יכולות של Windows Defender, כגון הגנה מפני תוכנות זדוניות, עדכונים אוטומטיים וכיבוי מסכים לאחר פרק זמן מוגדר מראש. בנוסף, באמצעות מרכז הניהול ניתן למחוק לחלוטין את כל היישומים והנתונים של העסק ממכשירי Windows 10 שאבדו או נגנבו. 
+* ' **ניהול התקנים עבור Windows 10 PCs** ' מאפשר לעסקים לבחור להגדיר ולאכוף יכולות כגון הגנה על אנטי-וירוס של Microsoft Defender עבור תוכנות זדוניות, עדכונים אוטומטיים וביטול מסכים לאחר כמות זמן שנקבעה. בנוסף, באמצעות מרכז הניהול ניתן למחוק לחלוטין את כל היישומים והנתונים של העסק ממכשירי Windows 10 שאבדו או נגנבו. 
 
-* התכונה **ניהול מכשירים עבור iOS,‏ Android ו- MacOS** מסייעת לעסקים לנהל בצורה מאובטחת מגוון רחב של מכשירים ובכלל זה מכשירי iOS,‏ Android,‏ Windows ו- MacOS. 
+* **ניהול התקנים עבור iOS, דמוי אדם _ amp_ תכונות macOS** מסייע לעסקים באופן מאובטח לנהל מערכת אקולוגית המכשיר מגוון הכולל IOS, אנדרואיד, Windows, ו-macOS התקנים. 
 
 ### <a name="how-does-microsoft-365-business-premium-help-protect-pcs-in-my-organization-from-malicious-attacks"></a>כיצד Microsoft 365 Business Premium עוזר להגן על מחשבים בארגון מפני תקיפות זדוניות? 
-מחשבי PC המנוהלים באמצעות Microsoft 365 Business Premium מוגנים באמצעות Windows Defender, שהוא תכונת האנטי-וירוס מס' 1 ב- Windows 10, המגנה על מחשבים רבים יותר מאשר כל פיתרון אחר, מפני וירוסים, תוכנות זדוניות, תוכנות ריגול ואיומים אחרים.  באמצעות Microsoft 365 Business Premium, ארגונים יכולים להבטיח שהגנת Windows Defender תהיה פועלת ומעודכנת תמיד בכל מכשירי Windows 10 שלהם.  
+מחשבים מנוהלים עם מיקרוסופט 365 עסקים Premium מוגנים עם מיקרוסופט Defender Antivirus, שהוא לא. תכונת האנטי-וירוס מס' 1 ב- Windows 10, המגנה על מחשבים רבים יותר מאשר כל פיתרון אחר, מפני וירוסים, תוכנות זדוניות, תוכנות ריגול ואיומים אחרים. עם Microsoft 365 Business Premium, ארגונים יכולים להבטיח כי הגנת האנטי-וירוס של Microsoft Defender פועלת ומעודכנת תמיד בכל ההתקנים של Windows 10.  
  
-Windows 10 Business כולל גם את Windows Defender Exploit Guard, מערך חדש של יכולות למניעת חדירות. אחת מהתכונות שלו, 'גישה מבוקרת לתיקיות', בולמת תוכנות כופר על-ידי נעילת תיקיות ומניעה מיישומים לא מורשים לגשת לקבצים חשובים של המשתמש. 
+Windows 10 העסק כולל גם מיקרוסופט Defender ניצול המשמר, קבוצה חדשה של יכולות מניעת חדירה. אחת התכונות שלה, גישה לתיקייה מבוקרת, מפסיק ransomware ידי נעילת תיקיות ומניעת יישומים לא מורשים גישה לקבצים החשובים של המשתמש. 
 
 ### <a name="whats-the-difference-between-microsoft-365-business-standard-microsoft-365-business-premium-and-microsoft-365-enterprise"></a>מה ההבדל בין Microsoft 365 Business Standard,‏ Microsoft 365 Business Premium ו- Microsoft 365 Enterprise? 
 ל- Microsoft יש מגוון פתרונות לניהול פרודוקטיביות ואבטחה שלקוחות קטנים עד בינוניים יכולים לשקול בעת שדרוג תשתית המחשבים השולחניים והמכשירים שלהם, כאשר כל אחד מפתרונות אלו מספק תכונות ופונקציונליות חזקות בסדר עולה של עוצמה. 
@@ -126,7 +126,7 @@ Microsoft 365 Business Premium זמין לכל השותפים והלקוחות �
 גירסת ניסיון של Microsoft 365 Business Premium זמינה עבור ספקי פתרונות ענן (CSPs). גירסת ניסיון עבור לקוחות ישירים תהיה זמינה במועד מאוחר יותר. 
  
 ### <a name="what-should-customers-and-partners-know-before-running-microsoft-365-business-premium-within-their-organization"></a>מה צריכים לדעת הלקוחות והשותפים לפני הפעלת Microsoft 365 Business Premium בארגון שלהם? 
-לקוחות המעוניינים לחוות את היכולות המלאות של Microsoft 365 Business Premium חייבים להפעיל את Windows 7‏,Windows 8.1 או 10 Windows Pro<sup>[2](#footnote2)</sup> במחשבים השולחניים הקיימים שלהם. מחשבי Windows 10 Pro קיימים צריכים להפעיל את Creators Update אם טרם עשו זאת. 
+לקוחות המעוניינים לחוות את היכולות השלמות של Microsoft 365 Business Premium חייבים להפעיל את Windows 7, 8.1 או 10 Pro<sup>[2](#footnote2)</sup> בשולחנות העבודה הקיימים שלהם. מחשבי Windows 10 Pro קיימים צריכים להפעיל את Creators Update אם טרם עשו זאת. 
 
 ## <a name="deployment"></a>פריסה
 
@@ -134,7 +134,7 @@ Microsoft 365 Business Premium זמין לכל השותפים והלקוחות �
 הנתיב הישיר ביותר לפריסה מוצלחת של Microsoft 365 Business Premium הוא ליצור קשר עם שותף של Microsoft. השותפים נהנים מהדרכה מקיפה ומניסיון רב במגוון רחב של תרחישי לקוחות, והם נמצאים בעמדה הטובה ביותר כדי להבין את סביבת העבודה והצרכים שלך. לקוחות המשתמשים באנשי IT כחלק מהצוות הקבוע שלהם יכולים להשתמש במדריך <a href="https://docs.microsoft.com/microsoft-365/business/microsoft-365-business-overview" target="_blank">תחילת העבודה עם Microsoft 365 Business Premium</a> כדי לסייע לאנשי ה- IT בפריסה של Microsoft 365 Business Premium. 
 
 ### <a name="does-microsoft-365-business-premium-include-the-full-capabilities-of-microsoft-intune"></a>האם Microsoft 365 Business Premium כולל את היכולות המלאות של Microsoft Intune? 
-כן, למנויי Microsoft 365 Business Premium יש רישיון להשתמש ביכולות המלאות של Intune עבור iOS,‏ Android,‏ MacOS ואמצעי ניהול מכשירים חוצי פלטפורמות אחרים. תכונות שאינן זמינות במסוף הניהול הפשוט של Microsoft 365 Business Premium, כגון ניהול יישומים של ספקים חיצוניים וקביעת תצורה של פרופילי WiFi, ואישורי VPN, ניתנות לניהול באמצעות מסוף Intune המלא. 
+כן, Microsoft 365 עסקים Premium מנויים מורשים להשתמש ביכולות Intune מלאות עבור iOS, אנדרואיד, macOS, וניהול התקנים אחרים חוצת פלטפורמות. תכונות שאינן זמינות במסוף הניהול הפשוט ב-Microsoft 365 Business Premium, כגון ניהול אפליקציות של ספקים חיצוניים, קביעת תצורה של פרופילי Wi-Fi ואישורי VPN, ניתן לניהול במסוף Intune מלא. 
   
 
 ### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business-premium"></a>האם כחול פעיל מדריך (תכלת AD) פרימיום P1 לבוא עם מיקרוסופט 365 עסקים פרימיום? 
@@ -143,7 +143,7 @@ Microsoft 365 Business Premium זמין לכל השותפים והלקוחות �
  
  
 ### <a name="does-microsoft-365-business-premium-allow-customers-to-manage-macs"></a>האם Microsoft 365 Business Premium מאפשר ללקוחות לנהל מחשבי Mac? 
-Intune עוזר לך לנהל באופן מאובטח מכשירי iOS,‏ Android,‏ Windows ו- MacOS. 
+Intune מסייע לך לנהל באופן מאובטח iOS, אנדרואיד, Windows, ו-macOS התקנים. 
  
 ### <a name="what-is-windows-autopilot"></a>מהו Windows AutoPilot? 
 Windows AutoPilot הוא שירות המייעל את הפריסה של מחשבי Windows 10 חדשים. תהליך זה יכול להתבצע כאשר משתמש הקצה נכנס ל-Microsoft 365 Business Premium בפעם הראשונה,&mdash;מבלי שאנשי ה- IT יצטרכו אפילו לגעת במכשיר&mdash;, וזאת באמצעות פקדי הניהול הריכוזיים של Microsoft 365 Business Premium. ניתן גם להשתמש ב- Windows AutoPilot עבור מחשבי PC קיימים שבהם פועל Windows 10 Professional Creators Update (או גירסה מתקדמת יותר) ושעברו איפוס להגדרות היצרן. פרטים על Windows AutoPilot ניתן למצוא ב<a href="https://blogs.technet.microsoft.com/windowsitpro/2017/06/29/modernizing-windows-deployment-with-windows-autopilot/" target="_blank">בפרסום זה בבלוג מיוני 2017</a>.
@@ -151,13 +151,13 @@ Windows AutoPilot הוא שירות המייעל את הפריסה של מחשב
 ## <a name="compatibility"></a>תאימות
 
 ### <a name="can-i-add-office-365-add-ons-to-microsoft-365-business-premium"></a>האם ניתן להוסיף הרחבות של Office 365 ל- Microsoft 365 Business Premium? 
-ניתן להוסיף את כל ההרחבות שניתן להוסיף ל-Microsoft 365 Business Standard גם ל- Microsoft 365 Business Premium. משמעות הדבר היא שניתן לרכוש את אבטחת יישומי ענן של Office 365,‏ Advanced Compliance,‏ Threat Intelligence,‏ MyAnalytics,‏ PowerBI Pro,‏ ואת 'ועידות שמע'. 
+ניתן להוסיף את כל ההרחבות שניתן להוסיף ל-Microsoft 365 Business Standard גם ל- Microsoft 365 Business Premium. משמעות הדבר היא כי אתה יכול לרכוש Office 365 ענן App אבטחה, תאימות מתקדמת, מודיעין איום, MyAnalytics, כוח BI Pro, ועידות שמע. 
  
 ### <a name="can-i-add-phone-system-and-calling-plans-to-microsoft-365-business-premium"></a>האם ניתן להוסיף את 'מערכת טלפונים' ואת 'תוכניות שיחות' ל- Microsoft 365 Business Premium? 
 לא, 'מערכת טלפונים' ו'תוכניות שיחות' מיועדות ללקוחות בעלי צרכים מתקדמים יותר. ללקוחות הזקוקים ליכולות אלה, מומלץ לבדוק את ההצעות של Microsoft 365 Enterprise. 
  
-### <a name="can-microsoft-365-business-premium-customers-use-windows-defender-advanced-threat-protection"></a>האם לקוחות Microsoft 365 Business Premium משתמשים ב- Windows Defender Advanced Threat Protection? 
-לא, לקוחות שיש להם צורך ב- Windows Defender Advanced Threat Protection זקוקים ל- Windows 10 Enterprise E5 או ל- Microsoft 365 Enterprise E5. 
+### <a name="can-microsoft-365-business-premium-customers-use--microsoft-defender-advanced-threat-protection"></a>האם מיקרוסופט 365 עסקים Premium לקוחות להשתמש ב-Microsoft Defender הגנה מתקדמים איום? 
+כן, מיקרוסופט Defender הגנה מתקדמים איום זמין כתוספת ל-Microsoft 365 Business לקוחות פרימיום.
 
 ## <a name="partner-opportunity"></a>הזדמנויות לשותפים
 
