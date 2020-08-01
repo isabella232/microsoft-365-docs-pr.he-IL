@@ -24,12 +24,12 @@ search.appverid:
 - BCS160
 - MET150
 description: למד כיצד לאפשר ל-Microsoft 365 להגן על התקנים מקומיים המצורפים ל-Windows 10 באמצעות ספריות בתוך מספר צעדים בלבד.
-ms.openlocfilehash: 857651081fb10856d28dd419333ebef655388407
-ms.sourcegitcommit: e6e704cbd9a50fc7db1e6a0cf5d3f8c6cbb94363
+ms.openlocfilehash: 2eaf5aa76cae1680b93af008af615ae872e4fb20
+ms.sourcegitcommit: fab425ea4580d1924fb421e6db233d135f5b7d19
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44564944"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46533784"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>אפשר להפעיל התקנים של Windows 10 המצורפים לתחום כדי שינוהל על-ידי Microsoft 365 Business Premium
 
@@ -58,7 +58,7 @@ ms.locfileid: "44564944"
 
 ## <a name="2-verify-azure-ad-is-enabled-for-joining-computers"></a>2. ודא תכלת לספירה מופעל לצורך הצטרפות למחשבים
 
-- עבור אל מרכז הניהול ב- https://admin.microsoft.com ובחר באפשרות ' **active directory** ' (בחר הצג הכל אם הספריה הפעילה אינה גלויה) ברשימת **מרכזי הניהול** . 
+- עבור אל מרכז הניהול ב- <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> ובחר באפשרות ' **active directory** ' (בחר הצג הכל אם הספריה הפעילה אינה גלויה) ברשימת **מרכזי הניהול** . 
 - במרכז **הניהול של הספריה הפעילה**, עבור אל הכלי **הפעיל של active directory** , בחר באפשרות **התקנים** ולאחר מכן **הגדרות התקן**.
 - ודא**כי משתמשים יכולים לצרף התקנים ל-"תכלת לספירה** " מופעלת 
     1. כדי להפוך את כל המשתמשים **לזמינים**, הגדר לכל.
@@ -68,7 +68,7 @@ ms.locfileid: "44564944"
 
 ## <a name="3-verify-azure-ad-is-enabled-for-mdm"></a>3. ודא תכלת לספירה מופעל עבור MDM
 
-- עבור אל מרכז הניהול https://admin.microsoft.com ובחר בחירת אנשי **מופע** של נקודות **הקצה**(בחר הצג הכל אם **מנהל נקודות הקצה** אינו גלוי)
+- עבור אל מרכז הניהול <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> ובחר בחירת אנשי **מופע** של נקודות **הקצה**(בחר הצג הכל אם **מנהל נקודות הקצה** אינו גלוי)
 - במרכז **הניהול של מנהל נקודות הקצה של Microsoft**, עבור אל **Devices**  >  **Windows**  >  **Windows Enrollment**  >  **הרישום האוטומטי**של התקנים של windows windows הרשמה.
 - ודא שטווח המשתמש של MDM מופעל.
 
@@ -77,44 +77,32 @@ ms.locfileid: "44564944"
         -  הוסף את משתמשי התחום הרצויים המסונכרנת בתכלת לספירה [לקבוצת אבטחה](../admin/create-groups/create-groups.md).
         -  בחר **קבוצות בחירה** כדי להפוך את טווח המשתמשים של MDM לזמין עבור קבוצת אבטחה זו.
 
-## <a name="4-set-up-service-connection-point-scp"></a>4. הגדרת נקודת חיבור של שירות (SCP)
+## <a name="4-create-the-required-resources"></a>4. צור את המשאבים הדרושים 
 
-שלבים אלה הם פשוטים יותר מאשר [להגדיר היברידית תכלת להצטרף](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join). כדי להשלים את השלבים שאתה צריך להשתמש תכלת AD הקשר ואת מיקרוסופט 365 עסקים פרמיה הכללית ניהול וסיסמאות Active Directory מנהל.
+ביצוע המשימות הנדרשות כדי [לקבוע את התצורה של היברידית התכלת להצטרף](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join) היתה פשוטה באמצעות שימוש של [ההרשמה לאתחל-Secmgmthyהרשמה](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) Cmdlet נמצא במודול [secmgmt](https://www.powershellgallery.com/packages/SecMgmt) PowerShell. בעת הפעלת יישומון cmdlet זה, הוא ייצור ויקבע את התצורה של נקודת חיבור השירות הנדרשת והמדיניות הקבוצתית.
 
-1.  התחל להתחבר לתכלת ולאחר מכן בחר **בקביעת תצורה**.
-2.  בדף **פעילויות נוספות** , בחר **באפשרות קביעת תצורה של אפשרויות התקן**ולאחר מכן בחר באפשרות **הבא**.
-3.  בדף ' **מבט כולל** ', בחר באפשרות ' **הבא**'.
-4.  בדף ' **התחברות לתכלת** ', הזן את האישורים של מנהל כללי עבור Microsoft 365 Business Premium.
-5.  בדף **אפשרויות התקן** , בחר באפשרות **הגדרת כחול היברידי כתכלת**ולאחר מכן בחר **בהבא**.
-6.  בדף **SCP** , עבור כל יער שבו ברצונך ש-"תכלת" תתחבר לקביעת התצורה של SCP, השלם את השלבים הבאים ולאחר מכן בחר **בהבא**:
-    - בדוק את התיבה שליד שם היער. היער צריך להיות. שם הדומיין שלך
-    - תחת עמודת **שירות האימות** , פתח את הרשימה הנפתחת ובחר את שם התחום התואם (קיימת רק אפשרות אחת בלבד).
-    - בחר **ב'הוספה** כדי להזין את האישורים של מנהל קבוצת המחשבים.  
-7.  בדף **מערכות ההפעלה של ההתקן** , בחר את Windows 10 או התקנים מאוחרים יותר המצורפים לתחום בלבד.
-8.  בעמוד ' **מוכן לקביעת התצורה** ', בחר באפשרות ' **קביעת תצורה**'.
-9.  בעמוד **השלם של התצורה** , בחר באפשרות **יציאה**.
+באפשרותך להתקין מודול זה על-ידי הפעלת הפעולה הבאה ממופע של PowerShell:
 
-
-## <a name="5-create-a-gpo-for-intune-enrollment--admx-method"></a>5. יצירת GPO עבור Intune הרשמה – ADMX שיטה
-
-השתמש. קובץ תבנית ADMX.
-
-1.  בצע כניסה לשרת AD, חפש ופתח את **Server Manager**  >  **Tools**  >  **ניהול המדיניות הקבוצתית**של כלי מנהל השרת.
-2.  בחר את שם התחום שלך תחת **קבוצות מחשבים** ולחץ לחיצה ימנית על **אובייקטי מדיניות קבוצתית** כדי לבחור **חדש**.
-3.  תן לאובייקט הGPO החדש שם, לדוגמה "*Cloud_Enrollment*" ולאחר מכן בחר **באפשרות אישור**.
-4.  לחץ לחיצה ימנית על אובייקט ה-GPO החדש תחת **אובייקטי מדיניות קבוצתית** ובחר בפקודה **עריכה**.
-5.  בעורך **ניהול המדיניות הקבוצתית**, עבור אל פריטי מדיניות **תצורת המחשב**  >  **Policies**  >  **תבניות ניהול**  >  **של Windows רכיבי**  >  **MDM**.
-6. לחץ באמצעות לחצן העכבר הימני **הפעל הרשמה אוטומטית של MDM באמצעות אישורי התכלת לספירה** ולאחר מכן בחר **Enabled**  >  **באישור**זמין. סגור את חלון העורך.
+```powershell
+Install-Module SecMgmt
+```
 
 > [!IMPORTANT]
-> אם אינך רואה שהמדיניות **מאפשרת הרשמה אוטומטית של MDM המשתמשת באישורי תכלת לספירה**, ראה [קבלת תבניות הניהול העדכניות](#get-the-latest-administrative-templates)ביותר.
+> מומלץ להתקין מודול זה ב-Windows Server שבו פועל התקשרות תכלת AD.
 
-## <a name="6-deploy-the-group-policy"></a>6. פריסת מדיניות קבוצתית
+כדי ליצור את נקודת החיבור הדרושה של השירות והמדיניות הקבוצתית, עליך להפעיל את ה-cmdlet של [הרשמת ההתקן של התקנת האבטחה](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) . תזדקק לאישורי המנהל הגלובלי של Microsoft Business Premium 365 במהלך ביצוע משימה זו. כאשר תהיה מוכן ליצור את המשאבים, הפעל את הפעולות הבאות:
 
-1.  במנהל השרת, תחת **קבוצות מחשבים** _ האובייקטים של מדיניות קבוצתית, בחר את ה-GPO משלב 3 לעיל, לדוגמה "Cloud_Enrollment".
-2.  בחר בכרטיסיה **טווח** עבור ה-GPO שלך.
-3.  בכרטיסיה טווח של GPO, לחץ לחיצה ימנית על הקישור לתחום תחת **קישורים**.
-4.  בחר באפשרות ' **נאכף** ' כדי לפרוס את ה-GPO ולאחר מכן **אישור** במסך האישור.
+```powershell
+PS C:\> Connect-SecMgmtAccount
+PS C:\> Initialize-SecMgmtHybirdDeviceEnrollment -GroupPolicyDisplayName 'Device Management'
+```
+
+הפקודה הראשונה תיצור חיבור עם ענן של Microsoft, וכאשר תתבקש, ציין את אישורי המנהל הכללי של מנהל העסקים של Microsoft 365.
+
+## <a name="5-link-the-group-policy"></a>5. קשר את המדיניות הקבוצתית
+
+1. במסוף ניהול המדיניות הקבוצתית (GPMC), לחץ באמצעות לחצן העכבר הימני על המיקום שבו ברצונך לקשר את המדיניות ובחר *קישור של GPO קיים.* ...
+2. בחר את המדיניות שנוצרה בשלב הנ ל ולאחר מכן לחץ על **אישור**.
 
 ## <a name="get-the-latest-administrative-templates"></a>קבל את התבניות המנהליות העדכניות ביותר
 
@@ -129,4 +117,3 @@ ms.locfileid: "44564944"
 6.  הפעל מחדש את בקר קבוצת המחשבים הראשי כדי שהמדיניות תהיה זמינה. הליך זה יפעל גם עבור כל גירסה עתידית.
 
 בשלב זה אתה אמור להיות מסוגל לראות את המדיניות **לאפשר הרשמה אוטומטית MDM באמצעות ברירת המחדל של הודעות תכלת לספירה** זמין.
-
