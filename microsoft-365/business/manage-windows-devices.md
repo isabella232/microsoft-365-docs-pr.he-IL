@@ -24,12 +24,12 @@ search.appverid:
 - BCS160
 - MET150
 description: למד כיצד לאפשר ל-Microsoft 365 להגן על התקנים מקומיים המצורפים ל-Windows 10 באמצעות ספריות בתוך מספר צעדים בלבד.
-ms.openlocfilehash: 2eaf5aa76cae1680b93af008af615ae872e4fb20
-ms.sourcegitcommit: fab425ea4580d1924fb421e6db233d135f5b7d19
+ms.openlocfilehash: 6275c6c4be9cd9631ab095f8b0e1b39683022bb2
+ms.sourcegitcommit: d988faa292c2661ffea43c7161aef92b2b4b99bc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46533784"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46560842"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>אפשר להפעיל התקנים של Windows 10 המצורפים לתחום כדי שינוהל על-ידי Microsoft 365 Business Premium
 
@@ -50,8 +50,7 @@ ms.locfileid: "46533784"
 
 ## <a name="1-verify-mdm-authority-in-intune"></a>1. ודא שרשות MDM בIntune
 
-עבור אל portal.azure.com ובחלק העליון של חיפוש הדף עבור Intune.
-בדף Microsoft Intune, בחר **הרשמת התקן** ובעמוד **מבט כולל** ודא **שהסמכות של MDM** היא **Intune**.
+עבור אל [מנהל נקודות הקצה](https://endpoint.microsoft.com/#blade/Microsoft_Intune_Enrollment/EnrollmentMenu/overview) ובדף Microsoft Intune, בחר **הרשמת התקן**ולאחר מכן, בדף **מבט כולל** , ודא **שהסמכות של MDM** היא **Intune**.
 
 - אם **רשות mdm** אינה **קיימת**, לחץ על **הרשות mdm** כדי להגדיר אותה ל- **Intune**.
 - אם **רשות mdm** היא **Microsoft Office 365**, עבור אל **התקנים**  >  **לרישום התקנים** והשתמש בתיבת הדו **הוספת הרשות של mdm** מימין כדי להוסיף את הרשות **Intune MDM** (תיבת הדו **הוספת הרשות של mdm** זמינה רק אם **הרשות MDM** מוגדרת ל-Microsoft Office 365).

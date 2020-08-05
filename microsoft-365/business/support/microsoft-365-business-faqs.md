@@ -13,12 +13,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business Premium,‏ Microsoft 365,‏ עסקים קטנים ובינוניים, שאלות נפוצות, תשובות, עסקים
 ms.date: 07/21/2020
-ms.openlocfilehash: 520009d26d0133a2c53c6149fe4938bea9db5a32
-ms.sourcegitcommit: 1b83b6bcacb997324bc4be355deba6daf319591d
+ms.openlocfilehash: 614da177df9250045ca3cc18c0b071e0aa43b7ec
+ms.sourcegitcommit: d988faa292c2661ffea43c7161aef92b2b4b99bc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46502998"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46560798"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>שאלות נפוצות אודות Microsoft 365 Business Premium
 
@@ -154,7 +154,7 @@ Windows AutoPilot הוא שירות המייעל את הפריסה של מחשב
 ניתן להוסיף את כל ההרחבות שניתן להוסיף ל-Microsoft 365 Business Standard גם ל- Microsoft 365 Business Premium. משמעות הדבר היא כי אתה יכול לרכוש Office 365 ענן App אבטחה, תאימות מתקדמת, מודיעין איום, MyAnalytics, כוח BI Pro, ועידות שמע. 
  
 ### <a name="can-i-add-phone-system-and-calling-plans-to-microsoft-365-business-premium"></a>האם ניתן להוסיף את 'מערכת טלפונים' ואת 'תוכניות שיחות' ל- Microsoft 365 Business Premium? 
-לא, 'מערכת טלפונים' ו'תוכניות שיחות' מיועדות ללקוחות בעלי צרכים מתקדמים יותר. ללקוחות הזקוקים ליכולות אלה, מומלץ לבדוק את ההצעות של Microsoft 365 Enterprise. 
+כן, באפשרותך לרכוש מנוי לקול עסקי. [Business Voice](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice) הוא פתרון טלפוניה המיועד לעסקים קטנים ובינוניים של עד 300 משתמשים המתכננים מערכת טלפון, שיחות ועידה קוליות, תוכנית שיחות ביתיות ועוד. יכולות מערכת הטלפון שתקבל כוללות תא קולי, שיחה מזוהה, פארק שיחה, העברת שיחות, מערכות ניתוב שיחות ותורי שיחה. <br> כדי לברר אם ' קול עסקי ' זמין במדינה או באזור שלך, ראה [זמינות מדינה ואזור עבור ' קול עסקי](https://docs.microsoft.com/microsoftteams/business-voice/country-region-availability)'. לקבלת מידע אודות תמחור, ראה [תמחור עבור ' קול עסקי](https://go.microsoft.com/fwlink/?linkid=2127221)'.
  
 ### <a name="can-microsoft-365-business-premium-customers-use--microsoft-defender-advanced-threat-protection"></a>האם מיקרוסופט 365 עסקים Premium לקוחות להשתמש ב-Microsoft Defender הגנה מתקדמים איום? 
 כן, מיקרוסופט Defender הגנה מתקדמים איום זמין כתוספת ל-Microsoft 365 Business לקוחות פרימיום.
