@@ -1,5 +1,5 @@
 ---
-title: אבטחת Windows 10 מחשבים
+title: מחשבי Windows 10 מאובטחים
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -22,33 +22,32 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: למד כיצד לאבטח את Windows 10 מחשבים אישיים לאחר הגדרת מיקרוסופט 365 Business Premium.
-ms.openlocfilehash: f18447db445bf051a44b99053d41e10f3ed34fc3
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+description: למד כיצד לאבטח את מחשבי Windows 10 Pc לאחר הגדרת Microsoft 365 Business Premium.
+ms.openlocfilehash: a70fcd330fe6ef330fac08512aded4d8913313d5
+ms.sourcegitcommit: 1780359234abdf081097c8064438d415da92fb85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "45081835"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46778383"
 ---
-# <a name="secure-windows-10-computers"></a>אבטחת Windows 10 מחשבים
+# <a name="secure-windows-10-computers"></a>מחשבי Windows 10 מאובטחים
 
-מאמר זה חל על 365 עסקים Premium של Microsoft.
+מאמר זה חל על Microsoft 365 Business Premium.
 
 לאחר [הגדרת](set-up.md) Microsoft 365 Business Premium, הגיע הזמן להגן על מחשבי Windows 10 בארגון שלך מפני גניבה, ואיומים זדוניים כגון וירוסים ותוכנות זדוניות.
-צפה בסרטון וידאו זה לקבלת סקירה כיצד להגדיר מדיניות כדי לאבטח את מחשבי Windows 10.<br><br>
-
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4kcAF] 
-
-אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 ## <a name="to-secure-your-windows-10-pcs"></a>כדי לאבטח את מחשבי Windows 10 שלך
 
-1. היכנס ל- [Microsoft 365 admin center](https://admin.microsoft.com) באמצעות אישורי המנהל הגלובלי שלך. 
-2. בניווט השמאלי, בחר **בהגדרה** ולאחר מכן, תחת **כניסה ואבטחה**, בחר **באבטחת מחשבי Windows 10**. בחר **' תצוגה '** כדי להתחיל.
-3. בדף **המאובטח של מחשבי Windows 10** , קרא את כל המידע כדי להבין מה אתה מדליק, ומה ההשפעה של המשתמש.
+1. היכנס אל [מרכז הניהול של Microsoft 365](https://admin.microsoft.com) באמצעות אישורי מנהל המערכת הכלליים שלך. 
+2. בסרגל הניווט הימני, בחר **הגדרה** ולאחר מכן, תחת **כניסה ואבטחה**, בחר **Secure Windows 10 מחשבים**. בחר **' תצוגה** ' כדי להתחיל בעבודה.
+3. בדף **Secure מחשבי Windows 10** , קרא את כל המידע כדי להבין מה אתה מפעיל, ומה ההשפעה של המשתמש.
 
-    בראש העמוד, בחר באפשרות ' **התחל**'.
+    בחלק העליון של הדף, בחר **תחילת**העבודה.
 
-4. בהגדרה של Windows 10, בחר באפשרויות שברצונך להפעיל. לקבלת מידע נוסף אודות ההגדרות, ראה [אבטחת התקנים של Windows 10](secure-windows-10-devices.md). 
-5. בחר למי בארגון שלך להחיל את המדיניות ולאחר מכן בחר באפשרות **שמור שינויים**.
+4. בחלונית **Secure מחשבי Windows 10** , בחר את האפשרויות שברצונך להפעיל. לקבלת מידע נוסף אודות ההגדרות, ראה [מכשירי Windows 10 מאובטחים](secure-windows-10-devices.md). 
+    
+    עבור רוב הארגונים, האפשרויות כאן מציעות רמה טובה של אבטחה, עם זאת, אם לארגון שלך יש צרכי אבטחה מורכבים יותר, באפשרותך גם להשתמש בתוכניות בסיסיות אבטחה מוגדרות מראש כדי לאבטח את מכשירי Windows 10 שלך. לקבלת מידע נוסף, ראה [תוכניות בסיסיות של אבטחה עבור מכשירי Windows 10](https://docs.microsoft.com/mem/intune/protect/security-baselines).   
 
+1. בחר **החל הגדרות**.
+
+    הגדרות אלה יחולו על כל המשתמשים בארגון שלך. כדי להגדיר פריטי מדיניות שונים עבור קבוצות אבטחה שונות, ראה [הגדרת הגדרות הגנה על מכשירים עבור מחשבי Pc של Windows 10](protection-settings-for-windows-10-pcs.md).
