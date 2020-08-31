@@ -1,5 +1,5 @@
 ---
-title: סנכרן משתמשי תחום ל-Microsoft 365
+title: סינכרון משתמשי תחום ל-Microsoft 365
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -22,48 +22,48 @@ search.appverid:
 - BCS160
 - MET150
 - MOE150
-description: סנכרן משתמשים מבוקרים בתחום עם Microsoft 365 לעסקים.
-ms.openlocfilehash: af9cb7c9b2b639edc2375679a73ab41c4cf6de71
-ms.sourcegitcommit: 5b769f74bcc76ac8d38aad815d1728824783cd9f
+description: סנכרן משתמשים שנשלטים על-ידי תחום באמצעות Microsoft 365 for business.
+ms.openlocfilehash: 9495d893eb6870ef7c417a78f921296bfc0e6705
+ms.sourcegitcommit: 555d756c69ac9031d1fb928f2e1f9750beede066
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45081847"
+ms.lasthandoff: 08/29/2020
+ms.locfileid: "47306448"
 ---
-# <a name="synchronize-domain-users-to-microsoft-365"></a>סנכרן משתמשי תחום ל-Microsoft 365
+# <a name="synchronize-domain-users-to-microsoft-365"></a>סינכרון משתמשי תחום ל-Microsoft 365
 
-## <a name="1-prepare-for-directory-synchronization"></a>1. היכונו לסנכרון ספריות 
+## <a name="1-prepare-for-directory-synchronization"></a>1. הכנה לסינכרון מדריכי כתובות 
 
-לפני שתסנכרן את המשתמשים והמחשבים שלך מקבוצת המחשבים המקומית של Active Directory, סקור את [ההכנה לסנכרון ספריות ל-Microsoft 365](https://docs.microsoft.com/office365/enterprise/prepare-for-directory-synchronization). בפרט:
+לפני שתסנכרן את המשתמשים והמחשבים שלך מהתחום המקומי של Active Directory, סקור את האפשרות [התכונן לסינכרון מדריכי כתובות ב-Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/prepare-for-directory-synchronization). בפרט:
 
-   - ודא שאין כפילויות בספריה שלך עבור התכונות הבאות: **דואר**, **כתובות Proxyaddresses שמות** **משתמשים**. על ערכים אלה להיות ייחודיים ויש להסיר את כל הכפילויות.
+   - ודא שהאפשרות ללא כפילויות קיימת במדריך הכתובות של התכונות הבאות: **mail**, **ProxyAddresses**ו- **userPrincipalName**. ערכים אלה חייבים להיות ייחודיים ולהסיר כל כפילויות.
    
-   - מומלץ לקבוע את התצורה של התכונה **Userהפריפרישם** (UPN) עבור כל חשבון משתמש מקומי שיתאים לכתובת הדואר האלקטרוני הראשית המתאימה למשתמש Microsoft 365 המורשה. לדוגמה: *mary.shelley@contoso.com* ולא *mary@contoso. מקומיים*
+   - מומלץ לקבוע את תצורת התכונה **userPrincipalName** (UPN) עבור כל חשבון משתמש מקומי כדי להתאים לכתובת הדואר האלקטרוני הראשית התואמת למשתמש Microsoft 365 המורשה. לדוגמה: *mary.shelley@contoso.com* ולא *mary@contoso. local*
    
-   - אם קבוצת המחשבים של Active Directory מסתיימת בסיומת שאינה ניתנת לניתוב כגון. *local* או *. lan*, במקום סיומת אינטרנט הניתנת לניתוב כגון *. com* או *. org*, התאם תחילה את סיומת ה-UPN של חשבונות המשתמשים המקומיים כמתואר [בהכנת תחום שאינו ניתן לניתוב עבור סינכרון ספריות](https://docs.microsoft.com/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization). 
+   - אם התחום של Active Directory מסתיים בסיומת שאינה ניתנת לניתוב *, כגון.* lan או. lan, במקום סיומת לאינטרנט הניתנת לניתוב כגון *. com* או *.* *lan*, התאם את סיומת ה-UPN של חשבונות המשתמשים המקומיים תחילה כמתואר [בהכנת תחום שאינו ניתן לניתוב עבור סינכרון מדריכי כתובות](https://docs.microsoft.com/microsoft-365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization). 
 
-**הפעל IdFix** בשלב ארבע (4) להלן, גם יוודא שהמחשב המקומי שלך active Directory מוכן לסינכרון dir.
+הפעל את **IdFix** בשלב 4 (4) להלן, ודא גם שמדריך Active Directory המקומי שלך מוכן לסינכרון של dir.
 
-## <a name="2-install-and-configure-azure-ad-connect"></a>2. התקנה והגדרה של התחברות תכלת
+## <a name="2-install-and-configure-azure-ad-connect"></a>2. התקנה וקביעת תצורה של התחברות למודעת תכלת
 
-כדי לסנכרן את המשתמשים, הקבוצות ואנשי הקשר שלך מ-Active Directory המקומי לתוך מדריך כחול פעיל, התקן את האפשרות התחבר לספריית המשימות הפעילה והגדר סינכרון ספריות. 
+כדי לסנכרן את המשתמשים, הקבוצות ואנשי הקשר שלך מ-Active Directory המקומי לתכלת Active Directory, התקן את תכלת Active Directory התחבר והגדר סינכרון מדריכי כתובות. 
 
- 1. במרכז הניהול של <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> בחירת **ההתקנה** בניווט השמאלי.
+ 1. במרכז הניהול <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> , בחר **הגדרה** בניווט הימני.
 
- 2. תחת **כניסה ואבטחה**, בחר באפשרות **תצוגה** תחת **משתמשי סינכרון מהספריה של הארגון**.
+ 2. תחת **כניסה ואבטחה**, בחר **הצג**  תחת **סנכרן משתמשים ממדריך הארגון שלך**.
 
- 3. בתיקיה **משתמשי סינכרון מתוך הספריה של הארגון** , בחר באפשרות ' **התחל**'.
+ 3. בדף **סינכרון משתמשים מתוך מדריך הכתובות של הארגון שלך** , בחר **תחילת**העבודה.
 
- 4. בשלב הראשון הכלי IdFix כדי להתכונן לסנכרון ספריות.
+ 4. בכלי השלב הראשון של ההפעלה IdFix כדי להתכונן לסינכרון מדריכי כתובות.
 
- 5. בצע את צעדי האשף כדי להוריד את החיבור התכלת ולהשתמש בו כדי לסנכרן את המשתמשים שבשליטת התחום שלך ל-Microsoft 365.
+ 5. בצע את שלבי האשף כדי להוריד את תכלת AD Connect והשתמש בו כדי לסנכרן את המשתמשים שנשלטים על-ידי התחום שלך ב-Microsoft 365.
 
 
-ראה [הגדרת סינכרון ספריות עבור Microsoft 365](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) כדי ללמוד עוד.
+ראה [הגדרת סינכרון מדריכי כתובות עבור Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/set-up-directory-synchronization) לקבלת מידע נוסף.
 
-כאשר אתה מגדיר את האפשרויות שלך עבור תכלת AD התחבר, אנו ממליצים לאפשר **סנכרון סיסמה**, **כניסה יחידה בודדת**, ואת **הסיסמה כתבה בחזרה** , אשר נתמך גם ב-Microsoft 365 לעסקים.
+בעת קביעת התצורה של האפשרויות עבור התחברות של תכלת לספירה, אנו ממליצים להפוך **סינכרון סיסמה**לזמין, **כניסה יחידה חלקה**והתכונה **Password writeback** , הנתמכת גם ב-Microsoft 365 for business.
 
 > [!NOTE]
-> יש כמה שלבים נוספים עבור הסיסמה כתיבה מעבר לתיבת הסימון התחבר תכלת AD. לקבלת מידע נוסף, ראה [כיצד-to: הגדרת התצורה של הסיסמה ככתוב](https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-writeback). 
+> קיימים כמה שלבים נוספים עבור סיסמה writeback מעבר לתיבת הסימון בקישור תכלת AD. לקבלת מידע נוסף, ראה [כיצד לעשות זאת: קביעת תצורה של writeback password](https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-writeback). 
 
-אם ברצונך לנהל גם התקנים המצורפים לתחום של Windows 10, ראה [הפעלת התקנים של windows 10 המצורפים לתחום כדי שתנוהל על-ידי Microsoft 365 Business Premium](manage-windows-devices.md) כדי להגדיר את הצירוף היברידי לתכלת. 
+אם ברצונך לנהל מכשירים המצורפים לתחום של Windows 10 בנוסף, ראה [הפיכת מכשירי windows 10 המצורפים לתחום למנוהל על-ידי Microsoft 365 Business Premium](manage-windows-devices.md) כדי להגדיר הצטרפות משולבת של תכלת לספירה. 

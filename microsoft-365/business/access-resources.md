@@ -1,5 +1,5 @@
 ---
-title: גישה למשאבים מקומיים ממכשיר תכלת המצורף לאתר ב-Microsoft 365 Business
+title: גישה למשאבים מקומיים באמצעות מכשיר מצורף לכיוון תכלת ב-Microsoft 365 Business
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -20,50 +20,50 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
-description: למד כיצד לקבל גישה למשאבים מקומיים כגון שורה של יישומים עסקיים, שיתופי קבצים ומדפסות מתוך מכשיר המצורף ל-Windows 10.
-ms.openlocfilehash: 9615ecc9469992d3e5a7479f4799c610db11fb41
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+description: למד כיצד לקבל גישה למשאבים מקומיים כגון שורה של אפליקציות עסקיות, מניות קבצים ומדפסות ממכשיר של תכלת Active Directory המצורף ל-Windows 10.
+ms.openlocfilehash: 9b83781afee746b06bbdf90962de0f55ffbcb118
+ms.sourcegitcommit: 555d756c69ac9031d1fb928f2e1f9750beede066
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44471250"
+ms.lasthandoff: 08/29/2020
+ms.locfileid: "47307492"
 ---
-# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>גישה למשאבים מקומיים ממכשיר תכלת מחובר ב-Microsoft 365 עסקים פרימיום
+# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>גישה למשאבים מקומיים באמצעות מכשיר תכלת מצורף ב-Microsoft 365 Business Premium
 
-מאמר זה חל על 365 עסקים Premium של Microsoft.
+מאמר זה חל על Microsoft 365 Business Premium.
 
-לכל מכשיר של Windows 10 המצורף ל-"תכלת Active Directory" יש גישה לכל המשאבים המבוססים על ענן צמתים, כגון יישומי Microsoft 365, וניתן להגן עליהם על-ידי Microsoft 365 Business Premium. כמו כן, באפשרותך לאפשר גישה למשאבים מקומיים כגון יישומים של שורה עסקית, שיתופי קבצים ומדפסות. כדי לאפשר גישה, השתמש [בתכלת והתחבר](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) כדי לסנכרן את הספריה המקומית שלך באמצעות הספריה הפעילה. 
+כל מכשיר Windows 10 שהוא תכלת Active Directory הצטרף אליו כולל גישה לכל המשאבים המבוססים על ענן, כגון יישומי Microsoft 365, וניתן להתגונן על-ידי Microsoft 365 Business Premium. באפשרותך גם לאפשר גישה למשאבים מקומיים כגון יישומי line-business (LOB), מניות קבצים ומדפסות. כדי לאפשר גישה, השתמש ב- [תכלת AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) כדי לסנכרן את active directory המקומי עם תכלת active directory. 
 
-לקבלת מידע נוסף, ראה [מבוא לניהול התקנים בתוך הספריה הפעילה](https://docs.microsoft.com/azure/active-directory/device-management-introduction).
+לקבלת מידע נוסף, ראה [מבוא לניהול מכשירים ב-תכלת Active Directory](https://docs.microsoft.com/azure/active-directory/device-management-introduction).
 השלבים מסוכמים גם בסעיפים הבאים.
 
 > [!IMPORTANT]
-> הליך זה ישים רק ל-OAuth ו-NTLM. אין תמיכה ב-Kerberos.
+> הליך זה חל רק על OAuth ו-NTLM. Kerberos אינו נתמך.
  
-## <a name="run-azure-ad-connect"></a>הפעל תכלת והתחבר
+## <a name="run-azure-ad-connect"></a>הרצת התחברות של תכלת לספירה
 
-השלם את השלבים הבאים כדי לאפשר להתקנים המצורפים של הארגון לבצע גישה למשאבים מקומיים.
+בצע את השלבים הבאים כדי להפוך את המכשירים המצורפים של הארגון שלך ל-תכלת לזמינים כדי לגשת למשאבים מקומיים.
   
-1. כדי לסנכרן את המשתמשים, הקבוצות ואנשי הקשר שלך מתוך Active Directory המקומי לתוך מדריך כחול פעיל, הפעל את אשף סינכרון הספריות והשתמש בתכלת AD כמתואר [בהגדרת סינכרון ספריות עבור Office 365](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization).
+1. כדי לסנכרן את המשתמשים, הקבוצות ואנשי הקשר שלך מ-Active Directory המקומי ל-תכלת Active Directory, הפעל את אשף סינכרון מדריכי הכתובות והקישור תכלת AD כמתואר [בהגדרת סינכרון מדריכי כתובות עבור Office 365](https://docs.microsoft.com/microsoft-365/enterprise/set-up-directory-synchronization).
     
-2. לאחר השלמת סינכרון הספריות, ודא שהתקני Windows 10 של הארגון שלך מצורפים לתכלת. שלב זה נעשה בנפרד בכל התקן של Windows 10. ראה [הגדרת התקני Windows עבור משתמשי Microsoft Business Premium 365](set-up-windows-devices.md) לקבלת פרטים. 
+2. לאחר השלמת סינכרון מדריכי הכתובות, ודא שמכשירי Windows 10 של הארגון שלך מצורפים ל-תכלת לספירה. שלב זה מתבצע בנפרד בכל מכשיר Windows 10. ראה [הגדרת מכשירי Windows עבור משתמשי Microsoft 365 Business Premium](set-up-windows-devices.md) לקבלת פרטים. 
     
-3. לאחר התקני Windows 10 הם תכלת לספירה הצטרפו, כל משתמש חייב לאתחל את המכשירים שלהם ולהיכנס עם האישורים שלהם מיקרוסופט 365 Business Premium. לכל ההתקנים יש כעת גישה גם למשאבים מקומיים.
+3. לאחר הצטרפות המכשירים של Windows 10, כל משתמש צריך להפעיל מחדש את המכשירים ולהיכנס באמצעות האישורים שלהם ב-Microsoft 365 Business Premium. לכל המכשירים יש כעת גישה גם למשאבים מקומיים.
     
-אין צורך בצעדים נוספים כדי לקבל גישה למשאבים מקומיים עבור התקנים המצורפים ל-תכלת AD. פונקציונליות זו מוכללת ב-Windows 10. 
+אין צורך לבצע שלבים נוספים כדי לקבל גישה למשאבים מקומיים עבור מכשירים המצורפים של תכלת לספירה. פונקציונליות זו מוכללת ב-Windows 10. 
 
-אם יש לך תוכניות להתחבר למכשיר AADJ אחר מאשר שיטת סיסמה כמו PIN/Bio-מטרי באמצעות התחברות האישור WHFB ולאחר מכן לגשת למשאבים המקומי (מיקומים משותפים, מדפסות... וכו '), אנא עקוב אחרhttps://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
+אם יש לך תוכניות להיכנס למכשיר AADJ מלבד שיטת סיסמה כגון PIN/Bio-מדד באמצעות כניסת האישורים של WHFB ולאחר מכן גישה למשאבים מקומיים (מיקומים משותפים, מדפסות. וכדומה), פעל בהתאם https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
   
-אם הארגון שלך אינו מוכן לפרוס בתצורת ההתקן המצורף של התכלת שתוארה לעיל, שקול להגדיר [תצורת התקן היברידית של התכלת ההיברידית](manage-windows-devices.md).
+אם הארגון שלך אינו מוכן לפריסה בתצורת ההתקן של תכלת לספירה שתוארה לעיל, שקול להגדיר את הגדרת [התצורה ההיברידית של תכלת לספירה הצטרפת למכשיר](manage-windows-devices.md).
   
-### <a name="considerations-when-you-join-windows-devices-to-azure-ad"></a>שיקולים כאשר אתה מצטרף להתקני Windows לתכלת
+### <a name="considerations-when-you-join-windows-devices-to-azure-ad"></a>שיקולים בעת הצטרפות למכשירי Windows לתכלת לספירה
 
-אם התקן Windows שאליו הצטרפת התכלת-לספירה הצטרף לתחום בעבר או בקבוצת עבודה, שקול את המגבלות הבאות:
+אם התקן Windows שאתה מחובר אליו באמצעות הודעות מיידיות, הצטרף בעבר לתחום או לקבוצת עבודה, שקול את המגבלות הבאות:
   
-- כאשר התקן "תכלת לספירה" מצטרף, הוא יוצר משתמש חדש מבלי ליצור הפניה לפרופיל קיים. יש להעביר באופן ידני פרופילים. פרופיל משתמש מכיל מידע כגון מועדפים, קבצים מקומיים, הגדרות דפדפן והגדרות תפריט התחלה. הגישה הטובה ביותר היא למצוא כלי של ספק חיצוני כדי למפות קבצים והגדרות קיימים לפרופיל החדש.
+- כאשר התקן תכלת מצטרף להודעה, הוא יוצר משתמש חדש ללא הפניה לפרופיל קיים. יש להעביר את הפרופילים באופן ידני. פרופיל משתמש מכיל מידע כגון מועדפים, קבצים מקומיים, הגדרות דפדפן והגדרות תפריט התחלה. הגישה הטובה ביותר היא למצוא כלי של ספק חיצוני כדי למפות קבצים והגדרות קיימים לפרופיל החדש.
 
-- אם ההתקן משתמש באובייקטי מדיניות קבוצתית (GPO), ייתכן שלאובייקטי Gpo מסוימים אין [ספק שירותי תצורה](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) דומה (CSP) ב-Intune. הפעל את [הכלי Mmat](https://www.microsoft.com/download/details.aspx?id=45520) כדי לחפש מדיניות קבוצתית דומה עבור אובייקטי gpo קיימים.
+- אם ההתקן משתמש באובייקטי מדיניות קבוצתית (GPO), ייתכן שאובייקטי Gpo מסוימים לא יהיו בעלי [ספק שירותי תצורה](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) מקביל (CSP) בתוך המנגינה. הפעילו את [הכלי MMAT](https://www.microsoft.com/download/details.aspx?id=45520) כדי למצוא את מחשב ה-csp הדומה לאובייקטי gpo קיימים.
 
-- משתמשים לא יוכלו לבצע אימות ליישומים התלויים באימות של Active Directory. הערכת יישום מדור קודם ושקול לעדכן לאפליקציה המשתמשת ב-אימות מודרני, במידת האפשר.
+- משתמשים לא יוכלו לבצע אימות ליישומים התלויים באימות של Active Directory. הערך את האפליקציה legacy ושקול לעדכן את היישום המשתמש באימות מודרני, אם ניתן.
 
-- גילוי מדפסות של active Directory לא יפעל. באפשרותך לספק נתיבי מדפסת ישירים עבור כל המשתמשים או להשתמש [בהדפס ענן היברידי](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).
+- גילוי מדפסת של Active Directory לא יפעל. באפשרותך לספק נתיבי מדפסת ישירים עבור כל המשתמשים או להשתמש [בהדפסת ענן היברידית](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).
