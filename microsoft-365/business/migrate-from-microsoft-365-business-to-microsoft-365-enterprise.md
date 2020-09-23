@@ -1,5 +1,5 @@
 ---
-title: העברה מ-Microsoft 365 Business ל-Microsoft 365 E3
+title: העברה מ-Microsoft 365 Business אל Microsoft 365 E3
 f1.keywords:
 - NOCSH
 ms.author: josephd
@@ -22,132 +22,132 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: למד כיצד להעביר את העסק שלך מ-Microsoft 365 Business Premium ל-Microsoft 365 E3.
-ms.openlocfilehash: 6a795d96ccae7e054e7e52d4fd60a4e73b3c71dd
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: fbd5c0710bffa92cfc17447094bb9b2683641d5f
+ms.sourcegitcommit: c083602dda3cdcb5b58cb8aa070d77019075f765
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "45081831"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48195518"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>העברה מ-Microsoft 365 Business Premium ל-Microsoft 365 E3
 
-Microsoft 365 Business Premium יש את כל מה שאתה צריך עבור העסק הקטן שלך, שילוב של יישומי הפרודוקטיביות המבוססת על ענן ברמה הטובה ביותר עם ניהול התקן פשוט ואבטחה המאפשרים לעובדים שלך לעשות את העבודה הטובה ביותר שלהם. עם זאת, במקרים מסוימים, ייתכן שיהיה עליך להעביר את מנוי ה-365 Business Premium של Microsoft למיקרוסופט 365 E3. 
+Microsoft 365 Business Premium כולל את כל מה שדרוש לך עבור העסק הקטן שלך, תוך שילוב יישומי הפרודוקטיביות המבוססים על ענן ברמה הטובה ביותר עם ניהול מכשירים ואבטחה פשוטים המאפשרים לעובדים לבצע את עבודתם הטובה ביותר. עם זאת, במקרים מסוימים, ייתכן שיהיה עליך להעביר את מנוי Microsoft 365 Business Premium שלך ל-Microsoft 365 E3. 
 
-לדוגמה, העסק שלך גדל וזקוק ליותר מ 300 רשיונות (ברכות, דרך אגב).
+לדוגמה, העסק שלך גדל וזקוק ליותר מ-300 רשיונות (מזל טוב, דרך אגב).
 
-לחלופין, העסק שלך זקוק לתכונות ארגוניות, כגון Microsoft 365 Apps עבור הארגון, Windows 10-E3 Enterprise, או רשיונות גישת לקוח ארגוניים (Cal).
+לחלופין, העסק שלך זקוק לתכונות ארגוניות, כגון יישומי Microsoft 365 עבור enterprise, Windows 10 Enterprise E3 או רשיונות של גישת לקוח ארגוניים (רשיונות גישת לקוח).
 
-השדרוג הוא קל: באפשרותך להפעיל את השדרוג [ממרכז הניהול](../commerce/subscriptions/upgrade-to-different-plan.md). כל הנתונים והגדרות התצורה במנוי הנוכחי נשמרים. אין לך מה לעשות כדי להתכונן להגירה ולא לעשות כלום לאחר מכן, מלבד לנצל את התכונות החדשות.
+שדרוג קל: באפשרותך להפעיל את השדרוג [ממרכז הניהול](../commerce/subscriptions/upgrade-to-different-plan.md). כל הנתונים והתצורה במנוי הנוכחי שלך נשמרים. אין לך מה לעשות כדי להתכונן להעברה ואין מה לעשות לאחר מכן, למעט לנצל את התכונות החדשות.
 
 >[!Note]
->באפשרותך גם להשתמש במנוי של Microsoft Business Premium 365 עבור עד 300 מושבים ולקבל מנוי של Microsoft 365 E3 עבור יותר מ-300 מושבים. עם זאת, Office 365 ATP אינו כלול ב-Microsoft 365 E3. לצורך הגנה על איום מתמשך, עליך להוסיף רשיונות Office 365 של ATP נוספים כך שכל המשתמשים בהיקף של מדיניות ה-ATP של Office 365 יהיו מורשים.
+>באפשרותך גם להשתמש במנוי של Microsoft 365 Business Premium עבור עד 300 מושבים ולקבל מנוי של Microsoft 365 E3 עבור יותר מ-300 מושבים. עם זאת, Office 365 ATP אינו כלול ב-Microsoft 365 E3. לצורך הגנת האיום המתמשכת, עליך להוסיף רשיונות נוספים של Office 365 ATP כך שכל המשתמשים בטווח של משטרת ה-ATP של Office 365 שלך יהיו בעלי רשיון.
 >
 
-## <a name="differences-between-microsoft-365-business-premium-and-microsoft-365-enterprise"></a>הבדלים בין מיקרוסופט 365 עסקים Premium ו-Microsoft 365 Enterprise
+## <a name="differences-between-microsoft-365-business-premium-and-microsoft-365-enterprise"></a>הבדלים בין Microsoft 365 Business Premium ו-Microsoft 365 Enterprise
 
 טבלה זו מציגה את ההבדלים בין Microsoft 365 Business Premium ו-Microsoft 365 E3.
 
-| תכונה    | תמיכה ב-Microsoft 365 עסקים פרימיום    | תמיכה ב-Microsoft 365 E3 | 
+| תכונה    | תמיכה ב-Microsoft 365 Business Premium    | תמיכה ב-Microsoft 365 E3 | 
 |:-------|:-----|:-----|
 | **מקומי**        | | | 
-| ווינדוס 10    | העסק של חלונות 10  |     Windows 10 E3 ארגון| 
-| יישומי Office *    | [מיקרוסופט 365 אפליקציות לעסקים](#office-365-business)    | מיקרוסופט 365 Apps עבור הארגון | 
+| Windows 10    | Windows 10 Business  |     Windows 10 Enterprise E3| 
+| יישומי Office *    | [אפליקציות Microsoft 365 לעסקים](#office-365-business)    | Microsoft 365 Apps for enterprise | 
 | **אפליקציות לפרודוקטיביות בענן**        | | | 
-| Exchange Online ו-Outlook    | 50 ג'יגה-בתים של מגבלת אחסון לכל תיבת דואר וארכיון Exchange Online בלתי מוגבל    | 100 ג'יגה-בתים של מגבלת אחסון לכל תיבת דואר וארכיון Exchange Online בלתי מוגבל | 
-| צוותים    | ![כלולים עם מיקרוסופט 365 עסקים פרימיום](../media/check-mark.png)    | ![כלולים ב-Microsoft 365 E3](../media/check-mark.png) | 
-| OneDrive for Business    | 1 TB מגבלת אחסון לכל משתמש    | גבלה | 
-| Yammer, SharePoint מקוון, מתכנן, זרם    | ![כלולים עם מיקרוסופט 365 עסקים פרימיום](../media/check-mark.png)    | ![כלולים ב-Microsoft 365 E3](../media/check-mark.png) | 
-| מנהל הלקוחות של Outlook, MileIQ    | ![כלולים עם מיקרוסופט 365 עסקים פרימיום](../media/check-mark.png)    | | 
-| **הגנה מפני איומים**        | | | 
-| יכולות הפחתת משטח התקפה    | [ראה רשימה זו](#threat-protection) | ניהול ארגוני של בידוד מבוסס חומרה עבור Microsoft Edge | 
-| תוכנית הגנת האיומים המתקדמת של Office 365 (ATP) 1 | ![כלולים עם מיקרוסופט 365 עסקים פרימיום](../media/check-mark.png)    | לא כלול, אבל ניתן להוסיף על | 
+| Exchange Online ו-Outlook    | מגבלת אחסון של 50 GB לכל תיבת דואר ואחסון בארכיון באופן בלתי מוגבל של Exchange Online    | מגבלת אחסון של 100 GB לכל תיבת דואר ואחסון בארכיון באופן בלתי מוגבל של Exchange Online | 
+| Teams    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
+| OneDrive for Business    | מגבלת אחסון של 1 TB לכל משתמש    | גבלה | 
+| קטרת, SharePoint Online, מתכנן תכנון, זרם    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
+| Outlook Customer Manager, MileIQ    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | | 
+| **הגנה מפני איום**        | | | 
+| יכולות הפחתת משטח התקפה    | [הצגת רשימה זו](#threat-protection) | ניהול ארגוני של בידוד מבוסס חומרה עבור Microsoft Edge | 
+| תוכנית מתקדמת של הגנה מפני איום של Office 365 (ATP) תוכנית 1 | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | לא כלול, אך ניתן להוסיף אותו | 
 | **ניהול זהויות**        | | | 
-| איפוס סיסמה של שירות עצמי עבור חשבונות היברידית של התכלת הפעילה (כחול לספירה), אימות מרובה-גורמים (משרד המידע), גישה מותנית, סיסמה שתכתוב עבור זהויות מקומיות|     ![כלולים עם מיקרוסופט 365 עסקים פרימיום](../media/check-mark.png)    | ![כלולים ב-Microsoft 365 E3](../media/check-mark.png) | 
-| האפליקציה גילוי ענן, תכלת AD התחברות בריאות    |     | ![כלולים ב-Microsoft 365 E3](../media/check-mark.png) | 
-| תכלת המשרד 365 אפליקציות כניסה יחידה (SSO): 10 יישומים לכל משתמש (גלריית יישומים מסוג SaaS כגון מערכת המחיר) * | ![כלולים עם מיקרוסופט 365 עסקים פרימיום](../media/check-mark.png)    | ![כלולים ב-Microsoft 365 E3](../media/check-mark.png) | 
-| תכלת AD פרימיום 1 SSO: אין מגבלה (יישומים מקומיים באמצעות התכלת AD היישום Proxy ויישומים שאינם הגלריה באמצעות שילוב עצמי יישום App תבניות)    |     | ![כלולים ב-Microsoft 365 E3](../media/check-mark.png) | 
-| **ניהול התקנים ואפליקציות**        | | | 
-| מיקרוסופט Intune, Windows טייס אוטומטי|     ![כלולים עם מיקרוסופט 365 עסקים פרימיום](../media/check-mark.png)    | ![כלולים ב-Microsoft 365 E3](../media/check-mark.png) | 
-|גישה לשולחן עבודה וירטואלי (VDA)    |  |     ![כלולים ב-Microsoft 365 E3](../media/check-mark.png) | 
-|שולחן עבודה וירטואלי של Windows (WVD)    | ![כלולים עם מיקרוסופט 365 עסקים פרימיום](../media/check-mark.png) |     ![כלולים ב-Microsoft 365 E3](../media/check-mark.png) | 
-|הפעלה משותפת של מחשב (סקה)    | ![כלולים עם מיקרוסופט 365 עסקים פרימיום](../media/check-mark.png) |     ![כלולים ב-Microsoft 365 E3](../media/check-mark.png) | 
-| חבילת אופטימיזציה לשולחן העבודה של Microsoft    | |     ![כלולים ב-Microsoft 365 E3](../media/check-mark.png) | 
-| **הגנה מפני מידע**        | | | 
-| משרד 365 למניעת אובדן נתונים, תוכנית הגנת מידע תכלת 1    | ![כלולים עם מיקרוסופט 365 עסקים פרימיום](../media/check-mark.png)    | ![כלולים ב-Microsoft 365 E3](../media/check-mark.png) | 
-| הגנה על מידע חלון עבור DLP של נקודת קצה    | ![כלולים עם מיקרוסופט 365 עסקים פרימיום](../media/check-mark.png)    | ![כלולים ב-Microsoft 365 E3](../media/check-mark.png) | 
+| איפוס סיסמה בשירות עצמי עבור חשבונות היברידית תכלת Active Directory (תכלת לספירה), הודעות מרובות-גורמי אימות (מכשפות אחרות), גישה מותנית, סיסמה writeback עבור זהויות מקומיות|     ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
+| גילוי אפליקציית הענן, התחברות בריאות של תכלת    |     | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
+| כניסה יחידה של הודעות מיידיות של Office 365 יישומי כניסה יחידה (SSO): 10 אפליקציות לכל משתמש (גלריה סאס apps כגון Salesforce) * | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
+| התאמה אישית של תכלת לספירה 1-SSO: ללא מגבלה (יישומים מקומיים באמצעות האפליקציה ' הודעות מיידיות ' של יישומי Proxy ויישומים שאינם בגלריה באמצעות תבניות שילוב של יישומים בשירות עצמי    |     | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
+| **ניהול מכשירים ויישומים**        | | | 
+| Microsoft intune, Windows טייס אוטומטי|     ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
+|גישה לשולחן עבודה וירטואלי (VDA)    |  |     ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
+|שולחן העבודה של Windows Virtual (WVD)    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png) |     ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
+|הפעלת מחשב משותף (SCA)    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png) |     ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
+| חבילת אופטימיזציה לשולחן העבודה של Microsoft    | |     ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
+| **הגנה על מידע**        | | | 
+| מניעת אובדן נתונים של Office 365, מניעת הגנה על מידע תכלת 1    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
+| הגנה על מידע חלון עבור DLP של נקודת קצה    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
 | **רשיון גישת לקוח (זכויות CAL)**    | | |     
-| סוויטת CAL של ארגון (Exchange, SharePoint, סקייפ, חלונות, מנהל תצורת נקודות קצה של מיקרוסופט, ניהול זכויות של Windows)| |         ![כלולים ב-Microsoft 365 E3](../media/check-mark.png) | 
+| חבילת CAL של Enterprise (Exchange, SharePoint, Skype, Windows, מנהל התצורה של נקודות קצה של Microsoft, ניהול זכויות של Windows)| |         ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
 | **תאימות**        | | | 
-| בארכיון דוא ל ללא הגבלה    | ![כלולים עם מיקרוסופט 365 עסקים פרימיום](../media/check-mark.png)    | ![כלולים ב-Microsoft 365 E3](../media/check-mark.png) | 
-| תוצאת תאימות/מנהל תאימות    | ![כלולים עם מיקרוסופט 365 עסקים פרימיום](../media/check-mark.png)    | ![כלולים ב-Microsoft 365 E3](../media/check-mark.png) | 
-| eDiscovery    | ![כלולים עם מיקרוסופט 365 עסקים פרימיום](../media/check-mark.png)    | ![כלולים ב-Microsoft 365 E3](../media/check-mark.png) | 
-| חסימה במקום והחזקת ליטיגציה    | ![כלולים עם מיקרוסופט 365 עסקים פרימיום](../media/check-mark.png)    | ![כלולים ב-Microsoft 365 E3](../media/check-mark.png) | 
-| תגי שמירה של ניהול רשומות העברת הודעות (MRM) ומדיניות שמירה    | ![כלולים עם מיקרוסופט 365 עסקים פרימיום](../media/check-mark.png)    | ![כלולים ב-Microsoft 365 E3](../media/check-mark.png) | 
+| אחסון בארכיון של דואר אלקטרוני בלתי מוגבל    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
+| מנהל תאימות    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
+| גילוי אלקטרוני    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
+| חסימה מקומית וחסימה לצורך תביעה משפטית    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
+| תגי שמירה של ניהול רשומות של העברת הודעות (MRM) ומדיניות שמירה    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
 ||||
 
-\*משתמשים שהוקצו להם גישה ליישומי SaaS יכולים לקבל גישה ל-SSO עד 10 אפליקציות. מנהלים יכולים לקבוע את תצורת SSO ולשנות את גישת המשתמש ליישומי SaaS שונים, אך גישת SSO מותרת רק עבור 10 יישומים לכל משתמש בכל פעם. כל יישומי Office 365 נספרים כיישום יחיד.
+\* משתמשים שהוקצו להם גישה לאפליקציות של SaaS יכולים לקבל גישה ל-SSO עד 10 אפליקציות. מנהלי מערכת יכולים לקבוע את התצורה של SSO ולשנות את גישת המשתמש ליישומים שונים של SaaS, אך גישת SSO מותרת רק עבור 10 אפליקציות לכל משתמש בכל פעם. כל יישומי Office 365 נספרים כאפליקציה אחת.
 
 ## <a name="migration"></a>העברה
 
-כדי להעביר, עבוד עם השותף שלך כדי להעביר את Microsoft 365 Business Premium למנוי ורישיונות למנוי מתאים של Microsoft 365 E3 עם הרישיונות שלה.
+כדי להעביר, עבוד עם השותף שלך כדי להעביר את מנוי Microsoft 365 Business Premium ורשיונות למנוי מתאים של Microsoft 365 E3 עם הרשיונות שלו.
 
-הסעיפים הבאים מתארים את השינויים שעליך לבצע, אם בכלל, ומה באפשרותך לעשות לאחר ההעברה.
+הסעיפים הבאים מתארים אילו שינויים עליך לבצע, אם בכלל, ומה ניתן לעשות לאחר ההעברה.
 
-### <a name="microsoft-365-subscription-configuration-and-data"></a>מיקרוסופט 365 תצורת מנויים ונתונים
+### <a name="microsoft-365-subscription-configuration-and-data"></a>תצורת מנוי ונתונים של Microsoft 365
 
-אין צורך לבצע שינויים במנוי או בנתונים הנוכחיים לפני ההעברה, כולל:
+אין צורך לבצע שינויים במנוי או בנתונים הנוכחיים לפני ההעברה, הכוללת:
 
 - תצורת מנוי, כגון שמות תחומים של DNS.
-- חשבונות משתמש וקבוצה והגדרות אימות, כגון אימות מרובה גורמים או מדיניות גישה מותנית.
-- תצורות שירות של פרודוקטיביות והנתונים שלהם, כגון צוותים, תיבות דואר של Exchange Online, אתרים מקוונים של SharePoint, OneDrive עבור תיקיות עסקיות ומחברות של OneNote.
+- חשבונות משתמשים וקבוצות והגדרות אימות, כגון אימות רב-גורמי או מדיניות גישה מותנית.
+- תצורות שירות פרודוקטיביות והנתונים שלהם, כגון Teams, תיבות דואר של Exchange Online, אתרי SharePoint Online, תיקיות OneDrive for Business ומחברות OneNote.
 
-כעת, המשתמשים שלך יכולים ליהנות מאחסון בלתי מוגבל בתיבות הדואר של Exchange Online ובתיקיות עסקיות.
+כעת המשתמשים יכולים ליהנות משטח אחסון בלתי מוגבל בתיקיות ' תיבות דואר של Exchange Online ' OneDrive for Business '.
 
-אתה יכול להתחיל להשתמש בגילוי קלאוד App, תכלת AD התחברות בריאות, ו-SSO עבור יותר מ 10 apps.
+באפשרותך להתחיל להשתמש בגילוי של אפליקציית הענן, לחבר את בריאות התכלת ולהשתמש ב-SSO עבור יותר מ-10 אפליקציות.
 
 >[!Note]
->משתמשים שהועברו ל-Microsoft 365 E3 לא יכולים עוד להשתמש במנהל הלקוחות של Outlook ו-MileIQ.
+>משתמשים שהועברו ל-Microsoft 365 E3 אינם יכולים עוד להשתמש ב-Outlook Customer Manager ו-MileIQ.
 >
 
 <a name="threat-protection"></a>
-### <a name="threat-protection"></a>הגנה מפני איומים
+### <a name="threat-protection"></a>הגנה מפני איום
 
 Windows 10 Business כולל הגנות אלה:
 
-- אכיפת התקינות של תהליך האתחול של מערכת ההפעלה
-- אכיפת שלמות של רכיבי הפעלה רגישים
-- פגיעות מתקדמת והגורמים המקלים על ניצול של אפס ימים
-- הגנת רשת מבוססת מוניטין עבור Microsoft Edge, Internet Explorer וכרום
-- חומת אש מבוססת-מארח
-- הגורמים המקלים Ransomware
+- אכיפת תקינות של תהליך אתחול מערכת ההפעלה
+- אכיפת תקינות של רכיבי הפעלה רגישים
+- פגיעות מתקדמת וגורמים מקלים לניצול של אפס ימים
+- הגנה על רשת מבוססת מוניטין עבור Microsoft Edge, Internet Explorer ו-Chrome
+- חומת אש מבוססת מארח
+- מזעור Ransomware
 - בידוד מבוסס חומרה עבור Microsoft Edge
-- בקרת יישומים המונעת על-ידי גרף האבטחה החכם
-- בקרת התקן (USB)
-- הגנת רשת עבור איומים מבוססי אינטרנט
-- כללי מניעת חדירה למחשב
+- בקרת יישומים מופעלת על-ידי גרף האבטחה החכם
+- פקד מכשיר (USB)
+- הגנה על הרשת עבור איומים מבוססי-אינטרנט
+- כללי מניעת החדירה למארח
 
-Windows 10 מארגון E3 כולל גם ניהול ארגוני של בידוד מבוסס חומרה עבור Microsoft Edge.
+Windows 10 Enterprise E3 כולל גם ניהול ארגוני של בידוד מבוסס חומרה עבור Microsoft Edge.
 
 >[!Note]
->משתמשים שהועברו ל-Microsoft 365 E3 ידרשו רישיון של Office 365 ATP לצורך הגנה על האיום המתמשך. הקפד לרכוש רשיונות נוספים של Office 365 ATP כך שכל המשתמשים בטווח של מדיניות ה-ATP של Office 365 יהיו מורשים. 
+>משתמשים שהועברו ל-Microsoft 365 E3 ידרשו לכל אחד מהם לדרוש רשיון של Office 365 ATP עבור הגנה מתמשכת על איום. הקפד לרכוש רשיונות נוספים של Office 365 ATP כך שכל המשתמשים בטווח של משטרת ה-ATP של Office 365 שלך יהיו בעלי רשיון. 
 >
 
-### <a name="device-management-with-intune"></a>ניהול התקנים באמצעות Intune
+### <a name="device-management-with-intune"></a>ניהול מכשירים עם כוונון
 
-אין צורך לבצע שינויים כלשהם בתצורת Intune הנוכחית לפני ההעברה, הכוללת התקנים רשומים והגדרות התקן ויישום.
+אין צורך לבצע שינויים בקביעת התצורה הנוכחית של ' שינוי כיוון ' לפני ההעברה, הכוללת התקנים רשומים והגדרות התקן ואפליקציה.
 
-### <a name="windows-10"></a>ווינדוס 10
+### <a name="windows-10"></a>Windows 10
 
-מיקרוסופט 365 עסקים Premium כולל Windows 10 עסקים, אשר ניתן להתקין עם Windows טייס אוטומטי. כאשר אתה מעביר ל-Microsoft 365 E3, כל רשיון משתמש כולל Windows 10 Enterprise E3, אשר ניתן גם להתקין עם Windows טייס אוטומטי.
+Microsoft 365 Business Premium כולל את Windows 10 Business, שניתן להתקין באמצעות Windows טייס אוטומטי. כאשר אתה מעביר ל-Microsoft 365 E3, כל רשיון משתמש כולל את Windows 10 Enterprise E3, שניתן גם להתקין באמצעות Windows טייס אוטומטי.
 
 <a name="office-365-business"></a>
-###  <a name="microsoft-365-apps-for-business"></a>מיקרוסופט 365 אפליקציות לעסקים
+###  <a name="microsoft-365-apps-for-business"></a>אפליקציות Microsoft 365 לעסקים
 
-היישומים שלך ב-Microsoft 365 ללקוח עסקי המותקנים במכשירים שלך יתחילו באופן אוטומטי להשתמש בתכונות של Microsoft 365 Apps עבור הארגון. לאחר ההעברה, באפשרותך להשתמש כעת:
+לקוח Microsoft 365 Apps לעסקים המותקן במכשירים שלך יתחיל להשתמש באופן אוטומטי בתכונות של יישומי Microsoft 365 עבור הארגון. לאחר ההעברה, כעת באפשרותך להשתמש ב:
 
- - הפעלת אמצעי אחסון באמצעות מדיניות קבוצתית
- - טלמטריה אפליקציות
- - עדכן פקדים
- - גיליון אלקטרוני להשוות ולברר
+ - הפעלת עוצמת הקול במסגרת מדיניות קבוצתית
+ - טלמטריה באפליקציות
+ - פקדי עדכון
+ - השוואה בין גליונות אלקטרוניים ובירורים
  - בינה עסקית
 
