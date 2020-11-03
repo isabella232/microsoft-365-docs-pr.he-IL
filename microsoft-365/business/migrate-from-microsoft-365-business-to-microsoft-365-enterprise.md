@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: למד כיצד להעביר את העסק שלך מ-Microsoft 365 Business Premium ל-Microsoft 365 E3.
-ms.openlocfilehash: fbd5c0710bffa92cfc17447094bb9b2683641d5f
-ms.sourcegitcommit: c083602dda3cdcb5b58cb8aa070d77019075f765
+ms.openlocfilehash: 874da0d35759c8af4c3ee2ca4a1bdfa90a91627c
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48195518"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842199"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>העברה מ-Microsoft 365 Business Premium ל-Microsoft 365 E3
 
@@ -40,7 +40,7 @@ Microsoft 365 Business Premium כולל את כל מה שדרוש לך עבור 
 שדרוג קל: באפשרותך להפעיל את השדרוג [ממרכז הניהול](../commerce/subscriptions/upgrade-to-different-plan.md). כל הנתונים והתצורה במנוי הנוכחי שלך נשמרים. אין לך מה לעשות כדי להתכונן להעברה ואין מה לעשות לאחר מכן, למעט לנצל את התכונות החדשות.
 
 >[!Note]
->באפשרותך גם להשתמש במנוי של Microsoft 365 Business Premium עבור עד 300 מושבים ולקבל מנוי של Microsoft 365 E3 עבור יותר מ-300 מושבים. עם זאת, Office 365 ATP אינו כלול ב-Microsoft 365 E3. לצורך הגנת האיום המתמשכת, עליך להוסיף רשיונות נוספים של Office 365 ATP כך שכל המשתמשים בטווח של משטרת ה-ATP של Office 365 שלך יהיו בעלי רשיון.
+>באפשרותך גם להשתמש במנוי של Microsoft 365 Business Premium עבור עד 300 מושבים ולקבל מנוי של Microsoft 365 E3 עבור יותר מ-300 מושבים. עם זאת, Microsoft Defender עבור Office 365 אינו כלול ב-Microsoft 365 E3. לצורך הגנת האיום המתמשכת, עליך להוסיף רשיונות נוספים של Defender עבור Office 365 כך שכל המשתמשים בטווח של המגן שלך עבור משטרת Office 365 יהיו בעלי רשיון.
 >
 
 ## <a name="differences-between-microsoft-365-business-premium-and-microsoft-365-enterprise"></a>הבדלים בין Microsoft 365 Business Premium ו-Microsoft 365 Enterprise
@@ -51,7 +51,7 @@ Microsoft 365 Business Premium כולל את כל מה שדרוש לך עבור 
 |:-------|:-----|:-----|
 | **מקומי**        | | | 
 | Windows 10    | Windows 10 Business  |     Windows 10 Enterprise E3| 
-| יישומי Office *    | [אפליקציות Microsoft 365 לעסקים](#office-365-business)    | Microsoft 365 Apps for enterprise | 
+| יישומי Office *    | [אפליקציות Microsoft 365 לעסקים](#office-365-business)    | יישומי Microsoft 365 עבור ארגונים | 
 | **אפליקציות לפרודוקטיביות בענן**        | | | 
 | Exchange Online ו-Outlook    | מגבלת אחסון של 50 GB לכל תיבת דואר ואחסון בארכיון באופן בלתי מוגבל של Exchange Online    | מגבלת אחסון של 100 GB לכל תיבת דואר ואחסון בארכיון באופן בלתי מוגבל של Exchange Online | 
 | Teams    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
@@ -60,12 +60,12 @@ Microsoft 365 Business Premium כולל את כל מה שדרוש לך עבור 
 | Outlook Customer Manager, MileIQ    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | | 
 | **הגנה מפני איום**        | | | 
 | יכולות הפחתת משטח התקפה    | [הצגת רשימה זו](#threat-protection) | ניהול ארגוני של בידוד מבוסס חומרה עבור Microsoft Edge | 
-| תוכנית מתקדמת של הגנה מפני איום של Office 365 (ATP) תוכנית 1 | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | לא כלול, אך ניתן להוסיף אותו | 
+| Defender עבור Office 365 תוכנית 1 | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | לא כלול, אך ניתן להוסיף אותו | 
 | **ניהול זהויות**        | | | 
 | איפוס סיסמה בשירות עצמי עבור חשבונות היברידית תכלת Active Directory (תכלת לספירה), הודעות מרובות-גורמי אימות (מכשפות אחרות), גישה מותנית, סיסמה writeback עבור זהויות מקומיות|     ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
 | גילוי אפליקציית הענן, התחברות בריאות של תכלת    |     | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
-| כניסה יחידה של הודעות מיידיות של Office 365 יישומי כניסה יחידה (SSO): 10 אפליקציות לכל משתמש (גלריה סאס apps כגון Salesforce) * | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
-| התאמה אישית של תכלת לספירה 1-SSO: ללא מגבלה (יישומים מקומיים באמצעות האפליקציה ' הודעות מיידיות ' של יישומי Proxy ויישומים שאינם בגלריה באמצעות תבניות שילוב של יישומים בשירות עצמי    |     | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
+| אפליקציות של הודעות מיידיות של Office 365 בודדות Sign-On (SSO): 10 אפליקציות לכל משתמש (גלריה סאס apps כגון Salesforce) * | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
+| Self-Service שילוב מוגבל של הודעות מיידיות באפליקציות מקומיות באמצעות מכ    |     | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
 | **ניהול מכשירים ויישומים**        | | | 
 | Microsoft intune, Windows טייס אוטומטי|     ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
 |גישה לשולחן עבודה וירטואלי (VDA)    |  |     ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
@@ -129,7 +129,7 @@ Windows 10 Business כולל הגנות אלה:
 Windows 10 Enterprise E3 כולל גם ניהול ארגוני של בידוד מבוסס חומרה עבור Microsoft Edge.
 
 >[!Note]
->משתמשים שהועברו ל-Microsoft 365 E3 ידרשו לכל אחד מהם לדרוש רשיון של Office 365 ATP עבור הגנה מתמשכת על איום. הקפד לרכוש רשיונות נוספים של Office 365 ATP כך שכל המשתמשים בטווח של משטרת ה-ATP של Office 365 שלך יהיו בעלי רשיון. 
+>משתמשים שהועברו ל-Microsoft 365 E3 ידרשו מכל אחד מהם לדרוש רשיון של Microsoft Defender עבור Office 365 לצורך הגנה על האיום המתמשך. הקפד לרכוש רשיונות נוספים של Defender עבור Office 365 כך שכל המשתמשים בטווח של המגן שלך עבור משטרת Office 365 יהיו בעלי רשיון. 
 >
 
 ### <a name="device-management-with-intune"></a>ניהול מכשירים עם כוונון

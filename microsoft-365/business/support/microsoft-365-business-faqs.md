@@ -1,6 +1,6 @@
 ---
-title: שאלות נפוצות אודות Microsoft 365 Business Premium 
-description: חפש תשובות לשאלות הנפוצות ביותר לגבי Microsoft 365 Business, פתרון חדש המיועד לעסקים קטנים ובינוניים (SMB). 
+title: שאלות נפוצות אודות Microsoft 365 Business Premium
+description: חפש תשובות לשאלות הנפוצות ביותר לגבי Microsoft 365 Business, פתרון חדש המיועד לעסקים קטנים ובינוניים (SMB).
 author: Sirkkuw
 f1.keywords:
 - NOCSH
@@ -10,15 +10,15 @@ ms.prod: microsoft-365-business
 ms.collection: M365-subscription-management
 ms.custom: AdminSurgePortfolio
 localization_priority: Normal
-audience: microsoft-business 
+audience: microsoft-business
 keywords: Microsoft 365 Business Premium,‏ Microsoft 365,‏ עסקים קטנים ובינוניים, שאלות נפוצות, תשובות, עסקים
 ms.date: 07/21/2020
-ms.openlocfilehash: a8547240a2733a10730d0f8fb62fe8e8c7ef971c
-ms.sourcegitcommit: dffb9b72acd2e0bd286ff7e79c251e7ec6e8ecae
+ms.openlocfilehash: b117f0aecb76dc3b30a30e067c37328865eb0fdf
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "47948567"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842109"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>שאלות נפוצות אודות Microsoft 365 Business Premium
 
@@ -27,15 +27,15 @@ ms.locfileid: "47948567"
 ### <a name="what-is-microsoft-365-business-premium"></a>מהו Microsoft 365 Business Premium?
 Microsoft 365 הוא פתרון כולל, המשלב את כלי הפרודוקטיביות ואת יכולות האבטחה וניהול המכשירים הטובים מסוגם, ומיועד לעסקים קטנים ובינוניים. הוא כולל:
 
-**קבוצה של כלי פרודוקטיביות ושיתוף פעולה עסקיים**:
+**קבוצה של כלי פרודוקטיביות ושיתוף פעולה עסקיים** :
 
 - Word, ‏Excel, ‏PowerPoint, ‏Outlook, ‏OneNote, ‏Publisher ו- Access
 - Exchange‏, OneDrive‏, Skype for Business‏, Microsoft Teams ו- SharePoint.
 - האפליקציות העסקיות של Office (Bookings,‏ MileIQ<sup>[1](#footnote1)</sup>).
 
-**ניהול מכשירים ויכולות אבטחה ברמה ארגונית**:
+**ניהול מכשירים ויכולות אבטחה ברמה ארגונית** :
 
-- מסייעת לספק הגנה מפני איומים חיצוניים כגון דיוג ותוכנות זדוניות מתוחכמות באמצעות תוכנית הגנה מתקדמת של ' הגנה מפני האיום ' של Office 365 ו-Microsoft Defender
+- מסייע לספק הגנה מפני איומים חיצוניים כגון דיוג ותוכנות זדוניות מתוחכמות באמצעות Microsoft Defender עבור Office 365 תוכנית 1 ו-Microsoft Defender לניצול שמירה.
 - עוזר בשליטה ובניהול של אופני הגישה למידע הרגיש ושידורו, באמצעות פריטי מדיניות של מניעת אובדן נתונים ו- Azure Information Protection Plan 1.
 - עוזר להגן על הנתונים, לשמור ולגבות אותם באמצעות אחסון בארכיון של Exchange Online.
 - הגנה על אפליקציות עבור Office ואפליקציות נוספות למכשירים ניידים באמצעות ההגנה על יישומים של Intune.
@@ -43,14 +43,14 @@ Microsoft 365 הוא פתרון כולל, המשלב את כלי הפרודוק�
 - הגנה על זהות באמצעות אימות רב-גורמי, איפוס סיסמה בשירות עצמי וגישה מותנית.
 - תצורת אבטחה עקבית בין &mdash; מכשירים הגנה על נתוני חברה בין מכשירים; Microsoft Defender Antivirus, שתמיד מופעל ומעודכן.
 
-**פריסת מכשירים והגדרת משתמשים פשוטים**יותר:
+**פריסת מכשירים והגדרת משתמשים פשוטים** יותר:
 
 - מסוף ניהול יחיד להגדרה ולניהול של משתמשים ומכשירים
 - התקנה אוטומטית של יישומי Office במחשבי Windows 10.
 - Office + ‏Windows 10 יהיו מעודכנים תמיד.
 - פריסה יעילה של מחשבים באמצעות Windows AutoPilot. 
 
-**זכאויות אחרות**:
+**זכאויות אחרות** :
 
 - לקוחות Microsoft 365 Business Premium נהנים גם מגישה ליכולות של שולחן העבודה הווירטואלי של Windows ושל הפעלת Office במחשב משותף. לקבלת מידע נוסף, עיין [בבלוג של Microsoft 365 Business Premium](https://techcommunity.microsoft.com/t5/Microsoft-365-Business-Blog/bg-p/Microsoft365BusinessBlog). ראה גם את [תיאור השירות של Microsoft 365 לעסקים](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description).
 
@@ -114,7 +114,7 @@ Microsoft 365 Business Premium מציע ללקוחות דרך פשוטה אך ר
 
 - **ניהול מכשירים עבור מחשבי Windows 10** מאפשר לעסקים לבחור להגדיר ולאכוף יכולות כגון Microsoft Defender Antivirus protection עבור תוכנות זדוניות, עדכונים אוטומטיים וכיבוי מסכים לאחר פרק זמן שנקבע. בנוסף, באמצעות מרכז הניהול ניתן למחוק לחלוטין את כל היישומים והנתונים של העסק ממכשירי Windows 10 שאבדו או נגנבו.
 
-- **ניהול מכשירים עבור iOS, התכונות של Android _AMP_ macOS** מסייעות לעסקים לנהל מערכת אקולוגית מגוונת הכוללת מכשירי IOS, Android, Windows ו-macOS.
+- **ניהול מכשירים עבור iOS, Android & macOS** תכונות מסייע לעסקים לנהל בצורה מאובטחת מערכת אקולוגית מגוונת הכוללת את מכשירי IOS, Android, Windows ו-macOS.
 
 ### <a name="how-does-microsoft-365-business-premium-help-protect-pcs-in-my-organization-from-malicious-attacks"></a>כיצד Microsoft 365 Business Premium עוזר להגן על מחשבים בארגון מפני תקיפות זדוניות?
 
@@ -156,7 +156,7 @@ Microsoft 365 Business Premium זמין לכל השותפים והלקוחות �
 
 ### <a name="does-microsoft-365-business-premium-include-the-full-capabilities-of-microsoft-intune"></a>האם Microsoft 365 Business Premium כולל את היכולות המלאות של Microsoft Intune?
 
-כן, המנויים של Microsoft 365 Business Premium מורשים להשתמש ביכולות כוונון מלאות עבור iOS, Android, macOS וניהול אחר של מכשירים חוצי פלטפורמות. תכונות שאינן זמינות במסוף הניהול הפשוט ב-Microsoft 365 Business Premium, כגון ניהול יישומים של ספק חיצוני, קביעת תצורה של פרופילי Wi-Fi ואישורי VPN, ניתן לנהל את מסוף המנגינה המלאה.
+כן, המנויים של Microsoft 365 Business Premium מורשים להשתמש ביכולות כוונון מלאות עבור iOS, Android, macOS וניהול אחר של מכשירים חוצי פלטפורמות. תכונות שאינן זמינות במסוף הניהול הפשוט ב-Microsoft 365 Business Premium, כגון ניהול יישומים של ספקים חיצוניים, קביעת תצורה של פרופילי Wi-Fi ואישורי VPN, ניתן לנהל את מסוף המנגינה המלאה.
 
 ### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business-premium"></a>האם התכלת של Active Directory (תכלת לספירה) Premium P1 מגיע עם Microsoft 365 Business Premium?
 
@@ -180,9 +180,9 @@ Windows AutoPilot הוא שירות המייעל את הפריסה של מחשב
 
 כן, באפשרותך לרכוש מנוי קולי עסקי. [הקול העסקי](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice) הוא פתרון טלפוניה המיועד לעסקים קטנים ובינוניים של עד 300 משתמשים שמאגדת מערכת טלפון, שיחות ועידה בשמע, תוכנית שיחות מקומיות ועוד. יכולות מערכת הטלפון שתקבל כוללות דואר קולי, מזהה מתקשר, שיחה, העברת שיחות, מערכות ניתוב שיחות ותורי שיחות. <br> כדי לברר אם הקול העסקי זמין במדינה או באזור שלך, ראה [זמינות מדינה ואזור עבור קול עסקי](https://docs.microsoft.com/microsoftteams/business-voice/country-region-availability). לקבלת מידע אודות תמחור, ראה [תמחור עבור קול עסקי](https://go.microsoft.com/fwlink/?linkid=2127221).
 
-### <a name="can-microsoft-365-business-premium-customers-use--microsoft-defender-advanced-threat-protection"></a>האם Microsoft 365 Business Premium לקוחות משתמשים ב-Microsoft Defender הגנה מתקדמת של איום?
+### <a name="can-microsoft-365-business-premium-customers-use-microsoft-defender-for-endpoint"></a>האם Microsoft 365 Business Premium לקוחות משתמשים ב-Microsoft Defender עבור נקודת קצה?
 
-כן, הגנה על איום מתקדם של Microsoft Defender זמינה כתוספת ל-Microsoft 365 Business Premium בעת רכישה [מספק פתרונות ענן של microsoft](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider).
+כן, Microsoft Defender for נקודת קצה זמין כתוספת ל-Microsoft 365 Business Premium בעת רכישה [מספק פתרונות ענן של microsoft](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider).
 
 ## <a name="partner-opportunity"></a>הזדמנויות לשותפים
 
@@ -224,7 +224,7 @@ Microsoft 365 Business Premium אינו גורם לגירסאות לא מקור�
 
 ### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-premium-help-customers-with-their-compliance-obligations"></a>מהו ה- GDPR וכיצד Microsoft 365 Business Premium מסייע ללקוחות לעמוד במחויבויות התאימות שלהם?
 
-האסדרה הכללית להגנה על מידע (GDPR) היא חוק פרטיות מקיף חדש המעניק לתושבי האיחוד האירופי (EU) שליטה רבה יותר על ה"נתונים האישיים" שלהם ודורש מארגונים לשמור על שלמות הנתונים האישיים. ה- GDPR מחייב את הארגונים השולטים בנתונים אישיים של תושבי האיחוד האירופי או מעבדים אותם להשתמש אך ורק במעבדי נתונים של ספקים חיצוניים העומדים בדרישות ה- GDPR לגבי עיבוד נתונים אישיים. במרץ 2017, Microsoft הכניסה לתוקף ערבויות חוזיות המספקות דרישות אלו. ללקוחות שיש להם שאלות על האופן שבו Microsoft יכולה לעזור להם לעמוד במחויבויות GDPR נוספות החלות עליהם, מומלץ ללמוד על יכולות התאימות והאבטחה המתקדמות הזמינות ב-Microsoft 365 Business Premium (לדוגמה, Azure Information Protection, מניעת אובדן נתונים, Advanced Threat Protection וכן הלאה) ובחבילות אחרות (לדוגמה, Microsoft 365 Enterprise E5). לקבלת מידע נוסף, בקר ב- [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
+האסדרה הכללית להגנה על מידע (GDPR) היא חוק פרטיות מקיף חדש המעניק לתושבי האיחוד האירופי (EU) שליטה רבה יותר על ה"נתונים האישיים" שלהם ודורש מארגונים לשמור על שלמות הנתונים האישיים. ה- GDPR מחייב את הארגונים השולטים בנתונים אישיים של תושבי האיחוד האירופי או מעבדים אותם להשתמש אך ורק במעבדי נתונים של ספקים חיצוניים העומדים בדרישות ה- GDPR לגבי עיבוד נתונים אישיים. במרץ 2017, Microsoft הכניסה לתוקף ערבויות חוזיות המספקות דרישות אלו. לקוחות הכוללים שאלות 365 בנוגע לאופן שבו Microsoft יכולה לעזור להם לענות על התחייבויות הGDPR הנוספות שלהם צריכה ללמוד אודות התאימות המתקדמת ויכולות האבטחה הזמינות ב-Microsoft 365 Business Premium (לדוגמה, הגנה על מידע תכלת, מניעת אובדן נתונים, Defender עבור Office 365 וכן הלאה) ובסוויטות אחרות לקבלת מידע נוסף, בקר ב- [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
 
 ## <a name="footnotes"></a>הערות שוליים
 

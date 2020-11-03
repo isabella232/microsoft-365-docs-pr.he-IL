@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: למד את שלבי ההגדרה עבור Microsoft 365 Business Premium, החל ממנוי, כדי להוסיף תחום ומשתמשים, כדי להגדיר מדיניות אבטחה ועוד.
-ms.openlocfilehash: fa9c02fa9546437c83b9cc6c1f1e6e0d723ec868
-ms.sourcegitcommit: 555d756c69ac9031d1fb928f2e1f9750beede066
+ms.openlocfilehash: 46370166a9d5e8c9308b8947513e631c159f0b86
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2020
-ms.locfileid: "47306468"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842129"
 ---
 # <a name="overview-of-setup"></a>מבט כולל על הגדרה
 
@@ -42,36 +42,36 @@ ms.locfileid: "47306468"
 
 אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
-ניתן לבצע את רוב שלבי ההגדרה באשף ההגדרה, אך גם האפשרויות האחרות מפורטות.
+ניתן לבצע את רוב שלבי ההגדרה בהגדרה המודרכת, אך גם האפשרויות האחרות מפורטות.
 
 ## <a name="step-1-add-your-domain-and-users"></a>שלב 1: הוספת התחום והמשתמשים שלך
 
    - **[הוסף את התחום שלך](set-up.md#add-your-domain-to-personalize-sign-in)** (אם רכשת את התחום שלך במהלך [ההרשמה](sign-up.md), שלב זה כבר מתבצע.)
 
    - **הוספת משתמשים**. באפשרותך להוסיף משתמשים בכל אחת משלוש הדרכים הבאות:
-        - באשף [wizard](set-up.md#add-users-in-the-wizard).
+        - בהגדרה [מודרכת](set-up.md#add-users-in-the-wizard).
         - השתמש בסינכרון מדריכי כתובות כדי [להוסיף משתמשים באמצעות תכלת AD Connect](https://docs.microsoft.com/microsoft-365/enterprise/set-up-directory-synchronization) אם יש לך Active directory מקומי.
         - באפשרותך גם [להוסיף משתמשים בהמשך](add-users-m365b.md) מרכז הניהול.
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>שלב 2: הגדרת מדיניות אבטחה וקביעת תצורה של מכשירים 
 
-  - השתמש [באשף ההגדרה](set-up.md#protect-your-organization) כדי לקבוע את תצורת מדיניות ההתקן. 
+  - השתמש [בהגדרה המודרכת](set-up.md#protect-your-organization) כדי לקבוע את תצורת מדיניות ההתקן. 
   - באפשרותך גם להוסיף או לערוך אותם מאוחר יותר [במרכז הניהול](view-policies-and-devices.md) [ובפורטל של המנגינה](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal).
   - אשף ההגדרה יגדיר גם הגדרות איום בסיסיות והגדרות מניעת אובדן נתונים.
   
   בנוסף להגדרות האבטחה באשף ההתקנה, באפשרותך להגדיל את האבטחה על-ידי הוספת ההגדרות הבאות:
 
 - **הגנה מפני תוכנות זדוניות של דואר אלקטרוני**
-- **מניעת דיוג של ATP**
+- **אנטי-דיוג ב-Defender עבור Office 365**
 - **אחסון בארכיון של Exchange Online**
-- **תכלת הגנה על מידע (Plan1**)
+- **תכלת הגנה על מידע (Plan1** )
 
 כדי להתחיל, ראה [הגדלת הגנת האיום](increase-threat-protection.md) [והגדרת תכונות תאימות](set-up-compliance.md).
 
-ראה גם [את 10 הדרכים המובילות לאבטח את Microsoft 365 Business Premium](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) עבור מפת דרכים של שיטות האבטחה הטובות ביותר.
+ראה גם [את 10 הדרכים המובילות לאבטח את Microsoft 365 Business Premium](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) עבור כביש-מפת שיטות האבטחה הטובות ביותר.
 
 ## <a name="step-3-set-up-and-manage-windows-10-devices"></a>שלב 3: הגדרה וניהול של מכשירי Windows 10
 
-לאחר שתפעיל את אשף ההגדרה, תרצה לproctect את כל המחשבים של Windwos 10 בארגון שלך.
+לאחר שתשלים את ההגדרה המודרכת, תרצה להגן על כל מחשבי Windows 10 בארגון שלך.
   
 - Windows 10 Pro הוא [תנאי](pre-requisites-for-data-protection.md) מחייב עבור Microsoft 365 Business Premium, אך אם יש לך Windows 7 Pro, Windows 8 Pro או Windows 8.1 pro, המנוי שלך מעניק לך [שדרוג ל-windows 10 pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
 - בצע את השלבים [במחשבי pc מאובטחים של windows 10](secure-win-10-pcs.md) כדי להגדיר מדיניות עבור מכשירי windows 10.
@@ -93,6 +93,6 @@ ms.locfileid: "47306468"
 
     - אם לעסק שלך יש מדריך Active Directory מקומי המכיל משאבים מקומיים (כגון מיקומים משותפים ומדפסות של קבצים), באפשרותך להעניק למכשירים המצורפים שלך מכשירים המצורפים למשאבים אלה על-ידי ביצוע השלבים הבאים: [גישה למשאבים מקומיים 365 באמצעות מכשיר תכלת לפני הצטרפות](access-resources.md)
 
-## <a name="see-also"></a>למידע נוסף
+## <a name="see-also"></a>ראה גם
 
 [סרטוני וידאו של הדרכה של Microsoft 365 for business](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

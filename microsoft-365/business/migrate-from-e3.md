@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: למד כיצד להעביר את העסק שלך ל-Microsoft 365 Business Premium מ-Office 365 E3.
-ms.openlocfilehash: f3f3894a2a5cb69f9f91825d89db4f4b857fac5c
-ms.sourcegitcommit: 15be7822220041c25fc52565f1c64d252e442d89
+ms.openlocfilehash: b8aa58f1f050ec6247479ed02e142507a2df45fc
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48295289"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842159"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>העברה מ-Office 365 E3 ל-Microsoft 365 Business Premium 
 
@@ -42,7 +42,7 @@ Microsoft 365 Business Premium כולל את כל מה שדרוש לך עבור 
 | תכונה    | תמיכה ב-Microsoft 365 Business Premium    | תמיכה ב-Office 365 E3 | 
 |:-------|:-----|:-----|
 | **מקומי**        | | | 
-| יישומי Office<sup>1</sup>    | אפליקציות Microsoft 365 לעסקים    | Microsoft 365 Apps for enterprise | 
+| יישומי Office<sup>1</sup>    | אפליקציות Microsoft 365 לעסקים    | יישומי Microsoft 365 עבור ארגונים | 
 | **אפליקציות לפרודוקטיביות בענן**        | | | 
 | Exchange Online ו-Outlook    | מגבלת אחסון של 50 GB לכל תיבת דואר ואחסון בארכיון באופן בלתי מוגבל של Exchange Online    | מגבלת אחסון של 100 GB לכל תיבת דואר ואחסון בארכיון באופן בלתי מוגבל של Exchange Online | 
 | Teams    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Office 365 E3](../media/check-mark.png) | 
@@ -51,7 +51,7 @@ Microsoft 365 Business Premium כולל את כל מה שדרוש לך עבור 
 | StaffHub    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Office 365 E3](../media/check-mark.png) | 
 | Outlook Customer Manager, MileIQ    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | | 
 | **הגנה מפני איום**        | | | 
-| תוכנית מתקדמת של הגנה מפני איום של Office 365 (ATP) תוכנית 1 | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | לא כלול, אך ניתן להוסיף אותו | 
+| Defender עבור Office 365 תוכנית 1 | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | לא כלול, אך ניתן להוסיף אותו | 
 | **ניהול זהויות**        | | | 
 | איפוס סיסמה בשירות עצמי עבור חשבונות היברידית תכלת Active Directory (תכלת לספירה), הודעות מרובות-גורמי אימות (מכשפות אחרות), גישה מותנית, סיסמה writeback עבור זהויות מקומיות|     ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    |  | 
 | **ניהול מכשירים ויישומים**        | | |
@@ -95,7 +95,7 @@ Microsoft 365 Business Premium כולל את כל מה שדרוש לך עבור 
 
 באפשרותך גם להשלים שלבים אלה בדף ' מכשירים ':
   
-1. במרכז הניהול, בסרגל הניווט הימני, **Devices** עבור אל \> **פריטי מדיניות**של מכשירים.
+1. במרכז הניהול, בסרגל הניווט הימני, **Devices** עבור אל \> **פריטי מדיניות** של מכשירים.
     
 2. בדף ' **פריטי מדיניות מכשיר** ', בחר **הוסף**.
     
@@ -122,7 +122,7 @@ Microsoft 365 Business Premium כולל מגבלת אחסון של 50 GB כאש�
 
 ### <a name="threat-protection"></a>הגנה מפני איום
 
-לאחר המעבר ל-Microsoft 365 Business Premium, יש לך Office 365 ATP. ראה [Office 365 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) לקבלת מבט כולל. כדי להגדיר, ראה [הגדרת קישורים בטוחים של atp](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa), [הגדר קבצים מצורפים בטוחים של atp](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5) [והגדר את האנטי-דיוג של atp](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c).
+לאחר המעבר ל-Microsoft 365 Business Premium, יש לך Defender עבור Office 365. ראה [Microsoft Defender עבור Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) לקבלת מבט כולל. כדי להגדיר, ראה [הגדרת קישורים בטוחים](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa), [הגדרת קבצים מצורפים בטוחים](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5) [והגדרת אנטי-דיוג ב-Defender עבור Office 365](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c).
 
 ### <a name="sensitivity-labels"></a>תוויות רגישות
 

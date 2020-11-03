@@ -1,5 +1,5 @@
 ---
-title: הגדרת התקני Windows עבור משתמשי Microsoft Business Premium 365
+title: הגדרת מכשירי Windows עבור משתמשי Microsoft 365 Business Premium
 f1.keywords:
 - CSH
 ms.author: sirkkuw
@@ -25,25 +25,25 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
-description: למד כיצד להגדיר התקני Windows שבהם פועל Windows 10 Pro עבור משתמשי Microsoft Business Premium 365, המאפשרים ניהול מרוכז ובקרת אבטחה.
-ms.openlocfilehash: 85ac3c964792a132d5699703e543289020e38f57
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+description: למד כיצד להגדיר מכשירי Windows שבהם פועל Windows 10 Pro עבור משתמשי Microsoft 365 Business Premium, המאפשרים ניהול מרכזי ופקדי אבטחה.
+ms.openlocfilehash: c95b9e51c7ec3c440509fe34084d2a030c7f2eec
+ms.sourcegitcommit: e56894917d2aae05705c3b9447388d10e2156183
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44785851"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48841258"
 ---
-# <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>הגדרת התקני Windows עבור משתמשי Microsoft Business Premium 365
+# <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>הגדרת מכשירי Windows עבור משתמשי Microsoft 365 Business Premium
 
-## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-premium-users"></a>דרישות מוקדמות להתקנת התקני Windows עבור משתמשי פרימיום של Microsoft 365
+## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-premium-users"></a>דרישות מוקדמות להגדרת מכשירי Windows עבור משתמשי Microsoft 365 Business Premium
 
-לפני שתוכל להגדיר התקני Windows עבור Microsoft 365 Business Premium משתמשים, ודא שכל ההתקנים של Windows פועלים ב-Windows 10 Pro, גירסה 1703 (יוצרי עדכונים). Windows 10 Pro הוא תנאי מוקדם לפריסת Windows 10 Business, שהיא קבוצה של שירותי ענן ויכולות ניהול התקנים המשלימים את Windows 10 Pro ולאפשר בקרת ניהול ואבטחה מרוכזת של Microsoft 365 Business Premium.
+לפני שתוכל להגדיר מכשירי Windows עבור משתמשי Microsoft 365 Business Premium, ודא שכל מכשירי Windows פועלים באמצעות Windows 10 Pro, גירסה 1703 (עדכון יוצרים). Windows 10 Pro הוא תנאי מימוש מיותר לפריסה של Windows 10 Business, שהוא ערכה של יכולות ניהול ושירותי ענן וניהול מכשירים המשלימים את Windows 10 Pro ומאפשרים את פקדי הניהול והאבטחה המרוכזים של Microsoft 365 Business Premium.
   
-אם ברשותך התקני Windows הפועלים באמצעות Windows 7 Pro, Windows 8 Pro או Windows 8.1 Pro, מנוי הפרמיה של 365 Microsoft Business Premium מקנה לך את שדרוג Windows 10.
+אם יש לך מכשירי Windows שבהם פועל Windows 7 pro, Windows 8 Pro או Windows 8.1 Pro, מנוי Microsoft 365 Business Premium שברשותך זכאי לשדרוג של Windows 10.
   
 לקבלת מידע נוסף על שדרוג מכשירי Windows לעדכון Windows 10 ליוצרים, פעל לפי השלבים בנושא זה: [שדרוג מכשירי Windows לעדכון Windows Pro ליוצרים](upgrade-to-windows-pro-creators-update.md).
   
-ראה [אימות ההתקן מחובר לתכלת AD](#verify-the-device-is-connected-to-azure-ad) כדי לוודא שיש לך את השדרוג, או כדי לוודא שהשדרוג עבד.
+ראה [אימות שההתקן מחובר ל-תכלת AD](#verify-the-device-is-connected-to-azure-ad) כדי לאמת את השדרוג, או כדי לוודא שהשדרוג עבד.
 
 צפה בסרטון וידאו קצר אודות חיבור Windows ל-Microsoft 365.<br><br>
 
@@ -53,7 +53,7 @@ ms.locfileid: "44785851"
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>צירוף מכשירי Windows 10 ל- Azure AD של הארגון שלך
 
-כאשר כל התקני Windows בארגון שלך שודרגו ל-Windows 10 Pro יוצרי עדכון או שכבר פועל Windows 10 Pro יוצרי עדכון, אתה יכול להצטרף התקנים אלה לתוך הארגון שלך הפעיל הספריה. לאחר הצירוף של המכשירים, הם ישודרגו באופן אוטומטי ל-Windows 10 Business, המהווה חלק מהמנוי שלך ל-Microsoft Business Premium 365.
+כאשר כל מכשירי Windows בארגון שלך שודרגו ל-Windows 10 Pro Creators Update או שכבר מופעלים עדכון Windows 10 של יוצרי Pro, באפשרותך להצטרף למכשירים אלה אל מדריך הכתובות הפעיל של הארגון שלך ב-תכלת. לאחר הצטרפות המכשירים, הם ישודרגו באופן אוטומטי ל-Windows 10 Business, שהוא חלק ממנוי Microsoft 365 Business Premium.
   
 ### <a name="for-a-brand-new-or-newly-upgraded-windows-10-pro-device"></a>עבור מכשיר Windows 10 Pro חדש לגמרי או ששודרג לאחרונה
 
@@ -63,7 +63,7 @@ ms.locfileid: "44785851"
     
     ![On the How would you like to set up page, choose Set up for an organization](../media/1b0b2dba-00bb-4a99-a729-441479220cb7.png)
   
-2. כאן, בחר **בהגדרה עבור ארגון** ולאחר מכן הזן את שם המשתמש והסיסמה שלך עבור Microsoft 365 Business Premium. 
+2. כאן, בחר **הגדר עבור ארגון** ולאחר מכן הזן את שם המשתמש והסיסמה שלך עבור Microsoft 365 Business Premium. 
     
 3. סיים את הגדרת מכשיר Windows 10.
     
@@ -77,45 +77,45 @@ ms.locfileid: "44785851"
   
    ![In the Start menu, click Windows Settings icon](../media/74e1ce9a-1554-4761-beb9-330b176e9b9d.png)
   
-2. ב **הגדרות**, עבור אל **חשבונות**.
+2. ב **הגדרות** , עבור אל **חשבונות**.
   
    ![In Windows Settings, go to Accounts](../media/472fd688-d111-4788-9fbb-56a00fbdc24d.png)
   
-3. בדף **המידע שלך**, לחץ על **גישה לחשבון עבודה או בית ספר** \> **התחבר**.
+3. בדף **המידע שלך** , לחץ על **גישה לחשבון עבודה או בית ספר** \> **התחבר**.
   
    ![Choose Connect under Access work or school](../media/af3a4e3f-f9b9-4969-b3e2-4ef99308090c.png)
   
-4. בתיבת הדו-שיח **הגדר חשבון בעבודה או בבית ספר**, תחת **פעולות חלופיות**, בחר **צרף מכשיר זה ל- Azure Active Directory**.
+4. בתיבת הדו-שיח **הגדר חשבון בעבודה או בבית ספר** , תחת **פעולות חלופיות** , בחר **צרף מכשיר זה ל- Azure Active Directory**.
   
    ![Click Join this device to Azure Active Directory](../media/fb709a1b-05a9-4750-9cb9-e097f4412cba.png)
   
-5. בדף **בוא נבצע את תהליך הכניסה**, הזן את החשבון שלך בעבודה או בבית הספר \> **הבא**.
+5. בדף **בוא נבצע את תהליך הכניסה** , הזן את החשבון שלך בעבודה או בבית הספר \> **הבא**.
   
-   בדף **הזנת סיסמה**, הזן את הסיסמה שלך \> **כניסה**.
+   בדף **הזנת סיסמה** , הזן את הסיסמה שלך \> **כניסה**.
   
    ![Enter your work or school email on the Let's get you signed in page](../media/f70eb148-b1d2-4ba3-be38-7317eaf0321a.png)
   
-6. ב-ודא שזהו דף **הארגון שלך** , ודא שהמידע נכון ולחץ על **הצטרף**.
+6. בדף **ודא שזה הארגון שלך** , ודא שהמידע נכון ובחר **הצטרף**.
   
-   בדף **הכל מוכן!**, לחץ על **סיום**.
+   בכרטיסיה **הכל מוכן!** דף, chosse **בוצעה**.
   
-   ![On the Make sure this is your organization screen, click Join](../media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
+   ![במסך ודא שזהו המסך של הארגון שלך, בחר הצטרף](../media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
   
-אם העלית קבצים אל OneDrive for Business, סנכרן אותם בחזרה. אם השתמשת בכלי של ספק חיצוני כדי להעביר פרופיל וקבצים, סנכרן גם אותם לפרופיל החדש.
+אם העלית קבצים אל OneDrive for Business, סנכרן אותם בחזרה. אם השתמשת בכלי של ספק חיצוני כדי להעביר פרופילים וקבצים, סנכרן אותם גם לפרופיל החדש.
   
 ## <a name="verify-the-device-is-connected-to-azure-ad"></a>אימות שהמכשיר מחובר ל- Azure AD
 
-כדי לאמת את מצב הסינכרון, בדף **עבודה או בית ספר** **בהגדרות**של Access, לחץ באזור **המחובר אל** _ \<organization name\> _ כדי לחשוף את **פרטי** הלחצנים **והתנתק**. לחץ על **מידע** כדי לקבל את מצב הסינכרון. 
+כדי לאמת את מצב הסינכרון, בדף ' **הגדרות** **בעבודה או בבית הספר של Access** ' בהגדרות, בחר את האזור ' **מחובר עד** _ \<organization name\> _ ' כדי לחשוף את **פרטי** הלחצנים ולהתנתק. **Disconnect** בחר **מידע** כדי לקבל את מצב הסינכרון. 
   
-בדף 'מצב סינכרון', לחץ על 'סינכרון' כדי לקבל את פריטי מדיניות הניהול העדכניים ביותר של המכשיר הנייד במחשב ה- PC.
+בדף ' **מצב סינכרון** ', בחר באפשרות **סנכרן** כדי לקבל את מדיניות ניהול המכשירים הניידים העדכניים ביותר במחשב.
   
-כדי להתחיל להשתמש בחשבון הפרמיה של Microsoft 365 Business, עבור אל לחצן **התחל** של Windows, לחץ לחיצה ימנית על תמונת החשבון הנוכחית שלך ולאחר מכן **החלף חשבון**. היכנס באמצעות הדואר האלקטרוני והסיסמה של הארגון שלך.
+כדי להתחיל להשתמש בחשבון Microsoft 365 Business Premium, עבור אל לחצן ' **התחל** ' של Windows, לחץ באמצעות לחצן העכבר הימני על תמונת החשבון הנוכחית שלך ולאחר מכן **החלף חשבון**. היכנס באמצעות הדואר האלקטרוני והסיסמה של הארגון שלך.
   
 ![Click Info button to view synchronization status](../media/818f7043-adbf-402a-844a-59d50034911d.png)
   
-## <a name="verify-the-device-is-upgraded-to-windows-10-business"></a>אימות שהמכשיר משודרג ל- Windows 10 Business
+## <a name="verify-the-pc-is-upgraded-to-windows-10-business"></a>אימות שהמחשב משודרג ל-Windows 10 Business
 
-ודא שה "שלך הצטרף ל-Windows 10 התקנים שודרגו ל-Windows 10 Business כחלק מהמנוי שלך ל-Microsoft Business Premium 365.
+ודא שמכשירי windows 10 שהצטרפו למודעת ה-תכלת שודרגו ל-Windows 10 Business כחלק ממנוי Microsoft 365 Business Premium.
   
 1. עבור אל **הגדרות** \> **מערכת** \> **אודות**.
     
@@ -125,8 +125,8 @@ ms.locfileid: "44785851"
   
 ## <a name="next-steps"></a>השלבים הבאים
 
-כדי להגדיר את המכשירים הניידים שלך, ראה [הגדרת התקנים ניידים עבור משתמשי Microsoft Business Premium 365](set-up-mobile-devices.md), כדי להגדיר מדיניות הגנת התקנים או הגנה על יישומים, ראה [ניהול Microsoft 365 לעסקים](manage.md).
+כדי להגדיר את המכשירים הניידים שלך, ראה [הגדרת מכשירים ניידים עבור משתמשי Microsoft 365 Business Premium](set-up-mobile-devices.md), כדי להגדיר מדיניות הגנה על מכשירים או מדיניות הגנה של יישומים, ראה [ניהול microsoft 365 for Business](manage.md).
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>לקבלת פרטים נוספים על הגדרה ושימוש ב-Microsoft 365 Business Premium
+## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>לקבלת מידע נוסף אודות הגדרה ושימוש ב-Microsoft 365 Business Premium
 
-[מיקרוסופט 365 עבור סרטוני הדרכה עסקית](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[סרטוני וידאו של הדרכה של Microsoft 365 for business](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
