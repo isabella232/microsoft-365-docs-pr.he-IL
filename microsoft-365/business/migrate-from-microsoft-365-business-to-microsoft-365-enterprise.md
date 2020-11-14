@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: למד כיצד להעביר את העסק שלך מ-Microsoft 365 Business Premium ל-Microsoft 365 E3.
-ms.openlocfilehash: 874da0d35759c8af4c3ee2ca4a1bdfa90a91627c
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: 2b15d20e3ae1ad0bef871b139e61abf3ba260729
+ms.sourcegitcommit: 34ebec8e2bd54ba3d4ccfd9724797665c965c17f
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48842199"
+ms.lasthandoff: 11/13/2020
+ms.locfileid: "49071426"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>העברה מ-Microsoft 365 Business Premium ל-Microsoft 365 E3
 
@@ -57,7 +57,7 @@ Microsoft 365 Business Premium כולל את כל מה שדרוש לך עבור 
 | Teams    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
 | OneDrive for Business    | מגבלת אחסון של 1 TB לכל משתמש    | גבלה | 
 | קטרת, SharePoint Online, מתכנן תכנון, זרם    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
-| Outlook Customer Manager, MileIQ    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | | 
+| MileIQ    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | | 
 | **הגנה מפני איום**        | | | 
 | יכולות הפחתת משטח התקפה    | [הצגת רשימה זו](#threat-protection) | ניהול ארגוני של בידוד מבוסס חומרה עבור Microsoft Edge | 
 | Defender עבור Office 365 תוכנית 1 | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | לא כלול, אך ניתן להוסיף אותו | 
@@ -106,7 +106,7 @@ Microsoft 365 Business Premium כולל את כל מה שדרוש לך עבור 
 באפשרותך להתחיל להשתמש בגילוי של אפליקציית הענן, לחבר את בריאות התכלת ולהשתמש ב-SSO עבור יותר מ-10 אפליקציות.
 
 >[!Note]
->משתמשים שהועברו ל-Microsoft 365 E3 אינם יכולים עוד להשתמש ב-Outlook Customer Manager ו-MileIQ.
+>משתמשים שהועברו ל-Microsoft 365 E3 אינם יכולים עוד להשתמש ב-MileIQ.
 >
 
 <a name="threat-protection"></a>
