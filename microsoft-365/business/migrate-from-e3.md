@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: למד כיצד להעביר את העסק שלך ל-Microsoft 365 Business Premium מ-Office 365 E3.
-ms.openlocfilehash: b8aa58f1f050ec6247479ed02e142507a2df45fc
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: eebf78c24ed4bfd1a4fc2d843f37aebbe3d35e31
+ms.sourcegitcommit: c1dd5be42fe0c5dcc7c05817c941edd9076febf8
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48842159"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49558257"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>העברה מ-Office 365 E3 ל-Microsoft 365 Business Premium 
 
@@ -42,7 +42,7 @@ Microsoft 365 Business Premium כולל את כל מה שדרוש לך עבור 
 | תכונה    | תמיכה ב-Microsoft 365 Business Premium    | תמיכה ב-Office 365 E3 | 
 |:-------|:-----|:-----|
 | **מקומי**        | | | 
-| יישומי Office<sup>1</sup>    | אפליקציות Microsoft 365 לעסקים    | יישומי Microsoft 365 עבור ארגונים | 
+| יישומי Office<sup>1</sup>    | אפליקציות Microsoft 365 לעסקים    | Microsoft 365 Apps for enterprise | 
 | **אפליקציות לפרודוקטיביות בענן**        | | | 
 | Exchange Online ו-Outlook    | מגבלת אחסון של 50 GB לכל תיבת דואר ואחסון בארכיון באופן בלתי מוגבל של Exchange Online    | מגבלת אחסון של 100 GB לכל תיבת דואר ואחסון בארכיון באופן בלתי מוגבל של Exchange Online | 
 | Teams    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Office 365 E3](../media/check-mark.png) | 
@@ -53,7 +53,7 @@ Microsoft 365 Business Premium כולל את כל מה שדרוש לך עבור 
 | **הגנה מפני איום**        | | | 
 | Defender עבור Office 365 תוכנית 1 | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | לא כלול, אך ניתן להוסיף אותו | 
 | **ניהול זהויות**        | | | 
-| איפוס סיסמה בשירות עצמי עבור חשבונות היברידית תכלת Active Directory (תכלת לספירה), הודעות מרובות-גורמי אימות (מכשפות אחרות), גישה מותנית, סיסמה writeback עבור זהויות מקומיות|     ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    |  | 
+| איפוס סיסמה בשירות עצמי עבור חשבונות היברידית תכלת Active Directory (תכלת לספירה), באמצעות מספר מרבי של אימות רב-גורמי (מפעל מרכזי), גישה מותנית, סיסמה writeback עבור זהויות מקומיות|     ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    |  | 
 | **ניהול מכשירים ויישומים**        | | |
 | Microsoft intune, Windows טייס אוטומטי|     ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    |  |
 | הפעלת מחשב משותף|     ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Office 365 E3](../media/check-mark.png)| 

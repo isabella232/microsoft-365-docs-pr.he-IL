@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: למד כיצד להעביר את העסק שלך מ-Microsoft 365 Business Premium ל-Microsoft 365 E3.
-ms.openlocfilehash: 3f840a27cdcf50bba7710681135f6c2e241ad14b
-ms.sourcegitcommit: 001e64f89f9c3cd6bbd4a25459f5bee3b966820c
+ms.openlocfilehash: 3f1bb9591e1bd2bac49326325ce6c8c2d6778497
+ms.sourcegitcommit: c1dd5be42fe0c5dcc7c05817c941edd9076febf8
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49367054"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49558237"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>העברה מ-Microsoft 365 Business Premium ל-Microsoft 365 E3
 
@@ -51,7 +51,7 @@ Microsoft 365 Business Premium כולל את כל מה שדרוש לך עבור 
 |:-------|:-----|:-----|
 | **מקומי**        | | | 
 | Windows 10    | Windows 10 Business  |     Windows 10 Enterprise E3| 
-| יישומי Office *    | [אפליקציות Microsoft 365 לעסקים](#office-365-business)    | יישומי Microsoft 365 עבור ארגונים | 
+| יישומי Office *    | [אפליקציות Microsoft 365 לעסקים](#office-365-business)    | Microsoft 365 Apps for enterprise | 
 | **אפליקציות לפרודוקטיביות בענן**        | | | 
 | Exchange Online ו-Outlook    | מגבלת אחסון של 50 GB לכל תיבת דואר ואחסון בארכיון באופן בלתי מוגבל של Exchange Online    | מגבלת אחסון של 100 GB לכל תיבת דואר ואחסון בארכיון באופן בלתי מוגבל של Exchange Online | 
 | Teams    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
@@ -62,7 +62,7 @@ Microsoft 365 Business Premium כולל את כל מה שדרוש לך עבור 
 | יכולות הפחתת משטח התקפה    | [הצגת רשימה זו](#threat-protection) | ניהול ארגוני של בידוד מבוסס חומרה עבור Microsoft Edge | 
 | Defender עבור Office 365 תוכנית 1 | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | לא כלול, אך ניתן להוסיף אותו | 
 | **ניהול זהויות**        | | | 
-| איפוס סיסמה בשירות עצמי עבור חשבונות היברידית תכלת Active Directory (תכלת לספירה), הודעות מרובות-גורמי אימות (מכשפות אחרות), גישה מותנית, סיסמה writeback עבור זהויות מקומיות|     ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
+| איפוס סיסמה בשירות עצמי עבור חשבונות היברידית תכלת Active Directory (תכלת לספירה), באמצעות מספר מרבי של אימות רב-גורמי (מפעל מרכזי), גישה מותנית, סיסמה writeback עבור זהויות מקומיות|     ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
 | גילוי אפליקציית הענן, התחברות בריאות של תכלת    |     | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
 | אפליקציות של הודעות מיידיות של Office 365 בודדות Sign-On (SSO): 10 אפליקציות לכל משתמש (גלריה סאס apps כגון Salesforce) * | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
 | Self-Service שילוב מוגבל של הודעות מיידיות באפליקציות מקומיות באמצעות מכ    |     | ![כלול ב-Microsoft 365 E3](../media/check-mark.png) | 
