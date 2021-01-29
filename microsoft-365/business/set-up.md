@@ -30,16 +30,18 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: גלה את שלבי ההגדרה עבור Microsoft 365 Business Premium, כולל הוספת תחום ומשתמשים, הגדרת מדיניות אבטחה ועוד.
-ms.openlocfilehash: cc20637d7a78bd34ecb61a4ed46eb06d564d63df
-ms.sourcegitcommit: 25afc0c34edc7f8a5eb389d8c701175256c58ec8
+ms.openlocfilehash: e7ebe179c67077dc71ae4873b0711d0e810c701a
+ms.sourcegitcommit: 1b30ac6e05906c8a014b1fed33fc71e1821f6ad2
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47324495"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "50044729"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>הגדרת Microsoft 365 Business Premium באשף ההגדרה
 
 צפה בסרטון וידאו זה לקבלת מבט כולל על התקנת Microsoft 365 Business Premium.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4jZwg] 
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>הוספת התחום, המשתמשים ומדיניות ההגדרה
 
@@ -129,6 +131,6 @@ ms.locfileid: "47324495"
 
 באפשרותך גם להתקין את Office בנפרד. ראה [התקנת Office במחשב PC או Mac](https://support.microsoft.com/office/4414eaaf-0478-48be-9c42-23adc4716658) לקבלת הוראות.
 
-## <a name="see-also"></a>למידע נוסף
+## <a name="see-also"></a>ראה גם
 
 [סרטוני וידאו של הדרכה של Microsoft 365 for business](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
