@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: למד כיצד להעביר את העסק שלך מ-Microsoft 365 Business Premium ל-Microsoft 365 E3.
-ms.openlocfilehash: 3f1bb9591e1bd2bac49326325ce6c8c2d6778497
-ms.sourcegitcommit: c1dd5be42fe0c5dcc7c05817c941edd9076febf8
+ms.openlocfilehash: 019a422bb879389f42a32cf30f9a8094f776078a
+ms.sourcegitcommit: eac5d9f759f290d3c51cafaf335a1a1c43ded927
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49558237"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "50126200"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>העברה מ-Microsoft 365 Business Premium ל-Microsoft 365 E3
 
@@ -145,9 +145,7 @@ Microsoft 365 Business Premium כולל את Windows 10 Business, שניתן ל�
 
 לקוח Microsoft 365 Apps לעסקים המותקן במכשירים שלך יתחיל להשתמש באופן אוטומטי בתכונות של יישומי Microsoft 365 עבור הארגון. לאחר ההעברה, כעת באפשרותך להשתמש ב:
 
- - הפעלת עוצמת הקול במסגרת מדיניות קבוצתית
- - טלמטריה באפליקציות
- - פקדי עדכון
+ - תמיכה במדיניות קבוצתית
  - השוואה בין גליונות אלקטרוניים ובירורים
  - בינה עסקית
 
