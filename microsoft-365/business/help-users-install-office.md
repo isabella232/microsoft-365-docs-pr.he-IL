@@ -27,16 +27,16 @@ search.appverid:
 - MET150
 ms.assetid: cbc6bfe5-565a-4fb8-95f0-b06e7b74ac46
 description: עזור למשתמשים להתקין את יישומי Office במכשירי Windows 10 ולהתקין בקלות את Office במחשבי Windows 10 מתוך מרכז הניהול של Microsoft 365.
-ms.openlocfilehash: 680c1c4e43a037c6afd109220090f387b207f8b1
-ms.sourcegitcommit: d39694d7b2c98350b0d568dfd03fa0ef44ed4c1d
+ms.openlocfilehash: 5337c8ef008c1af79490eb6b6705d450055d24fb
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/10/2020
-ms.locfileid: "46601982"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913345"
 ---
 # <a name="help-your-users-install-office-on-windows-10-devices"></a>עזרה למשתמשים להתקין את Office במכשירי Windows 10
 
-[![תווית המיידעת אותך שמרכז הניהול משתנה ושניתן למצוא פרטים נוספים ב- aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![תווית המיידעת אותך שמרכז הניהול משתנה ושניתן למצוא פרטים נוספים ב- aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](/office365/admin/microsoft-365-admin-center-preview)
 
 באפשרותך להתקין במהירות ובקלות את Office במחשבי Windows 10 מתוך מרכז הניהול של Microsoft 365.
   
@@ -56,7 +56,7 @@ ms.locfileid: "46601982"
     > [!NOTE]
     > ייתכן שלא תראה כרטיס זה אם כל המשתמשים שלך התקינו יישומי Office.
   
-3. בכרטיס **עזרה משתמשים להתקין את האפליקציות של Office** , בחר **תצוגה**ולאחר מכן **התחל**בעבודה.
+3. בכרטיס **עזרה משתמשים להתקין את האפליקציות של Office** , בחר **תצוגה** ולאחר מכן **התחל** בעבודה.
     
 4. בקישור **משתמשי דואר אלקטרוני להורדת לוח Office** , בחר את המשתמשים שברצונך לשלוח בדואר אלקטרוני, ולאחר מכן **שלח דואר אלקטרוני למשתמשים שנבחרו**.
 

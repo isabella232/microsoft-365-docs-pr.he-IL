@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: למד את שלבי ההגדרה עבור Microsoft 365 Business Premium, החל ממנוי, כדי להוסיף תחום ומשתמשים, כדי להגדיר מדיניות אבטחה ועוד.
-ms.openlocfilehash: 46370166a9d5e8c9308b8947513e631c159f0b86
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: 9d92aefb3b5666bb7c2fd2e13c9a00f074f107a7
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48842129"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912489"
 ---
 # <a name="overview-of-setup"></a>מבט כולל על הגדרה
 
@@ -50,12 +50,12 @@ ms.locfileid: "48842129"
 
    - **הוספת משתמשים**. באפשרותך להוסיף משתמשים בכל אחת משלוש הדרכים הבאות:
         - בהגדרה [מודרכת](set-up.md#add-users-in-the-wizard).
-        - השתמש בסינכרון מדריכי כתובות כדי [להוסיף משתמשים באמצעות תכלת AD Connect](https://docs.microsoft.com/microsoft-365/enterprise/set-up-directory-synchronization) אם יש לך Active directory מקומי.
-        - באפשרותך גם [להוסיף משתמשים בהמשך](add-users-m365b.md) מרכז הניהול.
+        - השתמש בסינכרון מדריכי כתובות כדי [להוסיף משתמשים באמצעות תכלת AD Connect](../enterprise/set-up-directory-synchronization.md) אם יש לך Active directory מקומי.
+        - באפשרותך גם [להוסיף משתמשים בהמשך](../admin/add-users/add-users.md) מרכז הניהול.
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>שלב 2: הגדרת מדיניות אבטחה וקביעת תצורה של מכשירים 
 
   - השתמש [בהגדרה המודרכת](set-up.md#protect-your-organization) כדי לקבוע את תצורת מדיניות ההתקן. 
-  - באפשרותך גם להוסיף או לערוך אותם מאוחר יותר [במרכז הניהול](view-policies-and-devices.md) [ובפורטל של המנגינה](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal).
+  - באפשרותך גם להוסיף או לערוך אותם מאוחר יותר [במרכז הניהול](view-policies-and-devices.md) [ובפורטל של המנגינה](/intune/tutorial-walkthrough-intune-portal).
   - אשף ההגדרה יגדיר גם הגדרות איום בסיסיות והגדרות מניעת אובדן נתונים.
   
   בנוסף להגדרות האבטחה באשף ההתקנה, באפשרותך להגדיל את האבטחה על-ידי הוספת ההגדרות הבאות:
@@ -63,24 +63,24 @@ ms.locfileid: "48842129"
 - **הגנה מפני תוכנות זדוניות של דואר אלקטרוני**
 - **אנטי-דיוג ב-Defender עבור Office 365**
 - **אחסון בארכיון של Exchange Online**
-- **תכלת הגנה על מידע (Plan1** )
+- **תכלת הגנה על מידע (Plan1**)
 
 כדי להתחיל, ראה [הגדלת הגנת האיום](increase-threat-protection.md) [והגדרת תכונות תאימות](set-up-compliance.md).
 
-ראה גם [את 10 הדרכים המובילות לאבטח את Microsoft 365 Business Premium](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) עבור כביש-מפת שיטות האבטחה הטובות ביותר.
+ראה גם [את 10 הדרכים המובילות לאבטח את Microsoft 365 Business Premium](/office365/admin/security-and-compliance/secure-your-business-data) עבור כביש-מפת שיטות האבטחה הטובות ביותר.
 
 ## <a name="step-3-set-up-and-manage-windows-10-devices"></a>שלב 3: הגדרה וניהול של מכשירי Windows 10
 
 לאחר שתשלים את ההגדרה המודרכת, תרצה להגן על כל מחשבי Windows 10 בארגון שלך.
   
-- Windows 10 Pro הוא [תנאי](pre-requisites-for-data-protection.md) מחייב עבור Microsoft 365 Business Premium, אך אם יש לך Windows 7 Pro, Windows 8 Pro או Windows 8.1 pro, המנוי שלך מעניק לך [שדרוג ל-windows 10 pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
+- Windows 10 Pro הוא [תנאי](pre-requisites-for-data-protection.md) מחייב עבור Microsoft 365 Business Premium, אך אם יש לך Windows 7 Pro, Windows 8 Pro או Windows 8.1 pro, המנוי שלך מעניק לך [שדרוג ל-windows 10 pro](./upgrade-to-windows-pro-creators-update.md).
 - בצע את השלבים [במחשבי pc מאובטחים של windows 10](secure-win-10-pcs.md) כדי להגדיר מדיניות עבור מכשירי windows 10.
 
 בעת הצטרפות למכשיר של Windows 10 ל-תכלת לספירה, המדיניות שהגדרת עבור מחשבי Windows 10 מוחלת עליו. לקבלת מידע נוסף, ראה [הגדרת מכשירי Windows עבור משתמשי Microsoft 365](set-up-windows-devices.md).
 
 ## <a name="step-4-install-microsoft-365-apps-for-business"></a>שלב 4: התקנת יישומי Microsoft 365 for business
 - באפשרותך להתקין באופן אוטומטי את Office במכשירי Windows באמצעות [אשף ההגדרה](set-up.md#deploy-office-365-client-apps).
-- אפשר למשתמשים [להתקין אפליקציות של Office](https://docs.microsoft.com/office365/admin/setup/install-applications) עבור Windows ומכשירים.
+- אפשר למשתמשים [להתקין אפליקציות של Office](/office365/admin/setup/install-applications) עבור Windows ומכשירים.
      
 ## <a name="advanced"></a>מתקדם
 - **שימוש בטייס אוטומטי כדי להגדיר מכשירים חדשים**

@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: למד כיצד להעביר את העסק שלך ל-Microsoft 365 Business Premium מ-Office 365 E3.
-ms.openlocfilehash: eebf78c24ed4bfd1a4fc2d843f37aebbe3d35e31
-ms.sourcegitcommit: c1dd5be42fe0c5dcc7c05817c941edd9076febf8
+ms.openlocfilehash: f655037891bf8ec42e7b927256025c89c9354e98
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49558257"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912941"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>העברה מ-Office 365 E3 ל-Microsoft 365 Business Premium 
 
@@ -42,7 +42,7 @@ Microsoft 365 Business Premium כולל את כל מה שדרוש לך עבור 
 | תכונה    | תמיכה ב-Microsoft 365 Business Premium    | תמיכה ב-Office 365 E3 | 
 |:-------|:-----|:-----|
 | **מקומי**        | | | 
-| יישומי Office<sup>1</sup>    | אפליקציות Microsoft 365 לעסקים    | Microsoft 365 Apps for enterprise | 
+| יישומי Office<sup>1</sup>    | אפליקציות Microsoft 365 לעסקים    | יישומי Microsoft 365 עבור ארגונים | 
 | **אפליקציות לפרודוקטיביות בענן**        | | | 
 | Exchange Online ו-Outlook    | מגבלת אחסון של 50 GB לכל תיבת דואר ואחסון בארכיון באופן בלתי מוגבל של Exchange Online    | מגבלת אחסון של 100 GB לכל תיבת דואר ואחסון בארכיון באופן בלתי מוגבל של Exchange Online | 
 | Teams    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Office 365 E3](../media/check-mark.png) | 
@@ -95,7 +95,7 @@ Microsoft 365 Business Premium כולל את כל מה שדרוש לך עבור 
 
 באפשרותך גם להשלים שלבים אלה בדף ' מכשירים ':
   
-1. במרכז הניהול, בסרגל הניווט הימני, **Devices** עבור אל \> **פריטי מדיניות** של מכשירים.
+1. במרכז הניהול, בסרגל הניווט הימני,  עבור אל \> **פריטי מדיניות** של מכשירים.
     
 2. בדף ' **פריטי מדיניות מכשיר** ', בחר **הוסף**.
     
@@ -122,8 +122,8 @@ Microsoft 365 Business Premium כולל מגבלת אחסון של 50 GB כאש�
 
 ### <a name="threat-protection"></a>הגנה מפני איום
 
-לאחר המעבר ל-Microsoft 365 Business Premium, יש לך Defender עבור Office 365. ראה [Microsoft Defender עבור Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) לקבלת מבט כולל. כדי להגדיר, ראה [הגדרת קישורים בטוחים](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa), [הגדרת קבצים מצורפים בטוחים](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5) [והגדרת אנטי-דיוג ב-Defender עבור Office 365](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c).
+לאחר המעבר ל-Microsoft 365 Business Premium, יש לך Defender עבור Office 365. ראה [Microsoft Defender עבור Office 365](../security/office-365-security/office-365-atp.md) לקבלת מבט כולל. כדי להגדיר, ראה [הגדרת קישורים בטוחים](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa), [הגדרת קבצים מצורפים בטוחים](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5) [והגדרת אנטי-דיוג ב-Defender עבור Office 365](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c).
 
 ### <a name="sensitivity-labels"></a>תוויות רגישות
 
-כדי להתחיל להשתמש בתוויות רגישות, ראה [מבט כולל על תוויות רגישות](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels) ולאחר מכן [יצירה וניהול של וידאו וניהול של תוויות רגישות](https://support.microsoft.com/office/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) .
+כדי להתחיל להשתמש בתוויות רגישות, ראה [מבט כולל על תוויות רגישות](../compliance/sensitivity-labels.md) ולאחר מכן [יצירה וניהול של וידאו וניהול של תוויות רגישות](https://support.microsoft.com/office/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) .

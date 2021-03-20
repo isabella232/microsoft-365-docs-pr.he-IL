@@ -25,48 +25,46 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: למד כיצד לוודא ש-Microsoft 365 עבור הגדרות של הגנת יישומים עסקיים השפיעה על התקני Windows 10 של המשתמשים שלך.
-ms.openlocfilehash: 39aee3bc811cb0090d58f9a282de7a8162c097b3
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: למד כיצד לאמת את הגדרות ההגנה על אפליקציות של Microsoft 365 for business שהופעלו במכשירי Windows 10 של המשתמשים שלך.
+ms.openlocfilehash: ff99b3a4fce49aebdb5c72f51e46678a7821e186
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403589"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912413"
 ---
-# <a name="validate-device-protection-settings-on-windows-10-pcs"></a>אימות הגדרות הגנת התקן במחשבי Windows 10
+# <a name="validate-device-protection-settings-on-windows-10-pcs"></a>אימות הגדרות הגנה על מכשירים במחשבי Windows 10
 
-## <a name="verify-that-windows-10-device-policies-are-set"></a>ודא שמדיניות ההתקנים של Windows 10 מוגדרת
+## <a name="verify-that-windows-10-device-policies-are-set"></a>אימות ש-Windows 10 מדיניות התקן מוגדרים
 
-לאחר [הגדרת פריטי מדיניות של התקנים](protection-settings-for-windows-10-pcs.md), המדיניות עשויה להימשך שעות ספורות כדי שהמדיניות ייכנסו לתוקף בהתקני המשתמשים. באפשרותך לאשר שהמדיניות השפיעה על-ידי התבוננות במסכים שונים של הגדרות Windows בהתקני המשתמשים. מאחר שהמשתמשים לא יוכלו לשנות את הגדרות windows Update ו-Windows Defender Antivirus בהתקני Windows 10 שלהם, אפשרויות רבות יופיעו באפור.
+לאחר [הגדרת מדיניות מכשירים](protection-settings-for-windows-10-pcs.md), ייתכן שיחלפו כמה שעות עד שהמדיניות תיכנס לתוקף של מכשירי משתמשים. באפשרותך לוודא שהמדיניות השפיעה על-ידי התבוננות במסכים שונים של הגדרות Windows במכשירים של המשתמשים. מכיוון שהמשתמשים לא יוכלו לשנות את הגדרות windows Update ו-Windows Defender Antivirus במכשירי Windows 10 שלהם, אפשרויות רבות ייראו באפור.
   
-1. עבור אל ' **הגדרות** \> &amp; \> **של Windows עדכון** \> **אפשרויות הפעלה מחדש** ולוודא שכל ההגדרות אפורות. 
+1. עבור אל  \> **&amp;** \>  \> **אפשרויות הפעלה מחדש** של עדכון אבטחה עבור הגדרות Windows update ואשר שכל ההגדרות מעומעמות. 
     
-    ![כל האפשרויות הפעלה מחדש מאפורות.](../media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
+    ![כל אפשרויות ההפעלה מחדש מעומעמות.](../media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
   
-2. עבור אל **הגדרות** \> &amp; \> **Windows עדכן** \> **אפשרויות מתקדמות** וודא כי כל ההגדרות אפורות. 
+2. עבור אל  \> האפשרויות המתקדמות של **עדכון &amp; אבטחה** עבור \> **Windows update** \>  ואשר שכל ההגדרות מעומעמות. 
     
-    ![אפשרויות העדכונים המתקדמים של Windows מאפורות כולן.](../media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
+    ![האפשרויות ' עדכונים מתקדמים ' של Windows מעומעמות.](../media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
   
-3. עבור אל **הגדרות** \> &amp; \> **של Windows update** \> **אפשרויות** \> **מתקדמות בחר את אופן המשלוח של עדכונים**.
+3. עבור אל  \> **&amp;** \> ' אפשרויות מתקדמות ' של עדכוני אבטחה **של Windows update Windows** \>  \> , **בחר כיצד יישלחו עדכונים**.
     
-    ודא כי באפשרותך לראות את ההודעה (באדום) שההגדרות מסוימות מוסתרות או מנוהלות על-ידי הארגון שלך וכל האפשרויות מאפורות.
+    ודא שניתן לראות את ההודעה (באדום) שהגדרות מסוימות מוסתרות או מנוהלות על-ידי הארגון שלך, וכל האפשרויות מעומעמות.
     
-    ![בחר כיצד עדכונים מועברים לדף מציין שההגדרות מוסתרות או מנוהלות על-ידי הארגון שלך.](../media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
+    ![בחר כיצד עדכונים מועברים בדף מציין שההגדרות מוסתרות או מנוהלות על-ידי הארגון שלך.](../media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
   
-4. כדי לפתוח את מרכז האבטחה של Windows defender, עבור אל **הגדרות** \> &amp; \> **windows defender** \> לחץ על **פתח windows Defender אבטחה מרכז** \> &amp; הגנה \> &amp;. 
+4. כדי לפתוח את מרכז האבטחה של windows defender, עבור אל **הגדרות** \> **עדכון &amp; אבטחה** \> **של windows** defender \> לחץ על **פתח את windows defender מרכז** \> **האבטחה וירוסים וירוסים &amp; הגנה** על \> **&amp; הגדרות הגנה** מפני הגנה 
     
-5. ודא שכל האפשרויות מעומעמת. 
+5. ודא שכל האפשרויות מעומעמות. 
     
-    ![הגדרות הגנת הווירוס והאיום מאפורות.](../media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
+    ![הגדרות הגנה מפני וירוסים ואיומים מעומעמות.](../media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
   
-## <a name="related-topics"></a>נושאים קרובים
+## <a name="related-topics"></a>נושאים קשורים
 
-[מיקרוסופט 365 עבור תיעוד עסקי ומשאבים](https://go.microsoft.com/fwlink/p/?linkid=853701)
+[תיעוד ומשאבים של Microsoft 365 for business](./index.yml)
   
-[התחל לעבוד עם Microsoft 365 לעסקים](microsoft-365-business-overview.md)
+[תחילת העבודה עם Microsoft 365 for business](microsoft-365-business-overview.md)
   
-[ניהול מיקרוסופט 365 לעסקים](manage.md)
+[ניהול Microsoft 365 for business](manage.md)
   
 [קביעת תצורות של מכשירים עבור מחשבי Windows 10](protection-settings-for-windows-10-pcs.md)
-  
-

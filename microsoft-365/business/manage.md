@@ -1,5 +1,5 @@
 ---
-title: ניהול מיקרוסופט 365 לעסקים
+title: ניהול Microsoft 365 for business
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -21,53 +21,53 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
-description: למד לנהל את Microsoft 365 עבור משימות מנהל הקשורות לעסקים, התקנים ניידים, מחשבי Windows 10 ומשימות רבות כאלה.
-ms.openlocfilehash: 0534356f4ffc4a05504121d96edbc381e00632e9
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: למד כיצד לנהל את Microsoft 365 עבור משימות ניהול קשורות לעסקים, מכשירים ניידים, מחשבי Windows 10 ומשימות רבות שכאלה.
+ms.openlocfilehash: d4136298a1305f12602e0ce258a440dd72e8cd64
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403037"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913173"
 ---
-# <a name="manage-microsoft-365-for-business"></a>ניהול מיקרוסופט 365 לעסקים
+# <a name="manage-microsoft-365-for-business"></a>ניהול Microsoft 365 for business
 
-## <a name="general-microsoft-365-for-business-admin-tasks"></a>מיקרוסופט 365 כללי עבור משימות ניהול עסקי
+## <a name="general-microsoft-365-for-business-admin-tasks"></a>משימות ניהול כלליות של Microsoft 365 for business
 
-רוב [תוכן המנהל](https://docs.microsoft.com/office365/admin/admin-home) עבור Office 365 חל גם על Microsoft 365 עבור העסק.
+רוב [תוכן הניהול](/office365/admin/admin-home) של Office 365 חל גם על Microsoft 365 for business.
 
-- [הוספת משתמשים נוספים ל-Microsoft 365 לעסקים](add-users-m365b.md)
+- [הוספת משתמשים נוספים ל-Microsoft 365 for business](../admin/add-users/add-users.md)
     
 - [הצגת כללי מדיניות ומכשירים](view-policies-and-devices.md)
     
-- [Microsoft 365 עבור תכונות אבטחה עסקיות](security-features.md)
+- [תכונות אבטחה של Microsoft 365 for business](security-features.md)
     
-- [כיצד לבצע תכונות הגנה ב-Microsoft 365 עבור מפה עסקית להגדרות Intune](map-protection-features-to-intune-settings.md)
+- [כיצד תכונות ההגנה ב-Microsoft 365 for business ממפות להגדרות ' כוונון '](map-protection-features-to-intune-settings.md)
     
-עיין בסעיפים הבאים על אופן השימוש ב-Microsoft 365 עבור עסקים כדי להגן על נתוני הארגון שלך במחשבים אישיים ובמכשירים ניידים.
+עיין בסעיפים הבאים לגבי אופן השימוש ב-Microsoft 365 for business כדי להגן על נתוני הארגון שלך במחשבי Pc ובמכשירים ניידים.
   
 ## <a name="manage-mobile-devices"></a>ניהול מכשירים ניידים
 
-- [הגדרת התקנים ניידים עבור Microsoft 365 עבור משתמשים עסקיים](set-up-mobile-devices.md)
+- [הגדרת מכשירים ניידים עבור משתמשים של Microsoft 365 for business](set-up-mobile-devices.md)
     
 - [קביעת הגדרות הגנה של אפליקציות עבור מכשירי Android או iOS](app-protection-settings-for-android-and-ios.md)
     
-    כדי לוודא שזה עובד, ראה [אימות הגדרות הגנה app על אנדרואיד או מכשיר iOS](validate-settings-on-android-or-ios.md). 
+    כדי לוודא שזה עבד, ראה [אימות הגדרות הגנה של אפליקציות במכשיר Android או iOS](validate-settings-on-android-or-ios.md). 
     
 - [הסרת נתוני חברה ממכשירים](remove-company-data.md)
     
 ## <a name="manage-windows-10-pcs"></a>ניהול מחשבי PC עם Windows 10
 
-- [הגדרת התקני Windows עבור Microsoft 365 עבור משתמשים עסקיים](set-up-windows-devices.md)
+- [הגדרת מכשירי Windows עבור משתמשים של Microsoft 365 for business](set-up-windows-devices.md)
 
-    קרא את [ההכנה לפריסת לקוח Office על-ידי Microsoft 365 לצורך עסקים לפני ההתקנה האוטומטית](prepare-for-office-client-deployment.md) של Office. 
+    קרא את [הכנה לפריסת לקוח של Office על-ידי Microsoft 365 for business](prepare-for-office-client-deployment.md) לפני שתבצע התקנה אוטומטית של Office. 
     
 - [קביעת הגדרות הגנה על מכשירים עבור מכשירי Windows 10](protection-settings-for-windows-10-pcs.md)
     
-    כדי לוודא שפעולה זו הצליחה, ראה [אימות הגדרות הגנת התקן בהתקני Windows 10](validate-settings-on-windows-10-pcs.md). 
+    כדי לוודא שפעולה זו הצליחה, ראה [אימות הגדרות הגנה על מכשירים במכשירי Windows 10](validate-settings-on-windows-10-pcs.md). 
     
 - [קביעת הגדרות הגנה של יישומים עבור מכשירי Windows 10](protection-settings-for-windows-10-devices.md)
     
-    כדי לוודא שפעולה זו הצליחה, ראה [אימות הגדרות הגנת יישומים במחשבי Windows 10](validate-protection-settings-on-windows-10-pcs.md). 
+    כדי לוודא שזה עבד, ראה [אימות הגדרות הגנה של אפליקציות במחשבי Windows 10](validate-protection-settings-on-windows-10-pcs.md). 
     
 - [הסרת נתוני חברה ממכשירים](remove-company-data.md)
     
@@ -75,7 +75,7 @@ ms.locfileid: "44403037"
     
 ### <a name="use-autopilot-to-deploy-windows-10-devices"></a>שימוש ב- AutoPilot לפריסת מכשירי Windows 10
 
-הנושאים הבאים מתארים כיצד באפשרותך להשתמש בטייס אוטומטי של Windows ב-Microsoft 365 עבור עסק כדי להגדיר מראש את התקני Windows 10.
+הנושאים הבאים מתארים כיצד באפשרותך להשתמש בטייס אוטומטי של Windows ב-Microsoft 365 for business כדי לקבוע מראש את התצורה של מכשירי Windows 10.
   
 - [שימוש במדריך שלב אחר שלב להוספת מכשירים ופרופיל של Autopilot](add-autopilot-devices-and-profile.md)
     
@@ -89,14 +89,14 @@ ms.locfileid: "44403037"
     
 - [אודות ההגדרות של פרופיל AutoPilot](autopilot-profile-settings.md)
     
-## <a name="set-up-and-prerequisite-information"></a>הגדרת מידע מוגדר ותנאי מוקדם
+## <a name="set-up-and-prerequisite-information"></a>הגדרה ומידע של דרישה מוקדמת
 
-- [דרישות מוקדמות להגנה על נתונים בהתקנים עם Microsoft 365 לעסקים](pre-requisites-for-data-protection.md)
+- [דרישות מוקדמות להגנה על נתונים במכשירים עם Microsoft 365 for business](pre-requisites-for-data-protection.md)
     
-- [הגדרת Microsoft 365 עבור עסקים באמצעות אשף ההתקנה](set-up.md)
+- [הגדרת Microsoft 365 for business באמצעות אשף ההגדרה](set-up.md)
     
-- [העברה ל-Microsoft 365 לעסק](migrate-to-microsoft-365-business.md)
+- [העברה ל-Microsoft 365 for business](migrate-to-microsoft-365-business.md)
     
-- [הפעל התקנים של Windows 10 המצורפים לתחום לניהול באמצעות Microsoft 365 עבור עסקים](manage-windows-devices.md)
+- [הפיכת מכשירי Windows 10 המצורפים לתחום למנוהל על-ידי Microsoft 365 for business](manage-windows-devices.md)
     
 - [תכונות אבטחה נוספת](security-features.md#additional-security-features)

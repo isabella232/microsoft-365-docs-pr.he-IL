@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: קבל מידע נוסף על Microsoft 365 Business Premium, שירות למנויים הכולל יישומי פרודוקטיביות של Office והגנה מתקדמת על העסק שלך מפני איומי סייבר.
-ms.openlocfilehash: e67ae036bf3ce7811f19c8745838bb51dde073ea
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: aa6e313f0f3db1c3401836c3e1737c219fcf6c3a
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48842179"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913001"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>מבט כולל על Microsoft 365 Business Premium
 
@@ -48,9 +48,9 @@ Microsoft 365 Business Premium (לשעבר Microsoft 365 Business) הוא שיר
   
 אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
 
-Microsoft 365 Business Premium מיועד ל- 300 רשיונות לכל היותר. אם אתה זקוק לרשיונות נוספים, עיין בתיעוד של [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) לקבלת מידע נוסף.
+Microsoft 365 Business Premium מיועד ל- 300 רשיונות לכל היותר. אם אתה זקוק לרשיונות נוספים, עיין בתיעוד של [Microsoft 365 Enterprise](../enterprise/index.yml) לקבלת מידע נוסף.
 
-עיין ב[תיאור השירות של Microsoft 365 Business Premium](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description)לקבלת רשימת התכונות המלאה.
+עיין ב[תיאור השירות של Microsoft 365 Business Premium](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description)לקבלת רשימת התכונות המלאה.
   
 ## <a name="small-business-security-needs"></a>צרכי האבטחה של העסקים הקטנים
 
@@ -103,7 +103,7 @@ Microsoft 365 Business Premium עוזר **להתגונן מפני איומים**
 
 - שימוש בפקדים פשוטים כדי לנהל פריטי מדיניות עבור כל מחשבי Windows 10 בחברה, אכיפת הצפנת BitLocker והתקנה אוטומטית של עדכונים קריטיים של Windows (אכיפת פריטי מדיניות העדכון של Windows).
 
-כדי לראות את הרשימה המלאה של תכונות אבטחה, ראה [תכונות האבטחה של Microsoft 365 Business Premium](security-features.md). לאחר שתבצע את [הגדרת Microsoft 365 Business Premium](set-up.md), ראה [חיזוק ההגנה מפני איומים](increase-threat-protection.md) ו[הגדרת תכונות תאימות](set-up-compliance.md) כדי להתחיל לעבוד עם תכונות האבטחה שאינן כלולות במסגרת ההגדרה המודרכת. קרא גם את [10 דרכים מובילות לאבטחת התוכניות Office 365 ו-Microsoft 365 Business Premium](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) כדי לקבל סקירה שימושית על אופן ההגדרה של הגנות מפני פושעים סייבר והאקרים.
+כדי לראות את הרשימה המלאה של תכונות אבטחה, ראה [תכונות האבטחה של Microsoft 365 Business Premium](security-features.md). לאחר שתבצע את [הגדרת Microsoft 365 Business Premium](set-up.md), ראה [חיזוק ההגנה מפני איומים](increase-threat-protection.md) ו[הגדרת תכונות תאימות](set-up-compliance.md) כדי להתחיל לעבוד עם תכונות האבטחה שאינן כלולות במסגרת ההגדרה המודרכת. קרא גם את [10 דרכים מובילות לאבטחת התוכניות Office 365 ו-Microsoft 365 Business Premium](/office365/admin/security-and-compliance/secure-your-business-data) כדי לקבל סקירה שימושית על אופן ההגדרה של הגנות מפני פושעים סייבר והאקרים.
 
 ## <a name="get-microsoft-365-business-premium"></a>קבל את Microsoft 365 Business Premium
 

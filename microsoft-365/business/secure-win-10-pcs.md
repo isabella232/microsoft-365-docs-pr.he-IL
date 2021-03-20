@@ -23,12 +23,12 @@ search.appverid:
 - BCS160
 - MET150
 description: למד כיצד לאבטח את מחשבי Windows 10 Pc לאחר הגדרת Microsoft 365 Business Premium.
-ms.openlocfilehash: 286393779eaa92d33432ff9ad4b21c0a1fb8612c
-ms.sourcegitcommit: 20d1158c54a5058093eb8aac23d7e4dc68054688
+ms.openlocfilehash: 1b843e9ae3fcdb78eb128549f8f3c18badd8eb4e
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "49376276"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912629"
 ---
 # <a name="secure-windows-10-computers"></a>מחשבי Windows 10 מאובטחים
 
@@ -46,7 +46,7 @@ ms.locfileid: "49376276"
 
 4. בחלונית **Secure מחשבי Windows 10** , בחר את האפשרויות שברצונך להפעיל. לקבלת מידע נוסף אודות ההגדרות, ראה [מכשירי Windows 10 מאובטחים](secure-windows-10-devices.md). 
     
-    עבור רוב הארגונים, האפשרויות כאן מציעות רמה טובה של אבטחה, עם זאת, אם לארגון שלך יש צרכי אבטחה מורכבים יותר, באפשרותך גם להשתמש בתוכניות בסיסיות אבטחה מוגדרות מראש כדי לאבטח את מכשירי Windows 10 שלך. לקבלת מידע נוסף, ראה [תוכניות בסיסיות של אבטחה עבור מכשירי Windows 10](https://docs.microsoft.com/mem/intune/protect/security-baselines).   
+    עבור רוב הארגונים, האפשרויות כאן מציעות רמה טובה של אבטחה, עם זאת, אם לארגון שלך יש צרכי אבטחה מורכבים יותר, באפשרותך גם להשתמש בתוכניות בסיסיות אבטחה מוגדרות מראש כדי לאבטח את מכשירי Windows 10 שלך. לקבלת מידע נוסף, ראה [תוכניות בסיסיות של אבטחה עבור מכשירי Windows 10](/mem/intune/protect/security-baselines).   
 
 1. בחר **החל הגדרות**.
 

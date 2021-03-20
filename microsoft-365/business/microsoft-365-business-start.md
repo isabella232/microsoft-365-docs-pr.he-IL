@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: קבל מידע על Microsoft 365 for business, כיצד להגדיר אותו וכיצד להכין את המכשירים והמחשבים של המשתמשים שלך כדי לוודא שהם מוגנים על-ידי Microsoft 365 for business.
-ms.openlocfilehash: ec50036f589cfd8497b0e7e9af6519b30d25dcd3
-ms.sourcegitcommit: 555d756c69ac9031d1fb928f2e1f9750beede066
+ms.openlocfilehash: 9430dc7aa637be3fdb833150b83e96caacc82170
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2020
-ms.locfileid: "47306488"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912961"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>תחילת העבודה עם Microsoft 365 for business
 
@@ -45,7 +45,7 @@ Microsoft 365 for business הוא קבוצה מקיפה של כלי פרודוק
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Microsoft 365 for business מיועד לרשיונות של עד 300. אם אתה זקוק לרשיונות נוספים, עיין בתיעוד של [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) לקבלת מידע נוסף. 
+Microsoft 365 for business מיועד לרשיונות של עד 300. אם אתה זקוק לרשיונות נוספים, עיין בתיעוד של [Microsoft 365 Enterprise](../enterprise/index.yml) לקבלת מידע נוסף. 
   
 ## <a name="get-microsoft-365-for-business"></a>קבל את Microsoft 365 for business
 
@@ -80,9 +80,9 @@ Microsoft 365 for business מיועד לרשיונות של עד 300. אם את�
     
     אם אתה **עובר לצמיתות ממדריך כתובות מקומי של Active Directory לענן**, באפשרותך לעבור אל מרכז הניהול של Microsoft 365 ולהשתמש באשף ההגדרה כדי להוסיף את המשתמשים שלך באופן ידני, או לבצע סינכרון חד-פעמי עם התחברות של תכלת לספירה. ניתן לעשות זאת בשתי דרכים: 
     
-    - אם יש לך גם את Exchange 2010, Exchange 2013 או Exchange 2016 server, [באפשרותך להשתמש ביברידית מינימלית כדי להעביר במהירות את תיבות הדואר של Exchange ל-Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate). השלבים ההיברידיים המינימליים כוללים סינכרון חד-פעמי של משתמשים כדי להעביר את הודעות התכלת והעברת דואר אלקטרוני מקומית לענן. לאחר השלמת העברת הדואר האלקטרוני, סינכרון מדריכי הכתובות מבוטל אוטומטית בעת השימוש בשיטה זו.
+    - אם יש לך גם את Exchange 2010, Exchange 2013 או Exchange 2016 server, [באפשרותך להשתמש ביברידית מינימלית כדי להעביר במהירות את תיבות הדואר של Exchange ל-Microsoft 365](/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate). השלבים ההיברידיים המינימליים כוללים סינכרון חד-פעמי של משתמשים כדי להעביר את הודעות התכלת והעברת דואר אלקטרוני מקומית לענן. לאחר השלמת העברת הדואר האלקטרוני, סינכרון מדריכי הכתובות מבוטל אוטומטית בעת השימוש בשיטה זו.
     
-    - השתמש באשף הסינכרון של מדריכי כתובות כדי לסנכרן את המשתמשים שלך לענן. בצע את השלבים [המפורטים במאמר הגדרת סינכרון מדריכי כתובות עבור Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/set-up-directory-synchronization) כדי להשלים תהליך זה. לאחר שתסנכרן את המשתמשים שלך בענן, תצטרך [לבטל סינכרון מדריכי כתובות עבור Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/turn-off-directory-synchronization).
+    - השתמש באשף הסינכרון של מדריכי כתובות כדי לסנכרן את המשתמשים שלך לענן. בצע את השלבים [המפורטים במאמר הגדרת סינכרון מדריכי כתובות עבור Microsoft 365](../enterprise/set-up-directory-synchronization.md) כדי להשלים תהליך זה. לאחר שתסנכרן את המשתמשים שלך בענן, תצטרך [לבטל סינכרון מדריכי כתובות עבור Microsoft 365](../enterprise/turn-off-directory-synchronization.md).
     
     בנוסף, תצטרך לתת לכל משתמש שנוסף בדרך זו רשיון ל-Microsoft 365 for business. באפשרותך לעשות זאת [באשף ההגדרה](set-up.md) או [להקצות רשיונות למשתמשים](../admin/manage/assign-licenses-to-users.md).
     
@@ -105,12 +105,12 @@ Microsoft 365 for business מיועד לרשיונות של עד 300. אם את�
   
 - פנה לשותף שלך.
     
-- כמנהל מערכת של Microsoft 365 for business, יש לך גישה לצוות התמיכה של הלקוחות שלנו: ** [פנה לתמיכה עבור מוצרים עסקיים-עזרה למנהלי מערכת](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)**
+- כמנהל מערכת של Microsoft 365 for business, יש לך גישה לצוות התמיכה של הלקוחות שלנו: **[פנה לתמיכה עבור מוצרים עסקיים-עזרה למנהלי מערכת](../admin/contact-support-for-business-products.md)**
     
-## <a name="see-also"></a>למידע נוסף
+## <a name="see-also"></a>ראה גם
 
-[תיעוד ומשאבים של Microsoft 365 for business](https://go.microsoft.com/fwlink/p/?linkid=853701)
+[תיעוד ומשאבים של Microsoft 365 for business](./index.yml)
   
 [ניהול microsoft 365 for business](manage.md)[העברה ל-microsoft 365 for business](migrate-to-microsoft-365-business.md)
 
-[סרטוני וידאו של הדרכה של Microsoft 365 for business](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) 
+[סרטוני וידאו של הדרכה של Microsoft 365 for business](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

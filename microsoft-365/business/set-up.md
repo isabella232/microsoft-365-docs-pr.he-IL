@@ -30,12 +30,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: גלה את שלבי ההגדרה עבור Microsoft 365 Business Premium, כולל הוספת תחום ומשתמשים, הגדרת מדיניות אבטחה ועוד.
-ms.openlocfilehash: e7ebe179c67077dc71ae4873b0711d0e810c701a
-ms.sourcegitcommit: 1b30ac6e05906c8a014b1fed33fc71e1821f6ad2
+ms.openlocfilehash: 5b082e78f3dc4067dcce4a96a8088b2347bc3af4
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50044729"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912569"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>הגדרת Microsoft 365 Business Premium באשף ההגדרה
 
@@ -67,15 +67,15 @@ ms.locfileid: "50044729"
     ![צילום מסך של דף הכניסה התאמה אישית.](../media/adddomain.png)
 
     
-4. בצע את השלבים באשף כדי [ליצור רשומות dns בכל ספק אירוח dns עבור Microsoft 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) שמאמת את בעלותך על התחום. אם אתה מכיר את מארח התחום שלך, ראה גם [הוראות ספציפיות למארח](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions).
+4. בצע את השלבים באשף כדי [ליצור רשומות dns בכל ספק אירוח dns עבור Microsoft 365](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) שמאמת את בעלותך על התחום. אם אתה מכיר את מארח התחום שלך, ראה גם [הוראות ספציפיות למארח](/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions).
 
-    אם ספק האירוח שלך הוא GoDaddy או מארח אחר זמין עם ' [חיבור לתחומים](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)', התהליך קל וברצונך להיכנס באופן אוטומטי ולאפשר ל-Microsoft לאמת בשמך.
+    אם ספק האירוח שלך הוא GoDaddy או מארח אחר זמין עם ' [חיבור לתחומים](/office365/admin/get-help-with-domains/domain-connect)', התהליך קל וברצונך להיכנס באופן אוטומטי ולאפשר ל-Microsoft לאמת בשמך.
 
     ![בדף GoDaddy אישור גישה, בחר הרשאה.](../media/godaddyauth.png)
 
 ### <a name="add-users-and-assign-licenses"></a>הוספת משתמשים והקצאת רשיונות
 
-באפשרותך להוסיף משתמשים באשף, אך באפשרותך גם [להוסיף משתמשים בהמשך](add-users-m365b.md) מרכז הניהול. בנוסף, אם יש לך בקר תחום מקומי, באפשרותך להוסיף משתמשים בעלי [התחברות של תכלת לספירה](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+באפשרותך להוסיף משתמשים באשף, אך באפשרותך גם [להוסיף משתמשים בהמשך](../admin/add-users/add-users.md) מרכז הניהול. בנוסף, אם יש לך בקר תחום מקומי, באפשרותך להוסיף משתמשים בעלי [התחברות של תכלת לספירה](/azure/active-directory/hybrid/how-to-connect-install-express).
 
 #### <a name="add-users-in-the-wizard"></a>הוספת משתמשים באשף
 
@@ -94,10 +94,10 @@ ms.locfileid: "50044729"
   
 להגדרת שירותים, עליך לעדכן כמה רשומות אצל מארח ה- DNS שלך או אצל רשם התחומים.
   
-1. אשף ההגדרה מזהה בדרך כלל את הרשם שלך, ומספק לך קישור להוראות מפורטות לעדכון רשומות ה- NS באתר האינטרנט של הרשם. אם היא אינה [מופיעה, שנה את nameservers כדי להגדיר את Microsoft 365 עם רשם תחומים כלשהו](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar). 
+1. אשף ההגדרה מזהה בדרך כלל את הרשם שלך, ומספק לך קישור להוראות מפורטות לעדכון רשומות ה- NS באתר האינטרנט של הרשם. אם היא אינה [מופיעה, שנה את nameservers כדי להגדיר את Microsoft 365 עם רשם תחומים כלשהו](../admin/get-help-with-domains/change-nameservers-at-any-domain-registrar.md). 
 
-    - אם יש לך רשומות DNS קיימות, למשל אתר אינטרנט קיים, אך מארח ה-DNS שלך מופעל עבור ' [חיבור תחום](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)', בחר ' **הוסף רשומות עבורי**'. בדף **בחירת שירותים מקוונים** , קבל את כל ברירות המחדל ובחר **הבא**, ובחר **הרשאה** בעמוד של מארח ה-DNS שלך.
-    - אם יש לך רשומות DNS קיימות עם מארחי DNS אחרים (שאינם זמינים עבור ' חיבור תחום '), מומלץ לנהל רשומות DNS משלך כדי לוודא שהשירותים הקיימים נשארים מחוברים. ראה [יסודות תחום](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics) לקבלת מידע נוסף.
+    - אם יש לך רשומות DNS קיימות, למשל אתר אינטרנט קיים, אך מארח ה-DNS שלך מופעל עבור ' [חיבור תחום](/office365/admin/get-help-with-domains/domain-connect)', בחר ' **הוסף רשומות עבורי**'. בדף **בחירת שירותים מקוונים** , קבל את כל ברירות המחדל ובחר **הבא**, ובחר **הרשאה** בעמוד של מארח ה-DNS שלך.
+    - אם יש לך רשומות DNS קיימות עם מארחי DNS אחרים (שאינם זמינים עבור ' חיבור תחום '), מומלץ לנהל רשומות DNS משלך כדי לוודא שהשירותים הקיימים נשארים מחוברים. ראה [יסודות תחום](/office365/admin/get-help-with-domains/dns-basics) לקבלת מידע נוסף.
 
         ![הפעלת הדף records.](../media/activaterecords.png)
 
@@ -105,9 +105,9 @@ ms.locfileid: "50044729"
 
 ### <a name="protect-your-organization"></a>הגנה על הארגון שלך 
 
-המדיניות שתגדיר באשף מוחלת באופן אוטומטי על [קבוצת אבטחה](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) הנקראת *כל המשתמשים*. באפשרותך גם ליצור קבוצות נוספות כדי להקצות פריטי מדיניות למרכז הניהול.
+המדיניות שתגדיר באשף מוחלת באופן אוטומטי על [קבוצת אבטחה](/office365/admin/create-groups/compare-groups#security-groups) הנקראת *כל המשתמשים*. באפשרותך גם ליצור קבוצות נוספות כדי להקצות פריטי מדיניות למרכז הניהול.
 
-1. בנושא **הגדלת ההגנה מפני איומי סייבר מתקדמים**, מומלץ לקבל את ברירות המחדל כדי לאפשר [להגנת האיום של office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) לסרוק קבצים וקישורים ביישומי office.
+1. בנושא **הגדלת ההגנה מפני איומי סייבר מתקדמים**, מומלץ לקבל את ברירות המחדל כדי לאפשר [להגנת האיום של office 365](../security/office-365-security/office-365-atp.md) לסרוק קבצים וקישורים ביישומי office.
 
     ![צילום מסך של הדף ' הגדל הגנה '.](../media/increasetreatprotection.png)
 

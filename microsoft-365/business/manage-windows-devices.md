@@ -24,12 +24,12 @@ search.appverid:
 - BCS160
 - MET150
 description: למד כיצד להפוך את Microsoft 365 לזמין כדי להגן על מכשירים מקומיים של Active Directory המצורפים ל-Windows 10 בשלבים ספורים בלבד.
-ms.openlocfilehash: 0b597110447272be128bfe1866234ac25a8e67e6
-ms.sourcegitcommit: 070724118be25cd83418d2a56863da95582dae65
+ms.openlocfilehash: 82d4ac3f1d6aba9489f9ea153de3a3d2083b47ec
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50407077"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913193"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>הפיכת מכשירי Windows 10 המצורפים לתחום למנוהל על-ידי Microsoft 365 Business Premium
 
@@ -78,7 +78,7 @@ ms.locfileid: "50407077"
 
 ## <a name="4-create-the-required-resources"></a>4. יצירת המשאבים הדרושים 
 
-ביצוע המשימות הנדרשות כדי [לקבוע את התצורה של הצטרפות היברידית של ' תכלת לספירה](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join) ' היה פשוט יותר באמצעות ה-Cmdlet ' [אתחול-SecMgmtHybirdDeviceEnrollment](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) ' שנמצא במודול [SecMgmt](https://www.powershellgallery.com/packages/SecMgmt) PowerShell. כאשר אתה מפעיל את ה-cmdlet הזה, הוא ייצור ויקבע את התצורה של נקודת חיבור השירות הנדרשת והמדיניות הקבוצתית.
+ביצוע המשימות הנדרשות כדי [לקבוע את התצורה של הצטרפות היברידית של ' תכלת לספירה](/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join) ' היה פשוט יותר באמצעות ה-Cmdlet ' [אתחול-SecMgmtHybirdDeviceEnrollment](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) ' שנמצא במודול [SecMgmt](https://www.powershellgallery.com/packages/SecMgmt) PowerShell. כאשר אתה מפעיל את ה-cmdlet הזה, הוא ייצור ויקבע את התצורה של נקודת חיבור השירות הנדרשת והמדיניות הקבוצתית.
 
 באפשרותך להתקין מודול זה על-ידי הפעלת הפרטים הבאים מתוך מופע של PowerShell:
 

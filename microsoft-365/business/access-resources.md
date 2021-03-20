@@ -21,27 +21,27 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: למד כיצד לקבל גישה למשאבים מקומיים כגון שורה של אפליקציות עסקיות, מניות קבצים ומדפסות ממכשיר של תכלת Active Directory המצורף ל-Windows 10.
-ms.openlocfilehash: fc02fd30f41f25f52e653e750a6bdfd1bd7f800e
-ms.sourcegitcommit: a62ac3c01ba700a51b78a647e2301f27ac437c5a
+ms.openlocfilehash: b78509d72cbd9b3c121039c4965625bf5c21c7e0
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50233839"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913521"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>גישה למשאבים מקומיים באמצעות מכשיר תכלת מצורף ב-Microsoft 365 Business Premium
 
 מאמר זה חל על Microsoft 365 Business Premium.
 
-כל מכשיר Windows 10 שהוא תכלת Active Directory הצטרף אליו כולל גישה לכל המשאבים המבוססים על ענן, כגון יישומי Microsoft 365, וניתן להתגונן על-ידי Microsoft 365 Business Premium. באפשרותך גם לאפשר גישה למשאבים מקומיים כגון יישומי line-business (LOB), מניות קבצים ומדפסות. כדי לאפשר גישה, השתמש ב- [תכלת AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) כדי לסנכרן את active directory המקומי עם תכלת active directory. 
+כל מכשיר Windows 10 שהוא תכלת Active Directory הצטרף אליו כולל גישה לכל המשאבים המבוססים על ענן, כגון יישומי Microsoft 365, וניתן להתגונן על-ידי Microsoft 365 Business Premium. באפשרותך גם לאפשר גישה למשאבים מקומיים כגון יישומי line-business (LOB), מניות קבצים ומדפסות. כדי לאפשר גישה, השתמש ב- [תכלת AD Connect](/azure/active-directory/connect/active-directory-aadconnect) כדי לסנכרן את active directory המקומי עם תכלת active directory. 
 
-לקבלת מידע נוסף, ראה [מבוא לניהול מכשירים ב-תכלת Active Directory](https://docs.microsoft.com/azure/active-directory/device-management-introduction).
+לקבלת מידע נוסף, ראה [מבוא לניהול מכשירים ב-תכלת Active Directory](/azure/active-directory/device-management-introduction).
 השלבים מסוכמים גם בסעיפים הבאים.
  
 ## <a name="run-azure-ad-connect"></a>הרצת התחברות של תכלת לספירה
 
 בצע את השלבים הבאים כדי להפוך את המכשירים המצורפים של הארגון שלך ל-תכלת לזמינים כדי לגשת למשאבים מקומיים.
   
-1. כדי לסנכרן את המשתמשים, הקבוצות ואנשי הקשר שלך מ-Active Directory המקומי ל-תכלת Active Directory, הפעל את אשף סינכרון מדריכי הכתובות והקישור תכלת AD כמתואר [בהגדרת סינכרון מדריכי כתובות עבור Office 365](https://docs.microsoft.com/microsoft-365/enterprise/set-up-directory-synchronization).
+1. כדי לסנכרן את המשתמשים, הקבוצות ואנשי הקשר שלך מ-Active Directory המקומי ל-תכלת Active Directory, הפעל את אשף סינכרון מדריכי הכתובות והקישור תכלת AD כמתואר [בהגדרת סינכרון מדריכי כתובות עבור Office 365](../enterprise/set-up-directory-synchronization.md).
     
 2. לאחר השלמת סינכרון מדריכי הכתובות, ודא שמכשירי Windows 10 של הארגון שלך מצורפים ל-תכלת לספירה. שלב זה מתבצע בנפרד בכל מכשיר Windows 10. ראה [הגדרת מכשירי Windows עבור משתמשי Microsoft 365 Business Premium](set-up-windows-devices.md) לקבלת פרטים. 
     
@@ -59,8 +59,8 @@ ms.locfileid: "50233839"
   
 - כאשר התקן תכלת מצטרף להודעה, הוא יוצר משתמש חדש ללא הפניה לפרופיל קיים. יש להעביר את הפרופילים באופן ידני. פרופיל משתמש מכיל מידע כגון מועדפים, קבצים מקומיים, הגדרות דפדפן והגדרות תפריט התחלה. הגישה הטובה ביותר היא למצוא כלי של ספק חיצוני כדי למפות קבצים והגדרות קיימים לפרופיל החדש.
 
-- אם ההתקן משתמש באובייקטי מדיניות קבוצתית (GPO), ייתכן שאובייקטי Gpo מסוימים לא יהיו בעלי [ספק שירותי תצורה](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) מקביל (CSP) בתוך המנגינה. הפעילו את [הכלי MMAT](https://www.microsoft.com/download/details.aspx?id=45520) כדי למצוא את מחשב ה-csp הדומה לאובייקטי gpo קיימים.
+- אם ההתקן משתמש באובייקטי מדיניות קבוצתית (GPO), ייתכן שאובייקטי Gpo מסוימים לא יהיו בעלי [ספק שירותי תצורה](/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) מקביל (CSP) בתוך המנגינה. הפעילו את [הכלי MMAT](https://www.microsoft.com/download/details.aspx?id=45520) כדי למצוא את מחשב ה-csp הדומה לאובייקטי gpo קיימים.
 
 - ייתכן שמשתמשים לא יוכלו לבצע אימות ליישומים התלויים באימות של Active Directory. הערך את האפליקציה legacy ושקול לעדכן את היישום המשתמש באימות מודרני, אם ניתן.
 
-- גילוי מדפסת של Active Directory לא יפעל. באפשרותך לספק נתיבי מדפסת ישירים עבור כל המשתמשים או להשתמש [בהדפס אוניברסלי](https://aka.ms/UPDocs).
+- גילוי מדפסת של Active Directory לא יפעל. באפשרותך לספק נתיבי מדפסת ישירים עבור כל המשתמשים או להשתמש [בהדפס אוניברסלי](/universal-print/).

@@ -25,12 +25,12 @@ search.appverid:
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: למד כיצד להשתמש ב-Windows באופן אוטומטי כדי להגדיר מכשירים חדשים של Windows 10 עבור העסק שלך, כך שהם יהיו מוכנים לשימוש בעובדים.
-ms.openlocfilehash: f263cc90656ae5e7be1a89e3c7f56bfb2d0e3651
-ms.sourcegitcommit: 3b369a44b71540c8b8214ce588a7aa6f47c3bb1e
+ms.openlocfilehash: 75cc51b889f8673de8dba2357c777de47fd0d296
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "50099749"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913501"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>שימוש במדריך שלב אחר שלב להוספת מכשירים ופרופיל של Autopilot
 
@@ -46,7 +46,7 @@ ms.locfileid: "50099749"
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>שימוש במדריך ההתקנה ליצירת מכשירים ופרופילים
 
-[![תווית המיידעת אותך שמרכז הניהול משתנה ושניתן למצוא פרטים נוספים ב- aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![תווית המיידעת אותך שמרכז הניהול משתנה ושניתן למצוא פרטים נוספים ב- aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](/office365/admin/microsoft-365-admin-center-preview)
 
 אם עדיין לא יצרת קבוצות מכשירים או פרופילים, הדרך הטובה ביותר להתחיל היא באמצעות מדריך שלב אחר שלב. באפשרותך גם [להוסיף מכשירים](create-and-edit-autopilot-devices.md) ולהקצות להם [פרופילים](create-and-edit-autopilot-profiles.md) ללא שימוש במדריך. 
   
@@ -70,7 +70,7 @@ ms.locfileid: "50099749"
     
     באפשרותך לקבל מידע זה מספק החומרה, או להשתמש [בסקריפט get-Windowsautopilotinfohttps PowerShell](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) כדי ליצור קובץ CSV. 
     
-    למידע נוסף, ראה [קובץ CSV עם רשימת מכשירים](https://docs.microsoft.com/microsoft-365/admin/misc/device-list). באפשרותך גם להוריד קובץ לדוגמה בדף **העלאת קובץ ‎.csv עם רשימת מכשירים**. 
+    למידע נוסף, ראה [קובץ CSV עם רשימת מכשירים](../admin/misc/device-list.md). באפשרותך גם להוריד קובץ לדוגמה בדף **העלאת קובץ ‎.csv עם רשימת מכשירים**. 
     
 > [!NOTE]
 > קובץ script זה משתמש ב-WMI כדי לאחזר מאפיינים הדרושים עבור לקוח כדי לרשום מכשיר באמצעות הטייס האוטומטי של Windows. שים לב שהוא נורמלי עבור קובץ ה-CSV שנוצר כדי לא לאסוף ערך של מזהה מוצר של Windows (PKID) מאחר שאין צורך לרשום מכשיר וPKID להיות NULL ב-CSV של הפלט הוא בסדר גמור. רק המספר הסידורי וגיבוב החומרה יאוכלסו.
@@ -94,4 +94,3 @@ ms.locfileid: "50099749"
     בחר **הבא**.
     
 6. **סיימת** מציינת שהפרופיל שיצרת (או שבחרת) יוחל על קבוצת ההתקנים שיצרת על-ידי העלאת רשימת המכשירים. ההגדרות ייכנסו לתוקף כאשר משתמשי המכשיר ייכנסו לשלב הבא. בחר **סגור**.
-    

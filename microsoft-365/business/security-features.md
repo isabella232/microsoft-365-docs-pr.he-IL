@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: למד אודות תכונות האבטחה הכלולות ב-Microsoft 365 Business Premium כדי לסייע בהגנה על הנתונים שלך במחשבי Pc, טלפונים ומחשבי tablet.
-ms.openlocfilehash: b7fdd3d7fa25c23ee49ae82aa037588d8fba61a1
-ms.sourcegitcommit: 83a40facd66e14343ad3ab72591cab9c41ce6ac0
+ms.openlocfilehash: 74a22b654e60e4a980e397598117bb4c435e833b
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49840388"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912549"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>תכונות האבטחה והתאימות של Microsoft 365 Business Premium
 
@@ -49,7 +49,7 @@ Microsoft 365 Business Premium מציע תכונות אבטחה פשוטות ש�
     
 - [הגדרת הגדרות הגנה על מכשירים עבור מכשירי Windows 10](protection-settings-for-windows-10-pcs.md) . 
     
-    באפשרותך להפוך את הצפנת [BitLocker](https://go.microsoft.com/fwlink/p/?linkid=871405) לזמינה כדי לסייע בהגנה על נתונים במקרה שההתקן יאבד או ייגנב, ויאפשר [למשמר הניצול של Windows](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection) לספק הגנה מתקדמת מפני ransomware. 
+    באפשרותך להפוך את הצפנת [BitLocker](/windows/security/information-protection/bitlocker/bitlocker-frequently-asked-questions) לזמינה כדי לסייע בהגנה על נתונים במקרה שההתקן יאבד או ייגנב, ויאפשר [למשמר הניצול של Windows](/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection) לספק הגנה מתקדמת מפני ransomware. 
     
 - [הסרת נתוני חברה ממכשירים](remove-company-data.md)
     
@@ -63,7 +63,7 @@ Microsoft 365 Business Premium מציע תכונות אבטחה פשוטות ש�
 
 תכונות מתקדמות ב-Microsoft 365 Business Premium זמינות כדי לסייע לך להגן על העסק שלך מפני איומי סייבר ולהגן על מידע רגיש.
   
-- **[Microsoft Defender עבור Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)**
+- **[Microsoft Defender עבור Office 365](../security/office-365-security/office-365-atp.md)**
     
     Microsoft Defender עבור Office 365 מסייע בשמירה על העסק שלך באמצעות דיוג מתוחכם ותקיפות ransomware שנועדו לסכן מידע של עובד או לקוח. התכונות כוללות:
     
@@ -71,10 +71,10 @@ Microsoft 365 Business Premium מציע תכונות אבטחה פשוטות ש�
     
   - בדיקות אוטומטיות של קישורים בדואר אלקטרוני כדי להעריך אם הם מהווים חלק מתוכנית דיוג. פעולה זו מונעת ממך גישה לאתרי אינטרנט לא בטוחים.
 
-- **[היכולות המלאות של ' כוונון ' בפורטל ' תכלת '](https://go.microsoft.com/fwlink/p/?linkid=871403)**
+- **[היכולות המלאות של ' כוונון ' בפורטל ' תכלת '](/mem/intune/fundamentals/what-is-intune)**
     
     גישה למרכז הניהול של intune בפורטל ' תכלת ' מאפשרת לך להגדיר תכונות אבטחה נוספות, כגון ניהול של מכשירי MacOS, מכשירי iPhone ומכשירי Android, לצד ניהול מכשירים מתקדם עבור Windows, שאינם זמינים באמצעות מרכז הניהול של Microsoft 365.
-- **[גישה מותנית](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) זהה לתוכנית של הודעות מיידיות של תכלת**
+- **[גישה מותנית](/azure/active-directory/conditional-access/overview) זהה לתוכנית של הודעות מיידיות של תכלת**
 
 
     גישה מותנית יכולה לסייע בהגנה על הארגון שלך מפני סיכון כניסה, access מנסה מרשת או אזור בלתי צפויים, access מנסה לבצע הפעלה של סוגי מכשירים מסוכנים וכן הלאה. מדיניות גישה מותנית נאכפת לאחר השלמת האימות הראשון, והיא משתמשת באיתותים מאירוע האימות הראשון כדי לקבוע אם הגישה שניסתה לקבל אישור, דחייה או אם נדרשת הגהה נוספת (כגון טופס זיהוי שני).
@@ -82,21 +82,21 @@ Microsoft 365 Business Premium מציע תכונות אבטחה פשוטות ש�
     תכונות הגישה המותנה הכלולות:
 
     - גישה בהתבסס על שם המשתמש, הקבוצה והתפקיד
-    - גישה [בהתבסס על יישום](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) 
-    - [גישה בהתבסס על מיקום](https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration);  אפשר רק גישה מטווחי IP מהימנים או ממדינות ספציפיות 
+    - גישה [בהתבסס על יישום](/azure/active-directory/conditional-access/app-based-conditional-access) 
+    - [גישה בהתבסס על מיקום](/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration);  אפשר רק גישה מטווחי IP מהימנים או ממדינות ספציפיות 
     - דרוש ל-microsoft access
-    - חסימת גישה לאפליקציות המשתמשות [באימות מדור קודם](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication)
-    - דרישה ליישומים להשתמש [בהגנת היישומים של intune](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access)
+    - חסימת גישה לאפליקציות המשתמשות [באימות מדור קודם](/azure/active-directory/conditional-access/block-legacy-authentication)
+    - דרישה ליישומים להשתמש [בהגנת היישומים של intune](/azure/active-directory/conditional-access/app-protection-based-conditional-access)
     - אימות מותאם אישית, כגון תואר שלישי עם ספקים חיצוניים, לדוגמה דואו.
    
     תכונות אחרות:
-    - [איפוס סיסמה בשירות עצמי](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-customization) עבור תכלת משולב לספירה
+    - [איפוס סיסמה בשירות עצמי](/azure/active-directory/authentication/concept-sspr-customization) עבור תכלת משולב לספירה
     
 ## <a name="compliance-features"></a>תכונות תאימות
 
 מנוי Microsoft 365 Business Premium שלך כולל תכונות שעוזרות לך לשמור על תאימות וסטנדרטים תקינים.
 
-- **[מבט כולל על מדיניות למניעת אובדן נתונים](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)** (DLP). 
+- **[מבט כולל על מדיניות למניעת אובדן נתונים](../compliance/data-loss-prevention-policies.md)** (DLP). 
     
     באפשרותך להגדיר את DLP כדי לזהות באופן אוטומטי מידע רגיש, כגון מספרי כרטיסי אשראי, מספרי ביטוח לאומי וכדומה, כדי למנוע שיתוף בלתי מכוון מחוץ לחברה שלך.
     
@@ -104,9 +104,9 @@ Microsoft 365 Business Premium מציע תכונות אבטחה פשוטות ש�
     
     רשיון אחסון בארכיון של Exchange Online מאפשר לאחסן בקלות הודעות בארכיון עם גיבוי נתונים רציף. היא מאחסנת את כל הודעות הדואר האלקטרוני של המשתמש, כולל פריטים שנמחקו, למקרה שיצטרכו לגלות או לחזור. בנוסף, באפשרותך להשתמש בפריטי מדיניות שמירה שונים כדי לשמר נתוני דואר אלקטרוני עבור משפטים משפטיים, גילוי אלקטרוני או כדי לעמוד בדרישות תאימות.
     
-- **[תוויות רגישות](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)**
+- **[תוויות רגישות](../compliance/sensitivity-labels.md)**
 
-   Microsoft 365 Business Premium כולל את כל התכונות של [הגנה על מידע של תכלת בתוכנית 1](https://go.microsoft.com/fwlink/p/?linkid=871407). באמצעות תוכנית זו, באפשרותך ליצור **תוויות רגישות** המאפשרות לך לשלוט בגישה למידע רגיש בדואר אלקטרוני ובמסמכים, עם פקדים כגון "אל תעביר" ו-"לא להעתיק". באפשרותך גם לסווג מידע רגיש כסודי "ולציין כיצד ניתן לשתף מידע מסווג בחוץ ובתוך העסק. ניתן להחיל בקלות הצפנה ברמה ארגונית על דואר אלקטרוני ומסמכים כדי לשמור על פרטיות המידע שלך. באפשרותך גם להתקין את התוספת ' הגנה על מידע של תכלת ' עבור יישומי Office. לקבלת מידע נוסף, ראה כיצד [לקוח מאוחד של הגנה מפני מידע](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). עבור תוויות רגישות, התקן את **הAzInfoProtection_UL.exe**.
+   Microsoft 365 Business Premium כולל את כל התכונות של [הגנה על מידע של תכלת בתוכנית 1](https://go.microsoft.com/fwlink/p/?linkid=871407). באמצעות תוכנית זו, באפשרותך ליצור **תוויות רגישות** המאפשרות לך לשלוט בגישה למידע רגיש בדואר אלקטרוני ובמסמכים, עם פקדים כגון "אל תעביר" ו-"לא להעתיק". באפשרותך גם לסווג מידע רגיש כסודי "ולציין כיצד ניתן לשתף מידע מסווג בחוץ ובתוך העסק. ניתן להחיל בקלות הצפנה ברמה ארגונית על דואר אלקטרוני ומסמכים כדי לשמור על פרטיות המידע שלך. באפשרותך גם להתקין את התוספת ' הגנה על מידע של תכלת ' עבור יישומי Office. לקבלת מידע נוסף, ראה כיצד [לקוח מאוחד של הגנה מפני מידע](/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). עבור תוויות רגישות, התקן את **הAzInfoProtection_UL.exe**.
 
 באפשרותך לנהל תכונות אלה &amp; במרכז תאימות האבטחה ובמרכז הניהול של intune. במהלך הזמן, הפקדים הפשוטים יתווספו למרכז הניהול של Microsoft 365.
   
