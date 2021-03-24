@@ -30,12 +30,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: גלה את שלבי ההגדרה עבור Microsoft 365 Business Premium, כולל הוספת תחום ומשתמשים, הגדרת מדיניות אבטחה ועוד.
-ms.openlocfilehash: 5b082e78f3dc4067dcce4a96a8088b2347bc3af4
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: 4d49ba7ccdb65691756aaa505d0856deb115595b
+ms.sourcegitcommit: 956176ed7c8b8427fdc655abcd1709d86da9447e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912569"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51052233"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>הגדרת Microsoft 365 Business Premium באשף ההגדרה
 
@@ -107,7 +107,7 @@ ms.locfileid: "50912569"
 
 המדיניות שתגדיר באשף מוחלת באופן אוטומטי על [קבוצת אבטחה](/office365/admin/create-groups/compare-groups#security-groups) הנקראת *כל המשתמשים*. באפשרותך גם ליצור קבוצות נוספות כדי להקצות פריטי מדיניות למרכז הניהול.
 
-1. בנושא **הגדלת ההגנה מפני איומי סייבר מתקדמים**, מומלץ לקבל את ברירות המחדל כדי לאפשר [להגנת האיום של office 365](../security/office-365-security/office-365-atp.md) לסרוק קבצים וקישורים ביישומי office.
+1. בנושא **הגדלת ההגנה מפני איומי סייבר מתקדמים**, מומלץ לקבל את ברירות המחדל כדי לאפשר [להגנת האיום של office 365](../security/defender-365-security/defender-for-office-365.md) לסרוק קבצים וקישורים ביישומי office.
 
     ![צילום מסך של הדף ' הגדל הגנה '.](../media/increasetreatprotection.png)
 
@@ -131,6 +131,6 @@ ms.locfileid: "50912569"
 
 באפשרותך גם להתקין את Office בנפרד. ראה [התקנת Office במחשב PC או Mac](https://support.microsoft.com/office/4414eaaf-0478-48be-9c42-23adc4716658) לקבלת הוראות.
 
-## <a name="see-also"></a>ראה גם
+## <a name="see-also"></a>למידע נוסף
 
 [סרטוני וידאו של הדרכה של Microsoft 365 for business](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

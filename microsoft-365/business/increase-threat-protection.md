@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: הגדר את Microsoft Defender עבור Office 365 ושמור על נתונים רגישים כנגד דיוג, תוכנות זדוניות ואיומים אחרים.
-ms.openlocfilehash: 0424fd56e30477f4e8d9e84b7ac78ba6255781fa
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: 80ad3767b277e4808b6df4bdd977688794649e11
+ms.sourcegitcommit: 956176ed7c8b8427fdc655abcd1709d86da9447e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50913285"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51050845"
 ---
 # <a name="increase-threat-protection"></a>הגדלת הגנה מפני איום
 
@@ -35,7 +35,7 @@ ms.locfileid: "50913285"
 
 לפני שתתחיל, בדוק את התוצאה המאובטחת של Office 365. התוצאה המאובטחת של Office 365 מנתחת את האבטחה של הארגון שלך בהתבסס על הפעילויות הרגילות והגדרות האבטחה שלך, ומקצה ציון. התחל על-ידי רישום התוצאה הנוכחית. כדי להגדיל את התוצאה, בצע את הפעולות המומלצות במאמר זה. המטרה אינה להשיג את הציון המרבי, אך כדי להיות מודע להזדמנויות כדי להגן על הסביבה שלך שאינה משפיעה בצורה שלילית על הפרודוקטיביות עבור המשתמשים שלך.
 
-לקבלת מידע נוסף, ראה [התוצאה המאובטחת של Microsoft](../security/mtp/microsoft-secure-score.md).
+לקבלת מידע נוסף, ראה [התוצאה המאובטחת של Microsoft](../security/defender/microsoft-secure-score.md).
 
 ## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>העלאת רמת ההגנה מפני תוכנות זדוניות בדואר
 
@@ -57,7 +57,7 @@ ms.locfileid: "50913285"
 
 6. בחר **שמור.**
 
-לקבלת מידע נוסף, ראה [הגנה נגד תוכנות זדוניות ב-EOP](../security/office-365-security/anti-malware-protection.md).
+לקבלת מידע נוסף, ראה [הגנה נגד תוכנות זדוניות ב-EOP](../security/defender-365-security/anti-malware-protection.md).
 
 ## <a name="protect-against-ransomware"></a>הגנה מפני ransomware
 
@@ -138,7 +138,7 @@ Ransomware מגביל את הגישה לנתונים על-ידי הצפנת קב
 
 4. בדף ' **הגנה** מפני דיוג ', בחר **+ צור**. אשף משיקה את השלבים שבהם אתה מגדיר את מדיניות האנטי-דיוג שלך.
 
-5. ציין את השם, התיאור וההגדרות של המדיניות שלך כמומלצים בטבלה הבאה. לקבלת פרטים נוספים, ראה [מידע אודות מדיניות האנטי-דיוג באפשרויות Microsoft Defender עבור Office 365](../security/office-365-security/set-up-anti-phishing-policies.md).
+5. ציין את השם, התיאור וההגדרות של המדיניות שלך כמומלצים בטבלה הבאה. לקבלת פרטים נוספים, ראה [מידע אודות מדיניות האנטי-דיוג באפשרויות Microsoft Defender עבור Office 365](../security/defender-365-security/set-up-anti-phishing-policies.md).
 
 6. לאחר שתסקור את ההגדרות, בחר **צור מדיניות זו** או **שמור**, בהתאם לצורך.
 
@@ -181,7 +181,7 @@ Ransomware מגביל את הגישה לנתונים על-ידי הצפנת קב
 |ניתוב מחדש של קובץ מצורף בזיהוי|הפוך ניתוב מחדש לזמין (בחר בתיבה זו) הזן את חשבון מנהל המערכת או הגדרת תיבת דואר להסגר.          החל את הבחירה לעיל אם מתרחשת סריקת תוכנות זדוניות על קבצים מצורפים במועד או שגיאה (בחר תיבה זו).|
 |חל על|התחום של הנמען הוא. . . בחר את התחום שלך.|
 
-לקבלת מידע נוסף, ראה [הגדרת מדיניות למניעת דיוג ב-Microsoft Defender עבור Office 365](../security/office-365-security/set-up-anti-phishing-policies.md).
+לקבלת מידע נוסף, ראה [הגדרת מדיניות למניעת דיוג ב-Microsoft Defender עבור Office 365](../security/defender-365-security/set-up-anti-phishing-policies.md).
 
 ## <a name="protect-against-phishing-attacks-with-safe-links"></a>הגנה מפני התקפות דיוג עם קישורים בטוחים
 
@@ -224,7 +224,7 @@ Ransomware מגביל את הגישה לנתונים על-ידי הצפנת קב
 |שימוש בקבצים מצורפים בטוחים לסריקת תוכן הניתן להורדה|בחר בתיבה זו.|
 |חל על|התחום של הנמען הוא. . . בחר את התחום שלך.|
 
-לקבלת מידע נוסף, ראה [קישורים בטוחים](../security/office-365-security/atp-safe-links.md).
+לקבלת מידע נוסף, ראה [קישורים בטוחים](../security/defender-365-security/safe-links.md).
 
 ## <a name="go-to-intune-admin-center"></a>עבור אל כוונון מרכז הניהול
 

@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: למד אודות תכונות האבטחה הכלולות ב-Microsoft 365 Business Premium כדי לסייע בהגנה על הנתונים שלך במחשבי Pc, טלפונים ומחשבי tablet.
-ms.openlocfilehash: 74a22b654e60e4a980e397598117bb4c435e833b
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: d641fc66e27f3c5e0a7c8609e4fa25fac93d8561
+ms.sourcegitcommit: 956176ed7c8b8427fdc655abcd1709d86da9447e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912549"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51052253"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>תכונות האבטחה והתאימות של Microsoft 365 Business Premium
 
@@ -63,7 +63,7 @@ Microsoft 365 Business Premium מציע תכונות אבטחה פשוטות ש�
 
 תכונות מתקדמות ב-Microsoft 365 Business Premium זמינות כדי לסייע לך להגן על העסק שלך מפני איומי סייבר ולהגן על מידע רגיש.
   
-- **[Microsoft Defender עבור Office 365](../security/office-365-security/office-365-atp.md)**
+- **[Microsoft Defender עבור Office 365](../security/defender-365-security/defender-for-office-365.md)**
     
     Microsoft Defender עבור Office 365 מסייע בשמירה על העסק שלך באמצעות דיוג מתוחכם ותקיפות ransomware שנועדו לסכן מידע של עובד או לקוח. התכונות כוללות:
     
