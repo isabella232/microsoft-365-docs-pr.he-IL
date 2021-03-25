@@ -22,14 +22,14 @@ search.appverid:
 - BCS160
 - MET150
 description: למד כיצד להעביר את העסק שלך ל-Microsoft 365 Business Premium מ-Office 365 E3.
-ms.openlocfilehash: f655037891bf8ec42e7b927256025c89c9354e98
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: cb70260201686cae02428c715ac98ffe2f88787f
+ms.sourcegitcommit: dcb97fbfdae52960ae62b6faa707a05358193ed5
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912941"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51198096"
 ---
-# <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>העברה מ-Office 365 E3 ל-Microsoft 365 Business Premium 
+# <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>העברה מ-Office 365 E3 ל-Microsoft 365 Business Premium
 
 Microsoft 365 Business Premium כולל את כל מה שדרוש לך עבור העסק הקטן שלך, תוך שילוב אפליקציות הפרודוקטיביות המבוססות על ענן ברמה הטובה ביותר עם ניהול מכשירים ואבטחה פשוטים. אם יש לך כעת מנוי של Office 365 E3, אך אין לך יותר מ-300 עובדים, שקול לעבור ל-Microsoft 365 Business Premium לקבלת תכונות אבטחה נוספות.
 
@@ -49,7 +49,7 @@ Microsoft 365 Business Premium כולל את כל מה שדרוש לך עבור 
 | OneDrive for Business    | מגבלת אחסון של 1 TB לכל משתמש    | גבלה | 
 | קטרת, SharePoint Online, מתכנן תכנון, זרם    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Office 365 E3](../media/check-mark.png) | 
 | StaffHub    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב-Office 365 E3](../media/check-mark.png) | 
-| Outlook Customer Manager, MileIQ    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | | 
+| מנהל הלקוחות של Outlook    | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | | 
 | **הגנה מפני איום**        | | | 
 | Defender עבור Office 365 תוכנית 1 | ![כלול ב-Microsoft 365 Business Premium](../media/check-mark.png)    | לא כלול, אך ניתן להוסיף אותו | 
 | **ניהול זהויות**        | | | 
@@ -122,7 +122,7 @@ Microsoft 365 Business Premium כולל מגבלת אחסון של 50 GB כאש�
 
 ### <a name="threat-protection"></a>הגנה מפני איום
 
-לאחר המעבר ל-Microsoft 365 Business Premium, יש לך Defender עבור Office 365. ראה [Microsoft Defender עבור Office 365](../security/office-365-security/office-365-atp.md) לקבלת מבט כולל. כדי להגדיר, ראה [הגדרת קישורים בטוחים](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa), [הגדרת קבצים מצורפים בטוחים](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5) [והגדרת אנטי-דיוג ב-Defender עבור Office 365](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c).
+לאחר המעבר ל-Microsoft 365 Business Premium, יש לך Defender עבור Office 365. ראה [Microsoft Defender עבור Office 365](../security/office-365-security/defender-for-office-365.md) לקבלת מבט כולל. כדי להגדיר, ראה [הגדרת קישורים בטוחים](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa), [הגדרת קבצים מצורפים בטוחים](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5) [והגדרת אנטי-דיוג ב-Defender עבור Office 365](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c).
 
 ### <a name="sensitivity-labels"></a>תוויות רגישות
 
