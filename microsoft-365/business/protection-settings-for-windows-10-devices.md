@@ -1,9 +1,9 @@
 ---
-title: עריכה או הגדרה של הגדרות הגנה של יישומים עבור מכשירי Windows 10
+title: עריכה או הגדרה של הגדרות הגנה על יישומים עבור מכשירי Windows 10
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -28,44 +28,44 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
-description: למד כיצד ליצור או לערוך מדיניות של ניהול יישומים ולהגן על קבצי עבודה במכשירי Windows 10 אישיים של משתמשים.
-ms.openlocfilehash: 64c6aa620171a373cd7564c7de3abbf4a4546c4e
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+description: למד כיצד ליצור או לערוך מדיניות ניהול אפליקציות ולהגן על קבצי עבודה במכשירי Windows 10 האישיים של המשתמשים שלך.
+ms.openlocfilehash: aa270c563e6bdce6fd48f8713d7db3ce23921925
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912821"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580013"
 ---
-# <a name="set-or-edit-application-protection-settings-for-windows-10-devices"></a>הגדרה או עריכה של הגדרות הגנה של יישומים עבור מכשירי Windows 10
+# <a name="set-or-edit-application-protection-settings-for-windows-10-devices"></a>הגדרה או עריכה של הגדרות הגנת יישומים עבור מכשירי Windows 10
 
 מאמר זה חל על Microsoft 365 Business Premium.
 
 ## <a name="edit-an-app-management-policy-for-windows-10"></a>עריכת מדיניות ניהול יישומים עבור Windows 10
 
-1. עבור אל מרכז הניהול ב <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> -.     
-2. בסרגל הניווט הימני  , בחר \> **מדיניות** מכשירים.
-1. בחר מדיניות קיימת של Windows app ולאחר מכן **ערוך**.
+1. עבור אל מרכז הניהול <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> ב- .     
+2. בסרגל הניווט הימני, בחר **מדיניות** \> **מכשירים** .
+1. בחר מדיניות קיימת של אפליקציית Windows ולאחר מכן **ערוך**.
 1. בחר **ערוך** לצד הגדרה שברצונך לשנות ולאחר מכן **שמור**.
 
 ## <a name="create-an-app-management-policy-for-windows-10"></a>יצירת מדיניות לניהול יישומים עבור Windows 10
 
 אם למשתמשים שלך יש מכשירים אישיים של Windows 10 שהם מבצעים דרכם משימות עבודה, באפשרותך להגן על הנתונים שלך גם במכשירים אלה.
   
-1. עבור אל מרכז הניהול ב <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> -. 
-2. בסרגל הניווט הימני  , בחר באפשרות \> הוסף **מדיניות** מכשירים \> .
+1. עבור אל מרכז הניהול <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> ב- . 
+2. בסרגל הניווט הימני, בחר **מדיניות** \> **מכשירים** \> **הוסף**.
 3. בחלונית **הוסף מדיניות**, הזן שם ייחודי עבור מדיניות זו. 
 4. תחת **סוג מדיניות**, בחר **ניהול יישומים עבור Windows 10**.
-5. תחת **סוג מכשיר**, בחר **אישית** או **חברה בבעלות**.
+5. תחת **סוג מכשיר**, בחר אישי **או** **בבעלות חברה.**
 6. האפשרות **הצפן קבצי עבודה** מופעלת באופן אוטומטי. 
 7. קבע את ההגדרה **מנע ממשתמשים להעתיק נתוני חברה לקבצים אישיים וכפה עליהם לשמור קבצי עבודה ב- OneDrive for Business** למצב **מופעל** אם אינך מעוניין שהמשתמשים ישמרו קבצי עבודה במחשב שלהם. 
-9. הרחב את **שחזור הנתונים במכשירי Windows**. **מומלץ להפעיל** אותה.
-    לפני שתוכל לנווט אל מיקום האישור של סוכן שחזור הנתונים, עליך תחילה ליצור את האישור. לקבלת הוראות, ראה [יצירה ואימות של אישור סוכן שחזור נתונים (EFS) של מערכת קבצים מצפינה (EFS](/windows/security/information-protection/windows-information-protection/create-and-verify-an-efs-dra-certificate)).
+9. הרחב **את שחזור נתונים במכשירי Windows**. מומלץ להפעיל **אותו.**
+    לפני שתוכל לנווט אל מיקום האישור של סוכן שחזור הנתונים, עליך תחילה ליצור את האישור. לקבלת הוראות, ראה יצירה ואימות של אישור סוכן שחזור נתונים (DRA) של מערכת קבצים [מצפינה (EFS).](/windows/security/information-protection/windows-information-protection/create-and-verify-an-efs-dra-certificate)
     
     כברירת מחדל, קבצי עבודה מוצפנים באמצעות מפתח סודי שמאוחסן במכשיר ומשויך לפרופיל של המשתמש. רק המשתמש יכול לפתוח ולפענח את הקובץ. עם זאת, במקרה של אובדן המכשיר או הסרת משתמש, הקובץ יכול להיתקע במצב מוצפן. מנהל מערכת יכול להשתמש באישור סוכן שחזור נתונים (DRA) כדי לפענח את הקובץ.
     
     ![Browse to Data Recovery Agent certificate.](../media/7d7d664f-b72f-4293-a3e7-d0fa7371366c.png)
   
-10. הרחב את **ההגנה על מיקומים נוספים ברשת ובענן** אם ברצונך להוסיף תחומים נוספים או מיקומים של SharePoint Online כדי לוודא שהקבצים בכל היישומים הרשומים מוגנים. אם עליך להזין יותר מפריט אחד עבור שדה כלשהו, השתמש בנקודה-פסיק (;) בין הפריטים.
+10. הרחב **את הגן על מיקומי רשת וענן** נוספים אם ברצונך להוסיף תחומים נוספים או מיקומי SharePoint Online כדי לוודא שהקבצים בכל האפליקציות המפורטות מוגנים. אם עליך להזין יותר מפריט אחד עבור שדה כלשהו, השתמש בנקודה-פסיק (;) בין הפריטים.
     
     ![Expand Protect additional network and cloud locations, and enter domains or SharePoint Online sites you own.](../media/7afaa0c7-ba53-456d-8c61-312c45e09625.png)
   

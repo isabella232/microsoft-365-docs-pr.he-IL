@@ -2,8 +2,8 @@
 title: Access משאבים מקומיים ממכשיר מצורף ל- Azure AD ב- Microsoft 365 Business
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: למד כיצד לקבל גישה למשאבים מקומיים, כמו שורה של אפליקציות עסקיות, שיתופי קבצים ומדפסות ממכשיר Azure Active Directory המצורף למכשיר Windows 10.
-ms.openlocfilehash: 1bca0beb3ccc78e670ad33ce446b9b3f7c372ba7
-ms.sourcegitcommit: 39609c4d8c432c8e7d7a31cb35c8020e5207385b
+ms.openlocfilehash: 27549d6c3b03413f2f05c69845caad155333ca97
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51445347"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580313"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Access משאבים מקומיים ממכשיר מצורף ל- Azure AD ב- Microsoft 365 Business Premium
 
