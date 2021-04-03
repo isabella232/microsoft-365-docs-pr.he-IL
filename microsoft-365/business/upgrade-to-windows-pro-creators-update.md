@@ -1,9 +1,9 @@
 ---
-title: שדרג את התקני Windows ל-Windows 10 Pro
+title: שדרוג מכשירי Windows ל- Windows 10 Pro
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: kwekua
+author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -25,41 +25,41 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
-description: גלה דרכים שבהן באפשרותך לשדרג את התקני Windows שלך ל-Windows 10 Pro כדי לנצל תכונות מתקדמות יותר של אבטחה ורשתות עסקיות.
-ms.openlocfilehash: 24ef1f1547ed8873ed1fa18120eef6275f53c7dc
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+description: גלה דרכים לשדרוג מכשירי Windows ל- Windows 10 Pro כדי להשתמש בתכונות מתקדמות יותר של אבטחה ורשתות עסקיות.
+ms.openlocfilehash: ffcdff540da18a2ecc0578e8015424a2435de6a8
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44785529"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578046"
 ---
-# <a name="upgrade-windows-devices-to-windows-10-pro"></a>שדרג את התקני Windows ל-Windows 10 Pro
+# <a name="upgrade-windows-devices-to-windows-10-pro"></a>שדרוג מכשירי Windows ל- Windows 10 Pro
 
-צפה בסרטון וידאו קצר אודות שדרוג התקני Windows ל-Windows 10 Pro.<br><br>
+צפה בסרטון וידאו קצר אודות שדרוג מכשירי Windows ל- Windows 10 Pro.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
 
 אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
-## <a name="upgrade-to-windows-10-pro"></a>שדרג ל-Windows 10 Pro
+## <a name="upgrade-to-windows-10-pro"></a>שדרוג ל- Windows 10 Pro
   
-כדי לשדרג ל-Windows 10 Pro, יש לך מספר אפשרויות. אתה יכול:
+כדי לשדרג ל- Windows 10 Pro, יש לך כמה אפשרויות. אתה יכול:
     
-- התקן את השדרוג [מאתר הורדת התוכנה של Microsoft](https://go.microsoft.com/fwlink/?LinkID=836951 ) &ndash; בחר באפשרות זו אם ההתקן שאתה מחובר אליו נמצא באותו התקן שבו ברצונך לעדכן. 
+- התקן את השדרוג מתוך [אתר הורדת](https://go.microsoft.com/fwlink/?LinkID=836951 ) התוכנה של Microsoft בחר באפשרות זו אם המכשיר שנכנסת נמצא באותו מכשיר שבו &ndash; ברצונך לעדכן. 
 
-    - מאתר ההורדות של התוכנה, לחץ על **עדכון כעת** כדי להתחיל לשדרג את המכשיר ל-Windows 10 היוצרים Pro עדכון. 
+    - באתר הורדת התוכנה, לחץ על **עדכן כעת** כדי להתחיל לשדרג את המכשיר ל- Windows 10 Pro Creators Update. 
     
-- צור מדיית התקנה באמצעות [הכלי יצירת מדיה](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; בחר באפשרות זו כדי ליצור Windows 10 יוצרי Pro עדכון מדיית ההתקנה (כונן הבזק מסוג USB או קובץ ISO) כדי להתקין את WINDOWS 10 במחשב שונה מזה שבו אתה משתמש.
+- צור מדיית התקנה באמצעות הכלי [יצירת](https://go.microsoft.com/fwlink/?LinkID=836960) מדיה בחר באפשרות זו כדי ליצור מדיית התקנה של Windows 10 Pro Creators Update (כונן הבזק מסוג USB או קובץ ISO) כדי להתקין את Windows 10 במחשב שונה מזה שבו &ndash; אתה משתמש.
 
-    - קרא את ההוראות לגבי אופן השימוש בכלי וצור את מדיית ההתקנה. 
+    - קרא את ההוראות כיצד להשתמש בכלי וליצור את מדיית ההתקנה שלך. 
 
 > [!NOTE]
-> אם ברשותך התקני Windows הפועלים באמצעות Windows 7 Pro, Windows 8 Pro או Windows 8.1 Pro, Microsoft 365 עבור מנוי עסקי מזכה אותך בשדרוג של Windows Pro 10.
+> אם יש לך מכשירי Windows פועלים עם Windows 7 Pro, Windows 8 Pro או Windows 8.1 Pro, מנוי Microsoft 365 לעסקים מקנה לך זכות לשדרוג של Windows Pro 10.
     
-ראה [הגדרת התקני windows עבור Microsoft 365 עבור משתמשים עסקיים](set-up-windows-devices.md) כדי להשלים את הגדרת התקני windows 10. 
+ראה [הגדרת מכשירי Windows עבור משתמשי Microsoft 365 לעסקים](set-up-windows-devices.md) כדי להשלים את הגדרת מכשירי Windows 10. 
   
-ראה [הגדרת מכשירים ניידים עבור Microsoft 365 עבור משתמשים עסקיים](set-up-mobile-devices.md) כדי להשלים את הגדרת אנדרואיד והתקנים iOS. 
+ראה [הגדרת מכשירים ניידים עבור משתמשי Microsoft 365 לעסקים](set-up-mobile-devices.md) כדי להשלים את הגדרת מכשירי Android ו- iOS. 
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>לקבלת פרטים נוספים על הגדרה ושימוש ב-Microsoft 365 לעסקים
+## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>לקבלת מידע נוסף אודות הגדרה ושימוש ב- Microsoft 365 לעסקים
 
-[מיקרוסופט 365 עבור סרטוני הדרכה עסקית](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[סרטוני הדרכה של Microsoft 365 לעסקים](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

@@ -1,9 +1,9 @@
 ---
-title: עזרה למשתמשים להתחבר ל-Microsoft 365 Business Premium
+title: עזור למשתמשים להתחבר ל- Microsoft 365 Business Premium
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -27,22 +27,22 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: f338e660-6483-4eef-acb9-53dee5bd4408
-description: למד מה לצפות לאחר השלמת ההתקנה של חבילת ענן העסקים ומדיניות ברירת המחדל של ההתקן נמצאת במקומם ומוכנה להחלה.
-ms.openlocfilehash: d3aad182f7e233f239b35e35c032e8ca09c57769
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: למד למה לצפות לאחר השלמת ההגדרה של Business Cloud Suite ומדיניות המכשיר המהווה ברירת מחדל מוכנה להחלה.
+ms.openlocfilehash: d3e47247197f2688388ed50057b16fde53e7e830
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44400921"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578446"
 ---
-# <a name="help-users-connect-to-microsoft-365-business-premium"></a>עזרה למשתמשים להתחבר ל-Microsoft 365 Business Premium
+# <a name="help-users-connect-to-microsoft-365-business-premium"></a>עזור למשתמשים להתחבר ל- Microsoft 365 Business Premium
 
-לאחר השלמת ההתקנה, מדיניות ברירת המחדל של ההתקן נמצאת במקומם ומוכנה להחלה. במכשירים ניידים, משתמשים מורידים יישומי Office. לאחר מכן, פריטי מדיניות מוחלים כאשר המשתמש משתמש בעבודה או בחשבון בית הספר. לפני החלת המדיניות על מחשבים של Windows נדרשת עוד קצת עבודה, כגון שדרוג מקומי. ראה ושתף את הנושאים הבאים כדי לסייע למשתמשים להגדיר ולהתחבר:
+לאחר השלמת ההגדרה, מדיניות המכשיר המוגדרת כברירת מחדל מוכנה להחלה. במכשירים ניידים, משתמשים מורידים יישומי Office. לאחר מכן, פריטי מדיניות מוחלים כאשר המשתמש נכנס באמצעות החשבון שלו בעבודה או בבית הספר. לפני החלת המדיניות על מחשבים של Windows נדרשת עוד קצת עבודה, כגון שדרוג מקומי. ראה ושתף את הנושאים הבאים כדי לעזור למשתמשים להגדיר ולחבר:
   
-[הגדרת התקני Windows עבור משתמשי Microsoft Business Premium 365](set-up-windows-devices.md)
+[הגדרת מכשירי Windows עבור משתמשי Microsoft 365 Business Premium](set-up-windows-devices.md)
   
 [שימוש במדריך שלב אחר שלב להוספת מכשירים ופרופיל של Autopilot](add-autopilot-devices-and-profile.md)
   
-[הגדרת התקנים ניידים עבור משתמשי Microsoft Business Premium 365](set-up-mobile-devices.md)
+[הגדרת מכשירים ניידים עבור משתמשי Microsoft 365 Business Premium](set-up-mobile-devices.md)
   
 

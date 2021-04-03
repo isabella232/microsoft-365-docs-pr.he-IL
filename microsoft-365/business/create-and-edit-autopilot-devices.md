@@ -2,8 +2,8 @@
 title: יצירה ועריכה של מכשירי AutoPilot
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -25,39 +25,39 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
-description: למד כיצד להעלות מכשירים באמצעות טייס אוטומטי ב-Microsoft 365 Business Premium. באפשרותך להקצות פרופיל למכשיר או לקבוצת מכשירים.
-ms.openlocfilehash: 910abb98b94b749177b04cd12c766f82d348e379
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+description: למד כיצד להעלות מכשירים באמצעות AutoPilot ב- Microsoft 365 Business Premium. באפשרותך להקצות פרופיל למכשיר או לקבוצת מכשירים.
+ms.openlocfilehash: 506ff44e3cb6656b19174e82688b5af141ea2b79
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50913397"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578486"
 ---
 # <a name="create-and-edit-autopilot-devices"></a>יצירה ועריכה של מכשירי AutoPilot
 
 ## <a name="upload-a-list-of-devices"></a>העלאת רשימה של מכשירים
 
-באפשרותך להשתמש [במדריך שלב אחר שלב](add-autopilot-devices-and-profile.md) להעלאת מכשירים, אך ניתן גם להעלות מכשירים בכרטיסיה ' **מכשירים** '. 
+באפשרותך להשתמש במדריך [שלב אחר שלב להעלאת](add-autopilot-devices-and-profile.md) מכשירים, אך באפשרותך גם להעלות מכשירים **בכרטיסיה מכשירים.** 
   
-המכשירים חייבים לעמוד בדרישות אלה:
+מכשירים חייבים לעמוד בדרישות הבאות:
   
 - Windows 10, גירסה 1703 ואילך
     
-- מכשירים חדשים שאינם מותקנים בחוויית Windows out-of-box
+- מכשירים חדשים שלא עברו את החוויה 'מחוץ ל- Windows'
 
-1. במרכז הניהול של Microsoft 365, בחר **מכשירים** \> **טייס אוטומטי**.
+1. במרכז הניהול של Microsoft 365, בחר  \> **מכשירים AutoPilot**.
   
-2. בדף **הטייס האוטומטי** , בחר את הכרטיסיה **מכשירים** \> **הוסף מכשירים**.
+2. בדף **AutoPilot,** בחר בכרטיסיה **מכשירים** \> **הוסף מכשירים**.
     
     ![In the Devices tab, choose Add devices.](../media/6ba81e22-c873-40ad-8a72-ce64d15ea6ba.png)
   
-3. בלוח **הוספת מכשירים** , אתר את [קובץ ה-CSV של רשימת](../admin/misc/device-list.md) המכשירים שהכנת \> **שמור** \> **בסגירה**.
+3. בלוח הוספת **מכשירים,** עבור אל קובץ [CSV של רשימת ההתקנים](../admin/misc/device-list.md) שהכנת \> **שמור** \> **סגור**.
     
-    באפשרותך לקבל מידע זה מספק החומרה, או להשתמש [בסקריפט get-Windowsautopilotinfohttps PowerShell](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) כדי ליצור קובץ CSV. 
+    באפשרותך לקבל מידע זה מספק החומרה שלך, או להשתמש בקובץ [ה- Script Get-WindowsAutoPilotInfo PowerShell](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) כדי ליצור קובץ CSV. 
     
 ## <a name="assign-a-profile-to-a-device-or-a-group-of-devices"></a>הקצאת פרופיל למכשיר או לקבוצה של מכשירים
 
-1. בדף **הכנת Windows** , בחר את הכרטיסיה **התקנים** ובחר את תיבת הסימון לצד התקן אחד או יותר. 
+1. בדף **הכנת Windows,** בחר בכרטיסיה **מכשירים** ובחר את תיבת הסימון לצד מכשיר אחד או יותר. 
     
 2. בלוח **מכשיר**, בחר פרופיל מהתפריט הנפתח **פרופיל שהוקצה**. 
     

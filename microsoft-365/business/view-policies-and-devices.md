@@ -2,8 +2,8 @@
 title: הצגת פריטי מדיניות ומכשירים
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -22,32 +22,32 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
-description: הצגת מדיניות ופעולות של התקן על-ידי כניסה ל-Microsoft 365 עבור עסקים עם אישורי מנהל כללי.
-ms.openlocfilehash: 49e878ae6d4e1a6c55dbd7bc65532f94295412a8
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+description: הצג פריטי מדיניות ופעולות של מכשירים על-ידי כניסה ל- Microsoft 365 לעסקים עם אישורי מנהל מערכת כלליים.
+ms.openlocfilehash: 39d88e8fa84055e4bac62899a1b84bdf42f366a2
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44470594"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578026"
 ---
-# <a name="view-and-manage-policies-and-devices"></a>הצגה וניהול של מדיניות והתקנים
+# <a name="view-and-manage-policies-and-devices"></a>הצגה וניהול של פריטי מדיניות ומכשירים
 
-מאמר זה חל על 365 עסקים Premium של Microsoft.
+מאמר זה חל על Microsoft 365 Business Premium.
 
-## <a name="view-and-edit-device-policies"></a>הצגה ועריכה של מדיניות התקנים
+## <a name="view-and-edit-device-policies"></a>הצגה ועריכה של מדיניות מכשיר
 
-1.  . לך למרכז המנהלה https://admin.microsoft.com
-2. בניווט השמאלי, בחר **Devices** \> **בפריטי מדיניות**של התקנים.
+1.  עבור אל מרכז הניהול <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> ב- .
+2. בסרגל הניווט הימני, בחר **מדיניות** \> **מכשירים**.
 
     בדף זה, באפשרותך ליצור, לערוך, לשנות קבוצת יעד או למחוק מדיניות.
 
     ![Screenshot of the Policies page](../media/devicepolicies.png)
   
-## <a name="view-and-manage-devices"></a>הצג ונהל התקנים
+## <a name="view-and-manage-devices"></a>הצגה וניהול של מכשירים
 
-1. בניווט השמאלי, בחר באפשרות ' **התקנים** ' \> **Manage**. 
+1. בסרגל הניווט הימני, בחר **מכשירים** \> **ניהול**. 
     
-    בדף זה, באפשרותך לבחור התקן אחד או יותר ולהסיר נתוני חברה. עבור מכשירי Windows 10 שקבעת עבורם הגדרות של הגנה על מכשיר, באפשרותך גם לאפס את המכשיר להגדרות היצרן.
+    בדף זה, באפשרותך לבחור מכשיר אחד או יותר ולהסיר נתוני חברה. עבור מכשירי Windows 10 שקבעת עבורם הגדרות של הגנה על מכשיר, באפשרותך גם לאפס את המכשיר להגדרות היצרן.
   
-   ![הדף ' ניהול התקנים '](../media/devicesmanage.png)
+   ![דף ניהול מכשירים](../media/devicesmanage.png)
 

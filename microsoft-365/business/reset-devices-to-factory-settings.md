@@ -2,8 +2,8 @@
 title: איפוס מכשירי Windows 10 להגדרות היצרן שלהם
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -23,25 +23,25 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
-description: למד כיצד להשתמש ב-Microsoft 365 עבור עסקים כדי לאפס התקנים של Windows 10 שאתה מנהל, ומחזיר אותם להגדרות המקוריות שלהם בקנייה.
-ms.openlocfilehash: 6b82f502f8fdcbbd2338b2a0e2ad69d230a693cb
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+description: למד כיצד להשתמש ב- Microsoft 365 לעסקים לאיפוס היצרני של מכשירי Windows 10 שאתה מנהל, והחזר אותם להגדרות המקוריות שלהם ברכישה.
+ms.openlocfilehash: 29d5b8758ef7d86c7ac283460d0a1a87bffaf5f3
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44470806"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578206"
 ---
 # <a name="reset-windows-10-devices-to-their-factory-settings"></a>איפוס מכשירי Windows 10 להגדרות היצרן שלהם
 
-מאמר זה חל על 365 עסקים Premium של Microsoft.
+מאמר זה חל על Microsoft 365 Business Premium.
 
-איפוס להגדרות יצרן מחזיר מכשיר להגדרות המקוריות שהופיעו במכשיר בעת רכישתו. כל האפליקציות והנתונים במכשיר שהותקנו לאחר הרכישה יוסרו. באפשרותך להשתמש ב-Microsoft 365 עבור עסקים כדי לאפס התקני Windows 10 שאתה מנהל.
+איפוס להגדרות יצרן מחזיר מכשיר להגדרות המקוריות שהופיעו במכשיר בעת רכישתו. כל האפליקציות והנתונים במכשיר שהותקנו לאחר הרכישה יוסרו. באפשרותך להשתמש ב- Microsoft 365 לעסקים לאיפוס היצרן של מכשירי Windows 10 שאתה מנהל.
   
-1. . לך למרכז המנהלה https://admin.microsoft.com
+1. עבור אל מרכז הניהול <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> ב- .
     
-2. בניווט השמאלי, בחר באפשרות ' **התקנים** ' \> **Manage**.
+2. בסרגל הניווט הימני, בחר **מכשירים** \> **ניהול**.
 
-3. בדף **ניהול** , בדוק את תיבת הסימון לצד ההתקן שממנו ברצונך להסיר נתונים ולאחר מכן, **באיפוס**הרשימה הנפתחת של **ניהול** בחירה.
+3. בדף **ניהול,** בדוק את תיבת הסימון לצד המכשיר שברצונך להסיר  ממנו נתונים ולאחר מכן, ברשימה הנפתחת ניהול, בחר **איפוס Factory**.
     
 4. בחלונית **האם אתה בטוח שברצונך לאפס את המכשירים להגדרות היצרן**, בחר **אשר** \> **סגור**.
     

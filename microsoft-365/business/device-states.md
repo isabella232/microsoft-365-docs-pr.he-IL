@@ -2,8 +2,8 @@
 title: מצבי המכשיר
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -25,17 +25,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: למד אודות מצבי ההתקנים השונים ברשימה פעולות התקן בבית Admin ב-Microsoft 365 עבור עסקים.
-ms.openlocfilehash: 64138e2b6ae73c067709cde1912a96615d08ebf1
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+description: למד אודות מצבי המכשיר השונים ברשימה פעולות מכשירים בבית מנהל מערכת ב- Microsoft 365 לעסקים.
+ms.openlocfilehash: e6f1b428413d094e0a1ce3afb026528074038736
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44471178"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578466"
 ---
 # <a name="device-states"></a>מצבי המכשיר
 
-מאמר זה חל על 365 עסקים Premium של Microsoft.
+מאמר זה חל על Microsoft 365 Business Premium.
 
 מכשירים ברשימה **פעולות מכשיר** (דף הבית של הניהול \> **פעולות מכשיר**) יכולים לכלול את המצבים הבאים.
   
@@ -43,16 +43,16 @@ ms.locfileid: "44471178"
   
 |**מצב**|**תיאור**|
 |:-----|:-----|
-|מנוהל על-ידי Intune  <br/> |מנוהל על ידי מיקרוסופט 365 עסקים פרימיום.  <br/> |
-|בהמתנה להוצאה משימוש  <br/> |מיקרוסופט 365 עסקים Premium מתכונן להסיר את נתוני החברה מהמכשיר.  <br/> |
+|מנוהל על-ידי Intune  <br/> |מנוהל על-ידי Microsoft 365 Business Premium.  <br/> |
+|בהמתנה להוצאה משימוש  <br/> |Microsoft 365 Business Premium מתכונן להסיר נתוני חברה מהמכשיר.  <br/> |
 |הוצאה משימוש מתבצעת  <br/> |Microsoft 365 Business Premium מסיר כעת נתוני חברה מהמכשיר.  <br/> |
 |הוצאה משימוש נכשלה  <br/> | פעולת הסרת נתוני החברה נכשלה.  <br/> |
-|פרישה בוטלה  <br/> |פעולת הפרישה בוטלה.  <br/> |
+|התבטל  <br/> |פעולת הפרישה בוטלה.  <br/> |
 |בהמתנה למחיקה  <br/> |ממתין להתחלת איפוס להדגרות היצרן.  <br/> |
 |מחיקה מתבצעת  <br/> |בוצע איפוס להגדרות היצרן.  <br/> |
-|מחיקה נכשלה  <br/> |. לא יכולתי לבצע איפוס של המפעל  <br/> |
-|ניגוב בוטל  <br/> |. מחיקת המפעל בוטלה  <br/> |
-|לא תקין  <br/> |פעולה ממתינה (או בעיצומה), אך ההתקן לא נרשם במשך 30 + ימים.  <br/> |
+|מחיקה נכשלה  <br/> |לא היתה אפשרות לאפס את היצרן.  <br/> |
+|מחק בוטל  <br/> |ניגוב היצרן בוטל.  <br/> |
+|לא תקין  <br/> |פעולה ממתינה (או מתבצעת), אך המכשיר לא מחובר במשך 30+ ימים.  <br/> |
 |בהמתנה למחיקה  <br/> |פעולת המחיקה ממתינה.  <br/> |
-|התגלה  <br/> |מיקרוסופט 365 עסקים Premium זיהה את המכשיר.  <br/> |
+|התגלה  <br/> |Microsoft 365 Business Premium זיהה את המכשיר.  <br/> |
    
