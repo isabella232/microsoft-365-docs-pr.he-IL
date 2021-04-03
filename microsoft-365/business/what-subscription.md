@@ -1,9 +1,9 @@
 ---
-title: מהו המנוי המתאים לעסק שלך?
+title: איזה מנוי מתאים לעסק שלך?
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -18,14 +18,14 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: קבע אם Office 365 E3, Microsoft 365 Business Standard, או Microsoft 365 עסקים Premium הוא המתאים לעסק שלך.
-ms.openlocfilehash: 10799de6e588a92782e17c8efe3fb17ba219bd48
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: קבע אם Office 365 E3, Microsoft 365 Business Standard או Microsoft 365 Business Premium מתאים לעסק שלך.
+ms.openlocfilehash: 2f8c59e0af619730060862fc8ee24a702ca00343
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403717"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51579821"
 ---
-# <a name="what-subscription-is-right-for-your-small-business"></a>מהו המנוי המתאים לעסק הקטן שלך?
+# <a name="what-subscription-is-right-for-your-small-business"></a>איזה מנוי מתאים לעסק הקטן שלך?
 
-Microsoft מציעה מספר תוכניות לעסקים קטנים. המנויים המומלצים הם או Microsoft 365 Business Standard או Microsoft 365 Business Premium עם עד 300 משתמשים. מיקרוסופט 365 Business Premium מציע תכונות אבטחה יותר מאשר Microsoft 365 העסק תקן עבור עלות נוספת.
+Microsoft מציעה כמה תוכניות לעסקים קטנים. המנויים המומלצים הם Microsoft 365 Business Standard או Microsoft 365 Business Premium עם עד 300 משתמשים. Microsoft 365 Business Premium מציע תכונות אבטחה נוספות מאשר Microsoft 365 Business Standard תמורת עלות נוספת.
