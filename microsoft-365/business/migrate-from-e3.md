@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: למד כיצד להעביר את העסק שלך ל- Microsoft 365 Business Premium מ- Office 365 E3.
-ms.openlocfilehash: ffb82fa40f05383260ac1b97ed0bdf5f2f30c1df
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: f2b7962918186f4a1063c5a66596135c2972ec71
+ms.sourcegitcommit: 07dea2aa98daf0c4086f8590375167830027c802
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578326"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749999"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>העברה מ- Office 365 E3 ל- Microsoft 365 Business Premium
 
@@ -49,7 +49,7 @@ Microsoft 365 Business Premium כולל את כל מה שאתה צריך עבו�
 | OneDrive for Business    | מגבלת אחסון של 1 TB לכל משתמש    | ללא הגבלה | 
 | Yammer, SharePoint Online, Planner, Stream    | ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב- Office 365 E3](../media/check-mark.png) | 
 | StaffHub    | ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב- Office 365 E3](../media/check-mark.png) | 
-| מנהל הלקוחות של Outlook    | ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    | | 
+| MileIQ    | ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    | | 
 | **הגנה מפני איומים**        | | | 
 | Defender for Office 365 Plan 1 | ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    | לא כלול, אך ניתן להוסיף אותו | 
 | **ניהול זהויות**        | | | 
@@ -60,7 +60,7 @@ Microsoft 365 Business Premium כולל את כל מה שאתה צריך עבו�
 | זכויות שדרוג ל- Windows 10 Pro מ- Win 7/8.1 Pro|     ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    || 
 | **הגנה על מידע**        | | |
 |מניעת אובדן נתונים של Office 365|    ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)|![כלול ב- Office 365 E3](../media/check-mark.png)|
-|Azure Information Protection Plan 1, אכיפת Bitlocker|![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)||
+|תוכנית הגנה מפני מידע של Azure 1, אכיפת BitLocker|![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)||
 |Azure Information Protection Plan 1, תוויות רגישות|![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)||
 |**לקוח Access רשיון (זכויות CAL)**|||
 |Enterprise CAL Suite (Exchange, SharePoint, Skype)||![כלול ב- Office 365 E3](../media/check-mark.png)|
