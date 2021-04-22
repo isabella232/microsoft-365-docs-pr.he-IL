@@ -24,12 +24,12 @@ search.appverid:
 - BCS160
 - MET150
 description: למד כיצד לאפשר ל- Microsoft 365 להגן על מכשירי Windows 10 מקומיים המצורפים ל- Active-Directory בכמה שלבים בלבד.
-ms.openlocfilehash: 8a45c6959bee368491c5c6424e3713300c443779
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: c9f5a21d993200abcf9ecf1fa236879245e1c153
+ms.sourcegitcommit: 4076b43a4b661de029f6307ddc1a989ab3108edb
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580133"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51939501"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>אפשר ניהול של מכשירי Windows 10 המצורפים לתחום על-ידי Microsoft 365 Business Premium
 
@@ -116,3 +116,7 @@ PS C:\> Initialize-SecMgmtHybirdDeviceEnrollment -GroupPolicyDisplayName 'Device
 6.  במקרה שיש לך כמה בקרי תחום, המתן עד ש- SYSVOL ישכפל כדי שמדיניות תהיה זמינה. הליך זה יעבוד גם עבור כל גירסה עתידית של תבניות הניהול.
 
 בשלב זה, תוכל לראות את המדיניות הפוך הרשמה אוטומטית של MDM לזמינה באמצעות אישורי **Azure AD המוגדרים כברירת** מחדל.
+
+## <a name="related-content"></a>תוכן קשור
+
+[סינכרון משתמשי תחום עם Microsoft 365](manage-domain-users.md) [(מאמר)](../admin/create-groups/create-groups.md) יצירת קבוצה בערכת הלימוד של מרכז הניהול (מאמר): קביעת תצורה של צירוף היברידי של Azure Active Directory עבור [תחומים](/azure/active-directory/devices/hybrid-azuread-join-managed-domains.md) מנוהלים (מאמר)
