@@ -1,5 +1,5 @@
 ---
-title: הגדרת מכשירי Windows עבור משתמשי Microsoft 365 Business Premium
+title: הגדרת Windows עבור Microsoft 365 Business Premium המשתמשים
 f1.keywords:
 - CSH
 ms.author: sharik
@@ -26,21 +26,21 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
-description: למד כיצד להגדיר מכשירי Windows פועלים עם Windows 10 Pro עבור משתמשי Microsoft 365 Business Premium, המאפשרים ניהול מרכזי ופקדי אבטחה.
-ms.openlocfilehash: 9c9ffe5bd74d9e9877a87309757c481576ee89d2
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: למד כיצד להגדיר מכשירים Windows פועלים Windows 10 Pro משתמשים Microsoft 365 Business Premium, ומאפשרים ניהול מרכזי ופקדי אבטחה.
+ms.openlocfilehash: 3e268d81ff6fb7113b7e0b0fe5d0545ff5c72b1e
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578126"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52244775"
 ---
-# <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>הגדרת מכשירי Windows עבור משתמשי Microsoft 365 Business Premium
+# <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>הגדרת Windows עבור Microsoft 365 Business Premium המשתמשים
 
-## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-premium-users"></a>דרישות מוקדמות להגדרת מכשירי Windows עבור משתמשי Microsoft 365 Business Premium
+## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-premium-users"></a>תנאים מוקדמים להגדרת Windows עבור Microsoft 365 Business Premium המשתמשים
 
-כדי שתוכל להגדיר מכשירי Windows עבור משתמשי Microsoft 365 Business Premium, ודא שכל מכשירי Windows פועלים עם Windows 10 Pro, גירסה 1703 (Creators Update). Windows 10 Pro הוא דרישה מוקדמת לפריסת Windows 10 Business, שהיא קבוצה של שירותי ענן ויכולות ניהול מכשירים המשלים את Windows 10 Pro ותאפשר את פקדי הניהול והאבטחה המרכזיים של Microsoft 365 Business Premium.
+כדי שתוכל להגדיר Windows עבור משתמשי Microsoft 365 Business Premium, ודא שכל מכשירי Windows פועלים Windows 10 Pro, גירסה 1703 (Creators Update). Windows 10 Pro היא דרישה מוקדמת לפריסת Windows 10 Business, שהיא ערכה של שירותי ענן ויכולות לניהול מכשירים המשלים את Windows 10 Pro ולאפשר את פקדי הניהול והאבטחה המרכזיים של Microsoft 365 Business Premium.
   
-אם יש לך מכשירי Windows פועלים עם Windows 7 Pro , Windows 8 Pro או Windows 8.1 Pro, מנוי Microsoft 365 Business Premium שלך מזכה אותך בשדרוג של Windows 10.
+אם יש לך Windows פועלים Windows 7 Pro, Windows 8 Pro או Windows 8.1 Pro, המנוי Microsoft 365 Business Premium שלך מקנה לך Windows 10 שדרוג.
   
 לקבלת מידע נוסף על שדרוג מכשירי Windows לעדכון Windows 10 ליוצרים, פעל לפי השלבים בנושא זה: [שדרוג מכשירי Windows לעדכון Windows Pro ליוצרים](upgrade-to-windows-pro-creators-update.md).
   
@@ -50,11 +50,11 @@ ms.locfileid: "51578126"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3yXh3] 
 
-אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](../business-video/index.yml).
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>צירוף מכשירי Windows 10 ל- Azure AD של הארגון שלך
 
-כאשר כל מכשירי Windows בארגון שלך שודרגו ל- Windows 10 Pro Creators Update או שכבר פועלים Windows 10 Pro Creators Update, באפשרותך להצטרף למכשירים אלה ל- Azure Active Directory של הארגון שלך. לאחר ההצפנה של המכשירים, הם ישודררגו באופן אוטומטי ל- Windows 10 Business, שהוא חלק ממשינוי Microsoft 365 Business Premium שלך.
+כאשר כל Windows בארגון שלך שודרגו לעדכון Windows 10 Pro ליוצרים או שכבר פועלים Windows 10 Pro Creators Update, באפשרותך להצטרף למכשירים אלה ל- Azure Active Directory של הארגון שלך. לאחר ההצטרפות של המכשירים, הם ישודררגו באופן אוטומטי ל- Windows 10 Business, שהוא חלק Microsoft 365 Business Premium שלך.
   
 ### <a name="for-a-brand-new-or-newly-upgraded-windows-10-pro-device"></a>עבור מכשיר Windows 10 Pro חדש לגמרי או ששודרג לאחרונה
 
@@ -106,17 +106,17 @@ ms.locfileid: "51578126"
   
 ## <a name="verify-the-device-is-connected-to-azure-ad"></a>אימות שהמכשיר מחובר ל- Azure AD
 
-כדי לאמת את מצב הסינכרון שלך, **בדף Access** בעבודה  או בבית ספר בהגדרות **,** בחר באזור מחובר אל _ _ כדי לחשוף את הלחצנים מידע \<organization name\> **והתנתק.**  בחר **מידע כדי** לקבל את מצב הסינכרון שלך. 
+כדי לאמת את מצב הסינכרון שלך, **בדף Access** בעבודה או בבית ספר **ב- הגדרות**, בחר באזור **מחובר** ל_ _ כדי לחשוף את \<organization name\> הלחצנים מידע **והתנתק.**  בחר **מידע כדי** לקבל את מצב הסינכרון שלך. 
   
 בדף מצב **סינכרון,** בחר **סנכרן** כדי לקבל את מדיניות הניהול העדכנית ביותר של מכשירים ניידים למחשב.
   
-כדי להתחיל להשתמש בחשבון Microsoft 365 Business Premium, עבור אל לחצן **התחל** של Windows, לחץ באמצעות לחצן העכבר הימני על תמונת החשבון הנוכחית שלך ולאחר מכן **החלף חשבון**. היכנס באמצעות הדואר האלקטרוני והסיסמה של הארגון שלך.
+כדי להתחיל להשתמש בחשבון Microsoft 365 Business Premium, עבור אל לחצן Windows **התחל,** לחץ באמצעות לחצן העכבר הימני על תמונת החשבון הנוכחית ולאחר מכן **עבור לחשבון**. היכנס באמצעות הדואר האלקטרוני והסיסמה של הארגון שלך.
   
 ![Click Info button to view synchronization status](../media/818f7043-adbf-402a-844a-59d50034911d.png)
   
 ## <a name="verify-the-pc-is-upgraded-to-windows-10-business"></a>ודא שהמחשב משודרג ל- Windows 10 Business
 
-ודא שהתקני Azure AD המצורפים ל- Windows 10 משודרגים ל- Windows 10 Business כחלק ממשינוי Microsoft 365 Business Premium שלך.
+ודא שהתקני Azure AD המצורפים Windows 10 שלך משודרגים ל- Windows 10 Business כחלק Microsoft 365 Business Premium שלך.
   
 1. עבור אל **הגדרות** \> **מערכת** \> **אודות**.
     
@@ -126,8 +126,8 @@ ms.locfileid: "51578126"
   
 ## <a name="next-steps"></a>השלבים הבאים
 
-כדי להגדיר את המכשירים הניידים שלך, ראה הגדרת מכשירים ניידים עבור [משתמשי Microsoft 365 Business Premium](set-up-mobile-devices.md), כדי להגדיר מדיניות הגנה על מכשירים או הגנה על יישומים, ראה ניהול [Microsoft 365 לעסקים.](manage.md)
+כדי להגדיר את המכשירים הניידים שלך, ראה הגדרת [מכשירים ניידים עבור משתמשי Microsoft 365 Business Premium](set-up-mobile-devices.md), כדי להגדיר מדיניות הגנה על מכשירים או הגנה [על יישומים, ראה ניהול Microsoft 365 לעסקים.](manage.md)
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>לקבלת מידע נוסף על ההגדרה והשימוש ב- Microsoft 365 Business Premium
+## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>לקבלת מידע נוסף אודות הגדרה ושימוש Microsoft 365 Business Premium
 
-[סרטוני הדרכה של Microsoft 365 לעסקים](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 הדרכה לעסקים](../business-video/index.yml)

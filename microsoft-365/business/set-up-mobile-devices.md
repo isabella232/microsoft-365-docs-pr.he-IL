@@ -1,5 +1,5 @@
 ---
-title: הגדרת מכשירים ניידים עבור משתמשי Microsoft 365 לעסקים
+title: הגדרת מכשירים ניידים עבור Microsoft 365 עבור משתמשים עסקיים
 f1.keywords:
 - NOCSH
 ms.author: sharik
@@ -25,15 +25,15 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
-description: התקן את Office ב- iPhone או בטלפון Android, וקבצי העבודה שלך באפליקציות Office יהיו מוגנים על-ידי Microsoft 365 לעסקים.
-ms.openlocfilehash: fefec17344d199ced230907fbaa85d98198cfb94
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: התקן Office במחשב iPhone או בטלפון Android, וקבצי העבודה שלך באפליקציות Office יהיו מוגנים על-ידי Microsoft 365 לעסקים.
+ms.openlocfilehash: 7b411b6ae1223963b8583e1e3cd0ee00e13ff958
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578166"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52244795"
 ---
-# <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>הגדרת מכשירים ניידים עבור משתמשי Microsoft 365 לעסקים
+# <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>הגדרת מכשירים ניידים עבור Microsoft 365 עבור משתמשים עסקיים
 
 בצע את ההוראות בכרטיסיות כדי להתקין את Office ב- iPhone או בטלפון Android. לאחר ביצוע שלבים אלה, קבצי העבודה שלך שנוצרו באפליקציות Office יהיו מוגנים על-ידי Microsoft 365 לעסקים.
 
@@ -43,11 +43,11 @@ ms.locfileid: "51578166"
 
 ## <a name="iphone"></a>[iPhone](#tab/iPhone)
   
-צפה בסרטון וידאו קצר על הגדרת יישומי Office במכשירי iOS באמצעות Microsoft 365 לעסקים.<br><br>
+צפה בסרטון וידאו קצר על הגדרת אפליקציות Office במכשירי iOS עם Microsoft 365 לעסקים.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWee2n] 
 
-אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](../business-video/index.yml).
 
 עבור אל **App store**,ובשדה החיפוש הקלד Microsoft Outlook.
   
@@ -61,13 +61,13 @@ ms.locfileid: "51578166"
   
 ![Screenshot of Outlook with Get Started button](../media/005bedec-ae50-4d75-b3bb-e7cef9e2561c.png)
   
-הזן את כתובת הדואר האלקטרוני שלך בעבודה **במסך** הוספת חשבון דואר אלקטרוני הוסף חשבון ולאחר מכן הזן את אישורי \> Microsoft 365 לעסקים \> **היכנס.**
+הזן את כתובת הדואר האלקטרוני שלך בעבודה **במסך** הוספת חשבון דואר אלקטרוני הוסף חשבון ולאחר מכן \> הזן את Microsoft 365 האישורים העסקיים \> **שלך היכנס.**
   
 ![Sign in to your work account](../media/3cef1fb5-7bec-4d3d-8542-872b731ce19f.png)
   
 אם הארגון שלך מגן על קבצים באפליקציות, תראה תיבת דו-שיח שמצייינטת שהארגון שלך מגן כעת על הנתונים באפליקציה ועליך להפעיל מחדש את היישום כדי להמשיך להשתמש בו. הקש על **אישור** וסגור את Outlook. 
   
-![צילום מסך שמציג את הארגון שלך מגן כעת על יישום Outlook שלך](../media/fb4c1c84-b1e9-42e1-8070-c13dcf79fb09.png)
+![צילום מסך המציג את הארגון שלך מגן כעת על האפליקציה Outlook שלך](../media/fb4c1c84-b1e9-42e1-8070-c13dcf79fb09.png)
   
 אתר את Outlook ב- iPhone והפעל אותו מחדש. כאשר תתבקש, הזן מספר זיהוי אישי ואמת אותו. Outlook ב- iPhone שלך מוכן כעת לשימוש.
   
@@ -75,21 +75,21 @@ ms.locfileid: "51578166"
   
 ## <a name="android"></a>[Android](#tab/Android)
   
-צפה בסרטון וידאו אודות התקנת Outlook ו- Office במכשירי Android.<br><br>
+צפה בסרטון וידאו אודות התקנת Outlook והתקנה Office במכשירי Android.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/ecc2e9c0-bc7e-4f26-8b14-91d84dbcfef0] 
 
-אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](../business-video/index.yml).
 
 כדי להתחיל בהגדרה בטלפון Android, עבור אל חנות Play.
   
 ![On the Android home screen, tap Play Store](../media/93df88e7-c778-40e1-b35e-868ca6e97f6c.png)
   
-הזן את Microsoft Outlook בתיבת החיפוש של Google Play והקש על **התקן**. לאחר ש- Outlook נסיים את ההתקנה, הקש **על פתח**.
+הזן את Outlook Microsoft בתיבת החיפוש של Google Play והקש על **התקן**. לאחר Outlook ההתקנה, הקש על **פתח**.
   
 ![Tap Open to open Outlook app](../media/8b4c5937-8875-4b5a-a5b6-b8c6c9cd6240.png)
   
-באפליקציית Outlook, הקש על **תחילת העבודה** ולאחר מכן הוסף את חשבון הדואר האלקטרוני שלך ב- Microsoft 365 לעסקים \> **המשך** והירשם באמצעות אישורי הארגון שלך.
+באפליקציית Outlook, הקש **על תחילת העבודה** ולאחר מכן הוסף את חשבון הדואר האלקטרוני Microsoft 365 שלך לעסקים \> **המשך** והירשם באמצעות אישורי הארגון שלך.
   
 ![Sign in to your organizational account in Outlook](../media/18f67c66-4bab-4b99-94bd-080839312e29.png)
   
@@ -97,7 +97,7 @@ ms.locfileid: "51578166"
   
 ![Tap on Go to store to get Intune Company Portal app](../media/a702d712-5622-45dd-a511-b1adaee63071.png)
   
-ב- Play Store, התקן את Intune Company Portal.
+ב- Play Store, התקן Intune Company Portal.
   
 ![Screenshot that shows the install button for Intune Company Portal in Google Play Store](../media/5e0408f2-3f37-44dd-80ed-13ca2ac6df0c.png)
   
@@ -107,6 +107,6 @@ ms.locfileid: "51578166"
 
 ## <a name="see-also"></a>למידע נוסף
 
-[סרטוני הדרכה של Microsoft 365 לעסקים](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 הדרכה לעסקים](../business-video/index.yml)
 
 ---

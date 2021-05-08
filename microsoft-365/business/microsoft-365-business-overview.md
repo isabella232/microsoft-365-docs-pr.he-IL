@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: קבל מידע נוסף על Microsoft 365 Business Premium, שירות למנויים הכולל יישומי פרודוקטיביות של Office והגנה מתקדמת על העסק שלך מפני איומי סייבר.
-ms.openlocfilehash: d6b0ded25e0478f85e73b807789463e4d55b1bb0
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: a355c9856ead4a66f6876cc7cb5aa8eb469d7f12
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578346"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52244855"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>מבט כולל על Microsoft 365 Business Premium
 
@@ -46,7 +46,7 @@ Microsoft 365 Business Premium (לשעבר Microsoft 365 Business) הוא שיר
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
+אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](../business-video/index.yml). 
 
 Microsoft 365 Business Premium מיועד ל- 300 רשיונות לכל היותר. אם אתה זקוק לרשיונות נוספים, עיין בתיעוד של [Microsoft 365 Enterprise](../enterprise/index.yml) לקבלת מידע נוסף.
 
@@ -95,7 +95,7 @@ Microsoft 365 Business Premium עוזר **להתגונן מפני איומים**
 
 - קביעה אילו מכשירים ומשתמשים יוכלו לגשת לנתוני Microsoft שלך, עם אפשרויות לחסום כנחסת משתמשים ממחשבים ביתיים, מיישומים לא מאושרים או מחוץ לשעות העבודה (גישה מותנית).
 
-- החלת פריטי מדיניות אבטחה כדי להגן על נתונים עסקיים במכשירי iOS ו- Android. לדוגמה, באפשרותך לדרוש מהמשתמשים לספק מספר זיהוי אישי או טביעת אצבע כדי לגשת לנתונים עסקיים ולהצפין נתונים במכשירים ניידים (הגנה על אפליקציות עבור אפליקציות Office למכשירים ניידים).
+- החלת פריטי מדיניות של אבטחה כדי להגן על נתונים עסקיים במכשירי iOS ו- Android. לדוגמה, באפשרותך לדרוש מהמשתמשים לספק מספר זיהוי אישי או טביעת אצבע כדי לגשת לנתונים עסקיים ולהצפין נתונים במכשירים ניידים (הגנה על אפליקציות עבור אפליקציות Office למכשירים ניידים).
 
 - שמירה על מסמכים עסקיים, הודעות דואר אלקטרוני ונתונים אחרים שנמצאים בתוך אפליקציות מאושרות של Office למכשירים ניידים ומניעה מהעובדים לשמור מידע זה ביישומים ובמיקומים לא מורשים (הגנה על אפליקציות עבור אפליקציות Office למכשירים ניידים).
 
@@ -111,6 +111,6 @@ Microsoft 365 Business Premium עוזר **להתגונן מפני איומים**
 
 - אם אין לך שותף וברצונך לקבל את Microsoft 365 Business Premium, באפשרותך [לקנות אותו כאן](https://www.microsoft.com/microsoft-365/business) ולאחר מכן לפעול בהתאם להוראות [ההרשמה](sign-up.md).
 
-## <a name="see-also"></a>למידע נוסף
+## <a name="related-content"></a>תוכן קשור
 
-[סרטוני הדרכה של Microsoft 365 Business Premium](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[סרטוני הדרכה של Microsoft 365 Business Premium](../business-video/index.yml) (קישור לדף)
