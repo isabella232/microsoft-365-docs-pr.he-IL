@@ -23,28 +23,28 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
-description: למד כיצד ניתן להעביר את קבצי העבודה האישיים וקבצי החברה הרגישים שלך אל OneDrive for Business בכמה שלבים פשוטים בלבד.
-ms.openlocfilehash: d6bcf2b41f1052c521fda50557aac4bf6a3800fa
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: למד כיצד ניתן להעביר את קבצי העבודה האישיים וקבצי החברה הרגישים שלך OneDrive for Business בכמה שלבים פשוטים בלבד.
+ms.openlocfilehash: 4dadc87c0168a9fcdcc795a94df8ee5b7fc7fd91
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580073"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52245103"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>העברת קבצים אל OneDrive for Business
 
-צפה בסרטון וידאו קצר אודות העברת קבצים ל- OneDrive for Business.<br><br>
+צפה בסרטון וידאו קצר אודות העברת קבצים OneDrive for Business.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/d74b083c-1f44-43ea-8a14-2e1fc600b341] 
 
-אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](../business-video/index.yml).
 
 
 ## <a name="move-files-to-onedrive-for-business"></a>העברת קבצים אל OneDrive for Business
 
 אם למשתמש יש מחשב הכולל קבצים אישיים רבים, תחילה עליך להעביר קבצים אלה אל OneDrive for Business:
   
-1. עבור אל portal.office.com והירשם באמצעות האישורים של Microsoft 365 לעסקים של המשתמש.
+1. עבור אל portal.office.com והירשם באמצעות אישורי Microsoft 365 של המשתמש לעסקים.
 
 2. לחץ על מפעיל היישומים ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) ועבור אל OneDrive. 
     
@@ -52,6 +52,6 @@ ms.locfileid: "51580073"
     
 כדי להעביר את פרופיל המשתמש וקבצים חשובים, ניתן גם להשתמש בכלי של ספק חיצוני, כגון ForensiT. עליך להעלות את הקבצים שנוצרו גם ב- OneDrive for Business.
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>לקבלת מידע נוסף אודות הגדרה ושימוש ב- Microsoft 365 לעסקים
+## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>לקבלת מידע נוסף על הגדרה ושימוש ב- Microsoft 365 לעסקים
 
-[סרטוני הדרכה של Microsoft 365 לעסקים](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 הדרכה לעסקים](../business-video/index.yml)

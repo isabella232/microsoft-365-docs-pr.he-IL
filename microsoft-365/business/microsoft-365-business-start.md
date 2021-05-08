@@ -28,75 +28,75 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: למד אודות Microsoft 365 לעסקים, כיצד להגדיר אותו ואופן הכנת המכשירים והמחשבים של המשתמשים שלך כדי להבטיח שהם מוגנים על-ידי Microsoft 365 לעסקים.
-ms.openlocfilehash: 83bd2ff87683c1ad810d20658ba20f3229408968
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: cc54147e75a27fbb93255d6f706b4f9044c75858
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580093"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52245123"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>תחילת העבודה עם Microsoft 365 לעסקים
 
-## <a name="what-is-microsoft-365-for-business"></a>מהו Microsoft 365 לעסקים
+## <a name="what-is-microsoft-365-for-business"></a>מה Microsoft 365 לעסקים
 
-Microsoft 365 לעסקים הוא ערכה מקיפה של כלי פרודוקטיביות ושיתוף פעולה עסקיים, כגון Outlook , Word , Excel ומוצרי Office אחרים, שתמיד עדכניים. באפשרותך להגן על קבצי העבודה שלך בכל מכשירי iOS , Android ו- Windows 10 שלך עם אבטחה ברמה ארגונית פשוטה לניהול.
+Microsoft 365 לעסקים הוא ערכה מקיפה של כלי פרודוקטיביות ושיתוף פעולה עסקיים, כגון Outlook, Word, Excel ומוצרים Office אחרים, שהם תמיד עדכניים. באפשרותך להגן על קבצי העבודה שלך בכל מכשירי iOS, Android ו- Windows 10 שלך עם אבטחה ברמה ארגונית פשוטה לניהול.
 
-צפה בסרטון וידאו זה לקבלת מבט כולל מהיר על Microsoft 365 לעסקים.<br><br>
+צפה בסרטון וידאו זה לקבלת סקירה מהירה של Microsoft 365 לעסקים.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Microsoft 365 לעסקים מיועד עבור עד 300 רשיונות. אם אתה זקוק לרשיונות נוספים, עיין בתיעוד של [Microsoft 365 Enterprise](../enterprise/index.yml) לקבלת מידע נוסף. 
+Microsoft 365 לעסקים מיועדת עבור עד 300 רשיונות. אם אתה זקוק לרשיונות נוספים, עיין בתיעוד של [Microsoft 365 Enterprise](../enterprise/index.yml) לקבלת מידע נוסף. 
   
-## <a name="get-microsoft-365-for-business"></a>קבל את Microsoft 365 לעסקים
+## <a name="get-microsoft-365-for-business"></a>קבל Microsoft 365 לעסקים
 
-- אם יש לך שותף, הוא מקבל את Microsoft 365 לעסקים: [קבל את Microsoft 365 לעסקים ממרכז השותפים של Microsoft.](get-microsoft-365-business.md)
+- אם יש לך שותף, הוא יתעסק Microsoft 365 העסק: [קבל Microsoft 365 לעסקים ממרכז השותפים של Microsoft](get-microsoft-365-business.md).
     
-- אם אין לך שותף וברצונך להשיג את Microsoft 365 לעסקים, באפשרותך לקנות [אותו כאן](https://www.microsoft.com/microsoft-365/business).
+- אם אין לך שותף וברצונך לקבל את Microsoft 365 שלך לעסקים, באפשרותך [לקנות אותו כאן](https://www.microsoft.com/microsoft-365/business).
     
 ## <a name="set-up-microsoft-365-for-business"></a>הגדרת Microsoft 365 לעסקים
 
- **מבט כולל על הגדרת Microsoft 365 לעסקים**
+ **מבט כולל על הגדרת Microsoft 365 עבור העסק**
   
-הדיאגרמה הבאה מתארת כיצד מנהלי מערכת מגדירים את Microsoft 365 לעסקים. הוא מתאר גם את השלבים להכנת מחשבי Windows עבור Microsoft 365 לעסקים. באפשרותך גם להוסיף מכשירים חדשים במרכז הניהול של Microsoft 365 באמצעות [Windows AutoPilot](add-autopilot-devices-and-profile.md). באפשרותך להשתמש ב- AutoPilot כדי להגדיר ולהגדיר מראש מכשירים חדשים כך שהם מוכנים לשימוש פרודוקטיבי ברגע שמשתמש נכנס עם אישורי Microsoft 365 לעסקים שלהם.
+הדיאגרמה הבאה מתארת כיצד מנהלי מערכת מגדירים Microsoft 365 לעסקים. הוא מתאר גם את השלבים להכנת Windows עבור Microsoft 365 לעסקים. באפשרותך גם להוסיף מכשירים חדשים Microsoft 365 הניהול של Windows [AutoPilot](add-autopilot-devices-and-profile.md). באפשרותך להשתמש ב- AutoPilot כדי להגדיר ולהגדיר מראש מכשירים חדשים כך שהם מוכנים לשימוש פרודוקטיבי ברגע שמשתמש נכנס עם האישורים Microsoft 365 שלהם לעסקים.
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](../media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
 
-צפה בסרטון וידאו זה לקבלת מבט כולל על הגדרת Microsoft 365 לעסקים.<br><br>
+צפה בסרטון וידאו זה לקבלת מבט כולל על Microsoft 365 עבור ההגדרה העסקית.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
-אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](../business-video/index.yml).
 
   
 ### <a name="1-set-up-microsoft-365-for-business-admin"></a>1: הגדרת Microsoft 365 לעסקים (מנהל מערכת)
 
-היכנס למרכז הניהול [של Microsoft 365 עם](https://portal.office.com/adminportal/home) אישורי הניהול הכלליים שלך והשלם את השלבים הבאים כדי להגדיר את Microsoft 365 לעסקים. 
+היכנס אל [Microsoft 365 הניהול באמצעות](https://portal.office.com/adminportal/home) אישורי מנהל המערכת הכלליים שלך והשלם את השלבים הבאים כדי להגדיר את Microsoft 365 לעסקים. 
   
 1. [דרישות מוקדמות להגנה על נתונים במכשירים עם Microsoft 365 לעסקים](pre-requisites-for-data-protection.md)
     
-    קרא תחילה את התנאים המוקדמים כדי לוודא שהמכשירים שלך מוכנים ל- Microsoft 365 לעסקים.
+    קרא תחילה את התנאים המוקדמים כדי לוודא שהמכשירים שלך מוכנים Microsoft 365 לעסקים.
     
-2. [שימוש באשף ההגדרה כדי להגדיר את Microsoft 365 לעסקים](set-up.md)
+2. [שימוש באשף ההגדרה כדי להגדיר Microsoft 365 לעסקים](set-up.md)
     
-    אם אתה עובר **לצמיתות** מ- Active Directory מקומי לענן, באפשרותך לעבור למרכז הניהול של Microsoft 365 ולהשתמש באשף ההגדרה כדי להוסיף את המשתמשים שלך באופן ידני, או לבצע סינכרון פעם אחת עם Azure AD Connect. ניתן לעשות זאת בשתי דרכים: 
+    אם אתה עובר לצמיתות מ- **Active Directory** מקומי לענן, באפשרותך לעבור למרכז הניהול של Microsoft 365 ולהשתמש באשף ההגדרה כדי להוסיף את המשתמשים שלך באופן ידני, או לבצע סינכרון פעם אחת עם Azure AD התחברות. ניתן לעשות זאת בשתי דרכים: 
     
-    - אם יש לך גם שרת Exchange 2010, Exchange 2013 או Exchange 2016, באפשרותך להשתמש ב- Minimal Hybrid כדי להעביר במהירות תיבות דואר של [Exchange ל- Microsoft 365.](/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate) השלבים ההיברידיים המינימליים כוללים סינכרון של משתמשים ב- Azure AD והעברת דואר אלקטרוני באופן מקומי לענן. לאחר השלמת העברת הדואר האלקטרוני, סינכרון מדריכי הכתובות מבוטל באופן אוטומטי בעת שימוש בשיטה זו.
+    - אם יש לך גם שרת Exchange 2010, Exchange 2013 או Exchange 2016, באפשרותך להשתמש ב- Minimal Hybrid כדי להעביר במהירות [Exchange תיבות](/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate)דואר Microsoft 365. השלבים ההיברידיים המינימליים כוללים סינכרון של משתמשים ב- Azure AD והעברת דואר אלקטרוני באופן מקומי לענן. לאחר השלמת העברת הדואר האלקטרוני, סינכרון מדריכי הכתובות מבוטל באופן אוטומטי בעת שימוש בשיטה זו.
     
-    - השתמש באשף סינכרון מדריך הכתובות כדי לסנכרן את המשתמשים שלך עם הענן. בצע את השלבים [המפורטים בהגדיר סינכרון מדריכי כתובות עבור Microsoft 365](../enterprise/set-up-directory-synchronization.md) כדי להשלים תהליך זה. לאחר סינכרון המשתמשים שלך עם הענן, יהיה עליך לבטל [סינכרון מדריכי כתובות עבור Microsoft 365.](../enterprise/turn-off-directory-synchronization.md)
+    - השתמש באשף סינכרון מדריך הכתובות כדי לסנכרן את המשתמשים שלך עם הענן. בצע את השלבים [המפורטים בהגדיר סינכרון מדריכי כתובות Microsoft 365 כדי](../enterprise/set-up-directory-synchronization.md) להשלים תהליך זה. לאחר סינכרון המשתמשים שלך עם הענן, יהיה עליך לבטל [סינכרון מדריכי כתובות עבור Microsoft 365](../enterprise/turn-off-directory-synchronization.md).
     
-    יהיה עליך גם להעניק לכל משתמש שנוסף באופן זה רשיון ל- Microsoft 365 לעסקים. באפשרותך לעשות זאת באשף [ההגדרה או](set-up.md) להקצות [רשיונות למשתמשים](../admin/manage/assign-licenses-to-users.md).
+    יהיה עליך גם להעניק לכל משתמש שנוסף באופן זה רשיון Microsoft 365 לעסקים. באפשרותך לעשות זאת באשף [ההגדרה או](set-up.md) להקצות [רשיונות למשתמשים](../admin/manage/assign-licenses-to-users.md).
     
 ### <a name="2-prepare-mobile-devices"></a>2: הכנת מכשירים ניידים
 
-בצע את השלבים המפורטים בהתקנת מכשירים ניידים עבור [משתמשי Microsoft 365](set-up-mobile-devices.md) לעסקים כדי להתקין יישומי Office במכשירים ו לוודא שהם מוגנים על-ידי Microsoft 365 לעסקים. 
+בצע את השלבים המפורטים בהתקנת [מכשירים ניידים עבור Microsoft 365 עבור](set-up-mobile-devices.md) משתמשים עסקיים כדי להתקין Office יישומים במכשירים, ודא שהם מוגנים על-ידי Microsoft 365 לעסקים. 
   
 ### <a name="3-prepare-pcs"></a>3: הכנת מחשבים
 
-מנהלי מערכת יכולים לבחור מראש הגדרות עבור מחשבי Windows 10 חדשים באמצעות [Windows AutoPilot](add-autopilot-devices-and-profile.md). משתמשים יכולים להגדיר את מכשירי Windows 10 הקיימים או החדשים שלהם על-ידי ביצוע השלבים בנושא זה: [הגדרת מחשבי Windows עבור משתמשי Microsoft 365 לעסקים.](set-up-windows-devices.md) עבור מכשירים קיימים, משתמשים **יכולים באופן אופציונלי** [להעביר קבצים ל- OneDrive for Business](move-files-to-onedrive.md). הם יכולים גם להשתמש בכלים של ספקים אחרים כדי להעביר קבצים המשויכים לפרופיל Windows ל- OneDrive.
+מנהלי מערכת יכולים לבחור מראש הגדרות עבור מחשבי Windows 10 חדשים באמצעות [Windows AutoPilot](add-autopilot-devices-and-profile.md). משתמשים יכולים להגדיר את מכשירי ה- Windows 10 הקיימים או החדשים שלהם על-ידי ביצוע השלבים בנושא זה: [הגדרת Windows עבור Microsoft 365 עבור משתמשים עסקיים.](set-up-windows-devices.md) עבור מכשירים קיימים, משתמשים **יכולים באופן אופציונלי** להעביר קבצים [OneDrive for Business](move-files-to-onedrive.md). הם יכולים גם להשתמש בכלים של ספקים אחרים כדי להעביר קבצים המשויכים לפרופיל Windows כדי OneDrive.
   
-אם הארגון שלך משתמש ב- Windows Server Active Directory באופן מקומי, באפשרותך להגדיר את Microsoft 365 לעסקים כדי להגן על מכשירי Windows 10 שלך, תוך שמירה על גישה למשאבים מקומיים הדורשים אימות מקומי. בצע את השלבים [המפורטים באפשרות למכשירי Windows 10 המצורפים](manage-windows-devices.md) לתחום להיות מנוהלים על-ידי Microsoft 365 לעסקים כדי להגדיר זאת. שיטה זו מועדפת, והתקנים במצב זה נקראים מכשירים **מצורפים היברידיים של Azure AD**. 
+אם הארגון שלך משתמש ב- Windows Server Active Directory מקומי, באפשרותך להגדיר את Microsoft 365 לעסקים כדי להגן על מכשירי Windows 10 שלך, תוך שמירה על גישה למשאבים מקומיים הדורשים אימות מקומי. בצע את השלבים [המפורטים באפשר Windows 10 לתחום](manage-windows-devices.md) לנהל מכשירי Microsoft 365 לעסקים כדי להגדיר זאת. שיטה זו מועדפת, והתקנים במצב זה נקראים מכשירים **מצורפים היברידיים של Azure AD**. 
   
-אם אתה שומר Active Directory מקומי המכיל משאבים מקומיים (כגון שיתופי קבצים ומדפסות), באפשרותך להעניק למכשירים **המצורפים ל- Azure AD** גישה למשאבים אלה על-ידי ביצוע השלבים כאן: Access משאבים מקומיים ממכשיר [Azure AD-joined ב- Microsoft 365 לעסקים.](access-resources.md)
+אם אתה שומר Active Directory מקומי המכיל משאבים מקומיים (כגון שיתופי קבצים ומדפסות), באפשרותך להעניק למכשירים המצורפים ל- Azure AD גישה למשאבים אלה **על-ידי** ביצוע השלבים כאן: Access משאבים מקומיים ממכשיר [Azure AD-joined ב- Microsoft 365 לעסקים.](access-resources.md)
   
   
 ## <a name="contact-support"></a>פנה לתמיכה
@@ -105,12 +105,12 @@ Microsoft 365 לעסקים מיועד עבור עד 300 רשיונות. אם א�
   
 - פנה לשותף שלך.
     
-- כמנהל מערכת של Microsoft 365 לעסקים, יש לך גישה לצוות התמיכה בלקוחות שלנו: **[פנה לתמיכה למוצרים עסקיים - עזרה למנהלי מערכת](../admin/contact-support-for-business-products.md)**
+- כמנהל מערכת Microsoft 365, יש לך גישה לצוות התמיכה בלקוחות שלנו: פנה **[לתמיכה למוצרים עסקיים - עזרה למנהלי מערכת](../admin/contact-support-for-business-products.md)**
     
-## <a name="see-also"></a>למידע נוסף
+## <a name="related-content"></a>תוכן קשור
 
-[תיעוד ומשאבים של Microsoft 365 לעסקים](./index.yml)
+[Microsoft 365 עבור תיעוד ומשאבים עסקיים](./index.yml)
   
 [ניהול Microsoft 365 לעסקים העברה](manage.md)[ל- Microsoft 365 לעסקים](migrate-to-microsoft-365-business.md)
 
-[סרטוני הדרכה של Microsoft 365 לעסקים](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 הדרכה לעסקים](../business-video/index.yml)

@@ -26,21 +26,21 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: למד את שלבי ההגדרה עבור Microsoft 365 Business Premium, החל מהוספת מנוי, הוספת תחום ומשתמשים, הגדרת מדיניות אבטחה ועוד.
-ms.openlocfilehash: 749acbfdbde92ad97b09dc720c85dd850b76c9cf
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: למד את שלבי ההגדרה Microsoft 365 Business Premium, החל מהוספת תחום ומשתמשים, הגדרת מדיניות אבטחה ועוד.
+ms.openlocfilehash: 008a5c51698589667acc0d01649f67dab33b4c58
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51579933"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52245063"
 ---
 # <a name="overview-of-setup"></a>מבט כולל על ההגדרה
 
-צפה בסרטון וידאו קצר אודות הגדרת Microsoft 365 Business Premium.<br><br>
+צפה בסרטון וידאו קצר אודות Microsoft 365 Business Premium ההגדרה.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4jZwg] 
 
-אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](../business-video/index.yml).
 
 ניתן לבצע את רוב שלבי ההגדרה בהגדרה המודרך, אך האפשרויות האחרות מפורטות גם הן.
 
@@ -50,7 +50,7 @@ ms.locfileid: "51579933"
 
    - **הוספת משתמשים**. באפשרותך להוסיף משתמשים בכל אחת משלוש הדרכים הבאות:
         - בהגדרה [המודרך](set-up.md#add-users-in-the-wizard).
-        - השתמש בסינכרון [מדריכי כתובות כדי להוסיף](../enterprise/set-up-directory-synchronization.md) משתמשים באמצעות Azure AD Connect אם יש לך Active directory מקומי.
+        - השתמש בסינכרון [מדריכי כתובות כדי להוסיף משתמשים באמצעות Azure AD התחברות](../enterprise/set-up-directory-synchronization.md) אם יש לך Active directory מקומי.
         - באפשרותך גם [להוסיף משתמשים מאוחר](../admin/add-users/add-users.md) יותר במרכז הניהול.
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>שלב 2: הגדרת מדיניות אבטחה והגדרת תצורה של מכשירים 
 
@@ -69,30 +69,30 @@ ms.locfileid: "51579933"
 
 ראה גם [את 10 הדרכים המובילות לאבטחת Microsoft 365 Business Premium](/office365/admin/security-and-compliance/secure-your-business-data) לקבלת מפת דרכים של שיטות עבודה מומלצות לאבטחה.
 
-## <a name="step-3-set-up-and-manage-windows-10-devices"></a>שלב 3: הגדרה וניהול של מכשירי Windows 10
+## <a name="step-3-set-up-and-manage-windows-10-devices"></a>שלב 3: הגדרה וניהול של Windows 10 ניידים
 
-לאחר השלמת ההגדרה המודרך, תרצה להגן על כל מחשבי Windows 10 בארגון שלך.
+לאחר השלמת ההגדרה המודרך, תרצה להגן על כל Windows 10 בארגון שלך.
   
-- Windows 10 Pro [](pre-requisites-for-data-protection.md) הוא תנאי מוקדם עבור Microsoft 365 Business Premium, אך אם יש לך Windows 7 Pro , Windows 8 Pro או Windows 8.1 Pro, המנוי שלך מזכה אותך בשדרוג [ל- Windows 10 Pro](./upgrade-to-windows-pro-creators-update.md).
-- בצע את השלבים [במחשבי Windows 10 המאובטחים](secure-win-10-pcs.md) כדי להגדיר פריטי מדיניות עבור מכשירי Windows 10.
+- Windows 10 Pro היא דרישה [](pre-requisites-for-data-protection.md) מוקדמת עבור Microsoft 365 Business Premium, אך אם יש לך Windows 7 Pro, Windows 8 Pro או Windows 8.1 Pro, המנוי שלך מזכה אותך בשדרוג [ל- Windows 10 Pro.](./upgrade-to-windows-pro-creators-update.md)
+- בצע את השלבים [במחשבי Windows 10 מאובטחים](secure-win-10-pcs.md) כדי להגדיר פריטי מדיניות עבור Windows 10 אחרים.
 
-בעת הצטרפות למכשיר Windows 10 ל- Azure AD, פריטי המדיניות שאתה מגדיר עבור מחשבי Windows 10 מוחלים עליו. לקבלת מידע נוסף, ראה [הגדרת מכשירי Windows עבור משתמשי Microsoft 365.](set-up-windows-devices.md)
+בעת הצטרפות להתקן Windows 10 ל- Azure AD, פריטי המדיניות שאתה מגדיר עבור Windows 10 מחשבים מוחלים עליו. לקבלת מידע נוסף, [ראה הגדרת Windows עבור Microsoft 365 המשתמשים](set-up-windows-devices.md).
 
 ## <a name="step-4-install-microsoft-365-apps-for-business"></a>שלב 4: התקנת יישומי Microsoft 365 לעסקים
-- באפשרותך להתקין באופן אוטומטי את Office במכשירי Windows באמצעות [אשף ההגדרה.](set-up.md#deploy-office-365-client-apps)
-- תן למשתמשים [להתקין אפליקציות Office](/office365/admin/setup/install-applications) עבור Windows ומכשירים.
+- באפשרותך להתקין באופן אוטומטי Office במכשירי Windows באמצעות אשף [ההגדרה.](set-up.md#deploy-office-365-client-apps)
+- תן למשתמשים [להתקין Office עבור](/office365/admin/setup/install-applications) Windows ומכשירים.
      
 ## <a name="advanced"></a>מתקדם
 - **שימוש ב- Autopilot כדי להגדיר מכשירים חדשים**
             
-     באפשרותך להשתמש ב- [Windows Autopilot](add-autopilot-devices-and-profile.md) כדי לקבוע מראש באופן אוטומטי מכשירים חדשים של **Windows** 10 עבור משתמש, אך ייתכן שיהיה קל יותר להשיג שותף [שיכול](https://www.microsoft.com/solution-providers/search) לעשות זאת בשבילך. באפשרותך גם לעבור אל [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598), ולשאול מומחה לטכנולוגיית ענן להגדיר מכשירים חדשים שאתה רוכש.
+     באפשרותך להשתמש [ב- Windows Autopilot](add-autopilot-devices-and-profile.md) כדי לקבוע מראש **באופן** אוטומטי התקני Windows 10 חדשים עבור משתמש, אך ייתכן שיהיה קל יותר להשיג שותף [שיכול](https://www.microsoft.com/solution-providers/search) לעשות זאת בשבילך. באפשרותך גם לעבור אל [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598), ולשאול מומחה לטכנולוגיית ענן להגדיר מכשירים חדשים שאתה רוכש.
 
 - **Access משאבים מקומיים**
 
-     - אם הארגון שלך משתמש ב- Windows Server Active Directory באופן מקומי, באפשרותך להגדיר את Microsoft 365 Business Premium כדי להגן על מכשירי Windows 10 שלך, תוך שמירה על גישה למשאבים מקומיים הדורשים אימות מקומי. בצע את השלבים [המפורטים ב-Windows 10](manage-windows-devices.md) המצורף לתחום כדי לנהל אותם על-ידי Microsoft 365 Business Premium כדי להגדיר זאת. זוהי השיטה המועדפת, והמכשירים במצב זה נקראים מכשירים מצורפים היברידיים של Azure AD.
+     - אם הארגון שלך משתמש ב- Windows Server Active Directory מקומי, באפשרותך להגדיר את Microsoft 365 Business Premium כדי להגן על מכשירי Windows 10 שלך, תוך שמירה על גישה למשאבים מקומיים הדורשים אימות מקומי. בצע את השלבים [המפורטים ב- הפוך Windows 10 לתחום לזמינים כדי לנהל Microsoft 365 Business Premium כדי](manage-windows-devices.md) להגדיר זאת. זוהי השיטה המועדפת, והמכשירים במצב זה נקראים מכשירים מצורפים היברידיים של Azure AD.
 
-    - אם העסק שלך כולל Active Directory מקומי המכיל משאבים מקומיים (כגון מיקומים משותפים ומדפסות של קבצים), באפשרותך להעניק למכשירים המצורפים ל- Azure AD גישה למשאבים אלה על-ידי ביצוע השלבים כאן: Access משאבים מקומיים ממכשיר [מצורף ל- Azure AD ב- Microsoft 365 Business Premium.](access-resources.md)
+    - אם העסק שלך כולל Active Directory מקומי המכיל משאבים מקומיים (כגון שיתופי קבצים ומדפסות), באפשרותך להעניק למכשירים המצורפים ל- Azure AD גישה למשאבים אלה על-ידי ביצוע השלבים כאן: Access משאבים מקומיים [ממכשיר Azure AD-joined ב- Microsoft 365 Business Premium.](access-resources.md)
 
-## <a name="see-also"></a>למידע נוסף
+## <a name="related-content"></a>תוכן קשור
 
-[סרטוני הדרכה של Microsoft 365 לעסקים](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 הדרכה לעסקים](../business-video/index.yml) (דף קישור)
