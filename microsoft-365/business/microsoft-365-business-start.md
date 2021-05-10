@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: למד אודות Microsoft 365 לעסקים, כיצד להגדיר אותו ואופן הכנת המכשירים והמחשבים של המשתמשים שלך כדי להבטיח שהם מוגנים על-ידי Microsoft 365 לעסקים.
-ms.openlocfilehash: cc54147e75a27fbb93255d6f706b4f9044c75858
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: ddf6f8d12587c6fb562a599a41c190ffef32c147
+ms.sourcegitcommit: de5fce90de22ba588e75e1a1d2e87e03b9e25ec7
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245123"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "52293706"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>תחילת העבודה עם Microsoft 365 לעסקים
 
@@ -105,7 +105,7 @@ Microsoft 365 לעסקים מיועדת עבור עד 300 רשיונות. אם �
   
 - פנה לשותף שלך.
     
-- כמנהל מערכת Microsoft 365, יש לך גישה לצוות התמיכה בלקוחות שלנו: פנה **[לתמיכה למוצרים עסקיים - עזרה למנהלי מערכת](../admin/contact-support-for-business-products.md)**
+- כמנהל מערכת Microsoft 365, יש לך גישה לצוות התמיכה בלקוחות שלנו: פנה **[לתמיכה למוצרים עסקיים - עזרה למנהלי מערכת](../business-video/get-help-support.md)**
     
 ## <a name="related-content"></a>תוכן קשור
 
