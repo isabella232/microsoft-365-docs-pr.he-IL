@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: למד כיצד להעביר את העסק שלך Microsoft 365 Business Premium מ- Office 365 E3.
-ms.openlocfilehash: f08b054473fdd63ec2372e81c776a1b64f89fe9d
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 990ca8bdae979f1efb8a60a3460add2953a51892
+ms.sourcegitcommit: 68383240ef7a673d5f28e2ecfab9f105bf1d8c8f
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244835"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52327169"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>מעבר מ- Office 365 E3 Microsoft 365 Business Premium
 
@@ -39,25 +39,24 @@ Microsoft 365 Business Premium כולל את כל מה שאתה צריך עבו�
 
 טבלה זו מציגה את ההבדלים בין Microsoft 365 Business Premium לבין Office 365 E3.
 
-| תכונה    | תמיכה Microsoft 365 Business Premium    | תמיכה ב- Office 365 E3 | 
+| תכונה    | תמיכה Microsoft 365 Business Premium    | תמיכה ב- Office 365 E3 |
 |:-------|:-----|:-----|
-| **מקומי**        | | | 
-| Office<sup>1</sup>    | יישומי Microsoft 365 לעסקים    | יישומי Microsoft 365 עבור ארגונים | 
-| **יישומי פרודוקטיביות בענן**        | | | 
-| Exchange Online ו- Outlook    | מגבלת שטח אחסון של 50 GB לכל תיבת דואר אחסון בארכיון של Exchange Online    | מגבלת שטח אחסון של 100 GB לכל תיבת דואר אחסון בארכיון של Exchange Online | 
+| **מקומי**        | | |
+| Office<sup>1</sup>    | יישומי Microsoft 365 לעסקים    | יישומי Microsoft 365 עבור ארגונים |
+| **יישומי פרודוקטיביות בענן**        | | |
+| Exchange Online ו- Outlook    | מגבלת שטח אחסון של 50 GB לכל תיבת דואר אחסון בארכיון של Exchange Online    | מגבלת שטח אחסון של 100 GB לכל תיבת דואר אחסון בארכיון של Exchange Online |
 | Teams    | ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב- Office 365 E3](../media/check-mark.png) | 
 | OneDrive for Business    | מגבלת אחסון של 1 TB לכל משתמש    | ללא הגבלה | 
 | Yammer, SharePoint Online, Planner, Stream    | ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב- Office 365 E3](../media/check-mark.png) | 
-| StaffHub    | ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב- Office 365 E3](../media/check-mark.png) | 
-| MileIQ    | ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    | | 
-| **הגנה מפני איומים**        | | | 
-| Defender for Office 365 תוכנית 1 | ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    | לא כלול, אך ניתן להוסיף אותו | 
-| **ניהול זהויות**        | | | 
-| איפוס סיסמה בשירות עצמי עבור חשבונות היברידיים של Azure Active Directory (Azure AD), אימות רב-גורמי של Azure AD (MFA), Access מותן, writeback באמצעות סיסמה עבור זהויות מקומיות|     ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    |  | 
+| StaffHub    | ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב- Office 365 E3](../media/check-mark.png) |
+| **הגנה מפני איומים**        | | |
+| Defender for Office 365 תוכנית 1 | ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    | לא כלול, אך ניתן להוסיף אותו |
+| **ניהול זהויות**        | | |
+| איפוס סיסמה בשירות עצמי עבור חשבונות היברידיים של Azure Active Directory (Azure AD), אימות רב-גורמי של Azure AD (MFA), Access מותן, writeback באמצעות סיסמה עבור זהויות מקומיות|     ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    |  |
 | **ניהול מכשירים ואפליקציות**        | | |
 | Microsoft Intune, Windows AutoPilot|     ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    |  |
 | הפעלת מחשב משותף|     ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    | ![כלול ב- Office 365 E3](../media/check-mark.png)| 
-| שדרוג זכויות Windows 10 Pro מתוך Win 7/8.1 Pro רשיונות|     ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    || 
+| שדרוג זכויות Windows 10 Pro מתוך Win 7/8.1 Pro רשיונות|     ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    ||
 | **הגנה על מידע**        | | |
 |Office 365 מניעת אובדן נתונים|    ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)|![כלול ב- Office 365 E3](../media/check-mark.png)|
 |Azure Information Protection Plan 1, BitLocker אכיפה|![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)||
@@ -96,29 +95,28 @@ Microsoft 365 Business Premium כולל את כל מה שאתה צריך עבו�
 באפשרותך גם להשלים שלבים אלה בדף מכשירים:
   
 1. במרכז הניהול, בסרגל הניווט הימני, עבור אל **מדיניות** \> **מכשירים**.
-    
+
 2. בדף מדיניות **מכשיר,** בחר **הוסף**.
-    
-3. בחלונית **הוספת** מדיניות, תן למדיניות שם ולאחר מכן בחר **סוג מדיניות** מהרשימה הנפתחת. 
-    
+
+3. בחלונית **הוספת** מדיניות, תן למדיניות שם ולאחר מכן בחר **סוג מדיניות** מהרשימה הנפתחת.
+
      באפשרותך להגדיר מדיניות יישומים להגנה על קבצים במכשירי Android ו- iPhone, וכן Windows 10, וכן להגדיר מדיניות תצורה של מכשיר עבור מכשירי Windows 10 חברה. עיין בקישורים הבאים לקבלת פרטים:
-    
+
   - [קביעת הגדרות הגנה של אפליקציות עבור מכשירי Android או iOS](app-protection-settings-for-android-and-ios.md)
-    
+
   - [קביעת הגדרות הגנה של יישומים עבור מכשירי Windows 10](protection-settings-for-windows-10-devices.md)
-    
+
   - [הגדרת הגדרות הגנה על מכשיר עבור Windows 10 אישיים](protection-settings-for-windows-10-pcs.md)
   
 4. לאחר הגדרת מדיניות, אתה והעובדים שלך יכולים להגדיר מכשירים:
-    
+
   - ראה [הגדרת Windows עבור משתמשים Microsoft 365 Business Premium לקבלת](set-up-windows-devices.md) שלבים עבור Windows אחרים. 
-    
+
   - ראה [הגדרת מכשירים ניידים עבור Microsoft 365 Business Premium עבור](set-up-mobile-devices.md) שלבים עבור טלפונים ומכשירי iPhone של Android. 
   
 ### <a name="mailbox-size"></a>גודל תיבת דואר
 
 Microsoft 365 Business Premium יש מגבלת אחסון של 50 GB כאשר היא משתמשת Exchange Online תוכנית 1. בעת המעבר ל- Microsoft 365 Business Premium, אם אחד מהמשתמשים שלך חורג מ- 50 GB של שטח אחסון בתיבות דואר, מומלץ להקצות למשתמש זה תוכנית Exchange Online תוכנית 2 ולהסיר את תוכנית Exchange Online 1, כי לא ניתן להקצות את שניהם.
-
 
 ### <a name="threat-protection"></a>הגנה מפני איומים
 
