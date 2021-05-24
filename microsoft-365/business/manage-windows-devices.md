@@ -1,5 +1,5 @@
 ---
-title: אפשר ניהול של מכשירי Windows 10 המצורפים לתחום על-ידי Microsoft 365 לעסקים
+title: הפיכת מכשירי Windows 10 לתחום למנוהלים על-ידי Microsoft 365 לעסקים
 f1.keywords:
 - CSH
 ms.author: efrene
@@ -23,17 +23,17 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: למד כיצד לאפשר ל- Microsoft 365 להגן על מכשירי Windows 10 מקומיים המצורפים ל- Active-Directory בכמה שלבים בלבד.
-ms.openlocfilehash: c9f5a21d993200abcf9ecf1fa236879245e1c153
-ms.sourcegitcommit: 4076b43a4b661de029f6307ddc1a989ab3108edb
+description: למד כיצד לאפשר Microsoft 365 להגן על מכשירי Active-Directory Windows 10 מקומיים בכמה שלבים בלבד.
+ms.openlocfilehash: f16962dd3c33c3c228da507bc5c4a902d76a8a08
+ms.sourcegitcommit: b0d3abbccf4dd37e32d69664d3ebc9ab8dea760d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51939501"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52593892"
 ---
-# <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>אפשר ניהול של מכשירי Windows 10 המצורפים לתחום על-ידי Microsoft 365 Business Premium
+# <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>הפיכת מכשירי Windows 10 לתחום למנוהלים על-ידי Microsoft 365 Business Premium
 
-אם הארגון שלך משתמש ב- Windows Server Active Directory באופן מקומי, באפשרותך להגדיר את Microsoft 365 Business Premium כדי להגן על מכשירי Windows 10 שלך, תוך שמירה על גישה למשאבים מקומיים הדורשים אימות מקומי.
+אם הארגון שלך משתמש ב- Windows Server Active Directory מקומי, באפשרותך להגדיר את Microsoft 365 Business Premium כדי להגן על מכשירי Windows 10 שלך, תוך שמירה על גישה למשאבים מקומיים הדורשים אימות מקומי.
 כדי להגדיר הגנה זו, באפשרותך ליישם מכשירים **מצורפים היברידיים של Azure AD**. מכשירים אלה מצורפים הן ל- Active Directory המקומי ול- Azure Active Directory שלך.
 
 סרטון וידאו זה מתאר את השלבים לאיך להגדיר זאת עבור התרחיש הנפוץ ביותר, המפורט גם בשלבים המפורטים.
@@ -42,18 +42,18 @@ ms.locfileid: "51939501"
   
 
 ## <a name="before-you-get-started-make-sure-you-complete-these-steps"></a>לפני תחילת העבודה, הקפד להשלים שלבים אלה:
-- סנכרן משתמשים עם Azure AD באמצעות Azure AD Connect.
-- השלם את סינכרון היחידה הארגונית (OU) של Azure AD Connect.
-- ודא שלמשתמשי התחום שאתה מסנכרן יש רשיונות ל- Microsoft 365 Business Premium.
+- סינכרון משתמשים עם Azure AD עם Azure AD התחברות.
+- השלם את סינכרון התחברות Azure AD (OU).
+- ודא שלמשתמשי התחום שאתה מסנכרן יש רשיונות Microsoft 365 Business Premium.
 
 ראה [סינכרון משתמשי תחום עם Microsoft](manage-domain-users.md) לקבלת השלבים.
 
 ## <a name="1-verify-mdm-authority-in-intune"></a>1. אימות רשות MDM ב- Intune
 
-עבור אל מנהל [נקודות הקצה](https://endpoint.microsoft.com/#blade/Microsoft_Intune_Enrollment/EnrollmentMenu/overview) ובדף Microsoft Intune, בחר  הרשמה למכשירים ולאחר מכן, בדף מבט כולל, ודא כי **רשות MDM** היא **Intune**. 
+עבור אל [Endpoint Manager](https://endpoint.microsoft.com/#blade/Microsoft_Intune_Enrollment/EnrollmentMenu/overview) ובדף Microsoft Intune, **בחר** הרשמה למכשירים ולאחר מכן,  בדף מבט כולל, ודא כי **רשות MDM** היא **Intune**.
 
 - אם **רשות MDM** היא **ללא**, לחץ על **רשות MDM** כדי להגדיר אותה ל- **Intune**.
-- אם **רשות MDM** היא **Microsoft Office 365**,עבור אל מכשירים הרשמה מכשירים והשתמש בתיבת הדו-שיח הוספת רשות MDM בצד ימין כדי להוסיף רשות MDM של Intune (תיבת הדו-שיח הוספת רשות MDM זמינה רק אם רשות MDM מוגדרת ל- Microsoft Office  >   365).    
+- אם **רשות MDM** **Microsoft Office 365,עבור** אל מכשירים הרשמה מכשירים והשתמש בתיבת הדו-שיח הוספת רשות MDM בצד ימין כדי להוסיף רשות  >   **Intune MDM** (תיבת הדו-שיח הוספת **רשות MDM** זמינה רק אם רשות **MDM** מוגדרת Microsoft Office 365). 
 
 ## <a name="2-verify-azure-ad-is-enabled-for-joining-computers"></a>2. ודא ש- Azure AD זמין להצטרפות למחשבים
 
@@ -67,11 +67,11 @@ ms.locfileid: "51939501"
 
 ## <a name="3-verify-azure-ad-is-enabled-for-mdm"></a>3. ודא ש- Azure AD זמין עבור MDM
 
-- עבור אל מרכז הניהול ב ובחר <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>  באפשרות **Endpoint Managemen** t (בחר **הצג הכל אם** מנהל נקודות **הקצה** אינו גלוי)
-- במרכז הניהול **של Microsoft Endpoint Manager**, עבור אל 'הרשמה **אוטומטית'** של  >  **מכשירים** של Windows  >  **הרשמה** אוטומטית של Windows  >  .
+- עבור אל מרכז הניהול ב ובחר באפשרות <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> **Endpoint Managemen** t (בחר **הצג** **הכל אם Endpoint Manager** אינו גלוי)
+- במרכז **הניהול Microsoft Endpoint Manager**, עבור אל **מכשירים**  >  **Windows**  >  **Windows הרשמה**  >  **אוטומטית**.
 - ודא שטווח המשתמש של MDM זמין.
 
-    1. כדי לרשום את כל המחשבים, הגדר הכל **כדי** לרשום באופן אוטומטי את כל מחשבי המשתמשים המצורפים ל- Azure AD ולמחשבים חדשים כאשר המשתמשים מוסיפים חשבון עבודה ל- Windows.
+    1. כדי לרשום את כל המחשבים, **הגדר** הכל כדי לרשום באופן אוטומטי את כל מחשבי המשתמשים המצורפים ל- Azure AD ולמחשבים חדשים כאשר המשתמשים מוסיפים חשבון עבודה ל- Windows.
     2. הגדר לחלק **כדי** לרשום את המחשבים של קבוצת משתמשים ספציפית.
         -  הוסף את משתמשי התחום הרצויים מסונכרנים ב- Azure AD [לקבוצת אבטחה](../admin/create-groups/create-groups.md).
         -  בחר **בחר קבוצות כדי** להפוך טווח משתמש MDM לזמין עבור קבוצת אבטחה זו.
@@ -87,16 +87,16 @@ Install-Module SecMgmt
 ```
 
 > [!IMPORTANT]
-> מומלץ להתקין מודול זה בשרת Windows שבו פועל Azure AD Connect.
+> מומלץ להתקין מודול זה בשרת Windows Azure AD התחברות.
 
-כדי ליצור את נקודת החיבור הנדרשת של השירות ומדיניות קבוצתית, תוכל להפעיל את [cmdlet Initialize-SecMgmtHybirdDeviceEnrollment.](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) תצטרך את אישורי מנהל המערכת הכלליים של Microsoft 365 Business Premium בעת ביצוע משימה זו. כאשר תהיה מוכן ליצור את המשאבים, להפעיל את הפעולות הבאות:
+כדי ליצור את נקודת החיבור הנדרשת של השירות ומדיניות קבוצתית, תוכל להפעיל את [cmdlet Initialize-SecMgmtHybirdDeviceEnrollment.](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) תצטרך את אישורי Microsoft 365 Business Premium הכלליים שלך בעת ביצוע משימה זו. כאשר תהיה מוכן ליצור את המשאבים, להפעיל את הפעולות הבאות:
 
 ```powershell
 PS C:\> Connect-SecMgmtAccount
 PS C:\> Initialize-SecMgmtHybirdDeviceEnrollment -GroupPolicyDisplayName 'Device Management'
 ```
 
-הפקודה הראשונה תבסס חיבור לענן Microsoft, וכאשר תתבקש לעשות זאת, ציין את אישורי הניהול הכלליים של Microsoft 365 Business Premium.
+הפקודה הראשונה תבסס חיבור עם הענן של Microsoft, וכאשר תתבקש, ציין את אישורי Microsoft 365 Business Premium הכלליים.
 
 ## <a name="5-link-the-group-policy"></a>5. קישור המדיניות הקבוצתית
 
@@ -105,11 +105,11 @@ PS C:\> Initialize-SecMgmtHybirdDeviceEnrollment -GroupPolicyDisplayName 'Device
 
 ## <a name="get-the-latest-administrative-templates"></a>קבל את תבניות הניהול העדכניות ביותר
 
-אם אינך רואה את המדיניות הפוך הרשמה **אוטומטית של MDM** לזמינה באמצעות אישורי Azure AD המוגדרים כברירת מחדל, ייתכן שהאפשרות היא שה- ADMX אינו מותקן עבור Windows 10, גירסה 1803 ואילך. כדי לפתור את הבעיה, בצע את השלבים הבאים (הערה: MDM.admx העדכני ביותר תואם לאחור):
+אם אינך רואה את המדיניות הפוך הרשמה **אוטומטית של MDM** לזמינה באמצעות אישורי Azure AD המוגדרים כברירת מחדל, ייתכן שהאפשרות היא ש- ADMX אינו מותקן עבור Windows 10, גירסה 1803 ואילך. כדי לפתור את הבעיה, בצע את השלבים הבאים (הערה: MDM.admx העדכני ביותר תואם לאחור):
 
-1.  הורד: [תבניות מנהליות (.admx) עבור Windows 10 אוקטובר 2020 Update (20H2)](https://www.microsoft.com/download/102157).
+1.  הורד: [תבניות מנהליות ( .admx) עבור עדכון Windows 10 אוקטובר 2020 (20H2)](https://www.microsoft.com/download/102157).
 2.  התקן את החבילה בבקר תחום.
-3.  נווט, בהתאם לגירסת תבניות הניהול לתיקיה: **C:\Program Files (x86)\Microsoft Group Policy\Windows 10 October 2020 Update (20H2)**.
+3.  נווט, בהתאם לגירסת תבניות הניהול לתיקיה: **C:\Program Files (x86)\Microsoft Group Policy\Windows 10 עדכון אוקטובר 2020 (20H2)**.
 4.  שנה את **שם התיקיה** הגדרות מדיניות בנתיב לעיל **למדיניותDefinitions**.
 5.  העתק את **התיקיה PolicyDefinitions** לשיתוף SYSVOL שלך, הממוקמת כברירת מחדל **ב- C:\Windows\SYSVOL\domain\Policies**. 
     -   אם בכוונתך להשתמש בחנות מדיניות מרכזית עבור התחום כולו, הוסף את התוכן של PolicyDefinitions שם.
@@ -119,4 +119,8 @@ PS C:\> Initialize-SecMgmtHybirdDeviceEnrollment -GroupPolicyDisplayName 'Device
 
 ## <a name="related-content"></a>תוכן קשור
 
-[סינכרון משתמשי תחום עם Microsoft 365](manage-domain-users.md) [(מאמר)](../admin/create-groups/create-groups.md) יצירת קבוצה בערכת הלימוד של מרכז הניהול (מאמר): קביעת תצורה של צירוף היברידי של Azure Active Directory עבור [תחומים](/azure/active-directory/devices/hybrid-azuread-join-managed-domains.md) מנוהלים (מאמר)
+[סינכרון משתמשי תחום Microsoft 365](manage-domain-users.md) (מאמר)
+
+[יצירת קבוצה במרכז הניהול](../admin/create-groups/create-groups.md) (מאמר)
+
+[ערכת לימוד: קביעת תצורה של צירוף היברידי של Azure Active Directory עבור תחומים מנוהלים](/azure/active-directory/devices/hybrid-azuread-join-managed-domains.md) (מאמר)

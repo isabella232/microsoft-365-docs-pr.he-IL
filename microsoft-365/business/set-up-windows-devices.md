@@ -26,17 +26,17 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
-description: למד כיצד להגדיר מכשירים Windows פועלים Windows 10 Pro משתמשים Microsoft 365 Business Premium, ומאפשרים ניהול מרכזי ופקדי אבטחה.
-ms.openlocfilehash: 3e268d81ff6fb7113b7e0b0fe5d0545ff5c72b1e
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+description: הגדר Windows פועלים Windows 10 Pro עבור Microsoft 365 Business Premium המשתמשים, ומאפשרים ניהול מרכזי ופקדי אבטחה.
+ms.openlocfilehash: 3d32a033a1a1c89d7d4d557cea6a28e24543ab2c
+ms.sourcegitcommit: b0d3abbccf4dd37e32d69664d3ebc9ab8dea760d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244775"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52594020"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>הגדרת Windows עבור Microsoft 365 Business Premium המשתמשים
 
-## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-premium-users"></a>תנאים מוקדמים להגדרת Windows עבור Microsoft 365 Business Premium המשתמשים
+## <a name="before-you-begin"></a>לפני שתתחיל
 
 כדי שתוכל להגדיר Windows עבור משתמשי Microsoft 365 Business Premium, ודא שכל מכשירי Windows פועלים Windows 10 Pro, גירסה 1703 (Creators Update). Windows 10 Pro היא דרישה מוקדמת לפריסת Windows 10 Business, שהיא ערכה של שירותי ענן ויכולות לניהול מכשירים המשלים את Windows 10 Pro ולאפשר את פקדי הניהול והאבטחה המרכזיים של Microsoft 365 Business Premium.
   
@@ -128,6 +128,6 @@ ms.locfileid: "52244775"
 
 כדי להגדיר את המכשירים הניידים שלך, ראה הגדרת [מכשירים ניידים עבור משתמשי Microsoft 365 Business Premium](set-up-mobile-devices.md), כדי להגדיר מדיניות הגנה על מכשירים או הגנה [על יישומים, ראה ניהול Microsoft 365 לעסקים.](manage.md)
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>לקבלת מידע נוסף אודות הגדרה ושימוש Microsoft 365 Business Premium
+## <a name="related-content"></a>תוכן קשור
 
-[Microsoft 365 הדרכה לעסקים](../business-video/index.yml)
+[Microsoft 365 הדרכה לעסקים](../business-video/index.yml) (דף קישור)
