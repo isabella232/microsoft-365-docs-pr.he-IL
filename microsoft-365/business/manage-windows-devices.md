@@ -24,24 +24,26 @@ search.appverid:
 - BCS160
 - MET150
 description: למד כיצד לאפשר Microsoft 365 להגן על מכשירי Active-Directory Windows 10 מקומיים בכמה שלבים בלבד.
-ms.openlocfilehash: f16962dd3c33c3c228da507bc5c4a902d76a8a08
-ms.sourcegitcommit: b0d3abbccf4dd37e32d69664d3ebc9ab8dea760d
+ms.openlocfilehash: ec80159bdceffd8a13d09a297a2acc1b78c9b1b3
+ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52593892"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52636085"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>הפיכת מכשירי Windows 10 לתחום למנוהלים על-ידי Microsoft 365 Business Premium
 
 אם הארגון שלך משתמש ב- Windows Server Active Directory מקומי, באפשרותך להגדיר את Microsoft 365 Business Premium כדי להגן על מכשירי Windows 10 שלך, תוך שמירה על גישה למשאבים מקומיים הדורשים אימות מקומי.
 כדי להגדיר הגנה זו, באפשרותך ליישם מכשירים **מצורפים היברידיים של Azure AD**. מכשירים אלה מצורפים הן ל- Active Directory המקומי ול- Azure Active Directory שלך.
 
+## <a name="watch-configure-hybrid-azure-active-directory-join"></a>צפה: קביעת תצורה של צירוף היברידי של Azure Active Directory
+
 סרטון וידאו זה מתאר את השלבים לאיך להגדיר זאת עבור התרחיש הנפוץ ביותר, המפורט גם בשלבים המפורטים.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
   
+## <a name="before-you-begin"></a>לפני שתתחיל
 
-## <a name="before-you-get-started-make-sure-you-complete-these-steps"></a>לפני תחילת העבודה, הקפד להשלים שלבים אלה:
 - סינכרון משתמשים עם Azure AD עם Azure AD התחברות.
 - השלם את סינכרון התחברות Azure AD (OU).
 - ודא שלמשתמשי התחום שאתה מסנכרן יש רשיונות Microsoft 365 Business Premium.
@@ -119,8 +121,6 @@ PS C:\> Initialize-SecMgmtHybirdDeviceEnrollment -GroupPolicyDisplayName 'Device
 
 ## <a name="related-content"></a>תוכן קשור
 
-[סינכרון משתמשי תחום Microsoft 365](manage-domain-users.md) (מאמר)
-
-[יצירת קבוצה במרכז הניהול](../admin/create-groups/create-groups.md) (מאמר)
-
+[סינכרון משתמשי תחום Microsoft 365](manage-domain-users.md) (מאמר)\
+[יצירת קבוצה במרכז הניהול](../admin/create-groups/create-groups.md) (מאמר)\
 [ערכת לימוד: קביעת תצורה של צירוף היברידי של Azure Active Directory עבור תחומים מנוהלים](/azure/active-directory/devices/hybrid-azuread-join-managed-domains.md) (מאמר)

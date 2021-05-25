@@ -21,13 +21,13 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: למד כיצד להעביר את העסק שלך Microsoft 365 Business Premium מ- Office 365 E3.
-ms.openlocfilehash: 990ca8bdae979f1efb8a60a3460add2953a51892
-ms.sourcegitcommit: 68383240ef7a673d5f28e2ecfab9f105bf1d8c8f
+description: אם יש לך מנוי Office 365 E3 אך אין לך יותר מ- 300 עובדים, שקול לעבור ל- Microsoft 365 Business Premium.
+ms.openlocfilehash: d139d07c946ff3efed3db3a73eb5e1a4ae66c190
+ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52327169"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52623604"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>מעבר מ- Office 365 E3 Microsoft 365 Business Premium
 
@@ -125,3 +125,12 @@ Microsoft 365 Business Premium יש מגבלת אחסון של 50 GB כאשר ה
 ### <a name="sensitivity-labels"></a>תוויות רגישות
 
 כדי להתחיל להשתמש בתוויות רגישות, ראה [מבט כולל על תוויות רגישות](../compliance/sensitivity-labels.md) [ויצירה וניהול של תוויות רגישות](../business-video/create-sensitivity-labels.md) וידאו.
+
+## <a name="related-content"></a>תוכן קשור
+
+[שינוי תוכניות באופן ידני](../commerce/subscriptions/change-plans-manually.md) (מאמר)\
+[שדרוג Windows למכשירי Windows 10 Pro](upgrade-to-windows-pro-creators-update.md) (וידאו)\
+[הגדרת הגדרות הגנה על יישומים עבור מכשירי Android או iOS](app-protection-settings-for-android-and-ios.md) (מאמר)\
+[הגדרה או עריכה של הגדרות הגנת יישומים עבור Windows 10](protection-settings-for-windows-10-devices.md) (מאמר)\
+[]
+

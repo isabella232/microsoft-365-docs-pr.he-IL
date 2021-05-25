@@ -26,22 +26,20 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
-description: למד להסיר נתוני חברה ממכשירים המנוהלים באמצעות מדיניות הגנה וכן לאפס את מכשירי Windows 10 להגדרות היצרן שלהם.
-ms.openlocfilehash: fdd92e797774a47455d6b4163dfe399bf74d41f3
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: למד להסיר נתוני חברה ממכשירים המנוהלים באמצעות מדיניות הגנה וכן לאפס Windows 10 התקנים להגדרות היצרן שלהם.
+ms.openlocfilehash: 0b757172ed337e9b2b68b4fcbdf5b102a8c76710
+ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580153"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52624284"
 ---
 # <a name="manage-protected-devices-with-microsoft-365-business-premium"></a>ניהול מכשירים מוגנים באמצעות Microsoft 365 Business Premium
 
-לאחר שמשתמש מחבר את המכשיר שלו לארגון שלך על-ידי כניסה באמצעות חשבון העבודה שלו למכשיר או לאפליקציות Office במכשיר, באפשרותך להגן על המכשיר באמצעות פריטי המדיניות שאתה מגדיר. מכשירים מחוברים מפורטים בדף **מכשירים.** במקרה של אובדן או גניבה של מכשיר, באפשרותך לנהל אותו מתוך דף זה כדי להסיר את נתוני החברה. ניתן גם לאפס מכשירי Windows 10 להגדרות היצרן שלהם כדי למחוק הגדרות מותאמות אישית. 
+לאחר שמשתמש מחבר את המכשיר שלו לארגון שלך על-ידי כניסה באמצעות חשבון העבודה שלו למכשיר או כדי Office יישומים במכשיר, באפשרותך להגן על המכשיר באמצעות פריטי המדיניות שאתה מגדיר. מכשירים מחוברים מפורטים בדף **מכשירים.** במקרה של אובדן או גניבה של מכשיר, באפשרותך לנהל אותו מתוך דף זה כדי להסיר את נתוני החברה. ניתן גם לאפס מכשירי Windows 10 להגדרות היצרן שלהם כדי למחוק הגדרות מותאמות אישית. 
 
-לקבלת מידע נוסף אודות המשימות הבאות כדי לנהל מכשירים, עיין במאמרים הבאים: 
+## <a name="related-content"></a>תוכן קשור
   
-[הסרת נתוני חברה ממכשירים](remove-company-data.md)
-  
-[איפוס מכשירי Windows 10 להגדרות היצרן שלהם](reset-devices-to-factory-settings.md)
-
-[הוספת מכשיר מנוהל](./app-protection-settings-for-android-and-ios.md)
+[הסרת נתוני חברה ממכשירים](remove-company-data.md) (מאמר)\
+[איפוס Windows 10 להגדרות היצרן שלהם](reset-devices-to-factory-settings.md) (מאמר)\
+[הוספת מכשיר מנוהל](./app-protection-settings-for-android-and-ios.md) (מאמר)
