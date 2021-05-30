@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: קבל מידע נוסף על Microsoft 365 Business Premium, שירות למנויים הכולל יישומי פרודוקטיביות של Office והגנה מתקדמת על העסק שלך מפני איומי סייבר.
-ms.openlocfilehash: a355c9856ead4a66f6876cc7cb5aa8eb469d7f12
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: e4a182c5dd5444392486dd137e70361e880534bd
+ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244855"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "52705521"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>מבט כולל על Microsoft 365 Business Premium
 
@@ -42,7 +42,7 @@ ms.locfileid: "52244855"
 
 Microsoft 365 Business Premium (לשעבר Microsoft 365 Business) הוא שירות מקיף למנויים, המיועד לעסקים של עד 300 עובדים. הוא כולל את כל היישומים והשירותים של פרודוקטיביות ב- Office האהובים עליך, וכן כלים לשיתוף פעולה, כגון Microsoft Teams, עם יכולות אבטחה וניהול מכשירים מתקדמות.
 
-צפה בסרטון וידאו זה לקבלת סקירה מהירה אודותMicrosoft 365 Business Premium.<br><br>
+## <a name="watch-what-is-microsoft-365-business-premium"></a>צפה: מהו Microsoft 365 Business Premium
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
@@ -105,7 +105,7 @@ Microsoft 365 Business Premium עוזר **להתגונן מפני איומים**
 
 כדי לראות את הרשימה המלאה של תכונות אבטחה, ראה [תכונות האבטחה של Microsoft 365 Business Premium](security-features.md). לאחר שתבצע את [הגדרת Microsoft 365 Business Premium](set-up.md), ראה [חיזוק ההגנה מפני איומים](increase-threat-protection.md) ו[הגדרת תכונות תאימות](set-up-compliance.md) כדי להתחיל לעבוד עם תכונות האבטחה שאינן כלולות במסגרת ההגדרה המודרכת. קרא גם את [10 דרכים מובילות לאבטחת התוכניות Office 365 ו-Microsoft 365 Business Premium](/office365/admin/security-and-compliance/secure-your-business-data) כדי לקבל סקירה שימושית על אופן ההגדרה של הגנות מפני פושעים סייבר והאקרים.
 
-## <a name="get-microsoft-365-business-premium"></a>קבל את Microsoft 365 Business Premium
+## <a name="next-steps"></a>השלבים הבאים
 
 - אם יש לך שותף, הוא יקבל את Microsoft 365 Business Premium: [קבל את Microsoft 365 Business Premium ממרכז השותפים של Microsoft](get-microsoft-365-business.md).
 
