@@ -26,13 +26,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: aa31319c-9196-48c9-a90b-4057e0494c7a
-description: קבל מידע על מדיניות הגנה המאפשרת לך לנהל את האופן בו משתמשים ניגשים לאפליקציות Office ולקבצי עבודה ממכשירים ניידים.
-ms.openlocfilehash: a48aa241c9e70cf087da3f1701e859dae7238024
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: למד אודות מדיניות הגנה המאפשרת לך לנהל את האופן בו משתמשים ניגשים לאפליקציות Office וקבצי עבודה ממכשירים ניידים.
+ms.openlocfilehash: 7602b712f2dfc3ba369fd76979baaaa8d5da5c5c
+ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578386"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52925278"
 ---
 # <a name="manage-how-users-access-office-documents-on-mobile-devices"></a>נהל את האופן שבו המשתמשים ניגשים למסמכי Office במכשירים ניידים
 
@@ -43,10 +43,9 @@ ms.locfileid: "51578386"
 ## <a name="settings-that-control-how-users-access-office-files-on-mobile-devices"></a>הגדרות שקובעות כיצד משתמשים ניגשים לקבצי Office במכשירים ניידים
 
 ההגדרות הבאות זמינות לניהול אופן הגישה של משתמשים לקבצי עבודה של Office:
-  
-|||
-|:-----|:-----|
+
 |הגדרה  <br/> |תיאור  <br/> |
+|:-----|:-----|
 |דרוש מספר זיהוי אישי או טביעת אצבע כדי לגשת ליישומי Office  <br/> |אם הגדרה זו היא **On**, המשתמשים חייבים לספק צורה אחרת של אימות, בנוסף לשם המשתמש והסיסמה שלהם, כדי שהם יוכלו להשתמש באפליקציות Office במכשיר הנייד שלהם.  <br/> |
 |אפס מספר זיהוי אישי כשהכניסה נכשלת מספר פעמים זה  <br/> |כדי למנוע ממשתמש לא מורשה לנחש באופן אקראי קוד PIN, הקוד יאופס לאחר מספר כניסות שגויות שאתה תציין.  <br/> |
 |דרוש מהמשתמשים להיכנס שוב לאחר שיישומי Office היו לא פעילים במשך  <br/> |הגדרה זו קובעת כמה זמן המשתמש יכול להיות לא פעיל לפני שהוא מתבקש להיכנס שוב.  <br/> |
