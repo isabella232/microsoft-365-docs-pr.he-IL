@@ -30,12 +30,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: גלה את שלבי ההגדרה Microsoft 365 Business Premium, כולל הוספת תחום ומשתמשים, הגדרת מדיניות אבטחה ועוד.
-ms.openlocfilehash: 3e15f16db2a233d2e11d444600398102b075932d
-ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
+ms.openlocfilehash: 74a98e915577cf86ec32a706bd3b8f558f49db95
+ms.sourcegitcommit: 48195345b21b409b175d68acdc25d9f2fc4fc5f1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52624388"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53227638"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>הגדרת Microsoft 365 Business Premium באשף ההגדרה
 
@@ -53,7 +53,7 @@ ms.locfileid: "52624388"
 
 ### <a name="add-your-domain-to-personalize-sign-in"></a>הוספת התחום שלך כדי להתאים אישית את הכניסה
 
-1. היכנס למרכז [הניהול Microsoft 365 באמצעות](https://admin.microsoft.com) אישורי מנהל המערכת הכלליים שלך. 
+1. היכנס ל- [מרכז הניהול של Microsoft 365 באמצעות](https://admin.microsoft.com) אישורי מנהל המערכת הכלליים שלך. 
 
 2. בחר **עבור להגדרה כדי** להפעיל את האשף.
 
@@ -69,7 +69,7 @@ ms.locfileid: "52624388"
     ![צילום מסך של דף הכניסה שלך להתאמה אישית.](../media/adddomain.png)
 
     
-4. בצע את השלבים באשף כדי [ליצור רשומות DNS בכל ספק אירוח DNS עבור Microsoft 365](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) המ מוודא שהתחום נמצא בבעלותך. אם אתה מכיר את מארח התחום שלך, עיין גם [בהוראות הספציפיות של המארח.](/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)
+4. בצע את השלבים באשף כדי [ליצור רשומות DNS בכל ספק אירוח DNS עבור Microsoft 365](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) המ מוודא שהתחום נמצא בבעלותך. אם אתה מכיר את מארח התחום שלך, ראה [גם הוספת תחום Microsoft 365.](/microsoft-365/admin/setup/add-domain)
 
     אם ספק האירוח שלך הוא GoDaddy או מארח אחר זמין עם חיבור תחום [,](/office365/admin/get-help-with-domains/domain-connect)התהליך קל, ואתה תתבקש להיכנס באופן אוטומטי ולאפשר ל- Microsoft לבצע אימות בשמך.
 

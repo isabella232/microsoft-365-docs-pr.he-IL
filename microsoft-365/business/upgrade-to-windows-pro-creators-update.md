@@ -26,42 +26,41 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: גלה דרכים שבהן באפשרותך לשדרג את Windows שלך כדי Windows 10 Pro להשתמש בתכונות אבטחה ורשתות עסקיות מתקדמות יותר.
-ms.openlocfilehash: 14a1705a333b2fd4d4dda37ed5170b34acb13abe
-ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
+ms.openlocfilehash: 39a7224ea585f8e1fb5052cb6fbb62329bd15656
+ms.sourcegitcommit: 48195345b21b409b175d68acdc25d9f2fc4fc5f1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/29/2021
-ms.locfileid: "52705553"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53227514"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>שדרוג Windows למכשירי Windows 10 Pro
 
 ## <a name="watch-upgrade-windows-10-home-to-windows-10-pro"></a>צפה: שדרוג Windows 10 Home כדי Windows 10 Pro
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j]
 
 אם סרטון וידאו זה היה שימושי עבורך, עיין ב[סדרת ההדרכה המלאה עבור עסקים קטנים ומשתמשים חדשים ב- Microsoft 365](../business-video/index.yml).
 
 ## <a name="upgrade-to-windows-10-pro"></a>שדרג ל- Windows 10 Pro
-  
+
 כדי לשדרג ל- Windows 10 Pro, יש לך כמה אפשרויות. אתה יכול:
-    
-- התקן את השדרוג מתוך [אתר הורדת](https://go.microsoft.com/fwlink/?LinkID=836951 ) התוכנה של Microsoft בחר באפשרות זו אם המכשיר שנכנסת נמצא באותו מכשיר שבו &ndash; ברצונך לעדכן. 
 
-    - באתר הורדת התוכנה, לחץ על **עדכן כעת** כדי להתחיל לשדרג את המכשיר לעדכון Windows 10 Pro ליוצרים. 
-    
+- התקן את השדרוג מהאתר ['הורדת תוכנה של Microsoft'](https://go.microsoft.com/fwlink/?LinkID=836951).
+  - בחר באפשרות זו אם המכשיר שנכנסת נמצא באותו מכשיר שבו ברצונך לעדכן.
+  - באתר הורדת התוכנה, לחץ על **עדכן כעת** כדי להתחיל לשדרג את המכשיר לעדכון Windows 10 Pro ליוצרים.
+
 - צור מדיית התקנה [](https://go.microsoft.com/fwlink/?LinkID=836960) באמצעות כלי יצירת המדיה בחר באפשרות זו כדי ליצור &ndash; מדיית התקנה של Windows 10 Pro עדכון ליוצרים (כונן הבזק מסוג USB או קובץ ISO) כדי להתקין Windows 10 במחשב שונה מזה שבו אתה משתמש.
-
-    - קרא את ההוראות כיצד להשתמש בכלי וליצור את מדיית ההתקנה שלך. 
+  - קרא את ההוראות כיצד להשתמש בכלי וליצור את מדיית ההתקנה שלך.
 
 > [!NOTE]
 > אם יש לך Windows פועלים Windows 7 Pro, Windows 8 Pro או Windows 8.1 Pro, המנוי Microsoft 365 לעסקים מזכה אותך בשדרוג Windows Pro 10.
-    
+
 ## <a name="next-steps"></a>השלבים הבאים
 
-כדי להשלים את הגדרת Windows 10, ראה [הגדרת Windows עבור Microsoft 365 עבור משתמשים עסקיים.](set-up-windows-devices.md) 
-  
-כדי להשלים את הגדרת מכשירי Android ו- iOS, [ראה הגדרת מכשירים ניידים עבור Microsoft 365 עבור משתמשים עסקיים.](set-up-mobile-devices.md) 
-  
+כדי להשלים את הגדרת Windows 10, ראה [הגדרת Windows עבור Microsoft 365 עבור משתמשים עסקיים.](set-up-windows-devices.md)
+
+כדי להשלים את הגדרת מכשירי Android ו- iOS, [ראה הגדרת מכשירים ניידים עבור Microsoft 365 עבור משתמשים עסקיים.](set-up-mobile-devices.md)
+
 ## <a name="related-content"></a>תוכן קשור
 
 [Microsoft 365 הדרכה לעסקים](../business-video/index.yml) (דף קישור)
