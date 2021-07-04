@@ -24,12 +24,12 @@ search.appverid:
 - BCS160
 - MET150
 description: למד כיצד לאפשר Microsoft 365 להגן על מכשירי Active-Directory Windows 10 מקומיים בכמה שלבים בלבד.
-ms.openlocfilehash: ec80159bdceffd8a13d09a297a2acc1b78c9b1b3
-ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
+ms.openlocfilehash: eb95c437030ae13a44f5e8043b3544d5846001c2
+ms.sourcegitcommit: 4886457c0d4248407bddec56425dba50bb60d9c4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52636085"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53287694"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>הפיכת מכשירי Windows 10 לתחום למנוהלים על-ידי Microsoft 365 Business Premium
 
@@ -109,13 +109,13 @@ PS C:\> Initialize-SecMgmtHybirdDeviceEnrollment -GroupPolicyDisplayName 'Device
 
 אם אינך רואה את המדיניות הפוך הרשמה **אוטומטית של MDM** לזמינה באמצעות אישורי Azure AD המוגדרים כברירת מחדל, ייתכן שהאפשרות היא ש- ADMX אינו מותקן עבור Windows 10, גירסה 1803 ואילך. כדי לפתור את הבעיה, בצע את השלבים הבאים (הערה: MDM.admx העדכני ביותר תואם לאחור):
 
-1.  הורד: [תבניות מנהליות ( .admx) עבור עדכון Windows 10 אוקטובר 2020 (20H2)](https://www.microsoft.com/download/102157).
-2.  התקן את החבילה בבקר תחום.
-3.  נווט, בהתאם לגירסת תבניות הניהול לתיקיה: **C:\Program Files (x86)\Microsoft Group Policy\Windows 10 עדכון אוקטובר 2020 (20H2)**.
-4.  שנה את **שם התיקיה** הגדרות מדיניות בנתיב לעיל **למדיניותDefinitions**.
-5.  העתק את **התיקיה PolicyDefinitions** לשיתוף SYSVOL שלך, הממוקמת כברירת מחדל **ב- C:\Windows\SYSVOL\domain\Policies**. 
-    -   אם בכוונתך להשתמש בחנות מדיניות מרכזית עבור התחום כולו, הוסף את התוכן של PolicyDefinitions שם.
-6.  במקרה שיש לך כמה בקרי תחום, המתן עד ש- SYSVOL ישכפל כדי שמדיניות תהיה זמינה. הליך זה יעבוד גם עבור כל גירסה עתידית של תבניות הניהול.
+1. הורד: [תבניות מנהליות ( .admx) עבור עדכון Windows 10 אוקטובר 2020 (20H2)](https://www.microsoft.com/download/102157).
+2. התקן את החבילה בבקר תחום.
+3. נווט, בהתאם לגירסת תבניות הניהול לתיקיה: **C:\Program Files (x86)\Microsoft Group Policy\Windows 10 עדכון אוקטובר 2020 (20H2)**.
+4. שנה את **שם התיקיה** הגדרות מדיניות בנתיב לעיל **למדיניותDefinitions**.
+5. העתק את **התיקיה PolicyDefinitions** לשיתוף SYSVOL שלך, הממוקמת כברירת מחדל **ב- C:\Windows\SYSVOL\domain\Policies**.
+   - אם בכוונתך להשתמש בחנות מדיניות מרכזית עבור התחום כולו, הוסף את התוכן של PolicyDefinitions שם.
+6. במקרה שיש לך כמה בקרי תחום, המתן עד ש- SYSVOL ישכפל כדי שמדיניות תהיה זמינה. הליך זה יעבוד גם עבור כל גירסה עתידית של תבניות הניהול.
 
 בשלב זה, תוכל לראות את המדיניות הפוך הרשמה אוטומטית של MDM לזמינה באמצעות אישורי **Azure AD המוגדרים כברירת** מחדל.
 
