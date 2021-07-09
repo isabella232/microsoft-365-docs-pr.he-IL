@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: למד אודות Microsoft 365 לעסקים, כיצד להגדיר אותו ואופן הכנת המכשירים והמחשבים של המשתמשים שלך כדי להבטיח שהם מוגנים על-ידי Microsoft 365 לעסקים.
-ms.openlocfilehash: be5f0e74b71f412bf647e4ef0e496cd932fc306a
-ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
+ms.openlocfilehash: 2ab0079da7a8f30d481cdb3d3dc6d165b4a19e99
+ms.sourcegitcommit: 0d1b065c94125b495e9886200f7918de3bda40b3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/29/2021
-ms.locfileid: "52706457"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53339289"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>תחילת העבודה עם Microsoft 365 לעסקים
 
@@ -41,7 +41,7 @@ ms.locfileid: "52706457"
 
 Microsoft 365 לעסקים הוא ערכה מקיפה של כלי פרודוקטיביות ושיתוף פעולה עסקיים, כגון Outlook, Word, Excel ומוצרים Office אחרים, שהם תמיד עדכניים. באפשרותך להגן על קבצי העבודה שלך בכל מכשירי iOS, Android ו- Windows 10 שלך עם אבטחה ברמה ארגונית פשוטה לניהול.
 
-## <a name="watch-what-is-microsoft-365-business-premium"></a>צפה: מה Microsoft 365 Business Premium
+## <a name="watch-what-is-microsoft-365-business-premium"></a>צפה: מהו Microsoft 365 Business Premium
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
@@ -57,7 +57,7 @@ Microsoft 365 לעסקים מיועדת עבור עד 300 רשיונות. אם �
 
  **מבט כולל על הגדרת Microsoft 365 עבור העסק**
   
-הדיאגרמה הבאה מתארת כיצד מנהלי מערכת מגדירים Microsoft 365 לעסקים. הוא מתאר גם את השלבים להכנת Windows עבור Microsoft 365 לעסקים. באפשרותך גם להוסיף מכשירים חדשים Microsoft 365 הניהול של Windows [AutoPilot](add-autopilot-devices-and-profile.md). באפשרותך להשתמש ב- AutoPilot כדי להגדיר ולהגדיר מראש מכשירים חדשים כך שהם מוכנים לשימוש פרודוקטיבי ברגע שמשתמש נכנס עם האישורים Microsoft 365 שלהם לעסקים.
+הדיאגרמה הבאה מתארת כיצד מנהלי מערכת מגדירים Microsoft 365 לעסקים. הוא מתאר גם את השלבים להכנת Windows עבור Microsoft 365 לעסקים. באפשרותך גם להוסיף מכשירים חדשים מרכז הניהול של Microsoft 365 באמצעות [Windows AutoPilot](add-autopilot-devices-and-profile.md). באפשרותך להשתמש ב- AutoPilot כדי להגדיר ולהגדיר מראש מכשירים חדשים כך שהם מוכנים לשימוש פרודוקטיבי ברגע שמשתמש נכנס עם האישורים Microsoft 365 שלהם לעסקים.
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](../media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
 
@@ -70,7 +70,7 @@ Microsoft 365 לעסקים מיועדת עבור עד 300 רשיונות. אם �
   
 ### <a name="1-set-up-microsoft-365-for-business-admin"></a>1: הגדרת Microsoft 365 לעסקים (מנהל מערכת)
 
-היכנס אל [Microsoft 365 הניהול באמצעות](https://portal.office.com/adminportal/home) אישורי מנהל המערכת הכלליים שלך והשלם את השלבים הבאים כדי להגדיר את Microsoft 365 לעסקים. 
+היכנס כדי [מרכז הניהול של Microsoft 365 עם](https://admin.microsoft.com/adminportal/home) אישורי מנהל המערכת הכללי שלך והשלם את השלבים הבאים כדי להגדיר Microsoft 365 לעסקים. 
   
 1. [דרישות מוקדמות להגנה על נתונים במכשירים עם Microsoft 365 לעסקים](pre-requisites-for-data-protection.md)
     
@@ -78,7 +78,7 @@ Microsoft 365 לעסקים מיועדת עבור עד 300 רשיונות. אם �
     
 2. [שימוש באשף ההגדרה כדי להגדיר Microsoft 365 לעסקים](set-up.md)
     
-    אם אתה עובר לצמיתות מ- **Active Directory** מקומי לענן, באפשרותך לעבור למרכז הניהול של Microsoft 365 ולהשתמש באשף ההגדרה כדי להוסיף את המשתמשים שלך באופן ידני, או לבצע סינכרון פעם אחת עם Azure AD התחברות. ניתן לעשות זאת בשתי דרכים: 
+    אם אתה עובר לצמיתות מ- **Active Directory** מקומי לענן, באפשרותך לעבור אל מרכז הניהול של Microsoft 365 ולהשתמש באשף ההגדרה כדי להוסיף את המשתמשים שלך באופן ידני, או לבצע סינכרון פעם אחת עם Azure AD התחברות. ניתן לעשות זאת בשתי דרכים: 
     
     - אם יש לך גם שרת Exchange 2010, Exchange 2013 או Exchange 2016, באפשרותך להשתמש ב- Minimal Hybrid כדי להעביר במהירות [Exchange תיבות](/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate)דואר Microsoft 365. השלבים ההיברידיים המינימליים כוללים סינכרון של משתמשים ב- Azure AD והעברת דואר אלקטרוני באופן מקומי לענן. לאחר השלמת העברת הדואר האלקטרוני, סינכרון מדריכי הכתובות מבוטל באופן אוטומטי בעת שימוש בשיטה זו.
     
