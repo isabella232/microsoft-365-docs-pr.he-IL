@@ -26,12 +26,12 @@ search.appverid:
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: התקן Office במחשב iPhone או בטלפון Android, וקבצי העבודה שלך באפליקציות Office יהיו מוגנים על-ידי Microsoft 365 לעסקים.
-ms.openlocfilehash: 7b411b6ae1223963b8583e1e3cd0ee00e13ff958
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 477f0ee63b045ca8fd6d3cfc3023f4122661a3b6
+ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244795"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53393398"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>הגדרת מכשירים ניידים עבור Microsoft 365 עבור משתמשים עסקיים
 
@@ -105,7 +105,7 @@ ms.locfileid: "52244795"
   
 ![Set  PIN for Outlook app in Android](../media/edb91afb-f1ed-451a-bc6b-8ccba664e055.png)
 
-## <a name="see-also"></a>למידע נוסף
+## <a name="related-content"></a>תוכן קשור
 
 [Microsoft 365 הדרכה לעסקים](../business-video/index.yml)
 

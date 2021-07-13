@@ -16,17 +16,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - AdminSurgePortfolio
+- AdminTemplateSet
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: למד כיצד לקבל גישה למשאבים מקומיים, כמו שורה של אפליקציות עסקיות, שיתופי קבצים ומדפסות ממכשיר Azure Active Directory המצורף Windows 10 שלך.
-ms.openlocfilehash: 72b3c5ae538cad24fc12e25717dedccb2fdc9017
-ms.sourcegitcommit: 4fb1226d5875bf5b9b29252596855a6562cea9ae
+ms.openlocfilehash: 71d60e0187c917dffb7390afcedf22dc73f44008
+ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/08/2021
-ms.locfileid: "52843321"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53393458"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Access משאבים מקומיים ממכשיר מצורף ל- Azure AD ב- Microsoft 365 Business Premium
 
@@ -57,7 +58,7 @@ ms.locfileid: "52843321"
 
 אם המכשיר Windows שמצורף ל- Azure-AD היה בעבר לתחום או בקבוצת עבודה, שקול את המגבלות הבאות:
 
-- כאשר התקן Azure AD מצטרף, הוא יוצר משתמש חדש מבלי להפנות לפרופיל קיים. יש להעביר פרופילים באופן ידני. פרופיל משתמש מכיל מידע כמו מועדפים, קבצים מקומיים, הגדרות דפדפן והגדרות תפריט התחלה. הגישה הטובה ביותר היא למצוא כלי של ספקים אחרים כדי למפות קבצים והגדרות קיימים לפרופיל החדש.
+- כאשר התקן Azure AD מצטרף, הוא יוצר משתמש חדש מבלי להפנות לפרופיל קיים. יש להעביר פרופילים באופן ידני. פרופיל משתמש מכיל מידע כמו מועדפים, קבצים מקומיים, הגדרות דפדפן תפריט התחלה שונות. הגישה הטובה ביותר היא למצוא כלי של ספקים אחרים כדי למפות קבצים והגדרות קיימים לפרופיל החדש.
 
 - אם המכשיר משתמש באובייקטי מדיניות קבוצתית (GPO), ייתכן של- [](/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) GPO מסוימים אין ספק שירותי תצורה (CSP) דומה ב- Intune. הפעל את [הכלי MMAT כדי](https://www.microsoft.com/download/details.aspx?id=45520) למצוא CSPs ניתנים להשוואה עבור אובייקטי GPO קיימים.
 
