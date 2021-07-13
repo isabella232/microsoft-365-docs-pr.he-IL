@@ -1,5 +1,5 @@
 ---
-title: מעבר אל Microsoft 365 Business מ- Office 365 E3
+title: מעבר ל- Microsoft 365 Business מ- Office 365 E3
 f1.keywords:
 - NOCSH
 ms.author: cmcatee
@@ -18,20 +18,21 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - AdminSurgePortfolio
+- AdminTemplateSet
 search.appverid:
 - BCS160
 - MET150
-description: אם יש לך מנוי Office 365 E3 אך אין לך יותר מ- 300 עובדים, שקול לעבור ל- Microsoft 365 Business Premium.
-ms.openlocfilehash: d139d07c946ff3efed3db3a73eb5e1a4ae66c190
-ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
+description: אם יש לך מנוי Office 365 E3 אך אין לך יותר מ- 300 עובדים, שקול לעבור Microsoft 365 Business Premium.
+ms.openlocfilehash: c1b4da07b3bf28cce1a48424ab45cde6ea54d367
+ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52623604"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53394170"
 ---
-# <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>מעבר מ- Office 365 E3 Microsoft 365 Business Premium
+# <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>מעבר מ- Office 365 E3 אל Microsoft 365 Business Premium
 
-Microsoft 365 Business Premium כולל את כל מה שאתה צריך עבור העסק הקטן שלך, המשלב את יישומי הפרודוקטיביות מבוססי הענן הטובים מסוגם עם ניהול מכשירים ואבטחה פשוטים. אם יש לך כעת Office 365 E3, אך אין לך יותר מ- 300 עובדים, שקול לעבור ל- Microsoft 365 Business Premium לקבלת תכונות אבטחה נוספות.
+Microsoft 365 Business Premium כולל את כל מה שאתה צריך עבור העסק הקטן שלך, המשלב את יישומי הפרודוקטיביות מבוססי הענן הטובים מסוגם עם ניהול מכשירים ואבטחה פשוטים. אם יש לך כעת מנוי Office 365 E3, אך אין לך יותר מ- 300 עובדים, שקול לעבור ל- Microsoft 365 Business Premium לקבלת תכונות אבטחה נוספות.
 
 העברה היא קלה: תחילה עליך להחליף רשיונות וכל הנתונים ומידע המשתמש שלך במנוי הנוכחי שלך נשמרים. לאחר ההעברה, יהיה עליך להגדיר את התכונות שנוספו ב- Microsoft 365 Business Premium.
 
@@ -39,7 +40,7 @@ Microsoft 365 Business Premium כולל את כל מה שאתה צריך עבו�
 
 טבלה זו מציגה את ההבדלים בין Microsoft 365 Business Premium לבין Office 365 E3.
 
-| תכונה    | תמיכה Microsoft 365 Business Premium    | תמיכה ב- Office 365 E3 |
+| תכונה    | תמיכה Microsoft 365 Business Premium    | תמיכה Office 365 E3 |
 |:-------|:-----|:-----|
 | **מקומי**        | | |
 | Office<sup>1</sup>    | יישומי Microsoft 365 לעסקים    | יישומי Microsoft 365 עבור ארגונים |
@@ -59,7 +60,7 @@ Microsoft 365 Business Premium כולל את כל מה שאתה צריך עבו�
 | שדרוג זכויות Windows 10 Pro מתוך Win 7/8.1 Pro רשיונות|     ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)    ||
 | **הגנה על מידע**        | | |
 |Office 365 מניעת אובדן נתונים|    ![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)|![כלול ב- Office 365 E3](../media/check-mark.png)|
-|Azure Information Protection Plan 1, BitLocker אכיפה|![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)||
+|תוכנית הגנה מפני מידע של Azure 1, אכיפת BitLocker|![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)||
 |Azure Information Protection Plan 1, תוויות רגישות|![כלול ב- Microsoft 365 Business Premium](../media/check-mark.png)||
 |**לקוח Access רשיון (זכויות CAL)**|||
 |Enterprise CAL Suite (Exchange, SharePoint, Skype)||![כלול ב- Office 365 E3](../media/check-mark.png)|
@@ -71,7 +72,7 @@ Microsoft 365 Business Premium כולל את כל מה שאתה צריך עבו�
 כדי להעביר את המנוי שלך, ראה [שינוי תוכניות באופן](../commerce/subscriptions/change-plans-manually.md) ידני לקבלת הוראות אם ברצונך להעביר רק כמה אנשים Microsoft 365 Business Premium. באפשרותך גם לשדרג [את כולם באופן](../commerce/subscriptions/upgrade-to-different-plan.md)אוטומטי, או לעבוד עם שותף כדי להעביר את המנוי והרשיון שלך ל- E3 למנוי Microsoft 365 Business Premium שלך.
 הסעיפים הבאים מתארים את השינויים שתצטרך לבצע, אם יש, ומה ניתן לעשות לאחר ההעברה.
 
-### <a name="office-365-e3-subscription-configuration-and-data"></a>Office 365 תצורה ונתונים של מנוי E3
+### <a name="office-365-e3-subscription-configuration-and-data"></a>Office 365 E3 תצורה ונתונים של מנוי
 אין צורך לבצע שינויים כלשהם במנוי או בנתונים הנוכחיים שלך לפני המעבר, הכולל:
 
 - תצורת מנוי, כגון רשומות DNS ושמות תחומים.
@@ -86,7 +87,7 @@ Microsoft 365 Business Premium כולל את כל מה שאתה צריך עבו�
 ### <a name="set-up-policies-to-protect-user-devices-and-files"></a>הגדרת פריטי מדיניות להגנה על מכשירים וקבצים של משתמשים
 
 > [!NOTE]
-> אם תגדיר Office 365 והתקנים של MDM, מכשירים אלה יופיעו בדף **מכשירים** במרכז Microsoft 365 הניהול. כל פריטי המדיניות שתגדיר יופיעו ברשימת פריטי המדיניות הקלאסיים [בפורטל Intune](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview).
+> אם תגדיר Office 365 והתקנים של MDM, מכשירים אלה יופיעו בדף **מכשירים** מרכז הניהול של Microsoft 365. כל פריטי המדיניות שתגדיר יופיעו ברשימת פריטי המדיניות הקלאסיים [בפורטל Intune](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview).
 
 לאחר הקצאת רשיונות ל- Microsoft 365 Business Premium, באפשרותך להתחיל להגן על המכשירים והקבצים של המשתמשים.
 
@@ -120,7 +121,7 @@ Microsoft 365 Business Premium יש מגבלת אחסון של 50 GB כאשר ה
 
 ### <a name="threat-protection"></a>הגנה מפני איומים
 
-לאחר המעבר ל- Microsoft 365 Business Premium, יש לך את Defender Office 365. עיין [ב- Microsoft Defender לקבלת Office 365 לקבלת](../security/office-365-security/defender-for-office-365.md) מבט כולל. כדי להגדיר, ראה [הגדרת קישורים בטוחים](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa), [הגדרת](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)קבצים מצורפים בטוחים והגדרת מניעת דיוג [ב- Defender עבור Office 365](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c).
+לאחר המעבר ל- Microsoft 365 Business Premium, יש לך את Defender Office 365. עיין [ב- Microsoft Defender לקבלת Office 365 לקבלת](../security/office-365-security/defender-for-office-365.md) מבט כולל. כדי להגדיר, ראה [הגדרת כספת קישורים](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa), הגדרת [כספת](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)קבצים מצורפים ו הגדרת מניעת דיוג [ב- Defender עבור Office 365](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c).
 
 ### <a name="sensitivity-labels"></a>תוויות רגישות
 
