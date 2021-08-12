@@ -26,19 +26,19 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: cbc6bfe5-565a-4fb8-95f0-b06e7b74ac46
-description: עזור למשתמשים להתקין אפליקציות Office במכשירי Windows 10 והתקן בקלות את Office במחשבי Windows 10 שלך ממרכז Microsoft 365 הניהול.
-ms.openlocfilehash: 74c17533995b74655be57524b77d9c508f703c50
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+description: עזור למשתמשים להתקין אפליקציות Office במכשירי Windows 10 והתקן בקלות את Office במחשבי Windows 10 שלך מה- מרכז הניהול של Microsoft 365.
+ms.openlocfilehash: bfd0d9baba177bd68b4d3174eba7c5ffb3a38aa8c690c7b8314e5b298bdbdfc1
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245163"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53821002"
 ---
 # <a name="help-your-users-install-office-on-windows-10-devices"></a>עזור למשתמשים שלך להתקין Office במכשירי Windows 10 אחרים
 
 [![תווית המיידעת אותך שמרכז הניהול משתנה ושניתן למצוא פרטים נוספים ב- aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](/office365/admin/microsoft-365-admin-center-preview)
 
-באפשרותך להתקין במהירות ובקלות Office במחשבי Windows 10 ממרכז Microsoft 365 הניהול.
+באפשרותך להתקין במהירות ובקלות Office במחשבי Windows 10 מה- מרכז הניהול של Microsoft 365.
   
 כדי להבין כיצד זה עובד עם יישומי Office שהותקנו בעבר, קרא את [הכנה להתקנת לקוח של Office](prepare-for-office-client-deployment.md) לפני שתתחיל.
 

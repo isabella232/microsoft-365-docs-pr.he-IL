@@ -27,12 +27,12 @@ search.appverid:
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: למד כיצד ליצור פרופיל AutoPilot ולהחיל אותו על מכשיר, וכן לערוך או למחוק פרופיל או להסיר פרופיל ממכשיר.
-ms.openlocfilehash: 414243da88fb6f39f8e6067d19d49ffe955f725f
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: d2a3038346b7879006dc2eb50ebe2e70cc6fae92c020a38465cec9d468c638b2
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580253"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53797213"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>יצירה ועריכה של פרופילי AutoPilot
 
@@ -40,7 +40,7 @@ ms.locfileid: "51580253"
 
 פרופיל חל על מכשיר או על קבוצה של מכשירים
   
-1. במרכז הניהול של Microsoft 365, בחר  \> **מכשירים AutoPilot**.
+1. בתיבת מרכז הניהול של Microsoft 365, בחר  \> **מכשירים AutoPilot**.
   
 2. בדף **AutoPilot,** בחר את הכרטיסיה **פרופילים** \> **צור פרופיל**.
     
