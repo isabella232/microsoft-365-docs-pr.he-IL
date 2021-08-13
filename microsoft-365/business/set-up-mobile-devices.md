@@ -26,12 +26,12 @@ search.appverid:
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: התקן Office במחשב iPhone או בטלפון Android, וקבצי העבודה שלך באפליקציות Office יהיו מוגנים על-ידי Microsoft 365 לעסקים.
-ms.openlocfilehash: 477f0ee63b045ca8fd6d3cfc3023f4122661a3b6
-ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
+ms.openlocfilehash: 940f70f26a698c05aa1786b49e7a7584b647c6164c1717354b537398988ff4a7
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53393398"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53803427"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>הגדרת מכשירים ניידים עבור Microsoft 365 עבור משתמשים עסקיים
 
