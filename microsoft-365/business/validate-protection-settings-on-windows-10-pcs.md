@@ -22,23 +22,23 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: אמת את הגדרות ההגנה על אפליקציית Microsoft 365 Business Premium במכשירי Windows 10 וודא שמשתמשים אינם יכולים להעתיק נתוני חברה לקבצים אישיים או ליישומים שאינם מנוהלים.
-ms.openlocfilehash: e319ffa5149f055b5de45078facc8899acffc223
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: אמת Microsoft 365 Business Premium הגנה על אפליקציות Windows 10 ואמת שמשתמשים אינם יכולים להעתיק נתוני חברה לקבצים אישיים או ליישומים שאינם מנוהלים.
+ms.openlocfilehash: ab084ded5ef052a7b85839f0debb96eb1bc5bdf332230293613396825c7263f0
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51579861"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53861717"
 ---
 # <a name="validate-app-protection-settings-on-windows-10-pcs"></a>אימות הגדרות הגנה של אפליקציות במחשבי Windows 10
 
 ## <a name="verify-that-users-cannot-copy-company-data-to-personal-files-on-corporate-devices"></a>ודא שמשתמשים אינם יכולים להעתיק נתונים של החברה לקבצים אישיים במכשירים של החברה
 
-לאחר שאתה [מגדיר מדיניות הגנה על אפליקציות](protection-settings-for-windows-10-devices.md), עשויות לחלוף כמה שעות בטרם המדיניות תיכנס לתוקף במכשירים של המשתמשים. אם הפכת את **ההגדרה** מנע ממשתמשים להעתיק נתוני חברה לקבצים אישיים ולאלץ אותם לשמור קבצי עבודה ב- **OneDrive for Business** עבור מכשירים בבעלות החברה, באפשרותך לבדוק זאת במכשיר של המשתמש לאחר שהם התחברו ל- Azure AD והינם מחוברים. 
+לאחר שאתה [מגדיר מדיניות הגנה על אפליקציות](protection-settings-for-windows-10-devices.md), עשויות לחלוף כמה שעות בטרם המדיניות תיכנס לתוקף במכשירים של המשתמשים. אם הפכת את **ההגדרה** מנע ממשתמשים להעתיק נתוני חברה לקבצים אישיים ולאלץ אותם לשמור קבצי **עבודה ב- OneDrive for Business** עבור מכשירים בבעלות החברה, באפשרותך לבדוק זאת במכשיר של המשתמש לאחר שהם התחברו ל- Azure AD והינם מחוברים. 
   
  **אימות הגדרות חיבור**
   
-1. לאחר שתיתחבר באמצעות אישורי Microsoft 365 Business Premium ותתחבר ל- Azure AD כמתואר בהגדיר מכשירי Windows עבור [משתמשי Microsoft 365 Business Premium](set-up-windows-devices.md), עבור אל חשבונות הגדרות **Windows** Access עבודה או \>  \> **בית ספר.** בחר **מחובר \<tenant name\> ל- Azure AD** ולאחר מכן בחר **מידע**.
+1. לאחר שתיתחבר באמצעות Microsoft 365 Business Premium ותתחבר ל- Azure AD כמתואר במאמר [הגדרת Windows עבור משתמשי Microsoft 365 Business Premium](set-up-windows-devices.md), עבור אל Windows הגדרות  \> **חשבונות** Access עבודה או \> **בית ספר**. בחר **מחובר \<tenant name\> ל- Azure AD** ולאחר מכן בחר **מידע**.
     
     ![Click or tap Info on the Connected to Azure AD dialog.](../media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
   
@@ -48,7 +48,7 @@ ms.locfileid: "51579861"
   
  **ודא שלא ניתן להדביק נתוני חברה באפליקציה לא מנוהלת**
   
-1. פתח את Outlook 2016 שהותקן על-ידי Microsoft 365 Business Premium.
+1. פתח Outlook 2016 שהותקן על-ידי Microsoft 365 Business Premium.
     
 2. פתח הודעת דואר אלקטרוני והעתק חלק מהתוכן שלה.
     
@@ -64,11 +64,11 @@ ms.locfileid: "51579861"
 
  **אימות הגדרות חיבור**
   
-1. במכשיר האישי שלך ב- Windows 10 שבו אתה מחובר כמשתמש מקומי, עבור אל **הגדרות Windows** ולאחר מכן לחץ או הקש על **חשבונות** Access בעבודה או \> **בבית ספר**.
+1. במכשיר Windows 10 האישי שלך שבו אתה מחובר כמשתמש מקומי, עבור **אל Windows הגדרות** ולאחר מכן לחץ או הקש על **חשבונות** Access בעבודה או \> **בבית ספר**.
     
 2. תחת **גישה לחשבון בעבודה או בבית ספר**, בחר **התחבר**.
     
-3. הזן את אישור Microsoft 365 Business Premium שלך בתיבת **הדו-שיח הגדרת חשבון בעבודה או בבית** ספר \> **היכנס.**
+3. הזן את Microsoft 365 Business Premium האישור שלך בתיבת **הדו-שיח הגדרת חשבון בעבודה או בבית ספר** \> **היכנס.**
     
 4. בדף **גישה לחשבון בעבודה או בבית ספר**, בחר את ה **חשבון בעבודה או בבית ספר** ולאחר מכן בחר **פרטים**.
     
@@ -80,7 +80,7 @@ ms.locfileid: "51579861"
   
  **ודא שלא ניתן להדביק נתוני חברה באפליקציה לא מנוהלת**
   
-1. פתח את Outlook 2016 והוסף את חשבון Microsoft 365 Business Premium שלך במקרה הצורך והירשם באמצעות אישורי Microsoft 365 Business Premium שלך.
+1. פתח Outlook 2016 והוסף את Microsoft 365 Business Premium שלך במקרה הצורך והירשם באמצעות אישורי Microsoft 365 Business Premium שלך.
     
 2. פתח הודעת דואר אלקטרוני והעתק חלק מהתוכן שלה.
     
