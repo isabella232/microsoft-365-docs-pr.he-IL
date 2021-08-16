@@ -24,18 +24,18 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: קבל מידע על תכונות האבטחה ה מגיעות עם Microsoft 365 Business Premium כדי לסייע בהגנה על הנתונים שלך במחשבי PC, בטלפונים ובמחשבי Tablet.
-ms.openlocfilehash: 974204e100d3228f78406aca4acce67a889b08c3
-ms.sourcegitcommit: 05f40904f8278f53643efa76a907968b5c662d9a
+ms.openlocfilehash: 50b74ed18d641e8de38db3284c3ef3abf319825f4f7dbe02b6575f6c0fbc6f85
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52113465"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53887571"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Microsoft 365 Business Premium אבטחה ותאימות
 
 Microsoft 365 Business Premium מציע תכונות אבטחה פשוטות כדי לסייע בהגנה על הנתונים שלך במחשבי PC, טלפונים ומחשבי Tablet.
     
-## <a name="microsoft-365-admin-center-security-features"></a>Microsoft 365 האבטחה של מרכז הניהול
+## <a name="microsoft-365-admin-center-security-features"></a>מרכז הניהול של Microsoft 365 אבטחה
 
 באפשרותך לנהל רבות מתכונות האבטחה Microsoft 365 Business Premium במרכז הניהול, אשר מספקות לך דרך פשוטה יותר להפעיל או לבטל תכונות אלה. במרכז הניהול, באפשרותך לעשות את הפעולות הבאות:
   
@@ -49,7 +49,7 @@ Microsoft 365 Business Premium מציע תכונות אבטחה פשוטות כ�
     
 - [הגדר הגדרות הגנה על מכשירים עבור Windows 10 אחרים.](protection-settings-for-windows-10-pcs.md) 
     
-    באפשרותך להפוך [את BitLocker לזמינה](/windows/security/information-protection/bitlocker/bitlocker-frequently-asked-questions) כדי לסייע בהגנה על נתונים במקרה של אובדן או גניבה של מכשיר, [ולאפשר ל- Windows Exploit Guard](/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection) לספק הגנה מתקדמת מפני תוכנות כופר. 
+    באפשרותך להפוך הצפנת [BitLocker](/windows/security/information-protection/bitlocker/bitlocker-frequently-asked-questions) לזמינה כדי לסייע בהגנה על נתונים במקרה של אובדן או גניבה של מכשיר, [ולאפשר ל- Windows Exploit Guard](/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection) לספק הגנה מתקדמת מפני תוכנות כופר. 
     
 - [הסרת נתוני חברה ממכשירים](remove-company-data.md)
     
@@ -73,7 +73,7 @@ Microsoft 365 Business Premium מציע תכונות אבטחה פשוטות כ�
 
 - **[היכולות המלאות של Intune בפורטל Azure](/mem/intune/fundamentals/what-is-intune)**
     
-    גישה למרכז הניהול של Intune בפורטל Azure מאפשרת לך להגדיר תכונות אבטחה נוספות, כגון ניהול מכשירי MacOS, מכשירי iPhone ומכשירי Android, יחד עם ניהול מכשירים מתקדם עבור Windows, שאינם זמינים דרך מרכז הניהול של Microsoft 365.
+    גישה למרכז הניהול של Intune בפורטל Azure מאפשרת לך להגדיר תכונות אבטחה נוספות, כגון ניהול מכשירי MacOS, מכשירי iPhone ו- Android, יחד עם ניהול מכשירים מתקדם עבור Windows, שאינם זמינים באמצעות מרכז הניהול של Microsoft 365.
 - **אותה [תוכנית Access של](/azure/active-directory/conditional-access/overview) Azure AD Premium P1**
 
 
@@ -108,7 +108,7 @@ Microsoft 365 Business Premium מציע תכונות אבטחה פשוטות כ�
 
    Microsoft 365 Business Premium כולל את כל התכונות של [Azure Information Protection Plan 1](https://go.microsoft.com/fwlink/p/?linkid=871407). בתוכנית זו, באפשרותך  ליצור תוויות רגישות המאפשרות לך לשלוט בגישה למידע רגיש בדואר אלקטרוני ובמסמכים, עם פקדים כמו "אל תעביר" ו"אל תעתיק". באפשרותך גם לסווג מידע רגיש כ"סודי" ולציין כיצד ניתן לשתף מידע מסווג מחוץ לעסק ובתוך העסק. קל להחיל הצפנה ברמה ארגונית על דואר אלקטרוני ומסמכים כדי לשמור על פרטיות המידע שלך. באפשרותך גם להתקין את התוספת של לקוח Azure Information Protection עבור Office שלך. לקבלת מידע נוסף, ראה [לקוח תיוג מאוחד](/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history)של Azure Information Protection . עבור תוויות רגישות, התקן את **AzInfoProtection_UL.exe**.
 
-באפשרותך לנהל תכונות אלה במרכז תאימות &amp; האבטחה ובמרכז הניהול של Intune. לאורך זמן, הפקדים הפשוטים יתווספו למרכז Microsoft 365 הניהול.
+באפשרותך לנהל תכונות אלה במרכז תאימות &amp; האבטחה ובמרכז הניהול של Intune. לאורך זמן, הפקדים הפשוטים יתווספו מרכז הניהול של Microsoft 365.
   
     
 ## <a name="faq"></a>שאלות נפוצות
@@ -123,6 +123,6 @@ Microsoft 365 Business Premium מציע תכונות אבטחה פשוטות כ�
     
 2. בסרגל הניווט הימני, אתר **מרכזי ניהול והרחב** אותו. 
     
-    ![בסרגל הניווט הימני במרכז הניהול של Microsoft 365, בחר מרכזי ניהול.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
+    ![בסרגל הניווט הימני בתיבת מרכז הניהול של Microsoft 365, בחר מרכזי ניהול.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
 3. בחר **תאימות &amp; אבטחה** כדי לעבור למרכז תאימות &amp; האבטחה.

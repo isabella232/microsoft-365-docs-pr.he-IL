@@ -25,18 +25,18 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
-description: גלה כיצד, באמצעות Microsoft 365 Business Premium, באפשרותך לוודא באופן אוטומטי שלמשתמשים יש את הגירסה העדכנית ביותר של Office בכל מכשירי Windows 10 שלהם.
-ms.openlocfilehash: d3c62eb42ea73c7af6df6012dbc9488828cd1ba8
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: גלה כיצד, Microsoft 365 Business Premium, באפשרותך לוודא באופן אוטומטי שלמשתמשים יש את הגירסה העדכנית ביותר של Office בכל המכשירים Windows 10 שלהם.
+ms.openlocfilehash: 869a44196e93ed0c9f7f6f64b21fe9b2302e9a48c4b0bdcdc3a09d28bb954d1c
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580173"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53887542"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>התקנת Office ב- Windows 10 במהלך ההתקנה
 
 ![כרזה להצביע על https://aka.ms/aboutM365preview .](../media/m365admincenterchanging.png)
 
-הגדרה זו כבויה כברירת מחדל. באפשרותך להפעיל אותה כדי לוודא שלמשתמשים יש את הגירסה העדכנית ביותר של Office בכל מכשירי Windows 10 שלהם, אך תחילה ודא שכל התנאים המוקדמים קיימים. המשתמשים חייבים להיות מורשים עבור Microsoft 365 Business Premium כדי שהגדרה זו תדחוף את התוכנה למכשיר, בנוסף לדרישות אחרות המתוארות בפריסת לקוח ההכנה ל- [Office על-ידי Microsoft 365 Business Premium.](prepare-for-office-client-deployment.md)
+הגדרה זו כבויה כברירת מחדל. באפשרותך להפעיל אותה כדי לוודא שלמשתמשים יש את הגירסה העדכנית ביותר של Office בכל מכשירי Windows 10 שלהם, אך תחילה ודא שכל התנאים המוקדמים קיימים. יש לתת למשתמשים רשיון עבור Microsoft 365 Business Premium כדי שהגדרה זו תדחוף את התוכנה למכשיר, בנוסף לדרישות אחרות המתוארות בסעיף [התכונן Office פריסת לקוח על-ידי Microsoft 365 Business Premium.](prepare-for-office-client-deployment.md)
   
 מומלץ לקבל את הגדרת ברירת המחדל במהלך ההגדרה.
