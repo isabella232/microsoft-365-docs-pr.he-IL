@@ -25,13 +25,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
-description: למד כיצד להעלות מכשירים באמצעות AutoPilot ב- Microsoft 365 Business Premium. באפשרותך להקצות פרופיל למכשיר או לקבוצת מכשירים.
-ms.openlocfilehash: 506ff44e3cb6656b19174e82688b5af141ea2b79
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: למד כיצד להעלות מכשירים באמצעות AutoPilot Microsoft 365 Business Premium. באפשרותך להקצות פרופיל למכשיר או לקבוצת מכשירים.
+ms.openlocfilehash: ae3a760db4b94aac50301685a0c4f468e46ec8e9aa907a1b6fb35e03a9e541f0
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578486"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53867040"
 ---
 # <a name="create-and-edit-autopilot-devices"></a>יצירה ועריכה של מכשירי AutoPilot
 
@@ -43,9 +43,9 @@ ms.locfileid: "51578486"
   
 - Windows 10, גירסה 1703 ואילך
     
-- מכשירים חדשים שלא עברו את החוויה 'מחוץ ל- Windows'
+- מכשירים חדשים שלא עברו Windows חוויה מחוץ לקופסה
 
-1. במרכז הניהול של Microsoft 365, בחר  \> **מכשירים AutoPilot**.
+1. בתיבת מרכז הניהול של Microsoft 365, בחר  \> **מכשירים AutoPilot**.
   
 2. בדף **AutoPilot,** בחר בכרטיסיה **מכשירים** \> **הוסף מכשירים**.
     
