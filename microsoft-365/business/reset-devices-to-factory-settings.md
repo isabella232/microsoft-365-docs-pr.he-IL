@@ -23,19 +23,19 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
-description: למד כיצד להשתמש ב- Microsoft 365 לעסקים לאיפוס היצרני של מכשירי Windows 10 שאתה מנהל, והחזר אותם להגדרות המקוריות שלהם ברכישה.
-ms.openlocfilehash: 29d5b8758ef7d86c7ac283460d0a1a87bffaf5f3
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: למד כיצד להשתמש ב- Microsoft 365 לעסקים כדי לאפס את Windows 10 שאתה מנהל, להחזיר אותם להגדרות המקוריות שלהם ברכישה.
+ms.openlocfilehash: e355e9c916f52222efb5d8e7449520f63636dea320dd813b7acfa0f1f3a0b318
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578206"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53900609"
 ---
 # <a name="reset-windows-10-devices-to-their-factory-settings"></a>איפוס מכשירי Windows 10 להגדרות היצרן שלהם
 
 מאמר זה חל על Microsoft 365 Business Premium.
 
-איפוס להגדרות יצרן מחזיר מכשיר להגדרות המקוריות שהופיעו במכשיר בעת רכישתו. כל האפליקציות והנתונים במכשיר שהותקנו לאחר הרכישה יוסרו. באפשרותך להשתמש ב- Microsoft 365 לעסקים לאיפוס היצרן של מכשירי Windows 10 שאתה מנהל.
+איפוס להגדרות יצרן מחזיר מכשיר להגדרות המקוריות שהופיעו במכשיר בעת רכישתו. כל האפליקציות והנתונים במכשיר שהותקנו לאחר הרכישה יוסרו. באפשרותך להשתמש Microsoft 365 לעסקים לאיפוס היצרן Windows 10 שאתה מנהל.
   
 1. עבור אל מרכז הניהול <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> ב- .
     
